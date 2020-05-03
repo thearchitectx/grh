@@ -1,0 +1,144 @@
+﻿<strings>
+<s id="need">Do you need something, Mr <d character="Player" data="TXT_NAME" />?</s>
+
+<s id="think-lara-1">What do you think of <d character="Lara" data="TXT_NAME" />?</s>
+<s id="think-lara-2">I'm curious... What do you think of <d character="Lara" data="TXT_NAME" />?</s>
+<s id="gorgeous">Oh... Miss <d character="Lara" data="TXT_SURNAME" />? She is gorgeous, isn't she?</s>
+<s id="hair">Her hair is beautiful, her serious expression is cute... Her body... so fit and hot and...</s>
+<s id="and">And... and...</s>
+<s id="agree">Yeah... I agree...</s>
+<s id="shouldnt-say">I... shouldn't be saying these things... Mr Winston says that it's not appropriate on many levels....</s>
+
+<s id="old-hag">Nah... Don't listen to that old hag...</s>
+<s id="tee-hee">Tee hee... You better not let him hear you calling him that, Mr <d character="Player" data="TXT_NAME" />...</s>
+
+<s id="too-old">He's too old to understand...</s>
+<s id="right">Yeah... Maybe you're right...</s>
+
+<s id="after-work-1">What do you do after work?</s>
+<s id="after-work-2">So... Mia... What do you do after work?</s>
+<s id="like">Well... I like to take a steamy shower... eat a hot dinner... and then relax in my comfy clothes...</s>
+
+<s id="i-mean">Yeah... But what I mean is...</s>
+<s id="cat">Oh! I also like to browse my Instagram and watch cat videos and...</s>
+<s id="okay">Okay... Okay... We can talk about this later...</s>
+
+<s id="bedroom-key-1">About <d character="Lara" data="TXT_NAME" suffix="'s" /> bedroom key...</s>
+<s id="bedroom-key-2">Uh... <d character="Mia" data="TXT_NAME"/>... I'm supposed to drop off some gear in <d character="Lara" data="TXT_NAME" suffix="'s"  /> bedroom, but the door seems to be locked...</s>
+<s id="bedroom-key-3">I believe you have a spare key, right? May I borrow it to get the job done...</s>
+<s id="not-supposed">The key to her bedroom? I... I'm not supposed to...</s>
+<s id="come-on">Oh, come on... I know you aren't a jobsworth like <d character="Winston" data="TXT_NAME"/>... I won't take long up there...</s>
+<s id="what-if-she">But... What if she finds out? I don't wanna get on her bad side...</s>
+<s id="dont-worry">Don't worry... She's at the pool now and won't come back for awhile...</s>
+<s id="bikini">Oh my God! At the pool!? She's probably wearing one of those sexy bikinis I saw in her wardobre! I'd do anything to see her wearing one of those...</s>
+<s id="snap">Well... What if I snap some pics of her at the pool for you... Would you give me the bedroom key for a few minutes?</s>
+<s id="i-shouldnt">I... I shouldn't, but... I already feel tingles thinking about these pictures...</s>
+<s id="deal">We have a deal, then! I'll bring some hot <d character="Lara" data="TXT_NAME" /> bikini pics for you!</s>
+<s id="yes-please">Yes... Please... I'll be waiting...</s>
+
+<s id="waiting-1">Where are the pictures you promised?</s>
+<s id="waiting-2">I'm working on it!</s>
+
+<s id="give-pics-surprise">Hello... Guess what? I have a surprise for you...</s>
+<s id="give-pics-gasp">What do you... GASP...</s>
+<s id="give-pics-omg">Oh my God... Did you really managed to...</s>
+<s id="give-pics-believe">Hey... You sound like you didn't believe I could do this...</s>
+<s id="give-pics-want">Oh my God... Oh my God... I want! I want! I want!</s>
+<s id="give-pics-easy">Easy... You remember our agreement, right?</s>
+<s id="give-pics-yes">Yes... Here's the key... Now give me the pictures... NOW!</s>
+<s id="give-pics-ok">Okay, girl... Easy... Here they are...</s>
+<s id="give-pics-beautiful">Oh my God... So beautiful... Look at those...</s>
+<s id="give-pics-we">Yeah... So hot... What about we go together check the...</s>
+<s id="give-pics-moisturizer">and I could be at this pool, and she could ask me to apply sunscreen on her, up and down her legs... and untie her top to get her back... and...</s>
+
+<s id="give-pics-mia"><d character="Mia" data="TXT_NAME" />?</s>
+<s id="give-pics-obsessed">Sigh... Looks like someone here is a bit obsessed with Miss <d character="Lara" data="TXT_SURNAME" />...</s>
+<s id="give-pics-key">Well... At least I have the bedroom key... Let's get in there!</s>
+
+<s id="about-shrine-1">Mr <d character="Player" data="TXT_NAME" />? Did you already find a piece to improve my <d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" /> shrine?</s>
+<s id="about-shrine-2">I... I'm working on it...</s>
+<s id="about-shrine-3">Please... Do this for me... I promise I'll show it to you when it's ready!</s>
+<s id="about-shrine-1-c">Oh my GOD, Mr <d character="Player" data="TXT_NAME" />!! Did you just see Miss <d character="Lara" data="TXT_NAME" /> showing her skin to us!? I could barely hold a huge scream!!</s>
+<s id="about-shrine-2-c">Oh yeah... That was awesome... And I'm proud of your self-control, by the way...</s>
+<s id="about-shrine-3-c">Please... Now help me find a perfect piece to complete my shrine... I promise I'll show it to you when it's ready!</s>
+<s id="about-shrine-1-s">Oh my GOD, Mr <d character="Player" data="TXT_NAME" />!! The way Miss <d character="Lara" data="TXT_NAME" /> squeezed you... YOU HAVE TO TELL ME WHAT YOU DID FOR THAT REACTION!!</s>
+<s id="about-shrine-2-s">Hey... Easy... She was just missing home... And I just gained a little bit of her trust these days...</s>
+<s id="about-shrine-3-s">I wanted a hug like that too... But, for now I'll be statisfied if you help me find a perfect piece to complete my shrine... I promise I'll show it to you when it's ready!</s>
+
+<s id="any-news-1">Any news during my long shift at the computer terminal?</s>
+<s id="any-news-2">So, <d character="Mia" data="TXT_NAME" />... Heard any news during my long shift at the computer terminal?</s>
+<s id="any-news-3">Nah... I didn't have any free time... This house is so big that when I finish cleaning the last room, the first one is full of dust again...</s>
+<s id="any-news-4">And I can feel like if <d character="Winston" data="TXT_NAME" /> is observing me all the time... Even when I'm into my room...</s>
+<s id="any-news-5">Well... He's a creepy dude, so I can relate to that...</s>
+
+<s id="give-panties-1">I found <d character="Lara" suffix="'s" /> panties as <d character="Mia" /> requested... Should I give it to her?</s>
+<s id="give-panties-2">Hey <d character="Mia" suffix="..." /></s>
+<s id="give-panties-3">Yes, Mister <d character="Player" suffix="..." /></s>
+<s id="give-panties-4">I bet you can't guess the lost treasure I just found at a certain place in this manor...</s>
+<s id="give-panties-5">Treasure? Miss <d character="Lara" data="TXT_SURNAME" /> keeps so many old trinkets here that I can't even say what is treasure and ...</s>
+<s id="give-panties-6">Wait... You're trying to say that you have found...</s>
+<s id="give-panties-7">I'll give you a tip... I found it in her always locked closet...</s>
+<s id="give-panties-8">OH MY GOD...</s>
+<s id="give-panties-9">Give... Give... Give...</s>
+<s id="give-panties-10">GIVE IT TO ME!!!</s>
+<s id="give-panties-11">Whoah... Whoah... Easy there... Let's not startle the hole mansion...</s>
+
+<s id="GIVE">GIVE IT TO HER</s>
+<s id="NOT-NOW">NOT NOW</s>
+<s id="ASK-REWARD">ASK FOR A 'REWARD'</s>
+
+<s id="give-panties-ask-1">You see... Getting my hands in these panties were not an easy job...</s>
+<s id="give-panties-ask-2">Don't you think I deserve a 'reward' first?</s>
+<s id="give-panties-ask-3">A reward? Like what? I don't have anything to give you...</s>
+<s id="give-panties-ask-4">Well... You know... I'm sure a hot chick like you can think about something to make a guy's day better...</s>
+<s id="give-panties-ask-5">Hmm... I know what you mean...</s>
+<s id="give-panties-ask-6">And of course I can do what you want for her panties... Stay right there...</s>
+
+<s id="give-panties-ask-7">Yeah... I'm glad we reached an understanding, <d character="Mia" suffix="..." /> You have such a nice touch...</s>
+<s id="give-panties-ask-8">Really... What about this?</s>
+<s id="give-panties-ask-9">Whoah... Whoah... Go easy on the merchandise! Ouch!</s>
+<s id="give-panties-ask-10">Mister <d character="Player" suffix="..." /> I admire a man who is not afraid to use his resources to get what he wants...</s>
+<s id="give-panties-ask-11">Uuhh... Thank you?</s>
+<s id="give-panties-ask-12">Ouch!</s>
+<s id="give-panties-ask-13">But you must understand that I'm not the 'sub' type... Actually, I'm quite the opposite...</s>
+<s id="give-panties-ask-14">And these hands never go to a man's crotch to caress his dirty cock, but only to crush his stinky balls...</s>
+<s id="give-panties-ask-15">Whoah... Okay... Okay... I get it... I get it...</s>
+<s id="give-panties-ask-16">Do you want this... 'hot chick'... to tight the grip even more?</s>
+<s id="give-panties-ask-17">Nope... It's definetively tight enough...</s>
+<s id="give-panties-ask-18">Will you be an obedient boy and give me Miss <d character="Lara" data="TXT_SURNAME" /> panties?</s>
+
+<s id="MISTRESS">Anything you want, mistress...</s>
+<s id="TAKE">Okay... Jeez... Just take it...</s>
+
+<s id="give-panties-ask-19-m">Good boy... You understand respect... I like it...</s>
+<s id="give-panties-ask-19-t">Humpf... You still have a lot to learn, Mister <d character="Player" suffix="..." /></s>
+
+<s id="give-panties-give-1">Here it is... I hope you like it...</s>
+<s id="give-panties-give-2">Oh my God!! I can't believe it... I can't believe it!!</s>
+
+<s id="give-panties-sniff-1">Mmmm.... It's like a dream...</s>
+<s id="give-panties-sniff-2">I can smell her... I can feel her... So good...</s>
+<s id="give-panties-sniff-3">Uuuhh... I think I'll just leave then...</s>
+
+<s id="give-panties-sniff-4">NO!!!</s>
+<s id="give-panties-sniff-4-ask">Ouch!! Come on... Give a break here...</s>
+<s id="give-panties-sniff-5">You might think I'm stupid, Mister <d character="Player" suffix="..." /> But I know exactly what you're trying to do here...</s>
+<s id="give-panties-sniff-6">Uuuhh... What do you...</s>
+<s id="give-panties-sniff-7">I noticed Miss <d character="Lara" data="TXT_SURNAME" suffix="'s"/> behavior changing since you started working here...</s>
+<s id="give-panties-sniff-8">What!? I think you're seeing way beyond the...</s>
+<s id="give-panties-sniff-9">Shhh... Just shut up and listen, boy!</s>
+<s id="give-panties-sniff-10">I know you're trying to get into Miss <d character="Lara" data="TXT_SURNAME" suffix="'s" /> pants... I can see you may even have the skill to actually do it...</s>
+<s id="give-panties-sniff-11">And I want you to use this 'skill' of yours to... to...</s>
+<s id="give-panties-sniff-12">You know damn well what I want you to do next... If you can make her have a change of mind like this... Then you're able to convince her to allow me get in the game too...</s>
+<s id="give-panties-sniff-13">Whoah... That's uuuh... A quite interesting request, but...</s>
+<s id="give-panties-sniff-14">JUST DO IT, BOY!!</s>
+<s id="give-panties-sniff-15">Okay... Okay... I'll work on it...</s>
+<s id="give-panties-sniff-16">Good... Don't disappoint me!! I'll be waiting!!</s>
+<s id="give-panties-sniff-17">Now... I'll be in my room for several hours having a date with these wonderful panties... Tee hee... Bye...</s>
+<s id="give-panties-sniff-18">Jesus Christ... <d character="Lara" /> should demand psychological evaluations before hiring people for her staff... That girl is an obsessive compulsive bipolar psycho...</s>
+<s id="give-panties-sniff-19">I can't deny her next request is quite interesting, though... And if I work more on her trust, maybe I can bend her 'dom' side and have some fun myself in the process...</s>
+
+
+<s id="LEAVE">LEAVE</s>
+<s id="see-later">See you later, Mia...</s>
+</strings>

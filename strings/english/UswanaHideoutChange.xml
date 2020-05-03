@@ -1,0 +1,82 @@
+<strings>
+<s id="PUT-AWAY">PUT AWAY</s>
+<s id="USE-MAKEUP">PUT ON MAKEUP AND WAIT FOR THE BOSS</s>
+<s id="NOT-NOW">NOT NOW</s>
+<s id="NOPE">NOPE</s>
+
+<s id="bat-1">Uuhh... Someone with a unsettling sense of humor left a baseball bat here...</s>
+<s id="bat-2">Well... I always believed that 'dialog' is the right tool to solve any quarrels...</s>
+<s id="bat-3">You might be trying to make me laugh, <d character="Player" suffix="..." /> But this thing disturbed me too much for that...</s>
+<s id="bat-4">Anyways... I could use this as a weapon, but carrying it around here would be too suspicious...</s>
+<s id="bat-5">Keep it there, for now... It might be useful later...</s>
+<s id="bat-seen">I'd better not touch this thing unless I really need it...</s>
+
+<s id="poetry-1">Sigh... Ladies and gentleman, we have a Shakespeare around here...</s>
+<s id="poetry-2">You know... I personally believe old Bill would be a great fan of modern bathroom poetry if he were still around...</s>
+<s id="poetry-3">Ha... I don't think so...</s>
+
+<s id="door-1">This place...</s>
+<s id="door-2">It looks like some kind of changing room...</s>
+<s id="door-3">If access to this room is so easy, then it's probably designed to be used mostly by the civilian workers over there...</s>
+<s id="door-4">Yeah... If this is true, then I doubt I'll find anything important here...</s>
+<s id="door-5">Well... I need to keep searching every place I can...</s>
+
+<s id="toilet-1">Huuh... Do these people never heard about the concept of privacy?</s>
+<s id="toilet-2">They're more interested in breaking privacy, <d character="Lara" suffix="..." /></s>
+<s id="toilet-3">Especially in a room supposed to be used by civillians...</s>
+<s id="toilet-4">Yeah... It doesn't change the fact that this latrine is utterly disgusting... and stinks...</s>
+<s id="toilet-5">Eww... No... Just no...</s>
+
+<s id="lockers-1">Such big lockers, but mostly empty... A person could easly hide inside one of them...</s>
+<s id="lockers-2">There are just a couple of female pieces of clothing here...</s>
+
+<s id="clips-1">These papers clips seem out of place here...</s>
+<s id="clips-2">I don't need one at the moment, anyways...</s>
+<s id="clips-3">That's it, <d character="Lara" suffix="..." /> You can use one of those to crack into that electronic door circuit...</s>
+<s id="clips-4">Oh... I'd better take one, then...</s>
+
+
+<s id="make-up-0">I... I'd better just keep this makeup stuff right where it is...</s>
+<s id="make-up-1">There are several items of makeup spread here...</s>
+<s id="make-up-2-n">Are you thinking about ramping up the visuals?</s>
+<s id="make-up-2-n-1">What!? I... I'm busy here, don't you notice?</s>
+<s id="make-up-2-n-2">And I... I usually stick to a light eye shadow, and only for its UV protection factor...</s>
+<s id="make-up-2-t">Makeup? Girl resorts too much on this shit nowadays...</s>
+<s id="make-up-2-t-1">Teehee... I said this exactly phrase to Sam once...</s>
+<s id="make-up-2-t-2">You probably noticed I usually stick to a light eye shadow, right? And only for its UV protection factor... It's important on the field!</s>
+<s id="make-up-2-m">People will still recognize you by the nasty shit you've been doing even behind heavy makeup...</s>
+<s id="make-up-2-m-1">But I... I never said would use... and...</s>
+<s id="make-up-2-m-2">.........</s>
+
+<s id="make-up-d-1">Hey... The Boss wrote in one of those diary pages that a girl wearing some kind of makeup triggered that embarassing effect on him...</s>
+<s id="make-up-d-2">Oh... It's true... Maybe I can reproduce that event using these items here... It's not my thing, but using it is obsviously not nearly as bad as having to deal with that psycho...</s>
+<s id="make-up-d-3">However... I won't dare to walk around this place wearing that makeup... After I do this, I'll quietly wait for The Boss at that chair...</s>
+<s id="make-up-d-4">So... I'd better be sure there isn't anything left to do before trying it...</s>
+<s id="make-up-d-5">Should I do it now?</s>
+
+<s id="make-up-do-0">Okay... I guess using a little powder is not nearly as worse as dealing with some abusing psycho...</s>
+<s id="make-up-do-1">He wrote something about a girl in that diary that triggered his... altenate persona... I don't know exactly what a man like him means with 'punk girl' makeup, but I'll need to use some of these products to mimic one the best way I can...</s>
+<s id="make-up-do-2">Let's do this...</s>
+<s id="make-up-do-3">There's a strong eye-liner here...</s>
+<s id="EYE-LINER">USE DARK EYE LINER</s>
+<s id="make-up-do-4">Now... I need to choose a lipstick...</s>
+<s id="RED-LIPSTICK">USE RED LIPSTICK</s>
+<s id="PURPLE-LIPSTICK">USE PURPLE LIPSTICK</s>
+<s id="make-up-do-5">There's also some blush here...</s>
+<s id="BLUSH">USE BLUSH</s>
+
+<s id="make-up-do-6">I think I'm done... I just hope I made the right choices...</s>
+<s id="make-up-do-7">I don't feel much comfortable looking like this, but... It's a small price to pay if that crazy plan work...</s>
+<s id="make-up-do-8">Well... That's it... I'd better just wait quietly for The Boss next to his office...</s>
+
+
+<s id="page-1">There's a torn diary page here...</s>
+<s id="page-a">After that day I promised myself to never watch anime again... That girl entered my office totally helpless and desperate...
+I was ready to take a bite of that asian little bitch when... she started talking fucking Japanese... Shit... It was like I had a little cute waifu materialized in front of me...
+The tought was so hot that I couldn't hold my self... I litterally came inside my pants... There's something about that moonspeak that triggers weird shit in my mind... I should avoid it like fire...</s>
+<s id="page-2">Jesus Christ... What a weirdo... And what the hell he means with 'waifu'? Shouldn't it be a 'tsuma'?</s>
+<s id="page-3">I could spend hours explaining the lovely cultural mean of 'waifu'... But I'd fell like an idiot as you seem to speak some actual Japanese...</s>
+<s id="page-4">Yeah... Father made me study it when I was a child... And I had of lot of practice with Sam...</s>
+<s id="page-5">Now... If Japanese seems to disturb that creep boss man... Then maybe I should find an excuse do say something in it to him...</s>
+
+</strings>

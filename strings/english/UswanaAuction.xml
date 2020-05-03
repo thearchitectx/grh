@@ -1,0 +1,302 @@
+<strings>
+<s id="lost-1"><d character="Lara" suffix="..." /></s>
+<s id="lost-2">............</s>
+<s id="lost-3"><d character="Lara" suffix="..." /> It's been a while since I last heard from you...</s>
+<s id="lost-4">............</s>
+<s id="lost-5"><d character="Lara" suffix="..." /> Are you there?</s>
+<s id="lost-6">_........ what do you want, <d character="Player" />..._</s>
+<s id="lost-7">Jesus Christ... Why weren't you answering? I tought you lost the radio...</s>
+<s id="lost-8">You... You know very well why I don't want to talk...</s>
+<s id="lost-9">Well, I...</s>
+<s id="lost-10">How could you let that horrible thing happen to me?</s>
+<s id="lost-11">You were to supposed to help me, <d character="Player" />... To protect me...</s>
+
+<s id="lost-12-a">But you didn't hire me to 'protect' you, remember?</s>
+<s id="lost-12-a-1">But you didn't hire me to 'protect' you, remember?</s>
+<s id="lost-12-a-2">You kept saying that I shoud do nothing but field operations remote support... That wasn't a lie, was it?</s>
+<s id="lost-12-a-3">Sometimes I think you kind of making these dirty things happen to me!!</s>
+<s id="lost-12-a-3s">And, no! I'M NOT A LIAR!</s>
+<s id="lost-12-a-4">So... If you never lie, then it can only mean one thing...</s>
+<s id="lost-12-a-5-a-1">You're totally delusional about being able to take care of yourself...</s>
+<s id="lost-12-a-5-a-2">No... I... I... I don't..........</s>
+<s id="lost-12-a-5-a-3">If you keep making stupid decisions, it's your own fault...</s>
+<s id="lost-12-a-5-b-1">You're only looking for excuses to fuck dirty men...</s>
+<s id="lost-12-a-5-b-2">No... It's... It's not like... I... I... I don't..........</s>
+<s id="lost-12-a-5-b-3">Yeah... I keep trying to help you... But "somehow", you end up with some goon pumping meat inside you... Maybe you are the one wanting that to happen...</s>
+
+<s id="lost-12-a-6-l">And... For a moment I... _I tought you liked me..._</s>
+<s id="lost-12-a-6-nl">.......... I... I just want to forget about that horrifying 'meeting'...</s>
+
+<s id="lost-12-b">I'm really sorry, <d character="Lara" suffix="..." /></s>
+<s id="lost-12-b-1">I'm really sorry, <d character="Lara" suffix="..." /> You didn't deserve that...</s>
+<s id="lost-12-b-2">.........</s>
+<s id="lost-12-b-3">No... I... I shouldn't be blaming you for my own mistakes...</s>
+<s id="lost-12-b-4">That psycho is the only one to blame, <d character="Lara" suffix="..." /> You can still get your revenge by stealing the artifact right under his nose...</s>
+<s id="lost-12-b-5">I know you can do this...</s>
+<s id="lost-12-b-6">..............</s>
+<s id="lost-12-b-7">Thanks, <d character="Player" suffix="..." /></s>
+
+<s id="win-1"><d character="Player" suffix="?" /></s>
+<s id="win-2">I'm here, <d character="Lara" suffix="..." /></s>
+<s id="win-3">Oh my God, <d character="Player" suffix="..." /> I still can't believe that crazy plan worked...</s>
+<s id="win-4-a">I would never let that psycho touch you...</s>
+<s id="win-4-a-1">Tee hee... I know...</s>
+<s id="win-4-a-2">Thanks.......... My hero...</s>
+<s id="win-4-b">Hey... It was team work, right?</s>
+<s id="win-4-b-1">Hey... It was team work, right?</s>
+<s id="win-4-b-2">And you're the leader of this operation... We wouldn't be here without your decision making...</s>
+<s id="win-4-b-3">I... I think you're right...</s>
+<s id="win-4-b-4">And I need to keep focused on retrieving the Goddess Slab...</s>
+<s id="win-4-c">See how you always need to do exactly EVERYTHING I say?</s>
+<s id="win-4-c-1">See how you always need to do exactly EVERYTHING I say? It's the only way to guarantee your safety...</s>
+<s id="win-4-c-2">Yes... I... I will... Just don't let anything bad happen to me...</s>
+
+<s id="clothes-1">I wonder how much time I still have to wait until...</s>
+<s id="clothes-2">Hey... It's time to get ready for the auction...</s>
+<s id="clothes-3">Oh...</s>
+<s id="clothes-4">I'll lead you to the changing room so you can wear a more appropriate attire...</s>
+<s id="clothes-5">Change my clothes?</s>
+<s id="clothes-6">Of course... You can't enter the auction dressed like this... You look like a videogame cosplayer...</s>
+<s id="clothes-7">A what?!?</s>
+<s id="clothes-8">Whatever... Just come with me... You'll have some privacy there...</s>
+
+<s id="clothes-9-h">The Boss confirmed to me you're supposed to work as a hostess... The uniform is in the locker... Just don't make me wait outside here forever...</s>
+<s id="clothes-9-m">The Boss told me you are one of the 'lots' ot be sold during the auction, right? The special 'uniform' for those are inside the locker... Just don't make me wait outside here forever...</s>
+
+<s id="clothes-10-m">Oh my God...</s>
+<s id="clothes-11-m">This can't be serious... Am I really supposed to wear this?</s>
+<s id="clothes-12-m">What kind of twisted mind would design something like this?</s>
+<s id="clothes-13-m">Well... I think you're looking awesome for the role... Someone there has a slick sense of humor...</s>
+<s id="clothes-14-m">But, <d character="Player" suffix="..." /> Walking around this place with revealing clothes like this will be dangerous...</s>
+<s id="clothes-15-m">Yeah... I couldn't agree more...</s>
+
+<s id="clothes-10-h">Sigh... Really?!?</s>
+<s id="clothes-11-h">Urgh... Is this what they think a hostess should wear? Such bad taste...</s>
+<s id="clothes-12-h">This definetively is not my style...</s>
+<s id="clothes-13-h">From what we've seeing from these guys... it could me much worse, <d character="Lara" suffix="..." /></s>
+<s id="clothes-14-h">Yeah... Still... The cleavage and the short lenght of this dress...  Walking around here using this might still be dangerous...</s>
+<s id="clothes-15-h">Well... I have to agree with you in this point...</s>
+
+<s id="clothes-16-w">But if The Boss the kept his promise to tell his goons to leave you alone, then it might be a little more safer...</s>
+<s id="clothes-17-w">I... I just hope you're right...</s>
+<s id="clothes-16-l">You should try to keep a low profile...</s>
+<s id="clothes-17-l">But... Being discrete while wearing this will not be easy...</s>
+
+<s id="clothes-18">Hey! Why are you taking so long?  We'll gonna be late!</s>
+<s id="clothes-19">Please, give me a minute so I can get used to this... thing... I'll be out soon...</s>
+<s id="clothes-20">Fuck me... Why you girls always take so long to get prepped??</s>
+
+<s id="clothes-21-w">Be thankfull The Boss is in a good day and told us to go easy on you... But I won't wait forever!</s>
+<s id="clothes-22-w">See? He's still patiently waiting outside the room... Our boss friend is really a good boy when it comes to follow your instructions...</s>
+<s id="clothes-23-w">Yeah... I just need to take a deep breath...</s>
+<s id="clothes-24-w">Okay... I'm ready to go...</s>
+<s id="clothes-25-w">Jesus Christ... Finally... Get out and follow me...</s>
+
+<s id="clothes-21-l">I'M SICK OF WAITING... COME ON!</s>
+<s id="clothes-22-l">Oh my God... What are you doing inside here? You told me you'd give me privacy...</s>
+<s id="clothes-23-l">But I didn't told you I'd wait forever...</s>
+<s id="clothes-24-l-h">I... I just wanted to... to...</s>
+<s id="clothes-25-l-h">The Boss told me about his 'meeting' with you, that lucky bastard... You're already looking hot enough to pose as his wife during the auction...</s>
+<s id="clothes-26-l-h">I just hope he gets bored of you quickly so we can also have our fun...</s>
+
+<s id="clothes-24-l-m">It's because these clothes are... are so...</s>
+<s id="clothes-25-l-m">What? Just be thankful you still have something to wear... Sometimes The Boss demand the girls walk fully naked during the auction to attract the attention of bidders...</s>
+<s id="clothes-26-l-m">He probably liked you... And I suspect why... Your jaw are still sore, right?</s>
+<s id="clothes-27-l">Anyways... Move your ass, NOW... Follow me!</s>
+
+
+<s id="auction-0">_Shit, shit, shit..._</s>
+<s id="auction-1">Oh man... I'm so screwed...</s>
+<s id="auction-2">Stupid girl... See what you did?</s>
+<s id="auction-3">What are you talking about? I just followed you here and...</s>
+<s id="auction-4">You took too long at the changing room... The auction already started...</s>
+<s id="auction-5">Well... I didn't know that the auction would start so...</s>
+<s id="auction-6">The Boss is going to kill me if he discover I brought you so late...</s>
+<s id="auction-7">I gotta get out of here...</s>
+<s id="auction-8">Hey... I don't know what I'm supposed to...</s>
+<s id="auction-9"><d character="Player" suffix="..." /> The auction... The guard just left me here... What should I do?</s>
+<s id="auction-10">Well... Try to find a place to lay low until they start the bids for your artifact...</s>
+<s id="auction-11">But... It's just a big room here... I don't think there's a place where I can...</s>
+<s id="auction-12">Oh shit... Someone is coming...</s>
+
+<s id="auction-bulls-1">Hey, man... Check out this hot chick...</s>
+<s id="auction-bulls-2-h">What kind of hostess comes to the party after all guests already arrived?</s>
+<s id="auction-bulls-2-m">I wish I had the dough to bid for this fine clean ass today...</s>
+<s id="auction-bulls-3">Ha... I know this one...</s>
+
+<s id="auction-bulls-4-smart">You should be careful... The bitch took a lot of money from me today in the gambling table...</s>
+<s id="auction-bulls-5-smart">Something about her seems dangerous to me... It's the kind of girl that still needs to be properly tamed...</s>
+<s id="auction-bulls-6-smart-h">Well... If there's someone who know how to tame a bitch it's The Boss... If she's playing his wife, then certainly she soon will know her place...</s>
+<s id="auction-bulls-6-smart-m">Well... I'm sure her new owner will be able to tame her... It's what these bastards who buy girls like her mostly are interested in...</s>
+<s id="auction-bulls-7-smart">Absolutely...</s>
+
+<s id="auction-bulls-4-slut">Don't be fooled by her pretty face... She's just another street slut...</s>
+<s id="auction-bulls-5-slut-hj">She gave me a handjob in the middle of the alley today...</s>
+<s id="auction-bulls-5-slut-whored">She shamelessly whored herself today to pay her gambling debt to me...</s>
+<s id="auction-bulls-5-slut-hj-whored">She gave me a handjob today in the middle of the alley and also whored herself to pay her gambling debt to me...</s>
+<s id="auction-bulls-6-slut-h">That explains why The Boss gave her this hostess job... He loves the dirty ones... She is the perfect match to be his new 'wife'...</s>
+<s id="auction-bulls-6-slut-m">Well... You'd better keep quiet about it... Buyers won't pay much for her if they find about her dirty habits...</s>
+<s id="auction-bulls-7-slut">Absolutely...</s>
+
+<s id="auction-bulls-8-won">Hey... Didn't your boss told you to not harass me? Is this how you show respect?</s>
+<s id="auction-bulls-9-won-h">Jeez, man... Is she in command now?</s>
+<s id="auction-bulls-10-won-h">I knew this 'wife' thing would quickly get The Boss pussywhipped...</s>
+<s id="auction-bulls-9-won-m">Jeez, man... I still don't understand why The Boss gave such privileges to this 'merchandise' here...</s>
+<s id="auction-bulls-10-won-m">Who knows... Maybe he is planning to buy her for himself...</s>
+<s id="auction-bulls-11-won">Just leave me alone, will you?</s>
+<s id="auction-bulls-12-won-m">Whatever... If we weren't supposed to get near you, then you can go up there by yourself...</s>
+<s id="auction-bulls-13-won-m">Go... go where?</s>
+<s id="auction-bulls-14-won-m">You are the next 'lot' offered in the auction... And people won't buy shit they can't see...</s>
+<s id="auction-bulls-15-won-m">So you better go fast to the front of the room... You don't want to see this people get impatient...</s>
+<s id="auction-bulls-16-won-m">Good luck... You're going to need it...</s>
+<s id="auction-bulls-17-won-m">Oh my God... Do I really need to do this?</s>
+<s id="auction-bulls-18-won-m">Don't worry, <d character="Lara" suffix="..." /> As you can notice, these guys won't be a problem for you anymore...</s>
+<s id="auction-bulls-19-won-m">Yeah... But who knows which other problems are waiting for me...</s>
+<s id="auction-bulls-20-won-m">Sigh... Here goes nothing...</s>
+<s id="auction-bulls-21-won-m">Oh my God... I always heard about human trafficking, but I never tought they would even promote auctions for this...</s>
+<s id="auction-bulls-22-won-m">I'm starting to think this disguise wasn't the best idea...</s>
+<s id="auction-bulls-23-won-m">Hey... No one is going to display the girl for us?</s>
+<s id="auction-bulls-24-won-m">Damn... The Freedom Bulls used to provid better service than this...</s>
+<s id="auction-bulls-25-won-m">Come on... I won't bid before seeing more of that ass!</s>
+<s id="auction-bulls-26-won-m">Oh my God... You're all disgusting...</s>
+<s id="auction-bulls-27-won-m">How can you treat a person like this!?!</s>
+<s id="auction-bulls-28-won-m">This is a horrible violation of humans rights!! People are not 'property'!! Each person has an inalienable right to freedom!!</s>
+<s id="auction-bulls-29-won-m">Booo... I'm not here to hear a SJW speach!!</s>
+<s id="auction-bulls-30-won-m">I won't spend a dime today if this is what the Freedom Bulls has to offer...</s>
+<s id="auction-bulls-31-won-m">Oh, shit... The Boss will be completely mad when he hear about this...</s>
+<s id="auction-bulls-32-won-m">So... Uh...</s>
+<s id="auction-bulls-33-won-m">I offer $50.000 for her...</s>
+<s id="auction-bulls-34-won-m">Mister Kuznetsov? Why he wants to buy this brat?</s>
+<s id="auction-bulls-35-won-m">Don't you know how he likes to break the will of entitled girls like her?</s>
+<s id="auction-bulls-36-won-m">This one is totally screwed now...</s>
+<s id="auction-bulls-37-won-m">Sold! Sold to Mister Kuznetsov! Thank you, sir... Thank you very much!</s>
+<s id="auction-bulls-38-won-m">But... but...</s>
+<s id="auction-bulls-39-won-m">God's sake... Enough of your show, girl... Get out of there and go to safe room already!</s>
+<s id="auction-bulls-40-won-m">I'll take Mister Kuznetsov there for you after we sign the papers...</s>
+<s id="auction-bulls-41-won-m">Now go wait for him! We can still save this auction... shooo shooo....</s>
+<s id="auction-bulls-42-won-m">_Well... That's it... I'll be allowed into the safe room now..._</s>
+
+
+<s id="auction-bulls-12-won-h">Whatever, girl... At least do the job you're being paid for...</s>
+<s id="auction-bulls-13-won-h">Huh!?</s>
+<s id="auction-bulls-14-won-h">The Boss said you're supposed to follow the buyer of the tablet artifact to the safe room...</s>
+<s id="auction-bulls-15-won-h">And Mister Kuznetsov is waiting to pick up his item...</s>
+<s id="auction-bulls-16-won-h">What!? The Goddess Slab has been already sold!?</s>
+<s id="auction-bulls-17-won-h">That's what happen when you come late to work... Things happen during your absence...</s>
+<s id="auction-bulls-18-won-h">Come on... Mister Kuznetsov looks impatient... Let's take him to the safe room...</s>
+
+
+<s id="auction-bulls-boss-1">Anyways... Now one can deny that she has a gorgeous...</s>
+<s id="auction-bulls-boss-2">YOU MORONS MUST HAVE A LOT OF NERVE TO STARE AT MY WIFE'S ASS LIKE THIS...</s>
+<s id="auction-bulls-boss-3">Oh shit... It's him... We're screwed!</s>
+<s id="auction-bulls-boss-4">Let's bail!! Fast!!</s>
+<s id="auction-bulls-boss-5">Yeah... Go find something to do that justifies your paychecks you fucking idiots...</s>
+<s id="auction-bulls-boss-6">And you don't worry, honey... I'm here to protect you...</s>
+<s id="auction-bulls-boss-7">No... I'm... I'm okay... I'm just... working... Please... Just leave me alone...</s>
+<s id="auction-bulls-boss-8">Honey... We must show our love to the guests so they know you're my pretty wife... Come here...</s>
+<s id="auction-bulls-boss-9">Oh my God... What are you doing???? Get off me!!</s>
+<s id="auction-bulls-boss-10">I told you I have to show the guests you're my wife and I'm a man of family...</s>
+<s id="auction-bulls-boss-11">This is not what family looks like!! Get off me, please...</s>
+<s id="auction-bulls-boss-12">Why do you still keep the demure act, girl?</s>
+<s id="auction-bulls-boss-13">Just embrace who you are...</s>
+<s id="auction-bulls-boss-14">I'm... I'm not what you think I am...</s>
+<s id="auction-bulls-boss-15">Oh, but you are...</s>
+<s id="auction-bulls-boss-16">Your breath still have the stink of my cock... You'll gonna need a lot of mouthwash to get rid of it...</s>
+<s id="auction-bulls-boss-17">And now you're allowing to be groped like this in the middle of a big crowd...</s>
+<s id="auction-bulls-boss-18">Nooo... I don't want any of this... Just let me go...</s>
+<s id="auction-bulls-boss-19">Sigh... If you insist, I'm gonna have to show you...</s>
+<s id="auction-bulls-boss-20">Oh my God... Stop lifting my clothes... People will see my... my...</s>
+<s id="auction-bulls-boss-21">See what?</s>
+<s id="auction-bulls-boss-22-plug">The butt plug you're shamelessly using in public? This what the innocent girl you claim to be wears for a party?</s>
+<s id="auction-bulls-boss-23-plug">Nooo.... It wasn't me who put it there... I just can't...</s>
+<s id="auction-bulls-boss-24-plug">Whoah... So you confess another man has been playing with your butthole? It's worse than I tought...</s>
+<s id="auction-bulls-boss-25-plug">It's not like that... I was... I was just trying to...</s>
+<s id="auction-bulls-boss-26-plug">I just hope it happened before our 'marriage' today, so it doesn't mean you cheated on me... I hate NTR bullshit...</s>
+<s id="auction-bulls-boss-22-panty">This tiny thong you call panties? A girl needs attitude to wear one of these...</s>
+<s id="auction-bulls-boss-23-panty">But it's the kind of lingerie I love to see my new little wife wear... I'll buy lots of these for you...</s>
+<s id="auction-bulls-boss-27">Noo... I'M NOT YOUR WIFE!!</s>
+<s id="auction-bulls-boss-28">Whoah... You should keep your voice down... A lot of heads turned to us now...</s>
+<s id="auction-bulls-boss-29">We don't want them to think I'm fighting with my pretty wife, right? We need them with a good mood so they can spend all their money in the auction...</s>
+<s id="auction-bulls-boss-30">So... Let me show you how you are exactly the kind of girl I think you are...</s>
+<s id="auction-bulls-boss-31">Oh no... You can't be serious... Not here... Not this...</s>
+<s id="auction-bulls-boss-32">Easy honey... I just want to check if you're sensible here...</s>
+<s id="auction-bulls-boss-33">Whoah... So warm and wet...</s>
+<s id="auction-bulls-boss-34">I need to retribute all the pleasure you gave this afternoon...</s>
+<s id="auction-bulls-boss-35">Yeah, honey... I can feel your whole body twitching in the rhythm of my finger...</s>
+<s id="auction-bulls-boss-36">How... can you... do such a thing... everyone... watching...</s>
+<s id="auction-bulls-boss-37">Ha... Let me demonstrate my point to you...</s>
+<s id="auction-bulls-boss-38">Please... please...</s>
+<s id="auction-bulls-boss-39">Please, what?</s>
+<s id="auction-bulls-boss-40-sl">...........</s>
+<s id="auction-bulls-boss-41-sl">Say it... I wanna hear you saying it...</s>
+<s id="auction-bulls-boss-42-sl">_....... please... don't stop..._</s>
+<s id="auction-bulls-boss-43-sl">Sorry... I couldn't hear that... Don't stop what?</s>
+<s id="auction-bulls-boss-44-sl">...........</s>
+<s id="auction-bulls-boss-45-sl">Come on... Use that sweet voice to say me what you want...</s>
+<s id="auction-bulls-boss-46-sl">...... please...... don't stop... your finger...</s>
+<s id="auction-bulls-boss-47-sl">Humm... And why don't you want me to stop?</s>
+<s id="auction-bulls-boss-48-sl">... you.... you bastard... because... it... it... feels...</s>
+<s id="auction-bulls-boss-49-sl">it... feels... so gooooood...</s>
+<s id="auction-bulls-boss-50-sl">You heard that? That was the sound of you losing all your dignity... Just as I imagined...</s>
+<s id="auction-bulls-boss-51-sl">But, don't worry... I'll make you have a loud orgasm in front of all these people...</s>
+<s id="auction-bulls-boss-52-sl">Come on, honey... Cum on my hand... Cum for your husband...</s>
+<s id="auction-bulls-boss-53-sl">That was beautiful, honey... You gave a wonderful show to the gests...</s>
+<s id="auction-bulls-boss-54-sl">So much for the innocent girl, huh...</s>
+<s id="auction-bulls-boss-55-sl">Anyways... You don't have time to play ahegao dumb, honey... You need to work...</s>
+
+<s id="auction-bulls-boss-40-nsl">Please, get off me... Shouldn't I be working here?</s>
+<s id="auction-bulls-boss-41-nsl">Sigh... Okay... Maybe you'll still need a little more 'conditioning' to be ready...</s>
+<s id="auction-bulls-boss-42-nsl">Ready for what!?!</s>
+<s id="auction-bulls-boss-43-nsl">You'll understand soon... For now... I'll leave you to your work...</s>
+<s id="auction-bulls-boss-44-nsl">Anyways... It's time for you do some real work...</s>
+
+<s id="auction-bulls-boss-56">The buyer of the old tablet artifact is waiting to pick up his shit and you're supposed to lead him...</s>
+<s id="auction-bulls-boss-57">What?!? The Goddess Slab was already sold!?!</s>
+<s id="auction-bulls-boss-58">Well... Things still happen while we have fun, honey...</s>
+<s id="auction-bulls-boss-59">Now... One of the boys will follow you with the buyer to the safe... You're supposed to flatter and smile to him as a good hostess, but not too much... Remember to respect your husband!</s>
+<s id="auction-bulls-boss-60">Move it now! See you later...</s>
+
+<s id="auction-bulls-sell-1">Anyways... Let's go, girl... It's time...</s>
+<s id="auction-bulls-sell-2">Time for what???</s>
+<s id="auction-bulls-sell-3">We are supposed to 'display' you for the bidders... And you're the next 'lot' of the auction...</s>
+<s id="auction-bulls-sell-4">What?!?</s>
+<s id="auction-bulls-sell-5">Will it happen... just... just like...</s>
+<s id="auction-bulls-sell-6">Pfft... It doesn't matter how it happens... You'll need to come with us anyways...</s>
+<s id="auction-bulls-sell-7">Now move it!</s>
+<s id="auction-bulls-sell-8">Gentlemen... We're here to display the next premium lot of the 23rd Anual Freedom Bulls Auction...</s>
+<s id="auction-bulls-sell-9">This young woman will be offered to become property of the highest bidder... The winner will have the right to take the girl wherever he wants and make whatever use he desires for her...</s>
+<s id="auction-bulls-sell-10">Just a quick disclaimer, though... The Freedom Bulls are not accountable for legal repercusions of the transportation and use of this merchandise in countries where slavery is sadly forbidden...</s>
+<s id="auction-bulls-sell-11">Humm... She looks cute... I'm totally bidding...</s>
+<s id="auction-bulls-sell-12">Weird... I think i know this girl from somewhere...</s>
+<s id="auction-bulls-sell-13">This would be a fine adittion to my harem...</s>
+<s id="auction-bulls-sell-14">Now we ask a minute of your attention to show her qualities...</s>
+<s id="auction-bulls-sell-15">The girl is in terrific shape... A fine balance between slender and toned...</s>
+<s id="auction-bulls-sell-16">The gorgeous hip is in perfect condition not only for copulation, but also breeding...</s>
+<s id="auction-bulls-sell-17">You can also use the girl for domestic tasks or other labors, but who would think about that if you have access to a gluteus like this...</s>
+<s id="auction-bulls-sell-18">You don't need to show more... I offer $50.000 !!</s>
+<s id="auction-bulls-sell-19">No! She's mine! I bid $60.000 !!</s>
+<s id="auction-bulls-sell-20">$70.000!! I offer $70.000 for her!!</s>
+<s id="auction-bulls-sell-21">These are nice offers, gentlemen... But our boss expects higher bids...</s>
+<s id="auction-bulls-sell-22">Maybe if we show you a little more, you'll realize how much she's worth...</s>
+<s id="auction-bulls-sell-23">Noo... What are you doing?!?!?</s>
+<s id="auction-bulls-sell-24">Check these soft beautiful breasts...</s>
+<s id="auction-bulls-sell-25">Just imagine how much fun you can have with them...</s>
+<s id="auction-bulls-sell-26">Just picture she breastfeeding your offspring with these...</s>
+<s id="auction-bulls-sell-27">That's it!! I need her!! I offer $100.000 !!</s>
+<s id="auction-bulls-sell-28">No way!! I bid $150.000 !!</s>
+<s id="auction-bulls-sell-29">Fuck off you all!! I offer $200.000 for her!!</s> 
+<s id="auction-bulls-sell-30">So... We have $200.000... Any higher bid?</s>
+<s id="auction-bulls-sell-31">I bid $500.000 for her...</s>
+<s id="auction-bulls-sell-32">Oh... No... It's him again...</s>
+<s id="auction-bulls-sell-33">Motherfucker... He stole my girl...</s>
+<s id="auction-bulls-sell-34">Woah... That's s very generous offer, sir... I don't think anyone will be able to cover that...</s>
+<s id="auction-bulls-sell-35">Then take your hands off my property...</s>
+<s id="auction-bulls-sell-36">Oh... I'm sorry...</s>
+<s id="auction-bulls-sell-37">Sold to Mister Kuznetsov!!</s>
+<s id="auction-bulls-sell-38">Please come with me to sign the papers, sir...</s>
+<s id="auction-bulls-sell-39">I'll lead her to the safe room, sir... You can collect your merchandise as soon as we finish the documentation!</s>
+<s id="auction-bulls-sell-40">Sigh... Fucking bureaucracy... Let's go, then...</s>
+<s id="auction-bulls-sell-41">This way Mister Kuznetsov...</s>
+
+
+</strings>

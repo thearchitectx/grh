@@ -1,0 +1,173 @@
+﻿<strings>
+<s id="need-lever">I have to find the lever somewhere in this cave if I want to see this door open...</s>
+<s id="look-beauty">Oh my God... Look at this beauty...</s>
+<s id="carvings-True">These carvings... They look just like the Goddess Seal...</s>
+<s id="carvings-False">These carvings... They are similar to the ones I saw in drawings of the legendary Goddess Seal...</s>
+<s id="this-is-it">This is it... The temple must be behind this door... </s>
+<s id="mechanism">There must be a mechanism here that will supposedly unlock the door once the Goddess Seal is placed with the right configuration.</s>
+
+<s id="put-seal-False">If Phillip McGuffin was here, then the Goddess Seal must be somewhere in this village...</s>
+<s id="put-seal-True">Now that I have the seal, I just need to recover it's correct configuration to unlock the door!</s>
+
+
+<!-- Elder -->
+<s id="hello-child">Hello, child... Have you recovered the artifact yet?</s>
+<s id="can-do-this">You can do this, child... I have faith in you!</s>
+<!-- Lara -->
+<s id="still-working">Sigh... I'm still working on it...</s>
+<s id="need-play">I'll need to play some card game with that man in order to get the seal... You don't have a card deck around to help me, have you?</s>
+<!-- Elder -->
+<s id="sorry-no">I'm sorry... I know nothing about cards and games...</s>
+<s id="you-can">But I know you can do it... I'll be waiting for you here...</s>
+
+
+<!-- Lara -->
+<s id="yes-got-it">Yes! I got it!</s>
+<!-- Elder -->
+<s id="wonderful">Wonderful!</s>
+<!-- Lara -->
+<s id="hope-nasty">I just hope you didn't let Larry do anything nasty with you... Because I know how he is...</s>
+
+
+<!-- Lara -->
+<s id="dont-talk">I... I don't want to walk about it...</s>
+<!-- Elder -->
+<s id="dirty-hands">Oh, dear... To think of him placing his dirty hands all over your body and forcing you to...</s>
+<!-- Lara -->
+<s id="please-forget">Please... Let's just forget about him...</s>
+
+
+<!-- Lara -->
+<s id="put-place">Don't worry... I put him in his place...</s>
+<!-- Elder -->
+<s id="thank-gods">Oh, thank the gods... I wish I was there to see that happening...</s>
+<!-- Lara -->
+<s id="not-waste-time">Let's not waste any more time talking about him...</s>
+
+<s id="chamber-door-1">You can see the chamber door right there... You will be able to see the place where you should place the Goddess Seal...</s>
+<s id="chamber-door-2">Once the seal unlocks the door, there's a lever that will finally can be used to get it open...</s>
+
+<s id="help-me">I'll need you to help me with this, <d character="Player"  suffix="..." /> I can't fix it without my research notes...</s>
+<s id="sure-look">Sure... Let's take a look...</s>
+
+<s id="puzzle-1">Here... As the the old man said, the seal lost its configuration many years ago and that's why his grandfather could not open the door again</s>
+<s id="puzzle-2">We just need to close all the gears connections and finally the seal will work again!</s>
+
+<!-- Player -->
+<s id="right-conf">Well... I think that's it <d character="Lara" suffix="..." /> This seems the right configuration...</s>
+<!-- Lara -->
+<s id="perfect">Perfect! Let's see if this little thing worths all the trouble...</s>
+<s id="place-seal">First I need connect the seal on the right place...</s>
+<s id="place-seal-fits">Yes! I fits perfectly! </s>
+<s id="pull-lever">Finally I can pull the lever to...</s>
+<s id="where-lever">Wait... Oh, no... Where's the lever?</s>
+<s id="its-gone-1">I can't believe it...</s>
+<s id="its-gone-2">Maybe someone stole it... Or maybe it was not preserved and rotten away after all these years...</s>
+<s id="its-gone-3">Anyways... It's gone... How can I open the door now?</s>
+<s id="detachable">Well... If it's a simple detachable lever, you probably can replace it with any hard rod shaped object that fits the mechanism...</s>
+<s id="right">Oh... Maybe... Maybe you're right...</s>
+<s id="find-like">I need to find something like a... like... what you just described...</s>
+
+<s id="has-dildo">Placed the dildo into her backpack</s>
+<s id="not-has-dildo">Did not placed the dildo into her backpack</s>
+<s id="backpack-1">Can't you find anything in your backpack?</s>
+<s id="backpack-2">Can't you find anything in your backpack that could be used as a lever?</s>
+<s id="empty-magazines">My backpack? I didn't pack many things in it... I think there's only the empty magazines and...</s>
+<s id="thing-doing">Oh Lord... What is this thing doing here? I thought I threw it away...</s>
+<s id="any-useful">Did you find anything useful?</s>
+<s id="toy">It's just a... a 'toy'... a friend gave me as a dirty joke... I have no idea how it ended up in my backpack, but I think it can replace the lever...</s>
+<s id="no-matter">It doesn't matter how it got there... If it can be 'handled' as a lever, then you have a way to open the door... Just stick it in the righ place... _\*snickering\*_</s>
+<s id="i-try">I... I'll try...</s>
+
+<s id="wont-fit">Damn... It won't fit the hole... It's too thick...</s>
+<s id="she-said">That's what she said...</s>
+<s id="what">What?</s>
+<s id="lubricate">I mean... If it's just a bit thicker than you need, then you should try to... you know... lubricate it...</s>
+<s id="joking">Okay... Now you're joking, right?</s>
+<s id="saliva">Of course not... Did you know human saliva has optimal lubrication properties? You just need to make the 'thing' really slippy...</s>
+<s id="waste-time">And you shoudn't waste more time, <d character="Lara" suffix="..." /> Who knows when those guys will decide to snoop into this cave?</s>
+<s id="sigh-ok">Sigh... Okay...</s>
+<s id="believe-do">I can't believe I'm going to do this...</s>
+<s id="cheer-up">Cheer up! This is the last step needed to get that door open!</s>
+<s id="come-on">Come on, <d character="Lara" suffix="..." /></s>
+<s id="okay-okay">Okay... okay... I was just getting used to the idea...</s>
+
+
+
+<s id="operation">So... How's the... 'operation' running?</s>
+<s id="mmm">MMmmmhgn!</s>
+<s id="working">Oh... Sorry... Looks like you're still working on it...</s>
+<s id="adventurers-1">Adventurers always must use what they have at hand...</s>
+<s id="adventurers-2">Don't think too much about this... Adventurers always must use what they have at hand...</s>
+<s id="pleasure-1">It's like combining business and plesure, right?</s>
+<s id="pleasure-2">You see... It's like combining business and plesure, right? You'll reach your mission goal while training a very important skill...</s>
+<s id="agree">Yeah... I didn't copy that... But I'm sure you agree...</s>
+<s id="no-one-around">Anyways... There's no one around to see you doing this, right?</s>
+<s id="BYTHEGODS">BY THE GODS...</s>
+<s id="old-man-die">An old man could die by the shock of such view...</s>
+<s id="let-me-live">Please, gods... Let me live a few more minutes to witness this...</s>
+
+<s id="tell-done">Just tell me when you're done, <d character="Lara" suffix="..." /></s>
+
+<s id="you-there"><d character="Lara" suffix="?" /> Are you there? I can hear some strange static noise...</s>
+<s id="dexterity">This child is showing some intense dexterity...</s>
+<s id="enough-1">Arf... Yes... I... I think it's enough... I hope it will fit now...</s>
+
+<s id="enough-2">Arf... I think it's enough... It's better this fits now...</s>
+
+<s id="old-man-1">Look around or ask the old man</s>
+<s id="old-man-2">Look around to see if you can find anything, ask the old man...</s>
+<s id="okay">Okay... Good idea!</s>
+<s id="uhh-excuse">Uhh... Excuse me, sir... I'm trying to find some... hard... rod shaped thing to...</s>
+<s id="gods-mean">By the gods, child... What... What do you mean...</s>
+<s id="mean-lever">I mean the lever! The lever is gone! I need something to activate the door mechanism...</s>
+<s id="around-somewhere">Oh... Of course... It must be around here somewhere...</s>
+<s id="loose">The lever became loose a few years ago and keeps falling... I used to come here every week to fix it... But now I'm too old to *crawl around the cave* looking for it...</s>
+
+<s id="backpack-8">BY THE GODS...</s>
+
+<s id="under-rock-1">Hum... I think I found the lever! It's under this rock...</s>
+<s id="under-rock-2">Damn... It's stuck... I'm gonna need some effort to take it out...</s>
+<s id="under-rock-3">UUrgg... I got it! Now let's stick this in the mechanism and open this damned door!</s>
+
+
+<s id="you-did-it">You did it, child! It's happening again...</s>
+<s id="excited">Oh Lord... I'm so excited!</s>
+<s id="dark">It's so dark in here... I can't see a thing...</s>
+<s id="here-help">Here... This will help...</s>
+<s id="oh-is-that">Oh... Is that...</s>
+<s id="its-him-1">Yes... It's him...</s>
+<s id="its-him-2">Lord Phillip McGuffin... Looks like this was really the end of his path... But why?</s>
+<s id="left-note">Hey... It seems he left a note book... This must shed some light on the mistery... Let's read his last words...</s>
+
+<!-- Notes -->
+<s id="phillip-1">Dear adventurer... When you read this note I'll be probably dead for many years...</s>
+<s id="phillip-2">Just like you, I was able to locate the Goddess Seal and open this chamber... But I overestimated my knowledge and this error will cost my life...</s>
+<s id="phillip-3">This chamber leads to a surprisely intricate maze of tunnels, built by the ancient people to protect the temple from fools like me... I spent hours roaming around these tunnels only to find myself back at the door again...</s>
+<s id="phillip-4">And now the door seems firmly shut... I can hear the desperate yelling of my native friend, but it seems all his attempts to open the door again are futile... I think the door mechanism expelled the seal after some time and it was probably damaged or unusable now...</s>
+<s id="phillip-5">I wanted to tell him to not feel responsible for what will happen to me... I wanted him to know that my arrogance is the only one to blame...</s>
+<s id="phillip-6">But it's getting hard to breath... This place looks very well sealed and I spent too much time consuming all the available oxygen in the narrow tunnels... I don't have more energy to talk to him behind the door...</s>
+<s id="phillip-7">The last thing I can do now is warn you, dear adventurer... DO NOT GO FURTHER WITHOUT THE PROPER GUIDANCE!</s>
+<s id="phillip-8">I can see now how stupid I am... *The Goddess Slab*! I had it in my hands once, but gave it away to the National Museum! And only now I realize those strange undeciphered carvings over the slab were simply a detailed map of these tunnels...</s>
+<s id="phillip-9">So... If you don't want to make company to these old bones for all the eternity, do not proceed without having the Goddess Slab in your possession!</s>
+<s id="phillip-10">Good Luck... Phillip...</s>
+
+<s id="wish-read">By the Gods... I wish my grandfather could read that... I hope he found peace in the after-life...</s>
+<s id="frustating">Well... It's quite frustating to know I won't be able to get into the temple today...</s>
+
+<s id="solved-1">You solved the mistery of McGuffin's demise...</s>
+<s id="solved-2">Come on, <d character="Lara" suffix="..." /> You solved the mistery of McGuffin's demise... I'm quite sure this feat could earn you a PhD in any fancy archaeology school in the world...</s>
+<s id="solved-3">Teehee... Thank you, <d character="Player" suffix="..." /> But you know I couldn't do this without your help...</s>
+
+<s id="glad-1">You were about to make the same mistake he did...</s>
+<s id="glad-2">You should be glad... You were about to make the same mistake he did...</s>
+<s id="glad-3">Oh, Lord... You're right... After so many years and much more research data, I would still find the same tragic end...</s>
+
+<s id="lead">But, hey... At least you have now a solid lead... This slab thing seems to hold the answer to get into the temple...</s>
+<s id="slab">Yes! The Goddess Slab... I'll need to go back home and research more about it before trying to go further into this chamber!</s>
+<s id="ask-winston">Please ask Winston to prepare the house for my return, <d character="Player" suffix="..." /></s>
+<s id="sure-thing">Sure thing, <d character="Lara" suffix="..." /></s>
+<s id="ok-sir">Will you be okay, sir? Those thugs will still be looking for you...</s>
+<s id="dont-worry">Don't worry, my child... They never come this way... I'll be safe here hiding until your return... I want to be present when the temple is finally opened!</s>
+<s id="call-transport">Okay! Let's call the transport! I can't wait to take a long shower at home!</s>
+</strings>

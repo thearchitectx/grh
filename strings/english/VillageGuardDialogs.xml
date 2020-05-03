@@ -1,0 +1,83 @@
+﻿<strings>
+<!-- Guard -->
+<s id="another-night">What? Do want spend another night in jail? Are you missing Henry?</s>
+<!-- Lara -->
+<s id="som-more">No... I was just wondering if there's anything more in this path and...</s>
+<!-- Guard -->
+<s id="keep-wondering">Keep wondering... You can't come this way...</s>
+
+<!-- Guard -->
+<s id="what-want">What do you want, girl?</s>
+<!-- Lara -->
+<s id="walk-around">Oh... I'm just walking around, trying to find...</s>
+<s id="not-this-way">Yeah... Yeah... Not this way...</s>
+<!-- Lara -->
+<s id="i-just">But I just want to...</s>
+<s id="path-leads-1">Hey... This path leads to the security headquarters... Whoever goes this way must be either a 'security officer' or a convict criminal going to jail...</s>
+<s id="path-leads-2">...and I know we don't have your kind of meat in your staff, so...</s>
+<!-- Lara -->
+<s id="okay-okay">Okay... Okay... I'll go the other way...</s>
+
+<!-- Guard -->
+<s id="you-again">You again... I already told you...</s>
+<s id="piss-off">Piss off!</s>
+<!-- Lara -->
+<s id="how-rude">How rude...</s>
+
+<s id="LEAVE">LEAVE</s>
+<!-- Lara -->
+<s id="visit-1">Can I visit an inmate?</s>
+<s id="visit-2">My uncle, uhh... Uncle <d character="Player" data="TXT_NAME" suffix="..." /> He's an inmate here... And I heard today is visitation day... Can I come in see him?</s>
+<!-- Guard -->
+<s id="visit-3">Really... From all the bullshit you just said, having an uncle with a stupid name like '<d character="Player" data="TXT_NAME" suffix="'" /> is the most difficult to believe...</s>
+<s id="visit-4">Do you really want to get into the jail? I'll give you a tip... Ask me one more time and I'll give you a one way in ticket to there...</s>
+
+<!-- Player -->
+<s id="approach-1">That approach won't work, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="approach-2">I think that approach wont work, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<!-- Lara -->
+<s id="approach-3">Yeah... I'm aware of that...</s>
+
+<!-- Player -->
+<s id="liar-1">You are a terrible liar, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="liar-2">No offense... But you are a terrible liar, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<!-- Lara -->
+<s id="liar-3">That was actually a nice compliment, <d character="Player" data="TXT_NAME" suffix="..." /> Thank you...</s>
+
+<!-- Player -->
+<s id="made-fun">And that moron made fun of my name...</s>
+<!-- Lara -->
+<s id="sorry-involve">Tee hee... Sorry to involve you in that business...</s>
+
+<!-- Player -->
+<s id="glad-first-1">I'm glad my name was the first in your thoughts...</s>
+<s id="glad-first-2">I'm glad my name was the first to pop in your head, <d character="Lara" data="TXT_NAME" suffix="..." /> I wonder what it means...</s>
+<!-- Lara -->
+<s id="glad-first-3">Oh... It's... It's...</s>
+<s id="glad-first-4">It's... only because we... we've been talking a lot lately during the mission...</s>
+
+<!-- Player -->
+<s id="fair-enough-1">Well... I'm mostly commanding this operation...</s>
+<s id="fair-enough-2">Well... Just don't say where I am... They will send some cuban killer to kill me if they knew I'm the one commanding this operation...</s>
+<!-- Lara -->
+<s id="fair-enough-3">Oh... You... You are right... I would still be screaming to the helicopter if you were not helping me...</s>
+
+<!-- Player -->
+<s id="lets-go">Of course... Let's keep working... Be careful now...</s>
+
+<s id="clever-girl">Clever girl... Leaving with your mouth shut is the best option for you...</s>
+
+<!-- Lara -->
+<s id="ask-nicely">ASK HIM NICELY TO PASS</s>
+<s id="pretty-please">Mister... I really need to visit your headquarters... Couldn't you let me in just for a few minutes? Please... Pretty please?</s>
+<s id="asking">You can't be so stupid... You're clearly asking for this...</s>
+<s id="igive">I'll give what you want...</s>
+<s id="long-time">Now you can go to the place you wanted so bad... For a long time...</s>
+<s id="dark-1">Hey... Don't go dark now... I don't want to drag you there and...</s>
+<s id="dark-2">_Damn it..._</s>
+
+<!-- Lara -->
+<s id="better-leave">I have no more reasons to enter that prison... I'd better just leave him alone...</s>
+
+
+</strings>

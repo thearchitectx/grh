@@ -1,0 +1,105 @@
+<strings>
+<s id="dark">Damn... I can't see shit... I need to find the light switch around here...</s>
+
+<s id="storage-gadgets">There's a label written 'GADGETS' here...</s>
+<s id="storage-consumables">There's a label written 'CONSUMABLES' here...</s>
+<s id="wonder-crate">What did she say about the crate contents again? I wonder if it's the right place for me to drop it...</s>
+
+<s id="look-into">LOOK INTO</s>
+<s id="close">CLOSE</s>
+<s id="drop-crate">DROP CRATE</s>
+<s id="leave">LEAVE</s>
+<s id="indy-comment-1">Yeah... Of course she's a fan of him... Talk about gender flip...</s>
+<s id="indy-comment-2">But I wonder if she likes that awful crystal skull thing...</s>
+
+<s id="lets-drop-crate">Okay... I'll drop the damn crate here...</s>
+<s id="cant-leave-crate">I can't leave now... I need to put this crate somewhere before leaving...</s>
+            
+<s id="done">Done</s>
+
+<!-- ## Mysterious call ## -->
+<s id="what-the">What the...</s>
+<s id="calling">My phone... Who the hell could be calling me here?</s>
+<s id="hello">Uhh... Hello...</s>
+<s id="greetings">Greetings, Mr. <d character="Player" data="TXT_NAME" />...</s>
+<s id="who-are">Who are you?</s>
+<s id="identity">My identity is not important... I just want to make a business proposition...</s>
+
+<s id="find-number-1">How did you find this number?</s>
+<s id="find-number-2">I'm sorry to upset you with an anonymous and unexpected call, Mr. <d character="Player" data="TXT_NAME" />...</s>
+<s id="find-number-3">But this matter require extreme discretion and I can only hope you understand...</s>
+<s id="find-number-4">Well... I know for sure that anonymity and discretion mean trouble...</s>
+
+<s id="know-me-1">How do you know me?</s>
+<s id="know-me-2">I have contacts in the underworld... And one of these contacts lead me to you...</s>
+<s id="know-me-3">Which means some piece of shit ratted me out again...</s>
+            
+<s id="know-me-4">I'm sure you know that loyalty is a rare trait nowadays...</s>
+
+<s id="loyalty-1">I only give my loyalty to those that pay...</s>
+<s id="loyalty-2">Perfect... It's someone with the true spirit of a mercenary I'm looking for...</s>
+
+<s id="trust-1">Trusting in the loyalty of anyone is asking for lots of pain</s>
+<s id="trust-2">Well... I hope some good amount of money is able to buy some loyalty from you....</s>
+
+<s id="what-want">What do you want from me?</s>
+<s id="female">Okay... I have knowledge that you're working for a certain... female... individual...</s>
+<s id="artifact">This person is currently researching about an ancient artifact... An artifact that I really need to have in my hands...</s>
+<s id="wasting-time">You're wasting your time, man... She's just a rookie... A lonely poor rich girl wanting to play adventurer...</s>
+<s id="not-able">I don't know if she's capable of raiding tombs and recover treasures... Why don't you go find this artifact yourself?</s>
+            
+<s id="wrong">Wrong... I made a very detailed psychological profile of your boss... And I'm good at it...</s>
+<s id="threat">If I allow her to work freely, she will soon become a major threat... She will hunt the artifact and will kill every single man or beast in her way...</s>
+<s id="really">Jesus... Really?</s>
+<s id="yes-manipulation">Yes... But this can be avoided with your 'manipulation' skills... You just need to interfere in her path, twist her choices, weaken her morals and mind...</s>
+<s id="james-bond">You sound like a James Bond villain... If she's so dangerous, wouldn't it be easier for you to simply shoot her?</s>
+
+<s id="doesnt-concern">No... There's a reason for that... But it doesn't concern you now...</s>
+<s id="im-in">Sheesh... Okay... If the money is good, then I'm in...</s>
+<s id="excellent">Excellent... Initial funds will be transferred to your account... I'll contact you later when further instructions are needed... Good luck...</s>
+            
+<s id="honest-job">Sigh... And I was trying to make this an honest job, but...</s>
+<s id="manipulate">Manipulate and corrupt... are such wonderful tasks...</s>
+
+<s id="trash-spot">This seems a good spot to drop the damn trash bag</s>
+<s id="trash-secrets">Umm... They say we can always find secrets when looking at people's garbage...</s>
+<s id="SEARCH">SEARCH</s>
+<s id="NOPE">NOPE</s>
+<s id="trash-dirty">Well... My hands are already dirty, so there's no problem digging more into the trash...</s>
+<s id="trash-paper">It seems there's only a lot of ripped paper here...</s>
+<s id="SEARCH-MORE">SEARCH MORE</s>
+<s id="SEARCH-MORE-CONDITION">PERCEPTION (1+)</s>
+<s id="trash-nothing">Nothing here...</s>
+<s id="trash-wtf">Now what the heck is this...</s>
+<s id="trash-get-rid">Whoah... It appears she didn't like the birthday present and tried to get rid of it...</s>
+<s id="trash-keep">Maybe there's a way to make her think again about keeping it...</s>
+<s id="trash-inv">I just hope no one finds it in my possession... People might get the wrong idea...</s>
+            
+<s id="trash-done">I won't find any more useful stuff in this bag...</s>
+
+<s id="panel-1">Here it is...</s>
+<s id="panel-2">Hum... Looks like the problem is a simple burnt fuse in the water control and heating section...</s>
+<s id="panel-3">I just need to connect a spare here and... done!</s>
+
+<s id="CHECK-SALTS">Check bath salting controls</s>
+<s id="PERCEPTION">PERCEPTION</s>
+<s id="LEAVE">LEAVE</s>
+
+<s id="control-panel-1">Hey... This little control panel... It's one of those central bath salts control interfaces...</s>
+<s id="control-panel-2">From what I read, it slowly injects bath salts in the shower pipes so the user can feel the effects without having spend hours preparing a bathtub...</s>
+<s id="control-panel-3">Fancy shit... But does <d character="Lara" /> even know about this little feature?</s>
+<s id="control-panel-4">I wonder what could I add to her hot shower routine... Looks like there are two options available here... Let's see...</s>
+<s id="control-panel-5">*Ivory*: Fine mineral selection that increases sensitivity to pleasant feelings (may cause libido increase)</s>
+<s id="control-panel-6">*Bloom*: Delicate mineral mix that causes deep stress relief and may increase the felling of trust and affection on people</s>
+<s id="control-panel-7">Should I active some of these?</s>
+<s id="control-panel-trust">BLOOM SALT (TRUST)</s>
+<s id="control-panel-corr">IVORY SALT (CORRUPTION)</s>
+<s id="control-panel-none">LEAVE IT ALONE</s>
+
+<s id="control-panel-special">Let's make her steamy shower even more special...</s>
+<s id="control-panel-leave">I'd better leave this alone...</s>
+
+<s id="control-panel-end">Okay... I won't need to mess with this panel anymore... All I need is go tell her shower is ready... Let's knock on her bedroom door...</s>
+
+
+</strings>

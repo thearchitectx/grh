@@ -1,0 +1,92 @@
+Goons Raid Her v0.5.2
+-----------------------------
+- Added Mia visit sequence (2 hot scenes)
+- Added 2 new trophies
+- Fixed bugs
+
+Goons Raid Her v0.5.1
+-----------------------------
+- Added GALLERY (Chapters 1 to 4)
+- Fixed virgin check during the gambler 'work' scene
+
+Goons Raid Her v0.5
+-----------------------------
+- Added initial content of Chapter 5
+- Added 4 hot scenes (with extended content for TRUST route)
+- Added 4 new trophies
+- Fixed several smaller bugs and dialog inconsistences
+
+Goons Raid Her v0.4.3
+-----------------------------
+- Completed chapter 4
+- Added 13 new trophies
+- 4 new hot scenes
+- Added DOMINANCE stat
+- Changed 'PUSH DOWN' option back at the Slab Research scene to yield a dominance point
+- New option to spend a dominance point at the airpot security check
+- Fixed "imperialist money" number overflow that used to happen when the player is a greedy bastard
+- Fixed sprite sort order bug during "Juices Charger" climax scene
+- Fixed several smaller bugs and dialog inconsistences
+
+
+------------------------------
+- Added first half of chapter 4
+- Added Uswana alley exploration locations
+- Added 4 new hot scenes
+- Added 8 new trophies
+- Added option to 'Keep your Distance' from the girl after the research during chapter 3
+- Bug fixes
+
+------------------------------
+- Added first scene of chapter 4
+- Added 5 new trophies
+- Bug fixes
+- Added 'Hide explicit NTR content' setting
+
+v0.3.2
+------------------------------
+- Completed chapter 3
+- Implemented "PUSH DOWN" scene during slab research scene
+- Player now can give panties to Mia before ending Chapter 3
+
+v0.3.1
+------------------------------
+- Added most of the content of chapter 3
+- Return home scene
+- Mia peep room scene
+- Steamy shower scene
+- Goddess Slab Research scene
+- 'Happy Hour' scene
+- New trophies added
+
+v0.3
+------------------------------
+- Conclusion of chapter 2, featuring one new hot scene
+- Small improvement in the blackjack scene
+- New trophy added and bugged trophies fixed
+
+v0.2.6
+------------------------------
+- Added alley and tavern environments
+- Completed second prison release 'negotiation' scene
+- Added artifact-recover-strip-blackjack (what?) leading to 2 'hot' scenes
+- Added/enabled 7 new trophies
+- Revamped status notification UI (configurable)
+
+v0.2.5
+------------------------------
+- Added Village environments, including 3 'hot' scenes
+- Added Trophy System
+- Added Rename Save Feature
+- Started Sound Mixing
+
+v0.2
+------------------------------
+- Added new Save System
+- Added new UI and objectives system
+- Added new rooms and objectives at the manor
+- Added initial stage of the village environment
+
+v0.1
+------------------------------
+- First version

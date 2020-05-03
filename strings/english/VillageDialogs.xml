@@ -1,0 +1,22 @@
+﻿<strings>
+<s id="green-choices">While <d character="Lara" data="TXT_NAME" /> is exploring, green choices means responses that can you can send her through the radio</s>
+<!-- Lara -->
+<s id="this-is-it">This is it! Old McGuffin lost his way somewhere into this village!</s>
+<s id="look-around">I need to look around... Maybe someone here knows something about him!</s>
+<!--- Player -->
+<s id="r-u-sure">Are you sure it's safe to snoop around in the open?</s>
+<s id="gate">What that guy guarding the gate did to you... There will be more like him around there...</s>
+<!-- Lara -->
+<s id="no-remind">Please... Don't ever remind me again about what I was subjected to at that gate... I still can't believe I let him put his hands over me...</s>
+<s id="no-remind-lost-fight">Please... Don't ever remind me again about what I was subjected to at that gate... I still can't believe I let him put his hands over me... I should have keep fighting until I die...</s>
+<!--- Player -->
+<s id="way-solve-problems-1">It's just another way to solve problems...</s>
+<s id="way-solve-problems-2">Don't let it get into your head, <d character="Lara" data="TXT_NAME" />... That was just a safe way to solve problems... It's better than violence and there's no one around to judge you...</s>
+<s id="way-solve-problems-3">I... I don't know if I agree, but... but...</s>
+<s id="no-choice-1">You didn't have a choice</s>
+<s id="no-choice-2">You didn't have any choice... You needed to get into the village...</s>
+<s id="no-choice-3">Yes... It was the only way in...</s>
+<s id="i-sorry-1">I'm sorry that happened to you</s>
+<s id="i-sorry-2">I'm sorry I let that happen to you, <d character="Lara" data="TXT_NAME" />... You don't deserve to be treated like that...</s>
+<s id="i-sorry-3">Thank you, <d character="Player" data="TXT_NAME" />...</s>
+</strings>

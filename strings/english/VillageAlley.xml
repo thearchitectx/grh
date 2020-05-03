@@ -1,0 +1,152 @@
+﻿<string>
+<!-- Lara -->
+<s id="excuse-me">Uhmm... Excuse me...</s>
+<!-- Young -->
+<s id="hi-lady">Oh... Hello, pretty lady... Who are you?</s>
+<s id="hi-lady-coconut">Oh... Hi, lady... Are you woke already?</s>
+<!-- Lara -->
+<s id="woke">Hi... My name is <d character="Lara" /> and...</s>
+<s id="woke-coconut">Woke? What do you mean?</s>
+
+<!-- Young -->
+<s id="nice-see">A beautiful name for a beautiful lady...  But, I... never saw you around our village...</s>
+<s id="nice-see-coconut">Oh... I mean... Uhh... It's nice to see you...  I... never saw you around our village...</s>
+
+<!-- Lara -->
+<s id="natives">Well... I also don't see many natives around here...</s>
+<!-- Young -->
+<s id="little-break">Most of us work all day at the farm... I'm, uuhh... just taking a little break now...</s>
+<!-- Lara -->
+<s id="good4u">Okay... Good for you...</s>
+<s id="info">But... I'm trying to find information about Phillip McGuffin... An explorer who visited you village several years ago... Do you happen to know anything about him...</s>
+<!-- Young -->
+<s id="never-heard">I'm sorry, lady... I never heard about this one... Sometimes the elders gather around to tell about tales about old strangers visiting the village, but it never interested me...</s>
+<!-- Lara -->
+<s id="shame">Well... It's a shame... You should be more interested in History. It's a fascinating subject...</s>
+<!-- Young -->
+<s id="say-so">If you say so, lady...</s>
+
+<s id="LEAVE">LEAVE</s>
+<s id="what-know-1">What do you know about these men?</s>
+<s id="card-deck">Do you know where I can find a card deck?</s>
+
+<s id="what-know-2">What do you know about these men controlling the village?</s>
+
+<!-- Young -->
+<s id="mean-1">All you need to know is that they are mean, lady... Very mean...</s>
+<s id="mean-2">They make us work all day and barely pay us enough to survive... And when you walk out of line, they beat and lock you at that awful prison...</s>
+<s id="mean-2-happy">Thankfully they seem a little more friendly today... I heard they all excited talking about some new girl 'making the guards happy' around the village...</s>
+<!-- Lara -->
+<s id="bastards">Bastards... I'll alert the UN about this after finishing my work here...</s>
+<s id="bastards-happy">But... I was not... I mean... I... I definetively know nothing about this girl...</s>
+<!-- Young -->
+<s id="kind">You're very kind, lady...</s>
+<s id="kind-happy">Yeah... I believe you...</s>
+
+
+<!-- Lara -->
+<s id="ask-card-deck">Hey... Sorry for asking this weird question, but... Do you happen to know where I can find a card deck around the village?</s>
+<!-- Young -->
+<s id="card-deck-uh">A card deck? I uhh...</s>
+<s id="planning-play">Are you planning to play with lieutenant Larry?</s>
+<!-- Lara -->
+<s id="know-him">Do you know him? I need to recover an artifact he stole from a villager... And the only way I have to do that is by beating him in this stupid card game...</s>
+<!-- Young -->
+<s id="not-friends">We are not exactly friends, but... I'm the only native he allows to play cards with him...</s>
+<s id="beats-him">I'm the only one who beats him and he insists on trying to learn my secret...</s>
+<!-- Lara -->
+<s id="that-good">Are you really that good playing his game? I heard it's all about luck...</s>
+<!-- Young -->
+<s id="informed">You look well informed, lady... And if you're looking for an extra deck, then you already figured that skill in this game is all about cheating without being seen...</s>
+<!-- Lara -->
+<s id="way-to-win">Yeah... I heard this the only way to guarantee a win...</s>
+<!-- Young -->
+<s id="use-my">Well... I can let you use my secret deck...</s>
+<!-- Lara -->
+<s id="really-thanks">Really? Thanks a lot, young man! Finally I met someone willing to help me without...</s>
+<!-- Young -->
+<s id="little-help">I just need a little help from you...</s>
+<!-- Lara -->
+<s id="should-guessed">Sigh... I should have guessed...</s>
+<!-- Young -->
+<s id="little-favor">It's just a little favor, lady... I'm in trouble... I was supposed to check an old man that was being punished, but looks like he found a way to escape and I know the guards will blame me... I just want to enter my house and hide for a few hours...</s>
+<s id="look-wall">Can you peek over that spike wall for me and say if there are some of those men at the other side? If that area is clear I'll be able to go around and sneak into my place without being seen!</s>
+<!-- Lara -->
+<s id="not-trouble">Well... It doesn't seem much trouble... I'll check the wall...</s>
+
+<!-- Young -->
+<s id="please-check">Please, lady... Go check if the guard is still at the other side of the wall...</s>
+
+
+<!-- Lara -->
+<s id="wonder-climb">I wonder if can climb this to peek at the other side...</s>
+<!-- Young -->
+<s id="i-can-help">I can help you, lady... Climb on me... I'll give you a boost and hold you while you look at the other side... </s>
+
+<s id="ACCEPT">ACCEPT HIS HELP</s>
+
+<s id="try-climb-1">Try to climb on something else...</s>
+<!-- Player -->
+<s id="try-climb-2">You should try climbing on something else, <d character="Lara" suffix="..." /> This dude's sounds too frail to help you and we should avoid accidents...</s>
+<!-- Lara -->
+<s id="try-climb-lara-1">You are right, <d character="Player" suffix="..." /> I shouldn't abuse the poor soul...</s>
+<s id="try-climb-lara-2">There are some fences I can climb on here...</s>
+<!-- Young -->
+<s id="try-climb-young">Oh, come on... I'm not that weak...</s>
+<!-- Lara -->
+<s id="try-climb-lara-3">No... You just make way for me...</s>
+
+<!-- Lara -->
+<s id="look-no-help-lara-1">Hmm... I don't see any guards around here...</s>
+<s id="look-no-help-lara-2">To think I caused so much trouble to that kid by freeing the elder...</s>
+<!-- Player -->
+<s id="look-no-help-right-player-1">You did the right thing...</s>
+<s id="look-no-help-right-player-2">You did the right thing, <d character="Lara" suffix="..."/> These thughs are the real problem...</s>
+<!-- Lara -->
+<s id="look-no-help-right-lara-3">Yes... I shouldn't blame myself for these men's actions... Thank you for supporting me, <d character="Player" suffix="..."/></s>
+
+<!-- Player -->
+<s id="look-no-help-careful-player-1">We should be more careful...</s>
+<s id="look-no-help-careful-player-2">We should be more careful, <d character="Lara" suffix="..."/> Any reckless actions will bring even more suffering to this people...</s>
+<!-- Lara -->
+<s id="look-no-help-careful-lara-3">You... You are right... I know I'm reckless and... I should be better than that...</s>
+
+<s id="look-no-help-no-guards">Well... I can't see any guards around here... I think the coast is clear for you, young man...</s>
+
+
+<!-- Lara -->
+<s id="look-help-position">Okay... I can use your help... Get in position...</s>
+<s id="look-help-keep-still">Now keep still while I...</s>
+<s id="look-help-no-guards">Hmm... I don't see any guards around here...</s>
+<s id="look-help-okay">Are you OK down there, young man?</s>
+<s id="look-help-coast-clear">Are you sure you can do this? I think the coast is clear for you...</s>
+<!-- Young -->
+<s id="look-help-look-careful">Please look carefully, lady... They might be hidden somewhere...</s>
+<!-- Lara -->
+<s id="look-help-no-sign">Don't lose your balance now and don't worry... There's no sign of those smelly men...</s>
+<!-- Young -->
+<s id="look-help-smell">Oh, lady... I can hold this position for hours... And the smell is actually amazing...</s>
+<!-- Lara -->
+<s id="look-help-what">What?!</s>
+<!-- Young -->
+<s id="look-help-thank">I'm mean... Thank you so much for your help...</s>
+
+<!-- Lara -->
+<s id="go-hide">You can go hide in your home now... But remember about the deck you promised...</s>
+<!-- Young -->
+<s id="deck-barrels">Of course... *It's hidden under some barrels at the tavern.* Just crawl and look carefully near them...</s>
+<s id="careful">But... You should be very careful using it. If Larry catches you cheating you'll be in big trouble...</s>
+<s id="exchange">You need to exchange cards from the extra deck only when he's not looking at your hands... And he's fast...</s>
+<!-- Lara -->
+<s id="damnit">Damn... It doesn't seem easy...</s>
+<!-- Young -->
+<s id="drink">He always gets a bit slower after some drinks... You should try make him drink more, it might be easier...</s>
+<!-- Lara -->
+<s id="thanks-young">Thanks for your help, young man...</s>
+<!-- Young -->
+<s id="bye-lady">Bye, lady...</s>
+<s id="bye-lady-adventures">Bye, lady... I can't wait to tell my friends about our adventures...</s>
+<!-- Lara -->
+<s id="lara-bye">Bye...</s>
+<s id="lara-bye-adventures">Uuhh... Okay...</s>
+</string>

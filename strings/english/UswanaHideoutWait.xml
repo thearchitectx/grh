@@ -1,0 +1,70 @@
+<strings>
+<s id="GET-IN">GET IN</s>
+<s id="HACK">HACK THE LOCK</s>
+<s id="NOT-NOW">NOT NOW</s>
+<s id="DO-IT">DO IT</s>
+<s id="NOPE">NOPE</s>
+<s id="TAKE-IT">TAKE IT</s>
+<s id="PUT-AWAY">PUT AWAY</s>
+<s id="LEAVE">LEAVE</s>
+<s id="WAIT">WAIT FOR THE BOSS HERE</s>
+
+<s id="door-1">This must be the door to that boss man office...</s>
+<s id="door-2">If there is a place here where I can find information about the Goddess Slab is inside here...</s>
+
+<s id="door-locked-1">Damn... There's a fancy electronic lock here...</s>
+<s id="door-locked-2">Can you see any model name over it?</s>
+<s id="door-locked-3">It reads here... SEC-LOCK E210...</s>
+<s id="door-locked-4">Ha... Pretty standard stuff... We can override it by creating a short using a specific path on the circuit...</s>
+<s id="door-locked-5">You need some small tool to press the internal mainentance button, like a needle or a paper clip... Then we can hack our way in...</s>
+<s id="door-locked-6">I think I can find something like that around here...</s>
+
+<s id="door-locked-7">Okay... The paper clip I have here fits perfectly to press the internal mainentance button of the door...</s>
+<s id="door-locked-8">Uuhh... <d character="Lara" suffix="..." /> There's also something I forgot to mention...</s>
+<s id="door-locked-9">Once we start meddling with the circuit... there's going to be a limited time to set it right...</s>
+<s id="door-locked-10">A timer!?</s>
+<s id="door-locked-11">After some time operating in mainentance mode, the lock resets itself to the original setting...</s>
+<s id="door-locked-12">Damn it... I couldn't be that easy, right?</s>
+<s id="door-locked-13">Just keep focused and try to do it fast...</s>
+<s id="door-locked-14">Sigh... Okay... I'll give it a try when I'm ready...</s>
+
+<s id="door-reset">Damn it... The circuit reseted... I'd better try this faster...</s>
+
+<s id="door-success-1">Yes!! I did it!!</s>
+<s id="door-success-2">Nice one, <d character="Lara" suffix="!" /></s>
+<s id="door-success-3">Now I have access to this damned office...</s>
+
+
+<s id="fridge-0">Still nothing but beer bottles here...</s>
+<s id="fridge-1">There's a little fridge here...</s>
+<s id="fridge-2">Urgh... It's full of beer bootles... nothing else...</s>
+<s id="fridge-3">Well... Lucky you...</s>
+<s id="fridge-4">No thanks... I more of a wine person...</s>
+<s id="fridge-4-d">No, I... I still remember what happened to me the last time I consumed alcohol during an adventure like this...</s>
+<s id="fridge-canteen-1">Uhmm... I can fill The Boss' canteen with the content of one of these beer bottles... Should I do it?</s>
+<s id="fridge-canteen-2">Done... I should return the canteen to the same spot on his table if I want this to be a surprise for him...</s>
+
+<s id="lockers-1">Humm... There is a single 9mm bullet here...</s>
+<s id="lockers-2">You know... It's not a good sign to find live ammo lying around at the place you are hanging on...</s>
+<s id="lockers-3">Huuh... You're not talking about my bedroom, are you?</s>
+<s id="lockers-4">Oh... Nice joke, <d character="Lara" suffix="..." /> But... You know I never visited your bedroom... Right?</s>
+<s id="lockers-5">Sigh... Last time I had a my gun but no bullets... Now there's a bullet but no gun...</s>
+<s id="lockers-6">I'd better keep it... You never know...</s>
+<s id="lockers-7">There's nothing interesting left inside here...</s>
+
+<s id="chair-1">I can't just sit here and wait for that boss man to arrive... This is my only chance to break into his office and make use of information in there...</s>
+<s id="chair-2">I already know where the Goddess Slab is going to be... I could simply wait for the meeting with The Boss here... Or maybe I could keep looking for more clues...</s>
+<s id="chair-3">Okay... I'll just wait for him here...</s>
+
+<s id="files-1">There is a big file drawer here...</s>
+<s id="files-2">Human resources reports about random soldiers... Not the information I'm interested at the moment...</s>
+
+<s id="files-page-1">Looks like a torn diary page there...</s>
+<s id="files-page-2">Jesus Christ how much sick and pervert a man can be?</s>
+<s id="files-page-3">Uhm... But if somehow I manage to replicate this experience, that boss man might become easier to handle...</s>
+
+<s id="page-a">It was supposed to be an easy job that day... The man owed a lot of money so the boys kidnapped his daughter...
+I just needed to have some good fun with her in order to teach him a lesson...But when I saw her face at that small room... wearing that punk girl make-up... it instantly reminded of my younger sister... 
+My little sister... The image of her always wearing stupid dark paint over her face made me discharge everything I had inside my briefs before even saying a word to the girl in front of me... fuuuck...</s>
+
+</strings>

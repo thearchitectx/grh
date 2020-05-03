@@ -1,0 +1,238 @@
+﻿<strings>
+<s id="secret-11">OH MY GOD!!</s>
+<s id="secret-12">How... How the hell do you have these????</s>
+
+<s id="secret-13-bj">Well... We sold a pack of weapons to some remote cocaine farmers a few days ago...</s>
+<s id="secret-14-bj">Their leader decided to show his appreciation of our service by gifting us with these pics... They worth a lot in the black market of perverts...</s>
+<s id="secret-15-bj">Looks like you had a lot of fun with him the day he took these pics, right?</s>
+
+<s id="secret-13-au">Well... One of our new recruits used to work at this 'home automation' company...</s>
+<s id="secret-14-au">Before he was fired, he stole a lot of customer's personal data files and gave this to us as proof of his hacking skills...</s>
+<s id="secret-15-au">Looks like you and had a lot of fun the day you took these pics, right?</s>
+
+<s id="secret-16">How can you even be trying to sell this to me?? These pictures are mine...</s>
+
+<s id="secret-17">These are pictures of you... But they aren't yours...</s>
+<s id="secret-18">You should know there are a lot of hungry eyes here watching you swing your booty around... and they might lose control if they ever see the kind of picture you like to take...</s>
+
+<s id="secret-19">So... For the small sum of $30000 you can have these pics out of circulation and save yourself from the shame and the dangers of having them passing around the hands of our locals...</s>
+
+<s id="secret-20">You just waited for me to spend a lot of my money before showing me this pictures, you... You jerk...</s>
+<s id="secret-21">You can call me whatever you want... But you need to decide now if you want to buy it or not... It's about time to end my shift here...</s>
+
+<s id="secret-22"><d character="Lara" suffix="..." /></s>
+<s id="secret-23-au"><d character="Player" suffix="?!" /> These pictures were suposed to be secure in my computer! How can such a thing happen!?</s>
+<s id="secret-24-au">Looks like security is not a strong feature of your fancy home automation system...</s>
+<s id="secret-25-au">At least it's not like these are nude pics of you exposing yourself to some random dude...</s>
+
+<s id="secret-23-bj"><d character="Player" suffix="?!" /> Larry forced me to take those pictures! You remember, right!? How can he just give them away like this...</s>
+<s id="secret-24-bj">Yeah... Some men just can't keep such pictures to themselves...</s>
+<s id="secret-25-bj">And... be aware that... once nudes hit the internet, they'll never go away...</s>
+
+<s id="secret-26">Oh my God... What should I do...</s>
+
+<s id="leave">Just leave... He's trying to trick you...</s>
+<s id="kick">You should kick his ass and take your pics back...</s>
+<s id="reason">You should try to reason with him...</s>
+
+<s id="kick-1">Looks like he's not with his rifle now... You should seize the opportunity to kick his ass and take your pics back...</s>
+<s id="kick-2">This bastard will regret messing with me...</s>
+<s id="kick-3">So... Will your boyfriend on the radio allow you to...</s>
+<s id="kick-4">OUCH!!</s>
+<s id="kick-5">I'm sick of your horseshit!</s>
+<s id="kick-6">Fucking cunt... Let's see if you have what it takes to put me down...</s>
+
+<s id="kick-win-0">_Shiiit... I can't believe I let a girl kick my ass like that..._</s>
+<s id="kick-win-1">You'll give me my pictures back!! NOW!!</s>
+<s id="kick-win-2">Okay... Okay... You can have them, little psycho...</s>
+<s id="kick-win-3">Good... Now get out of my sight!</s>
+<s id="kick-win-4">You have nice moves... I hope I'll see again you before you leave the country...</s>
+<s id="kick-win-5">If we ever meet again, you won't walk out breathing...</s>
+<s id="kick-win-6">We'll see...</s>
+<s id="kick-win-7">Jesus Christ, <d character="Lara" suffix="..." /> Don't forget the big AK-47 he keeps at the airport...</s>
+<s id="kick-win-8">I don't care... I have a mission to complete...</s>
+
+<s id="kick-lose-0">Delusional whore... Do you really tought you could kick my ass?</s>
+<s id="kick-lose-1">I should cut you open and spread your bowels all over this alley...</s>
+<s id="kick-lose-2">_I'm sorry, sir... Please, forgive me... Forgive me..._</s>
+<s id="kick-lose-3">I was just trying to peacefully convince you to test my new device... I was even willing to freely give the pictures after your help...</s>
+<s id="kick-lose-4">Now I'll make you go through the procedure and I'll still spread you pictures over the nastiest chan boards of the internet...</s>
+<s id="kick-lose-5">I'll be top fap material for a whole legion of incels...</s>
+<s id="kick-lose-6">..........</s>
+<s id="kick-lose-7">Now keep your mouth shut up and bend over there... We have a lot to do...</s>
+
+<s id="leave-1">Leave it, <d character="Lara" suffix="..." /> He's obviously trying to lure you into something nasty...</s>
+<s id="leave-2">It's just underwear pics... There are lingerie ads in respected magazines spicier than these photos...</s>
+<s id="leave-3">Yes... You're right... These pictures are not worth the trouble... And I almost fell for his dirty tricks...</s>
+<s id="leave-4">You saved me again, <d character="Player" suffix="..." /></s>
+<s id="leave-5">I'm sorry, sir... I'm not interested in your 'secret item' now...</s>
+<s id="leave-6">Are you sure? I'm about to close the store...</s>
+<s id="leave-7">Yes... I have better things to do...</s>
+<s id="leave-8">Humpf... I'm leaving for now... But your boyfriend on the radio won't be able to help you forever, girl...</s>
+
+<s id="reason-1">You should try to reason with him... You never know...</s>
+<s id="reason-2">You're right... I can't just let him keep my pictures...</s>
+<s id="reason-3">Please, sir... I spent most of my money on your shop already... And you're asking a ridicuous price for the pictures...</s>
+<s id="reason-4">Sigh... Yet another beggar...</s>
+<s id="reason-5">I just want my pictures... Please...</s>
+<s id="reason-6">Look... We don't run a charity here... If you want some credit from the store, we can talk about an exchange of services...</s>
+<s id="reason-7">Oh, no no no no... I already know what kind of 'services' you men are always talking about...</s>
+<s id="reason-8">Don't fret, girl... I just need someone to test a new product we'll start selling to our security officers...</s>
+<s id="reason-9">Oh... If... If it's something safe... then maybe I could help it... for the pictures...</s>
+<s id="reason-10">Awesome... Let me show you...</s>
+<s id="reason-11">This is it... I need you to test this thing for me... It's going to be the new standard tool for our security check interviews and cavity search procedures...</s>
+<s id="reason-12-c">You already passed through a cavity search with me, right? This will be a piece of cake for an experienced girl like you...</s>
+<s id="reason-12">Easy peasy, right?</s>
+<s id="reason-13">This is a... This is a...</s>
+<s id="reason-14">We'll still need to find a comercial name for it... Something like... The 'Security Plug'...</s>
+<s id="reason-15">What... What kind of sick pervert you are...</s>
+<s id="reason-16">Well... I can't deny I'm kind of fascinated with the idea of sticking stuff into girls' buttholes...</s>
+<s id="reason-17">But this is mostly about our organization standard procedures...</s>
+<s id="reason-18">So... You help me test the security plug... I give you the pictures... Deal?</s>
+
+<s id="r-leave">JUST LET HIM KEEP THE PICTURES</s>
+<s id="plug">ACCEPT THE DEAL</s>
+<s id="r-kick">KICK HIS ASS AND TAKE THE PICTURES</s>
+
+<s id="plug-1">I... need to have these pictures back... If all I need is to test this... device...</s>
+<s id="plug-2">So we have a deal? Nice...</s>
+<s id="plug-3">What... What should I do?</s>
+<s id="plug-4">Simple... Just bend over the car here so I can install the device...</s>
+<s id="plug-5">You... You are the one going to handle it!?!? I tought I could...</s>
+<s id="plug-6">Hey... I need to check if the officer in duty can operate the device easily during questionings...</s>
+<s id="plug-7-c">It's not like I never sticked anything up your ass, right? I know you can handle it pretty well...</s>
+<s id="plug-7">You already agreed to do this... Don't start the whining now...</s>
+<s id="plug-8">Now get in position for the test...</s>
+
+<s id="plug-do-1">Yeah... I need you to arch this butt as high as you can... It's the standard position for the security plug procedure...</s>
+<s id="plug-do-2">But... We're the in the open... in the middle of the alley... Anyone can come and...</s>
+<s id="plug-do-3">This is my turf, girl... No one will bother us... They can only watch from far away...</s>
+<s id="plug-do-3-l">I don't care... You should think about the consequences before attacking men stronger than you...</s>
+<s id="plug-do-4">Now let's get started...</s>
+<s id="plug-do-5">Finally... I shouldn't let you leave the airport without doing a good cavity search on you... But now I can make up for that mistake...</s>
+<s id="plug-do-5-s">Nice... I've been waiting to stare this ass from up close again since the moment you left the airport...</s>
+<s id="plug-do-6">Damn, girl... You have the most beautiful backside...</s>
+<s id="plug-do-7">_Please... Just get it done quickly... This is so embarassing..._</s>
+<s id="plug-do-8">Ha... I didn't know a girl that promptly allows a man to play with her ass could get so easily embarassed...</s>
+<s id="plug-do-8-l">You don't have a say on this, little brat... Just be thankfull I allowed you to live...</s>
+<s id="plug-do-9">Now... In order to start the procedure... The officer needs to put any barriers out of the way...</s>
+<s id="plug-do-10">Whoah... Hello there... </s>
+<s id="plug-do-10-s">Yeah... It's nice to see this little butthole again... We're already getting intimate, don't you think?</s>
+<s id="plug-do-11">..........</s>
+<s id="plug-do-11-c">Just be gente... I'm actually a little curious about playing with my... anus...</s>
+<s id="plug-do-12">Lost your tongue? Yeah... This usually happens the first time a girl exposes herself like this in public...</s>
+<s id="plug-do-12-c">So you're actually nothing but a little slut in heat, huh... Shame... I like more those innocent girls that cry for help all the time...</s>
+<s id="plug-do-13">Well... I wonder if this will make you scream or shut up...</s>
+<s id="plug-do-14">Now... The 'Security Plug' procedure says that any obvious suspect must be 'plugged' as soon as the security check starts...</s>
+<s id="plug-do-15">You gonna play the part of the suspect during this test... It's an easy and passive role, so just relax...</s>
+<s id="plug-do-16">It's time to get the fun part of this this business...</s>
+
+<s id="plug-do-17">Okay... A security check interview is a very stressful situation to the suspect, so... the first step is make sure she will relax her butthole...</s>
+<s id="plug-do-18">Once the suspect is in the correct position, one of the basic techniques to relax the sphincter is some nice gluteus manipulation...</s>
+<s id="plug-do-19">So... Can you feel your backside relaxing already?</s>
+<s id="plug-do-20">What are you doing... This can't be a standard security procedure... What kind of operation a group like this run?</s>
+<s id="plug-do-21">Sigh... Your response strongly suggests that you're not relaxed...</s>
+<s id="plug-do-22">And this leads the procedure to a second sphincter relaxation technique...</s>
+<s id="plug-do-23">Oh my God... What is...</s>
+<s id="plug-do-24">A nice gluteus spanking is the second sphincter relaxation technique...</s>
+<s id="plug-do-25">Please... Stop doing this...</s>
+<s id="plug-do-26">Keep screaming like that and the entire neighborhood will come to watch... The procedure says the officer should keep the spanking until the suspect is fully prepared...</s>
+<s id="plug-do-27">Are you relaxed yet?</s>
+<s id="plug-do-28">No! What kind of sick mind would think that...</s>
+<s id="plug-do-29">Are you relaxed yet?</s>
+
+<s id="plug-spank-no">NO!</s>
+<s id="plug-spank-yes">YES (LIE)</s>
+
+<s id="plug-spank-1">Ha... Any girl would already said 'YES' at this point to make me stop, but not you... And there's only one reason why...</s>
+<s id="plug-spank-2">You're loving to feel my hand slapping your ass and I can keep doing it all day... just for you...</s>
+<s id="plug-spank-3">Just say 'NO' again to confirm my theory...</s>
+<s id="plug-spank-4">I knew you are a dirty girl...</s>
+
+
+<s id="plug-do-30">Yes... yes... I'm already relaxed, sir... Just stop slapping me, please...</s>
+<s id="plug-do-31">Good... Looks like the spanking technique really works...</s>
+<s id="plug-do-32">Which leads to the most important step in the procedure...</s>
+<s id="plug-do-33">Oh Lord... Oh Lord... Oh Lord...</s>
+<s id="plug-do-34">God can't help you now, girl... But I'll be gentle with you...</s>
+<s id="plug-do-33-l">Please sir... Don't do this to me... Let me go... Please...</s>
+<s id="plug-do-34-l">You're going to take this up your ass, girl... Maybe it will teach you some respect...</s>
+<s id="plug-do-35">Well... Ready or not... Here it goes...</s>
+<s id="plug-do-36">IT WON'T FIT!! IT WON'T FIT!!</s>
+<s id="plug-do-36-l">It hurts!! It hurts!! Please stop!!</s>
+<s id="plug-do-37">Looks like you lied to me... Your butthole is not relaxed at all...</s>
+<s id="plug-do-38">Sigh... This is not looking good... The procedure is not supposed to take so long... There can be dozens of suspects to verifiy in a real situation...</s>
+<s id="plug-do-39">Don't try that again, please... I don't want the pictures anymore... Just don't try that again...</s>
+<s id="plug-do-40">Hey... Easy there... We're halfway done...</s>
+<s id="plug-do-39-l">I beg you, sir... Don't do that again... Anything but that...</s>
+<s id="plug-do-40-l">Damn it... If I knew you'd keep whining like this... Just shut up and accept your punishment...</s>
+<s id="plug-do-41">Well... Looks like I'll have to resort to the ultimate relaxation technique...</s>
+<s id="plug-do-42">What!? Oh, no... Not another...</s>
+<s id="plug-do-43">OH MY GOD!!!</s>
+<s id="plug-do-44">This is... This is so degrading...</s>
+<s id="plug-do-44-c">MMmmmnngg... I caan't understand... This feeeeels soooo...... goooood...</s>
+
+<s id="plug-do-cum-1-ntr">Damn... You came so easily on my tongue... Your boyfriend never goes down you?</s>
+<s id="plug-do-cum-2-ntr">No... He... I... still...</s>
+<s id="plug-do-cum-3-ntr">Whatever... This is about the procedure... not about your pleasure...</s>
+
+<s id="plug-do-cum-1">Damn... You came so fast when feeling my tongue... Only true sluts are so easy to please...</s>
+<s id="plug-do-cum-2">No... It's because I never had a...</s>
+<s id="plug-do-cum-3">Whatever... This is about the procedure... not about your pleasure...</s>
+
+<s id="plug-do-not-cum">'Degrading' is a strong word, girl... But we will get there eventually...</s>
+
+<s id="plug-do-45">Okay... Your sphincter seems pretty relaxed and well lubricated now...</s>
+<s id="plug-do-46">I think we can try again...</s>
+<s id="plug-do-47">No!! Wait!!</s>
+<s id="plug-do-48">Yeah... I can feel your asshole submiting to the invasion now...</s>
+
+<s id="plug-do-49">Yes!! It works!!</s>
+<s id="plug-do-50">How do you feel, girl?</s>
+<s id="plug-do-51">My legs are... shaking... and I... I feel so... filled...</s>
+<s id="plug-do-52">Amazing... Full submission... That's the expected behavior from the suspect!</s>
+
+<s id="plug-do-53">I... I finished your damn testing... please, take it out now... please...</s>
+<s id="plug-do-53-l">You... You already punished me, sir... Your testing is finished... Please, take it out now... </s>
+<s id="plug-do-54">Take it out? Finished?</s>
+<s id="plug-do-55">This was just the first stage of testing, girl...</s>
+<s id="plug-do-56">WHAT!?</s>
+<s id="plug-do-57">The Security Plug is also designed to track suspects and prevent them from inserting illegal items into their rectums...</s>
+<s id="plug-do-58">But I never sticked and I'm not planning to stick anything into my butt!!!</s>
+<s id="plug-do-59">We'll see... Pull up your panties...</s>
+<s id="plug-do-60">While the plug is still inside me???</s>
+<s id="plug-do-61">Of course... Come on... We can't finish the test without the last step of the procedure...</s>
+<s id="plug-do-62">Oh my God... I can't believe this is happening...</s>
+<s id="plug-do-63">So... You're able to walk, right?</s>
+<s id="plug-do-64">This is extremely uncomfortable... But I... I think I can walk...</s>
+<s id="plug-do-65">Good... It means we have a perfect fit...</s>
+<s id="plug-do-66">Oh, man... I can almost see how it's resting inside your panties...</s>
+<s id="plug-do-67">Why... Why would you want someone walking around with it?</s>
+<s id="plug-do-67-c">Mnng... This plug gives me tingles when I move... But why would you want someone walking around with this?</s>
+<s id="plug-do-68">Ha... Check this out... Activating tracker...</s>
+<s id="plug-do-69">Huh?... What did you do?</s>
+<s id="plug-do-70">This is not an ordinary toy... The Security Plug has a built-in GPS sensor that sends the suspect current location to the officer on duty...</s>
+<s id="plug-do-71">In simple words... It allows me to track your ass... Literally!!!</s>
+<s id="plug-do-72">Man... I wanted so much to say that joke...</s>
+<s id="plug-do-73">But... Now that the damned thing is tested... I can take it out, right?</s>
+<s id="plug-do-74">No way... I'll let you leave now, but I want you to keep using it for a few hours...</s>
+<s id="plug-do-75">What!?!?</s>
+<s id="plug-do-76">Yeah... I want to check the tracking range and the battery life...</s>
+<s id="plug-do-77">And don't even think about taking it out... While the tracking mode is active, any detected attempt of removal triggers a big electric discharge that could stun or even kill the suspect...</s>
+<s id="plug-do-78">So... Just strut around wearing it until the battery is depleted... After a few minutes you'll even forget that you're using it...</s>
+<s id="plug-do-79">There can't be... nothing more humiliating than this...</s>
+<s id="plug-do-80">Ha... Don't challenge my imagination, girl...</s>
+<s id="plug-do-81">You can take your precious pictures now and leave...</s>
+<s id="plug-do-81-l">You can kiss goodbye to these pictures... I hope it will teach you to respect the Freedom Bulls... We own your ass... Now get out of my sight...</s>
+<s id="plug-do-82">Maybe we can still see each other later...</s>
+
+<s id="plug-do-83"><d character="Player" suffix="..." /> Can't you do anything about this... this device...</s>
+<s id="plug-do-84">No, <d character="Lara" suffix="..." /> That man might be a psycho, but he didn't lie a single time...</s>
+<s id="plug-do-85">I can detect a high power capacitor inside you... I mean... close to you...</s>
+<s id="plug-do-86">It means the electric discharge threat is real... Looks like you'll gonna have to wait until it runs out of juice...</s>
+<s id="plug-do-87">Are you okay there, <d character="Lara" suffix="?" /></s>
+<s id="plug-do-88">Yes... I... I can't stop now... I must keep looking for Goddess Slab...</s>
+<s id="plug-do-87-c">But are you really worried about the plug? I can hear the way you moan every time you have to 'deal' with these men, <d character="Lara" suffix="..." /> You keep reaching new lows...</s>
+<s id="plug-do-88-c">I... I don't know what's happening to me... I... I must keep looking for Goddess Slab...</s>
+
+</strings>

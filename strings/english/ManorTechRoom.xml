@@ -1,0 +1,75 @@
+﻿<strings>
+<s id="console-power-1">This is the main console of the fancy 'intelligence center' <d character="Lara" data="TXT_NAME" /> bragged about when I first entered here...</s>
+<s id="console-power-2">Let's turn this thing on an snoop inside...</s>
+
+<s id="locked-1">Locked... Looks like she still doesn't trust me enough...</s>
+<s id="locked-2">Well... No digital lock ever stopped me... And I recognize this one...</s>
+<s id="locked-3">It's very simple to override this if I had physical access to the server...</s>
+
+<s id="unlocked">There... Ready to be used by the wrong hands...</s>
+
+<s id="personal-files-1">'Personal files'... There's something magic in this combination of words that is highly attractive to my clicks...</s>
+
+<s id="vital-signs-1">Hey... Looks like <d character="Lara" data="TXT_NAME" />  uses one of those personal vital signs monitors... She really wants to be prepared for the dangers in the field...</s>
+<s id="vital-signs-2">Health, heart rate... Boooring...</s>
+<s id="vital-signs-3">I know these new monitors collect more interesting data... I just need to change the correct configuration... If I remember correctly, I just need to press 'Ctrl' plus 'X' 3 times and...</s>
+<s id="vital-signs-4">Yeaahh... These are the really important stats...</s>
+<s id="vital-signs-5">But... Jesus... Looks like she really needs to go out more...</s>
+            
+
+<s id="automation-1">Now a security PIN!? You gotta be fucking kidding me...</s>
+<s id="automation-2">This looks like an interface for the surveillance and automation system! Taking control of it could allow me to do interesting things...</s>
+<s id="automation-3">I should look around the manor... Maybe I can find a way to obtain this PIN...</s>
+<s id="automation-4">Now it's time to check if that PIN I found still works...</s>
+<s id="invalid-pin">Damn... Invalid... I need to search around the manor for any hints about the correct pin...</s>
+<s id="valid-pin">Yes! Now... Let's see what I can do with this new toy</s>
+            
+<s id="TYPE-PIN">TYPE PIN</s>
+<s id="BACK">BACK</s>
+
+<s id="sam-1">Aww... Friendship selfie... This girl is probably one of the few visitors <d character="Lara" data="TXT_NAME" /> gets here... But this pic doesn't show much...</s>
+
+<s id="sam-2">Yeah... Nice shot, girl... You caught <d character="Lara" data="TXT_NAME" /> by surprise... Is she always embarrassed like that?</s>
+
+<s id="to-delete-1">Whoah... Looks like someone secretly enjoyed the modeling experience... She has the potential...</s>
+<s id="to-delete-2">Nice... But she should know that simply marking a pic 'to-delete' is not enough to hide it from creeps like me...</s>
+<s id="CLOSE">CLOSE</s>
+
+<s id="cam-upper-west">Uhm... This is the camera located near her bedroom door...</s>
+<s id="cam-bedroom">Whoah... This linked me to a cam located inside the master bedroom... This looks promising... I can move this camera around a little bit too...</s>
+<s id="cam-move">You can control the camera using WSAD or arrow keys.\nMove the camera around to find hidden secrets.</s>
+<s id="cam-on-lara-1">Holy shit... Now this is interesting...</s>
+<s id="cam-on-lara-2">I can't believe she's naive enough to allow the security company to install a camera like that in her bedroom... I bet the remote operators peep on her frequently...</s>
+
+<s id="buttons">This is nice... But there are other buttons here I can also push...</s>
+
+<s id="heater">MESS WITH THE HEATER</s>
+<s id="unavailable">UNAVAILABLE</s>
+
+<s id="mess">Okay... Let's mess with the bedroom heater settings to see if this thing really works...</s>
+<s id="sweat-1">Aww... I made her sweat... Not in the way I'd really like, but this is good too...</s>
+<s id="sweat-2">I hope she doesn't...</s>
+<s id="sweat-3">Whoah...</s>
+<s id="sweat-4">Looks like she found a way to cool off... Delicisously unexpected...</s>
+<s id="sweat-5">This is amazing... But I'd better fix the heater temperature before she gets suspicious...</s>
+<s id="sweat-6">I should get some sleep at the staff quarters and get ready for tomorrow...</s>
+
+<s id="plants">This might help me find places around the manor...</s>
+
+<s id="camera-pool">That's a big ass pool area...</s>
+<s id="camera-pool-lara">There is our heroine enjoying a deserved rest...</s>
+<s id="camera-pool-pic">Well... I can use this camera to snap the pics I promised to <d character="Mia" data="TXT_NAME" />... Let's zoom in a bit...</s>
+<s id="camera-pool-holding">Now look at this... Come on, girl... Stop holding back your instincts... There's nothing wrong about touching yourself...</s>
+<s id="camera-pool-great">Well... This pose is already great for a good picture... Just need a screenshot...</s>
+<s id="camera-pool-jump">She's probably going to jump into the pool for a swim soon... I just need to wait the right time and...</s>
+
+<s id="camera-pool-yeah">Yeah... A beautiful moment frozen in time...</s>
+<s id="camera-pool-end">Now I need to take these pictures to <d character="Mia" data="TXT_NAME" />... I bet this will 'inspire' her a lot!</s>
+
+<s id="prompt-wait-lara">Okay... I can wait here for <d character="Lara" data="TXT_NAME" /> to finally leave or explore a bit more around...</s>
+<s id="wait-for-lara">WAIT FOR <d character="Lara" data="TXT_NAME" /></s>
+<s id="continue-exploring">CONTINUE EXPLORING</s>
+
+<s id="prompt-wait-lara-c3">Okay... I can wait here for <d character="Lara" data="TXT_NAME" /> come to research next piece of the artifact hunt...</s>
+
+</strings>

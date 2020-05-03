@@ -1,0 +1,364 @@
+﻿<strings>
+<s id="hi-1">Hi <d character="Player" suffix="..." /></s>
+<s id="hi-2">Hey <d character="Lara" />... There you are...</s>
+<s id="thank-heater">Thank you so much for fixing the heater... I just had the best shower ever...</s>
+<s id="sure-had">I'm absolutely sure you had...</s>
+<s id="huh">Huh?</s>
+<s id="never-resp">I mean... I went up there to tell you that it was ready, but you never responded... I assumed you noticed by yourself...</s>
+<s id="spaced-away">Oh... Sorry about that... I was... I mean... I just spaced away a little up there...</s>
+<s id="find-slab">Anyways... We don't have any time to lose... McGuffin was very clear... We have to find Goddess Slab!</s>
+<s id="no-hard">It won't be so hard, right? Didn't you read in his warning note that the thing is kept at the National Museum?</s>
+<s id="mistery">Well... There lies another mistery...</s>
+<s id="used-visit">I used to visit that museum countless times since I was a kid... I love the place and I know every piece exposed there...</s>
+<s id="never-saw">...and I never saw anything like the Goddess Slab at the museum... I know it's a quite obscure piece, but if it were there, I would know...</s>
+<s id="someone-knows">Maybe someone over there knows something...</s>
+<s id="thought-a">Sigh... I already thought about that... But the whole place is under heavy renovations and will be closed for a couple of months... I can't wait so much time...</s>
+<s id="website-1">Does it have a website?</s>
+<s id="website-2">A website?</s>
+<s id="existed">Yeah... Those things that existed in the internet before Mark Zuckerberg screwed everything, you know...</s>
+<s id="trust-inter">I don't trust much in the internet... I never even enabled a browser in the computer system...</s>
+<s id="wise">Well... That's wise, <d character="Lara" suffix="..." /> But sometimes we need to rely on the power of the web...</s>
+<s id="sit">Let's sit at the terminal and look for info about the museum...</s>
+<s id="okay">Okay... Time to some do team work...</s>
+<s id="intimacy">Oh, man... We'll be working very close now... If I want to start some intimacy with her, this is my chance...</s>
+
+<s id="TUTORIAL">TRY TO INCREASE LARA'S AROUSAL DURING THE RESEARCH SESSION TO ENABLE MORE ACTIONS.\nTHE RESULT OF SELECTED ACTIONS ON THE AROUSAL ARE RELATED TO HER CURRENT TRUST / CORRUPTION BALANCE.\n(DOES SHE LIKE YOU OR IS SIMPLY BECOMING MORE SLUTTY?)</s>
+
+<s id="spare-chair">Oh... I forgot I never added spare chairs to this room...</s>
+<s id="spare-chair-a">Please... Have a sit, milady...</s>
+<s id="spare-chair-a-1">Please... Have a sit, milady... I can operate the computer while standing...</s>
+<s id="spare-chair-a-t-1">Oh... A true gentleman... That's another trait about you I didn't know... Tee hee...</s>
+<s id="spare-chair-a-t-2">This is a nice chair...</s>
+<s id="spare-chair-a-c-1">Uhh... I don't think it will be pratical for you to operate the computer while standing... But... Whatever you say...</s>
+<s id="spare-chair-a-c-2">...</s>
+
+
+<s id="spare-chair-b">If we squeeze together, we both can sit...</s>
+<s id="spare-chair-b-t-1">Oh... It might be a little umconfortable... But... We... We can't lose more time seting up the place...</s>
+<s id="spare-chair-b-t-2">I... I think we can work like this...</s>
+<s id="spare-chair-b-c-1">Mmm... Nice idea, <d character="Player" suffix="..." /> We'll do it better working together, right?</s>
+<s id="spare-chair-b-c-2">This is more more comfortable than I thought, isn't?</s>
+
+<s id="spare-chair-c">I'll be the one operating... It's better if I sit at first...</s>
+<s id="spare-chair-c-1">Oh... Okay... Your work is... more important... I guess...</s>
+
+<s id="get-started">Let's get started now...</s>
+
+<s id="log-in-1">Okay.... I'll log in using my master account to enable the secure web browser...</s>
+<s id="log-in-2">Yes... Of course...</s>
+
+<s id="untraceable">Hum... A untraceable browser, using a non tracing search engine...</s>
+
+<s id="untraceable-a">Are you trying to hide visits to some 'dirty' services?</s>
+<s id="untraceable-a-1">You are not trying to hide visits to one of those 'dirty' pages, are you <d character="Lara" suffix="?" /></s>
+<s id="untraceable-a-c-1">I know what you're talking about Mr <d character="Player" />... It's what people like to do most in the internet, right?</s>
+<s id="untraceable-a-c-2">I never visited these things, but now that you talked about it I... I fell a bit curious...</s>
+<s id="untraceable-a-c-3">But first... I have a job to finish...</s>
+<s id="untraceable-a-c-4">Nice... I can give you some good bookmark sugestions later...</s>
+
+<s id="untraceable-a-t-1">What!? I... I don't know what you're talking about, <d character="Player" suffix="..." /></s>
+<s id="untraceable-a-t-2">I mean... I know, but... I never...</s>
+<s id="untraceable-a-t-3">...the automation company just installed the thing this way...</s>
+<s id="untraceable-a-t-4">Of course... Let's keep working...</s>
+
+<s id="untraceable-b">It's good to see you follow the online good practices...</s>
+<s id="untraceable-b-1">Good to see you follow the good practices for online activity...</s>
+<s id="untraceable-b-t-1">Oh... I.. I just asked the automation company for a very safe environment... I know how the internet can be dangerous...</s>
+<s id="untraceable-b-t-2">Clever girl...</s>
+<s id="untraceable-b-t-3">Thanks, <d character="Player" suffix="..." /></s>
+
+<s id="untraceable-b-c-1">Do I? Honestly, I couldn't care less... I can only see internet as a big waste of time...</s>
+<s id="untraceable-b-c-2">Oh... I see...</s>
+<s id="untraceable-b-c-3">The automation just installed the thing this way...</s>
+
+
+<s id="start">Anyways... Let's find about this new lead... Everything starts with some good online searches...</s>
+
+<s id="COMBINE">COMBINE TWO WORDS TO PERFORM A SEARCH\n(SOME SPECIAL COMBINATIONS MIGHT BE NOT OBVIOUS)</s>
+
+<s id="ckecked-link">I already checked this link... I don't think I'll find anything useful here...</s>
+
+<s id="museum-1">We got a hit...</s>
+<s id="museum-2">This is the National Museum website...</s>
+<s id="museum-3">Let's see if we can find any clue here...</s>
+
+<s id="museum-info-1">Okay... This seems to tell the history of the museum, famous visitors, generous donations made by the <d character="Lara" data="TXT_SURNAME" /> family, blah, blah, blah...</s>
+<s id="museum-info-2">I... I don't think we'll find important info in there...</s>
+
+<s id="museum-brexit-1">This is long article written by the museum director about the Brexit...</s>
+<s id="museum-brexit-2">Urrgh... Really? Nothing turns me off more than really this damned word...</s>
+
+<s id="museum-renovation-1">Here it says: 'Your museum is under intense renovation! In a couple of months you'll be able to witness a new experience, a thrilling way to experience History and Art, with new comfortable installations and...' whatever... whatever...</s>
+<s id="museum-renovation-2">Yeah... No new information in this link...</s>
+
+<s id="museum-gallery-1">'The virual gallery is also under virtual renovation!' Sigh... Really!?</s>
+<s id="museum-gallery-2">Yeah... I heard they received some new funding and are spending a lot...</s>
+
+<s id="museum-robery-1">This looks like a new article about a notorious robery that ocurred at the museum some years ago...</s>
+<s id="museum-robery-2">A robery? At the museum?</s>
+<s id="museum-robery-3">Yeah looks like some kind of activist group broke into the musem, stole some pieces, documents and graffitied angry political messages on the walls...</s>
+<s id="museum-robery-4">Whoah... I can't believe I never heard about this episode...</s>
+<s id="museum-robery-5">Looks like the case was kept as a secret at the time to not encourage more of the same incidents...</s>
+<s id="museum-robery-6">Hey... Look at this... They say just a few random valuables were stolen, some of high sentimental value like...</s>
+<s id="museum-robery-7">...an obscure piece from the private collection donated by Phillip McGuffin himself a hundred years ago!</s>
+<s id="museum-robery-8">Damn... That's why I never heard of the Goddess Slab at the musem...</s>
+<s id="museum-robery-9">It's good we solved the mistery, but... What now?</s>
+<s id="museum-robery-10">Well... They say the group identified itself as *Freedom Bulls...*</s>
+<s id="museum-robery-11">At least with that name we have a new lead... Maybe we can still find them...</s>
+<s id="museum-robery-12">Yeah... Let's hope the trail didn't get cold after all this time...</s>
+
+<s id="wiki-com-1">Wikipedia... This is the site where anyone can write about anything, right?</s>
+<s id="wiki-com-2">That definition covers about 95% of the internet, <d character="Lara" suffix="..." /></s>
+<s id="wiki-com-3">But is it reliable to get information from?</s>
+<s id="wiki-com-4-a-1">It's not exactly the Encyclopedia Britannica...</s>
+<s id="wiki-com-4-a-2">It's not exactly the Encyclopedia Britannica, you know...</s>
+<s id="wiki-com-4-a-3">Oh my God... You just remembered when my father gave me my first Britannica at my 8 years old birthday... So good memories...</s>
+<s id="wiki-com-4-a-4">_Jesus Christ..._</s>
+<s id="wiki-com-4-b-1">Only if you trust in the article sources and moderation...</s>
+<s id="wiki-com-4-b-2">Only if you trust and moderation, and care to check the sources... Otherwise...</s>
+<s id="wiki-com-4-b-3">Umm... I don't think we have much choice thi time...</s>
+<s id="wiki-com-4-b-4">At least they have fresh information, right?</s>
+
+<s id="wiki-slab-1">Well... Here it says the Goddess Slab is an obscure piece found by notorious explorer Phillip McGuffin during one of his expeditions in the late years of 19th century...</s>
+<s id="wiki-slab-2">Hum... Nothig much more than what I found written in his note...</s>
+<s id="wiki-slab-3">The article states that the piece was studied for several years by him and finally stored at the National Museum... It was kept in a reserved collection as requested by McGuffin himself... Therefore, there are'nt any pictures or depictions of the slab...</s>
+<s id="wiki-slab-4">I see... He knew there were some secrets hidden in the slab engraving and didn't want it to fall into the wrong hands...</s>
+<s id="wiki-slab-5">Wrong hands?</s>
+<s id="wiki-slab-a-1">Like the nazis?</s>
+<s id="wiki-slab-a-2">Tee hee... You're so funny, <d character="Player" suffix="..." /> We're not in an Indiana Jones movie, you know?</s>
+<s id="wiki-slab-b-1">Like some greedy tomb raiders?</s>
+<s id="wiki-slab-b-2">Maybe... I don't know... Although... I think the term 'tomb raider' is a little bit of offensive...</s>
+<s id="wiki-slab-6">Sigh... I don't think this article will help us that much...</s>
+
+<s id="vixen-v">Come on... <d character="Player" suffix="..." /> We don't have time for... this... now...</s>
+
+<s id="vixen-1">Oh, Lord... <d character="Player" suffix="..." /> What's this?</s>
+<s id="vixen-2">Well... This is what happens when you can't find the 'safe search' option in a search engine...</s>
+<s id="vixen-3">I didn't even know this new Vixen movie was called 'National Goddess'... It was sheer luck...</s>
+
+<s id="vixen-a-1">This girl... I feel like I saw her before...</s>
+<s id="vixen-a-2">Very good, <d character="Lara" suffix="..." /> You remember!</s>
+<s id="vixen-a-3">It's Riley... You saw her in that Vixen poster at the jail entrance... Isn't she amazing?</s>
+<s id="vixen-a-4">Well... She... She seems a nice girl and...</s>
+<s id="vixen-a-5">Yeah... Looks like I discovered another fan of this fine actress and this fine art, right?</s>
+<s id="vixen-a-6">I definetively have to show you some of her 'acting' techniques later...</s>
+
+<s id="vixen-b-1">Did you... Did you already know about this kind of...</s>
+<s id="vixen-b-2">Some of the most beautiful films ever made...</s>
+<s id="vixen-b-3">You know art, right? Look at this single shot... The lightintg... The composition...</s>
+<s id="vixen-b-4">I... I.. can'deny it's pretty in a certain way...</s>
+<s id="vixen-b-5">Yeah... Looks like I discovered another fan...</s>
+<s id="vixen-b-6">I definetively have to show you some of the 'acting' later...</s>
+
+<s id="wiki-bulls-1">We found them...</s>
+<s id="wiki-bulls-2">The article says that the Freedom Bulls are an international mercenary group that has been involved in several shady actions around the world like political assassinations, coups d'état and terrorits attacks...</s>
+<s id="wiki-bulls-3">Whoah... This is heavy...</s>
+<s id="wiki-bulls-4">Damnit... What do these kind of people would want with an artifact like the Goddess Slab?</s>
+<s id="wiki-bulls-5">They were probably hired to send a 'message' to someone important by attacking the museum...</s>
+<s id="wiki-bulls-6">But if they're really mercenaries, then the stolen pieces were probably a way they choose to make an extra profit during the main job...</s>
+<s id="wiki-bulls-7">Humm... It makes sense... The museum article says they only stole random pieces... An item stored in a reserved section probably looked valuable to thugs like them...</s>
+<s id="wiki-bulls-8">Yeah... I'm sure we will find the slab thing if we find these guys...</s>
+<s id="wiki-bulls-9">But how can one find where a group like this is hidden...</s>
+<s id="wiki-bulls-10">There are ways...</s>
+<s id="wiki-bulls-11">Here... In the comment section... Some anonymous dude posted an onion URL...</s>
+<s id="wiki-bulls-12">An onion? What gibberish is this?</s>
+<s id="wiki-bulls-13">It's a link that usuallly leads to a dark web page... And if there's a place we can find info on these guys, it's the dark web...</s>
+<s id="wiki-bulls-14">Then let's use it!</s>
+<s id="wiki-bulls-15">Well... We will need a special browser for that, and your system won't allow us install it...</s>
+<s id="wiki-bulls-16">Oh, no... Can't you do some of your tricks?</s>
+<s id="wiki-bulls-17">Sure... I have a flashdrive here with several tools... With physical access to the servers I can make use of it...</s>
+<s id="wiki-bulls-18">Humm... I just hope this will be the first trick you'll pull on my servers, right?</s>
+<s id="wiki-bulls-19">Oh... I... Yes... Of course!</s>
+<s id="wiki-bulls-20">I just need a minute... Excuse me...</s>
+
+<s id="no-results">There are no relevant results for the search '<d character="Player" data="TXT_DDG_0" /> <d character="Player" data="TXT_DDG_1" suffix="'" />...</s>
+
+<s id="f-1">Oh, man... The way we are close togheter at that terminal... I could feel her skin rubbing on me several times...</s>
+<s id="f-2">This is definetively a unique chance to see if I can get a personal reward for all this work...</s>
+<s id="f-3">But first I have to set up my portable Tor browser in this machine...</s>
+<s id="f-4">Done... Let's get back there...</s>
+<s id="f-5"><d character="Lara" suffix="?" /></s>
+<s id="f-6">Whoa... It seems she's still tired after the last trip...</s>
+<s id="f-7">Look at that... The Tarantino inside me is going crazy with this vision...</s>
+
+<s id="f-fail">No... This is not appropriate... We'd better just get back to work...</s>
+
+<s id="f-s-t-1"><d character="Player" suffix="!?"/> What... What are you doing?</s>
+<s id="f-s-t-2">I just noticed how your feet were suffering after all that hiking... I know a good technique to help you...</s>
+<s id="f-s-t-3">But... But...</s>
+<s id="f-s-t-4">Don't worry... I'll make you fell better in no time...</s>
+
+<s id="f-s-c-1"><d character="Player" suffix="..."/></s>
+<s id="f-s-c-2">I just noticed how your feet were suffering after all that hiking... I know a good technique to help you...</s>
+<s id="f-s-c-3">Humm... That's a very nice surprise...</s>
+<s id="f-s-c-4">Just relax... I'll make you fell better in no time...</s>
+
+<s id="f-a-1"><d character="Lara" suffix="..."/> Are you okay?</s>
+<s id="f-a-2">Oh... You're already back...</s>
+<s id="f-a-3">Sorry about this, <d character="Player" suffix="..."/> But those boots were killing me...</s>
+<s id="f-a-4">I didn't know my feet would suffer so much during these adventures...</s>
+
+<s id="OFFER">OFFER A MASSAGE</s>
+<s id="RESEARCH">GET BACK TO RESEARCH</s>
+
+<s id="f-o">Hey... I know how to handle with some pressure points that will make your feet as good as new...</s>
+
+<s id="f-o-t-1">You... You mean a...</s>
+<s id="f-o-t-2">Yeah... A good old massage... No tickling, I swear...</s>
+<s id="f-o-t-3">You're offering it so nicely... I... I think it's ok, then...</s>
+
+<s id="f-o-c-1">Umm... A foot massage... Are you sure you have the skill? You don't sound confident...</s>
+<s id="f-o-c-2">Yep... You'll fell great in no time...</s>
+<s id="f-o-c-3">Sure... Surprise me, then...</s>
+
+<s id="MASSAGE-TUT">Move *MOUSE* around to massage her feet\nTry to find tension points over her feet and press *SPACEBAR* to release it\nPRESS *Z* to switch feet</s>
+
+<s id="massage-end-1">Oh... Thank you, <d character="Player" suffix="..."/> I needed that... You don't stop showing new useful skills, do you?</s>
+<s id="massage-end-2">And there are a few more you still don't know...</s>
+<s id="massage-end-3">Tee hee... But now we must continue our research... You almost made me forget about it...</s>
+
+<s id="dw-1">Okay... We're set to swim into the dark web...</s>
+<s id="dw-2">We'll not like... Do something illegal, right?</s>
+<s id="dw-3">Don't worry... We won't... Even though I think nothing is technically illegal in place without law...</s>
+<s id="dw-4">But nothing is happening... Why is it taking so long?</s>
+<s id="dw-5">Yeah... These onion urls take ages to load...</s>
+<s id="dw-6">Yes! We found them!</s>
+<s id="dw-7">Sigh... Comic Sans?! Really?!</s>
+<s id="dw-8">Huh!?</s>
+<s id="dw-9">Oh... It's nothing... I'm just always surprised how these obscure web sites are always so hedious...</s>
+<s id="dw-10">Anyways... Let's see what we can find here...</s>
+
+<s id="bulls-a-1">"Wanna take over your newly independent nation? Decime those rebel forces annoying your shiny dictatorship? Or simply inspirate fear in your local population with a strong military presence? WE CAN HELP YOU!"</s>
+<s id="bulls-a-2">Well... Looks like even mercenary groups over the dark web now hire stupid marketing consultants...</s>
+<s id="bulls-a-3">Oh Lord... This is disgusting... I wonder how many unfortunate people has been suffering because of this group...</s>
+
+<s id="bulls-read">We already read this one...</s>
+<s id="bulls-b-1">Hey... Here it says they'll hold an auction of rare items the group gathered around the world...</s>
+<s id="bulls-b-2">Rare items... Could it be...</s>
+<s id="bulls-b-3">They list a variety of items here...</s>
+<s id="bulls-b-4">Some famous lost paintings... a list of international undercover spy names... a secret video of some hotshot enjoying a golden shower with russian prostitutes...</s>
+<s id="bulls-b-5">What the bloody hell is a golden shower?!?</s>
+<s id="bulls-b-qa-6">I... don't think you're ready to learn about that... yet...</s>
+<s id="bulls-b-qa-6-t">I don't think I want to know then... Thank you for sparing me, <d character="Player" suffix="..." /></s>
+<s id="bulls-b-qa-6-c">Whatever... It's not so hard to figure what it is...</s>
+<s id="bulls-b-qb-6">A fetish... You know... Warm... Liquid... Golden...</s>
+<s id="bulls-b-qb-6-t">Eeww... For God's sake, <d character="Player" suffix="..." /> I didn't need that information...</s>
+<s id="bulls-b-qb-6-c">Woah... There are really people into this kind of thing... Looks like I still have a lot to learn...</s>
+<s id="bulls-b-7">But, hey! Check this last item!</s>
+<s id="bulls-b-8">"A collection of rare historical artifacts from a secret collection of the National Musem"</s>
+<s id="bulls-b-9">That's it!! They still have the Goddess Slab!!</s>
+<s id="bulls-b-10">I can't believe we found it!! Now we just need a plan to take it back from them!!</s>
+<s id="bulls-b-11">Let's see if we can find more info here...</s>
+
+<s id="bulls-b-12">Well... The site says they are deployed in a mission at the 'Democratic Republic of Uswana', and the auction will happen there in a few days at the capital...</s>
+<s id="bulls-b-13">But this looks like some closed club thing... I don't think you can't just go there and try to be highest bidder...</s>
+<s id="bulls-b-14">I wouldn't want to make some illegal trade with this kind of people anyways... I'll go there and recover the Goddess Slab myself!!</s>
+<s id="bulls-b-15">But... Why did it have to be Uswana? The country is under some closed authoritarian government...</s>
+<s id="bulls-b-16">'Democratic Republic'... It's funny how often these words means the place it's neither a republic nor democratic...</s>
+<s id="bulls-b-17">I heard the security in the border is very tight, and getting illegaly into the country is impossible...</s>
+<s id="bulls-b-18">Damn... What can we do?</s>
+<s id="bulls-b-19">You'll need to fly there as a tourist in a comercial line... It means you won't be able to bring your guns there... And they also limit the amount of money tourists can bring in...</s>
+<s id="bulls-b-20">Once you get into the capital I can guide you on our search for these Freedom Bulls...</s>
+<s id="bulls-b-21">Sigh... Why this plan sounds so familiar?</s>
+<s id="bulls-b-22">Anyways... Why am I complaining?</s>
+<s id="bulls-b-23">It's already wonderful that we have a plan!! I'll buy tickets for next flight!!</s>
+<s id="bulls-b-24">Thank you so much, <d character="Player" suffix="..." /> I'd never be able to go so far without your help...</s>
+
+
+<s id="another-chance">Okay... That's it... I won't have another chance like this...</s>
+<s id="push-buttons">If I was able successfully push her buttons, then this is the chance to make it worth...</s>
+
+<s id="GROPE">GROPE HER</s>
+<s id="KISS">KISS HER</s>
+<s id="PUSH">PUSH HER HEAD DOWN</s>
+<s id="KEEP-DISTANCE">KEEP YOUR DISTANCE</s>
+
+<s id="kiss-1"><d character="Player" suffix="..." /></s>
+<s id="kiss-2">What am I doing... I... I shouldn't... I don't think I...</s>
+<s id="kiss-3">Hey... Just stop thinking for a moment...</s>
+<s id="kiss-4">You deserve a good time...</s>
+<s id="kiss-5">Just relax...</s>
+<s id="kiss-6">Oh, <d character="Player" suffix="..." /></s>
+<s id="kiss-7">Here... That chair suddenly feels comfortable again...</s>
+
+
+<s id="grope-1">Mmm... <d character="Player" suffix="..." /></s>
+<s id="grope-2">What are you doing? This is so wrong...</s>
+<s id="grope-3">No need to fake the indignation, <d character="Lara" suffix="..." /> I've been talking and watching you long enough to know you want this...</s>
+<s id="grope-4">But I... I... Mmmmm....</s>
+<s id="grope-5">Let's have some fun as a reward for the work done...</s>
+<s id="grope-6">Oh, <d character="Player" suffix="..." /></s>
+<s id="grope-7">Here... That chair suddenly feels comfortable again...</s>
+
+<s id="chair-1">Oh my God...</s>
+<s id="chair-2"><d character="Winston" suffix="..." /> The maid... They may come in any second and see us like this...</s>
+<s id="chair-3">Hey... Don't worry... They know we are working here... They wouldn't come here to interrupt our... concentration...</s>
+<s id="chair-4">Just enjoy the moment...</s>
+
+<s id="push-1"><d character="Player" suffix="?!?" /></s>
+<s id="push-2"><d character="Player" suffix="..." /> What... What are you doing?</s>
+<s id="push-3">Come on, <d character="Lara" suffix="..." /> I've been doing all the work you were supposed to do... Don't you think it's about time to give me a proper reward?</s>
+<s id="push-4">But... but...</s>
+<s id="push-5">You would still be lost at that jungle if it weren't for me... Those men would have made you their personal toy if I wasn't here...</s>
+<s id="push-6">... yes...  but... I...</s>
+<s id="push-7">You probably already noticed you still don't have the skill or the talent to succeed in this treasure hunt by yourself, right?</s>
+<s id="push-8">So... If you really want to be on par with the <d character="Lara" data="TXT_SURNAME" suffix="s" /> legacy, you better make sure I'm in my best shape to help you...</s>
+<s id="push-9">You'll start to do exactly what I say... And now I need some well deserved relief...</s>
+<s id="push-10">See what you have in front of you? Just take a good care of it....</s>
+
+<s id="bj-1">Nice...</s>
+<s id="bj-2">You'll need to come closer, <d character="Lara" suffix="..." /></s>
+<s id="bj-3">Good... Now put those lips of yours to some good use...</s>
+<s id="bj-4">What?</s>
+<s id="bj-5">This is too much...</s>
+<s id="bj-6-c-1">You don't need to fake such dignity...</s>
+<s id="bj-6-c-2">No, it's not too much... You don't need to fake such dignity... I know you want to taste it...</s>
+<s id="bj-6-m-1">Just stop thinking about it...</s>
+<s id="bj-6-m-2">Just stop thinking about it... You don't need to use your mind, only your mouth...</s>
+<s id="bj-7">I... I...</s>
+<s id="bj-8">Yeah... Good girl...</s>
+<s id="bj-9">Now... I know you can do even better than that, right?</s>
+<s id="bj-10">Yeah... You're displaying such a promising skill... Just start trying to go a little deeper...</s>
+<s id="bj-11">Much better...</s>
+<s id="bj-12">This is so good, <d character="Lara" suffix="..." /></s>
+<s id="bj-13">But I think there's still room form improvement...</s>
+<s id="bj-14">You can't? What do you mean?</s>
+<s id="bj-15">You can do anything with some willpower and a good training...</s>
+
+<s id="bj-fail-1">No... I can't go further than this... I... I have to go...</s>
+<s id="bj-fail-2">Wait... Where are you going...</s>
+<s id="bj-fail-3">Damn... I was so close... But I think her arousal weren't high enough...</s>
+
+<s id="ROUGH">GET ROUGH</s>
+<s id="BREAK">GIVE HER A BREAK</s>
+
+<s id="bj-r-1">I think I'll have to teach you how girls like you have to do it...</s>
+<s id="bj-r-2">Yeah... Just hang in there a little more... This just became as amazing as it gets....</s>
+<s id="bj-b-1">Okay... I'll give you  break this time...</s>
+
+<s id="bj-end-1">Yeah, babe... I'm almost there now...</s>
+<s id="bj-meal-1">I hope you're ready for a meal... Here it coooomes...</s>
+<s id="bj-meal-2">What are you doing... You're letting everything out...</s>
+<s id="bj-meal-3">Yeah... This is how you do it... It has some much needed protein and I'm sure you loved the taste...</s>
+<s id="bj-face-1">It's time for some skin care, <d character="Lara" suffix="..." /> Here it coooomes...</s>
+<s id="bj-face-2">What a nice view... I could definetively get used to this...</s>
+
+
+<s id="FACE">GIVE HER A FACIAL</s>
+<s id="MEAL">GIVE HER A MEAL</s>
+
+<s id="bj-leave-1">Is... Is this enough? I... I need...</s>
+<s id="bj-leave-2">Sure... You did good... I'm in perfect shape again... And you need to get ready for your next travel, right? We can talk later...</s>
+<s id="bj-leave-3">I... I need to go now...</s>
+
+<s id="let-go-1">That's okay, <d character="Lara" suffix="..." /></s>
+<s id="let-go-2">......</s>
+<s id="let-go-3">Uhh... We should get some rest now, don't you think...</s>
+<s id="let-go-4">Oh... I'm... I'm sorry... I usually don't act like... like that...</s>
+<s id="let-go-5">Don't worry... You worked a lot today and must be very tired...</s>
+<s id="let-go-6">I just wanted us to... I... I mean... Thank you and... have a good night...</s>
+<s id="let-go-7">Sigh... Maybe staying away from her is the best course of action in this job... I should enjoy my deserved night of sleep now...</s>
+
+<s id="sleep">Well... That was great... And something she'll never forget... But I don't think we'll be doing more work for today... I should get some sleep if I don't have nothing else to do...</s>
+
+</strings>

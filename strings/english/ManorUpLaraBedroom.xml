@@ -1,0 +1,98 @@
+﻿<strings>
+<!-- SEQUENCE - CAMERA LOOK -->
+<!-- Player -->
+<s id="door">This is the door to <d character="Lara" data="TXT_NAME" />'s bedroom... I wonder how she dresses for bed...</s>
+<s id="keyhole">It's not a good time to bother her, but there's a big and inviting keyhole here I could use to...</s>
+<!-- Lara -->
+<s id="need-something">Uhh... <d character="Player" data="TXT_NAME" />? Do you need something?</s>
+<!-- Player -->
+<s id="wtf">What the...</s>
+<s id="where">Miss <d character="Lara" data="TXT_SURNAME" />? Where? How...</s>
+<!-- Lara -->
+<s id="up-here">Up here... Camera speaker...</s>
+<!-- Player -->
+<s id="of-course">Oh... Of course... I...</s>
+<s id="lost">I'm a... little lost... I was looking for my room and...</s>
+<!-- Lara -->
+<s id="down-stairs">Down stairs... West side... Second door...</s>
+<!-- Player -->
+<s id="remember">Uhmm... Now I rebemeber where to...</s>
+<!-- Lara -->
+<s id="good-night">Yeah... Good night...</s>
+<!-- Player -->
+<s id="bitch">Well... That was awkward...</s>
+<!-- Player -->
+<s id="shes-watching">She's watching me right now through that camera... I'd better leave the door alone for now...</s>
+
+<!-- SEQUENCE - GET HER OUT OF THE ROOM -->
+<!--- Plalyer -->
+<s id="get-out-room">Okay... I need to take a personal look at this bedroom... But first let's check if she's here...</s>
+<s id="u-there">Uhh... Miss <d character="Lara" data="TXT_SURNAME" />? Are you there?</s>
+<!-- Lara -->
+<s id="yes-wrong">Huh? Yes... Something wrong?</s>
+<!-- Player -->
+<s id="preparing-leave">Oh.. I...  just thought you were preparing to leave and follow the trail of that old missing explorer we discovered on your map...</s>
+
+<!-- Lara -->
+<s id="collecting">But... I am... collecting my tools, double checking my notes, packing books, and...</s>
+
+<!-- Player -->
+<s id="look">Miss <d character="Lara" data="TXT_SURNAME" />... I don't want this to sound like me telling you how to do your thing...</s>
+<s id="field">But I knew people who used to do this kind of work in the field... And they all would say how important it is to chill a bit before leaving... To clear the mind and be ready to explore and improvise...</s>
+
+<!-- Lara -->
+<s id="never-thought">Oh... I... never thought about that, but... It makes sense...</s>
+<s id="pool">I could relax a bit in the pool area... It's been ages since I last went there...</s>
+<!-- Player -->
+<s id="excellent">Seems like an excellent idea...</s>
+<!-- Lara -->
+<s id="prepare">Yeah... Would you kindly ask <d character="Winston" data="TXT_NAME" /> to prepare the pool for me as soon as you can?</s>
+<!-- Player -->
+<s id="dont-sweat">Of course... Don't sweat it...</s>
+<!-- Lara -->
+<s id="sweating">Oh, Lord... No more sweating...</s>
+<s id="i-mean">I mean... Thank you for the suggestion...</s>
+<!-- Player -->
+<s id="my-job">Just doing my job...</s>
+<!-- Lara -->
+<s id="trash-bag">Before you go... Would you kindly take the trash bag in front of my door to the depot? I needed to get rid of some rubbish in my bedroom before leaving...</s>
+
+<!-- Player -->
+<s id="trash-bag-ok">Uuhh... Of course... See you later...</s>
+<s id="trash-bag-comment">Great... Now she thinks I'm the garbage man...</s>
+<!-- Player -->
+<s id="lure">But, whatever... That will lure her out of this bedroom! I just need to talk to <d character="Winston" data="TXT_NAME" />...</s>
+
+<!-- SEQUENCE - DOOR LOCKED -->
+<s id="clear-1">No response... Awesome! The path is clear!</s>
+<s id="clear-2">I just need to...</s>
+<s id="locked-1">Oh, come on... She locked the door... Doesn't she trust me?</s>
+<s id="locked-2">Damn... Maybe the maid can help me... She should have a key to clean the room...</s>
+<s id="locked-3">Still locked... I should check with the maid for a spare key...</s>
+
+<s id="look-winston">I should talk to <d character="Winston" data="TXT_NAME" /> first as she asked...</s>
+
+<s id="not-now">I can't do much about this door right now...</s>
+
+<!-- Trash bag -->
+<s id="trash-wtf">Why is there a trash bag lying out here? <d character="Mia" data="TXT_NAME" /> should stop dusting the first floor and check this mess...</s>
+
+<s id="trash-cant-believe">I can't believe I'm considering putting this in my sparkling clean inventory...</s>
+<s id="PICK-IT-UP">PICK IT UP</s>
+<s id="NOPE">NOPE</s>
+
+<s id="time-get-in">Okay...  have the key and <d character="Lara" data="TXT_NAME" /> is not around... It's time to investigate this bedroom...</s>
+
+<s id="fix-heater"><d character="Lara" /> asked to fix the water heater... I'd better do it first before talking to her...</s>
+<s id="tell-shower-1">Well... Let's knock and tell <d character="Lara" /> that her shower is ready...</s>
+<s id="tell-shower-2">Uhh... Hello...</s>
+<s id="tell-shower-3"><d character="Lara" suffix="?" /></s>
+<s id="tell-shower-4">Damn... Why she won't answer?</s>
+<s id="tell-shower-5">Hey... Looks like the door is open... Should I...</s>
+<s id="tell-shower-6">Well... She explicity asked to come here and tell her when the thing is fixed... I'm not backing out now...</s>
+
+<s id="GET-IN">GET IN</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+<s id="bother-research">I'd better not bother her now... I should wait for her at the computer terminal when I'm ready to start the research for the next clue...</s>
+</strings>

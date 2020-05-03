@@ -1,0 +1,50 @@
+<strings>
+<s id="start-1">Hello?</s>
+
+<s id="start-2">You again!? Didn't your heard what I said earlier? Are you deaf or dumb?</s>
+<s id="start-3">Excuse me, sir... I... I remembered that I actually scheduled a meeting for today...</s>
+<s id="start-4">Really... Such an airhead, huh...</s>
+<s id="start-5">Would you check it again for me, please? My name is <d character="Player" data="TXT_MEETING_NAME" suffix="..." /></s>
+<s id="start-6">Sigh... Okay... Keep your pants on...</s>
+
+<s id="start-7">Humm... I can see a scheduled meeting with your name on the system... Miss <d character="Player" data="TXT_MEETING_NAME" suffix="," /> right?</s>
+<s id="start-8">Yes... That's me...</s>
+<s id="start-9">But... you're a little early, ain't you...</s>
+<s id="start-10">I... didn't want to make anyone wait...</s>
+
+<s id="start-11">Such well-mannered girl... But the boss hasn't arrived yet...</s>
+<s id="start-12">Oh... Don't you a have waiting room or something...</s>
+<s id="start-13">Sigh... If I let you enter, will you behave while waiting for the boss there?</s>
+<s id="start-14">Oh... Yes... I will... I promise...</s>
+<s id="start-15">Yeah... You better do... for your own good...</s>
+<s id="start-16">I think I can let you in, then...</s>
+<s id="start-17">Over here...</s>
+
+<s id="start-18">You can wait here...</s>
+<s id="start-19">Thank you, sir...</s>
+
+<s id="in-1-h">I read in the system that you're a local girl supposed to work as a hostess in the auction, right?</s>
+<s id="in-2-h">Oh... Yes, I am...</s>
+<s id="in-3-h">So your good looks really fooled me... I know all girls in this neighborhood are nothing but trashy junkies and trouble makers...</s>
+<s id="in-4-h">You should know we're all getting tired of your kind here... The office door is locked so don't be tempted to get in there to steal shit that you can trade for dope...</s>
+<s id="in-5-h">...........</s>
+<s id="in-6-h">Now stay right there until the boss arrives...</s>
+<s id="in-7-h">Damn it... I knew these horrible men wouldn't give it a rest to a girl trying to live out of an honest work...</s>
+<s id="in-8-h">There must be some clues at that office... I need to find a way in before this boss arrives...</s>
+<s id="in-9-h">You should be very careful, <d character="Lara" suffix="..." /> Things will get really ugly if they find you snooping around...</s>
+<s id="in-10-h">I... I'll try...</s>
+
+<s id="in-1-u">I noticed that I don't have the security clearance to read about your meeting in the system... It means you're someone very important... or someone in deep trouble...</s>
+<s id="in-2-u">Oh... I... I am just a...</s>
+<s id="in-3-u">Oh, no thank you... I'm just the doorman... The less I know, the better is the prospect of my quality of life...</s>
+<s id="in-4-u">Do you want coffe? Tea?</s>
+<s id="in-5-u">Oh... No, thank you...</s>
+<s id="in-6-u">Make yourself at home... Whatever you're here for, I'm sure the boss will like to see you...</s>
+<s id="in-7-u">Looks like the plan worked pretty well... I've never been treated so politely during this adventure......</s>
+<s id="in-8-u">I just wonder what he meant with 'someone in deep trouble'...</s>
+<s id="in-9-u">Maybe it's better to not know, right?</s>
+<s id="in-10-u">Yeah... You're probably right...</s>
+
+
+
+</strings>

@@ -1,0 +1,38 @@
+﻿<strings>
+<s id="intro">Do your job as commanded</s>
+<s id="intro-desc">Do your job as commanded</s>
+<s id="explore-manor">Explore the manor to find new opportunities</s>
+<s id="explore-manor-desc">Explore the manor to find new opportunities</s>
+<s id="unlock-computer">Find a way to unlock the computer terminal</s>
+<s id="unlock-computer-desc">Find a way to unlock the computer terminal</s>
+<s id="home-automation-pin">Home automation</s>
+<s id="home-automation-pin-desc">Find the home automation system security PIN and check the security cameras</s>
+<s id="sleep">Get some sleep</s>
+<s id="sleep-desc">Find the manor staff quarters and take a nap</s>
+<s id="sleep2">Get some sleep</s>
+<s id="sleep2-desc">It's time for a well deserved sleep</s>
+<s id="lara-out-room">Get <d character="Lara" data="TXT_NAME" /> out of her bedroom</s>
+<s id="lara-out-room-desc">Find a way to get <d character="Lara" data="TXT_NAME" /> out of her bedroom and snoop inside the place</s>
+<s id="investigate-room">Investigate <d character="Lara" data="TXT_NAME" suffix="'s" /> bedroom</s>
+<s id="investigate-room-desc">Investigate <d character="Lara" data="TXT_NAME" suffix="'s" /> bedroom and seize all opportunities to influence her adventure</s>
+<s id="wait-at-computer">Wait for <d character="Lara" data="TXT_NAME" /> at the computer terminal</s>
+<s id="wait-at-computer-desc">Wait for <d character="Lara" data="TXT_NAME" /> to leave at the computer terminal</s>
+<s id="enter-village">Find a way into the village</s>
+<s id="enter-village-desc">Find a way into the village</s>
+<s id="explore-village">Explore the village</s>
+<s id="explore-village-desc">Explore the village to find about the remains of Phillip McGuffin</s>
+<s id="free-elder">Free the village elder</s>
+<s id="free-elder-desc">Free the village elder</s>
+<s id="recover-seal">Recover the Goddess Seal</s>
+<s id="recover-seal-desc">Recover the Goddess Seal from the security lieutenant</s>
+<s id="prepare-return">Prepare for <d character="Lara" data="TXT_NAME" suffix="'s" /> return</s>
+<s id="prepare-return-desc"><d character="Lara" data="TXT_NAME" /> is coming back. Find Winston and give him the news.</s>
+<s id="mia-shrine">Mia's shrine</s>
+<s id="mia-shrine-desc">Find a piece for Mia's shrine</s>
+<s id="steamy-shower">Steamy shower</s>
+<s id="steamy-shower-desc">Help <d character="Lara" data="TXT_NAME" /> on her steamy shower</s>
+<s id="uswana-door">Find a way to infiltrate the Freedom Bulls headquarters</s>
+<s id="uswana-door-desc">Find a way to infiltrate the Freedom Bulls headquarters</s>
+<s id="uswana-inside">Find the Goddess Slab</s>
+<s id="uswana-inside-desc">Find the Goddess Slab inside the the Freedom Bulls headquarters</s>
+</strings>

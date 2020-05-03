@@ -1,0 +1,57 @@
+﻿<strings>
+<!-- Lara -->
+<s id="look-crack">Hey... Look at that big crack in the wall... I think I can enter the village through it...</s>
+<!-- Player -->
+<s id="dangerous">It might be dangerous, <d character="Lara" data="TXT_NAME" />... We can't see what's in the other side of the wall...</s>
+<!-- Lara -->
+<s id="crocodile">What? Do you think they'll have a crocodile pit or something like that on the other side?</s>
+<!-- Player -->
+<s id="not-exactly">Well... Not exactly this, but...</s>
+<!-- Lara -->
+<s id="concern">I appreciate your concerns... But I can't hear nothing dangerous from here... And I really need to get in...</s>
+<s id="JUMP">JUMP OVER THE CRACK</s>
+<s id="NOT-NOW">NOT NOW</s>
+<!-- Player -->
+<s id="look-waste-time">No time to waste... Let's do this</s>
+<s id="u-there"><d character="Lara" data="TXT_NAME" />... Do you copy? Are you sure about this?</s>
+<s id="looks-clear">Yes... The surroundings looks clear from here...</s>
+<!-- Lara -->
+<s id="im-in">I'm in...</s>
+<!-- Player -->
+<s id="croc-around">Any crocodiles around?</s>
+<!-- Lara -->
+<s id="very-funny">Very funny... As I said, there are no threaths around and...</s>
+<s id="wait">Wait...</s>
+<s id="oh-no">Oh no...</s>
+
+<!-- Guard -->
+<s id="think-doing">What the fuck you think you're doing, girl?</s>
+<!-- Lara -->
+<s id="find-entrance">I... I couldn't find the entrance to the village... and then... I... I...</s>
+<!-- Guard -->
+<s id="trouble">You are in serious trouble... The village is under curfew and we don't tolerate sneaky people trying to get in or out...</s>
+<s id="jail">Doing some time in our criminal depot might teach something about respecting the law...</s>
+<!-- Lara -->
+<s id="no-please">No please... I'm sorry...</s>
+<!-- Guard -->
+<s id="come-now">Stop stalling... Come... Now!</s>
+<!-- Guard -->
+<s id="not-cool">Girl... _This... is... not... cool... _</s>
+<!-- Lara -->
+<s id="both-girls">Yeah... Let us both be girls now, you bugger...</s>
+<!-- Player -->
+<s id="pain">Damn... I felt his pain all the way over here...</s>
+<!-- Lara -->
+<s id="thanks-tip">Thanks for the tip, <d character="Player" data="TXT_NAME" />... Now, let's go into the village!</s>
+
+<!-- Guard -->
+<s id="stupid-bitch">Stupid bitch... Did you really thought you could pull that trick on me? I hope this teached you some respect...</s>
+<s id="sleep">Sleep, now...</s>
+<s id="home">_When you wake up, you'll be already living in your new home..._</s>
+
+<!-- Player -->
+<s id="nothing-this-way">You won't find nothing but dense jungle down this way, <d character="Lara" data="TXT_NAME" />...</s>
+<!-- Lara -->
+<s id="thanks-warn">Thanks for the warning, <d character="Player" data="TXT_NAME" />...</s>
+
+</strings>

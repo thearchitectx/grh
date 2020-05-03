@@ -1,0 +1,721 @@
+<strings>
+<s id="start-1">Here am I again...</s>
+<s id="start-2">This place is huge... I wonder if she actually needs all this space...</s>
+<s id="start-3">At least I was invited here this time so I won't need to sneak around...</s>
+<s id="start-4">There she is... Already working on her couch... Let's check her out...</s>
+<s id="start-5">Looks like she didn't notice I came in...</s>
+<s id="start-6">Damn... Those curves... She has a really nice shape...</s>
+<s id="start-7">I wonder when she will realize the real dangers of wandering alone in distant locations displaying this body...</s>
+<s id="start-8">Huhh... What's up, <d character="Lara" suffix="?" /></s>
+<s id="start-9">Oh... Hi, <d character="Player" suffix="..." /> There you are...</s>
+<s id="start-10">I was already trying to figure out the slab but I think we'll really gonna need McGuffin's books...</s>
+<s id="start-11">You got the book I asked, right?</s>
+<s id="start-12">Sure... Let's see...</s>
+
+<s id="start-book-1">I got this one... *<d character="Player" data="TXT_CH5_BOOK_1" suffix="..." />*</s>
+<s id="start-book-2">I also brought this one... *<d character="Player" data="TXT_CH5_BOOK_2" suffix="..." />*</s>
+
+<s id="start-book-wrong-1">Uuuhh... I don't think this one will be much useful in the translation of the slab...</s>
+<s id="start-book-wrong-2">Ummm... This one won't help much...</s>
+<s id="start-book-right">Yes... This is the one I need... I knew I could count on you for this, <d character="Player" suffix="..." />  You're always so helpful...</s>
+
+<s id="start-book-fert-1">I didn't know you were into this kind of stuff... Looks like old school hentai...</s>
+<s id="start-book-fert-2">Oh... You found that book... It's... It's... kind of embarassing...</s>
+<s id="start-book-fert-3">What do you mean? It's an awesome piece...</s>
+<s id="start-book-fert-4">Check this out...</s>
+<s id="start-book-fert-5">I... I mean... I know the Goddess is a symbol of fertility but...</s>
+<s id="start-book-fert-6">McGuffin didn't need to fill the book with all these... explicit... pictures...</s>
+<s id="start-book-fert-7">Nah... I would be much more into History if all books were illustrated like this...</s>
+<s id="start-book-fert-8">Yeah... Let's... keep it here... It... might become useful...</s>
+
+<s id="start-book-fail-1">So... These are the ones you got?</s>
+<s id="start-book-fail-2">Come on, <d character="Player" suffix="..." /> The book I really need is called *<d character="Player" data="book-3" />*... I tought at this point you'd be able to guess that...</s>
+<s id="start-book-fail-3">Sigh... Looks like I missed that one... I'll go fetch it for you now... Just a second...</s>
+<s id="start-book-fail-4">Done... Here's the book you asked for...</s>
+
+<s id="start-book-end-1">Well... It's time to start working on slab...</s>
+<s id="start-book-end-2">I'll need your help again, <d character="Player" suffix="..." /></s>
+<s id="start-book-end-3">Sure thing...</s>
+
+
+<s id="work-1">Okay... I think the writings on the slab are just a short poem about the daily life of a commoner who lived in the Andes civilization...</s>
+<s id="work-2">And now that we have the translation book, we can use it create a map to the temple...</s>
+<s id="work-3">I don't get it... How can you draw a map by just reading the story of an ancient dude?</s>
+<s id="work-4">That cave McGuffin got lost inside is like a dungeon... There's probably a unique sequence of directions encoded in the poem that will guide us through it...</s>
+<s id="work-5">I believe each one of these verses has a clue to which one of the paths we should choose inside the tunnels in order to find the temple...</s>
+<s id="work-6">Humm... That's exactly the kind of bullshit the Dungeon Master would come up with...</s>
+<s id="work-7">Who!?</s>
+<s id="work-8">Oh... Nobody... Forget about it...</s>
+<s id="work-9">Let's just work the the slab, right? What kind of clue you can read on it?</s>
+
+<s id="work-a-1">Okay... Let's see...</s>
+<s id="work-a-2">The first verses can be translated to: *The villager wakes up and walks toward the sunrise...*</s>
+<s id="work-a-3">I wonder what direction does it mean...</s>
+<s id="work-a-4">Sunrise... Obvisouly it says to go EAST after entering the cave...</s>
+<s id="work-a-5">Oh... Of course! Well done, <d character="Player" suffix="..." /></s>
+<s id="work-a-6">Hum... I don't think so... Let me guess...</s>
+<s id="work-a-7">It talks about the sunrise, so it probably means to go EAST after entering the cave...</s>
+<s id="work-a-8">Oh... Sure... Whatever...</s>
+
+<s id="work-b-1">Okay... We start going EAST, then...</s>
+<s id="work-b-2">...the next verses can be translated to: *He reaches the river and turn left to the farms...*</s>
+<s id="work-b-3">I wonder what direction does it mean...</s>
+<s id="work-b-4">If you're facing east and then turn left, then it means to go NORTH...</s>
+<s id="work-b-5">Nice one, <d character="Player" suffix="..." /></s>
+<s id="work-b-6">Are you sure? Doesn't make much sense...</s>
+<s id="work-b-7">I believe... turning left while facing east probably means to go NORTH...</s>
+<s id="work-b-8">Oh... Sure... Whatever...</s>
+
+<s id="work-c-1">Okay... We're going NORTH, then...</s>
+<s id="work-c-2">...the next verses can be translated to: *He works the whole day follow the sun again as it goes down...*</s>
+<s id="work-c-3">I wonder what direction does it mean...</s>
+<s id="work-c-4">Following the sunset obviously means to go WEST this time...</s>
+<s id="work-c-5">Exactly! You got this one, <d character="Player" suffix="..." /></s>
+<s id="work-c-6">Hum... I don't think so... Let me guess...</s>
+<s id="work-c-7">It says about following the sunset... so it probably means go WEST this time...</s>
+<s id="work-c-8">Oh... Sure... Whatever...</s>
+
+<s id="work-d-1">Okay... Now we're going WEST, then...</s>
+<s id="work-d-2">...the final verses can be translated to: *He reachs a crossroad and turn right hearing the Goddess call...*</s>
+<s id="work-d-3">I wonder what direction does it mean...</s>
+<s id="work-d-4">If you're facing west and then turn right, then it means to go NORTH again...</s>
+<s id="work-d-5">Nice one, <d character="Player" suffix="..." /></s>
+<s id="work-d-6">Are you sure? Doesn't make much sense...</s>
+<s id="work-d-7">I believe... turning right while facing west probably means to go NORTH...</s>
+<s id="work-d-8">Oh... Sure... Whatever...</s>
+
+<s id="NORTH">North</s>
+<s id="EAST">East</s>
+<s id="WEST">West</s>
+<s id="SOUTH">South</s>
+
+<s id="work-done-1">I... I think that's it... We're so close now...</s>
+<s id="work-done-2">If we follow this sequence of directions back at the village cave... We'll find the temple!!</s>
+<s id="work-done-fail-1">You didn't helped as much as I expected today, though...</s>
+<s id="work-done-fail-2">I pretty much did most of the work myself... I expected more from you, <d character="Player" suffix="..." /></s>
+<s id="work-done-fail-3">Uhh... Good for you... I think?</s>
+
+<s id="work-done-3">Oh my God, <d character="Player" suffix="..." /> Thank you so much...</s>
+<s id="work-done-4">As always, your help was crucial... I don't know what I'd do without you...</s>
+
+<s id="work-done-5">Yeah... That's it... If I want to seize the opportunity, this is the time...</s>
+<s id="work-done-6">I feel like this is a very important decision...</s>
+
+<s id="KISS">KISS HER</s>
+<s id="CORR">PUT YOUR HAND IN HER CROTCH</s>
+<s id="MIND">FORCE HER HAND ON YOUR CROTCH</s>
+<s id="NOPE">DO NOT GET INVOLVED</s>
+
+<s id="s-nope-1">Uhh... I think I should go now, <d character="Lara" suffix="..." /></s>
+<s id="s-nope-2">You... You want to leave?</s>
+<s id="s-nope-3">Yeah... It's getting late... Don't you think?</s>
+<s id="s-nope-4">Oh... I....... Okay... I call you tomorrow then...</s>
+<s id="s-nope-5">Well... I think I disappointed her, but I prefer not get involved...</s>
+<s id="s-nope-6">I'd better just have some good sleep... There's probably more work to do tomorow...</s>
+
+
+<s id="s-kiss-pet">Choose a pet name for <d character="Lara" /></s>
+
+<s id="s-kiss-1">Oh <d character="Player" suffix="..." /></s>
+<s id="s-kiss-2">I've been waiting so much for this...</s>
+<s id="s-kiss-2-a">I wanted so much to kiss you again...</s>
+<s id="s-kiss-3">No one ever cared about me like the way you do...</s>
+<s id="s-kiss-4">I just treat you exactly how you deserve, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-kiss-4-v">I'm sorry for the way I talked with you before...</s>
+<s id="s-kiss-5">..........</s>
+<s id="s-kiss-6">... I just want... to be with you now...</s>
+<s id="s-kiss-7">Let's just enjoy the moment... After so much nonstop work... We both need this break...</s>
+<s id="s-kiss-8">I... I want you... I want you... inside me...</s>
+<s id="s-kiss-9">I love the way said it... So classy... but at the same time...</s>
+<s id="s-kiss-10">Oh, <d character="Player" suffix="..." /> Please, don't tease me...</s>
+<s id="s-kiss-9-v">Is this the right time for you, <d character="Lara" data="TXT_PET_NAME" suffix="?" /></s>
+<s id="s-kiss-10-v">The perfect time... the perfect place... the perfect partner...</s>
+<s id="s-kiss-11">Well... Then your wish is my command...</s>
+<s id="s-kiss-12">Wait... Sit here for minute...</s>
+<s id="s-kiss-13">Huh!?</s>
+<s id="s-kiss-14">Hey... Where are you going? You're not running away from me, are you?</s>
+<s id="s-kiss-15">No, silly... Just be patient...</s>
+<s id="s-kiss-16">What the hell is she doing?</s>
+<s id="s-kiss-17">I wonder if...</s>
+<s id="s-kiss-18">Here I come...</s>
+<s id="s-kiss-19">Whoah...</s>
+<s id="s-kiss-20">Tee hee... I always wanted to use this in a special occasion...</s>
+<s id="s-kiss-21">And I think this moment is perfect...</s>
+<s id="s-kiss-22">It's an amazing surprise... I can assure you that...</s>
+<s id="s-kiss-23">You look gorgeus...</s>
+<s id="s-kiss-24">Thank you, <d character="Player" suffix="..." /></s>
+<s id="s-kiss-25">Come here... I need to see this up close...</s>
+<s id="s-kiss-26">Oh, <d character="Player" suffix="..." /> I never thought I'd become attached to someone like this in such a short time...</s>
+<s id="s-kiss-27">But you... You're special... and I... I'm so glad you're here with me...</s>
+<s id="s-kiss-28">Check this out... The fierce adventurer <d character="Lara" /> <d character="Lara" data="TXT_SURNAME" /> saying I'm special...</s>
+<s id="s-kiss-29">Well... I can't deny that I've been dreaming about being here with you since day one...</s>
+<s id="s-kiss-30">I hope you were not somehow stalking me during these days...</s>
+<s id="s-kiss-31">Oh... Of course, not... Definetively no hacking nor stalking...</s>
+<s id="s-kiss-32">Tee hee... I'll try my best to believe you... I heard there's something shady about your past, Mister <d character="Player" suffix="..." /></s>
+<s id="s-kiss-33">But... somehow... it made me even more attracted to you... Some girls like bad boys, you know...</s>
+<s id="s-kiss-34">Nah... You have something back here that's much more attractive, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-kiss-35">Now you're starting to get really naughty, Mister <d character="Player" suffix="..." /></s>
+<s id="s-kiss-36">Let me show you my other qualities...</s>
+<s id="s-kiss-37">What do you think of this, Mister <d character="Player" suffix="?" /></s>
+<s id="s-kiss-38">I feel like I'm about to explore the most beautiful uncharted territory...</s>
+<s id="s-kiss-39">Then come, explorer...</s>
+<s id="s-kiss-40">I love the lingerie, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> But it's time to get it out of the way...</s>
+<s id="s-kiss-41">You are too damn hot, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-kiss-42">I want to feel your touch, <d character="Player" suffix="..." /></s>
+<s id="s-kiss-43">_Mmmnnghh....... <d character="Player" suffix="..........." />_</s>
+<s id="s-kiss-44">Hey... Looks like I found the treasure chamber...</s>
+<s id="s-kiss-45">Do you like this, <d character="Lara" data="TXT_PET_NAME" suffix="?" /></s>
+<s id="s-kiss-46">mmm... yeaaahhh.....</s>
+<s id="s-kiss-47">I can feel it by the way everything is soaked down here...</s>
+<s id="s-kiss-48">But I think it's time to give you the real thing...</s>
+<s id="s-kiss-49">I'm ready for you, <d character="Player" suffix="..." /></s>
+<s id="s-kiss-50">Whoah... It's still hard to believe that I'm on your bed... with you...</s>
+<s id="s-kiss-51">I... I just hope we can... do this... many more times...</s>
+<s id="s-kiss-52">I think we can spend a few months here in this bedroom after the adventure is over...</s>
+<s id="s-kiss-53">I'd love it... And I can see how the idea 'excites' you too...</s>
+<s id="s-kiss-54">Well... Let me show you how this excitement feels like...</s>
+<s id="s-kiss-55">Oh my God... I can feel the heat when it touches my skin... Can I hold it?</s>
+<s id="s-kiss-56">Of course... Why is it even a question?</s>
+<s id="s-kiss-57-v"><d character="Player" suffix="," />I... I'm a little afraid if... if this will fit in me...</s>
+<s id="s-kiss-58-v">Don't worry, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> The first time might be a little difficult, but I'll do it in the nice and gentle way you deserve...</s>
+<s id="s-kiss-57">Oh my... Please go easy on me with this, <d character="Player" suffix="..." /></s>
+<s id="s-kiss-58">Don't worry, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> I'll go nice and slow with you...</s>
+<s id="s-kiss-57-a">Oh my... I remember this guy here making me lose my breath last time...</s>
+<s id="s-kiss-58-a">Don't worry, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> I'll go nice and slow with you...</s>
+<s id="s-kiss-59">Here... Let me show you...</s>
+<s id="s-kiss-60">Oh my God... Oh my God... Oh my God...</s>
+<s id="s-kiss-61">Are you ready, <d character="Lara" data="TXT_PET_NAME" suffix="?" /></s>
+<s id="s-kiss-62">Yes.... I want you...... please.....</s>
+<s id="s-kiss-61-v">Are you sure you're ready for this, <d character="Lara" data="TXT_PET_NAME" suffix="?" /></s>
+<s id="s-kiss-62-v">Yes... I want... with you...</s>
+<s id="s-kiss-63">Then let's make it happen...</s>
+<s id="s-kiss-64">Oh, <d character="Player" suffix="..." /></s>
+<s id="s-kiss-65">I know, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> I know...</s>
+<s id="s-kiss-66">Come here...</s>
+<s id="s-kiss-65-v">Are you okay, <d character="Lara" data="TXT_PET_NAME" suffix="?" /></s>
+<s id="s-kiss-66-v">Thank you so much <d character="Player" suffix="..." /> You made this a perfect moment...</s>
+<s id="s-kiss-67">Oh, <d character="Player" suffix="..." /> Oh, <d character="Player" suffix="..." /> I'm going, to... I'm going to... mmmmmmmnghh...</s>
+<s id="s-kiss-68">Come on, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> Let yourself go...</s>
+<s id="s-kiss-69">Oh my... I never felt so good in my whole life......</s>
+<s id="s-kiss-70">You'd better get used to the felling... There's from where it came from...</s>
+<s id="s-kiss-71">But think my turn is coming......</s>
+<s id="s-kiss-72">Uuugh.... It's going to happen, <d character="Lara" data="TXT_PET_NAME" suffix="........." /></s>
+<s id="s-kiss-73">Phew... I could definetively get used to this work routine, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-kiss-74">Tee hee... I totally agree, Mister <d character="Player" suffix="..." /></s>
+
+<s id="s-kiss-75">Oh, man... This is so awesome... Just look at her...</s>
+<s id="s-kiss-76">And this is it... If I want <d character="Mia" /> to join us this is the time to do it...</s>
+<s id="s-kiss-77"><d character="Lara" /> is in a very good mood and will be willing in take part in a new experience...</s>
+<s id="s-kiss-78">Should I signal <d character="Mia" /> to come in or keep moment this only between us two?</s>
+<s id="s-kiss-76-n">But I don't think <d character="Lara" /> is in the perfect mood to bring <d character="Mia" /> here...</s>
+<s id="s-kiss-77-n">Sorry, <d character="Mia" suffix="..." /> I hope watching us was enough for you to settle your issues...</s>
+
+<s id="s-kiss-77-watch-1">I think <d character="Mia" suffix="..." /> liked the show...</s>
+<s id="s-kiss-77-watch-2">And I really hope watching us was enough to settle her issues...</s>
+
+
+<s id="MIA-YES">SIGNAL <d character="Mia" suffix="..." case="up" /> TO COME IN</s>
+<s id="MIA-NO">DON'T SIGNAL <d character="Mia" suffix="..." case="up" /></s>
+
+<s id="s-mia-no-1-t">Nah... Three is a crowd... And I have all I want here with me...</s>
+<s id="s-mia-no-1-c">Nah... I'd better not risk to get involved with that crazy chick... We need some sleep to get ready for tomorrow...</s>
+<s id="s-mia-no-1-m">Nah... I'd better not risk to get involved with that crazy chick... We need some sleep to get ready for tomorrow...</s>
+
+<s id="s-mia-yes-1">Well... I have energy for a second round... And I'm really curious about what shit will happen if I bring she here...</s>
+<s id="s-mia-yes-2">Let's signal her...</s>
+<s id="s-mia-yes-3-t">Is... Is something wrong with the camera, <d character="Player" suffix="?" /> You looked funny to it...</s>
+<s id="s-mia-yes-4-t">Just relax, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> I have something for you...</s>
+<s id="s-mia-yes-3-c">Why... Why did you looked funny to the camera, <d character="Player" suffix="?" /></s>
+<s id="s-mia-yes-4-c">It's a surprise... I'm sure you'll gonna love a new experience...</s>
+<s id="s-mia-yes-3-m">... <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> the camera... you are not...</s>
+<s id="s-mia-yes-4-m">Just shut up and wait... You don't have a say about this anyways...</s>
+<s id="s-mia-yes-6">Huh... The door!? Did someone just...</s>
+<s id="s-mia-yes-7">Oh, oh... There she comes...</s>
+<s id="s-mia-yes-8">Hello, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-9">Oh my God... The maid!?</s>
+<s id="s-mia-yes-10">Yes... I've been waiting so much for this moment...</s>
+
+<s id="s-mia-yes-11-t"><d character="Player" suffix="..." /> What... What is she doing here?</s>
+<s id="s-mia-yes-12-t">Well... I was just thinking if you...</s>
+<s id="s-mia-yes-11-c"><d character="Player" suffix="..." /> What... What is she doing here?</s>
+<s id="s-mia-yes-12-c">Well... I was just thinking if you...</s>
+<s id="s-mia-yes-11-m">What is happening, <d character="Player" data="TXT_MASTER_NAME" suffix="?" /> Why did you called her?</s>
+<s id="s-mia-yes-12-m">My friend there has been craving for a piece of Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> And, of course, I offered you to her...</s>
+<s id="s-mia-yes-13">You both shut your dirty mouths!!</s>
+<s id="s-mia-yes-14">I didn't came here to listen you squawking...</s>
+<s id="s-mia-yes-15">Oh, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Shame on you... Shame on you...</s>
+<s id="s-mia-yes-16">I... I don't understand...</s>
+<s id="s-mia-yes-17">What... What do you...</s>
+<s id="s-mia-yes-18">I come every single day to this room... I fix your mess... laundry your clothes... clean your toilet...</s>
+<s id="s-mia-yes-19">Yet... I think you didn't even memorized my name...</s>
+<s id="s-mia-yes-20">I... I'm sorry... I didn't mean to...</s>
+<s id="s-mia-yes-21">Oh... You're sorry? Apologies won't make up for your behaviour, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-22">You must be properly punished...</s>
+<s id="s-mia-yes-23-c"><d character="Player" suffix="..." /> What... What is going on here...</s>
+<s id="s-mia-yes-24-c">Don't worry, <d character="Lara" suffix="..." /> I'm sure you'll love this new experience...</s>
+<s id="s-mia-yes-25-c">Aaww... Crying your pimp for help? I already said you both are only supposed to talk when I allow...</s>
+<s id="s-mia-yes-23-t"><d character="Player" suffix="..." /> What... What is going on here...</s>
+<s id="s-mia-yes-24-t">Don't worry, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> It's just a new experience... I have a feeling that you'll love it...</s>
+<s id="s-mia-yes-25-t">Aaww... Crying your man for help? I already said you both are only supposed to talk when I allow...</s>
+<s id="s-mia-yes-23-m">... <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> please, help me...</s>
+<s id="s-mia-yes-24-m">Help you? No way... I wanna see this...</s>
+<s id="s-mia-yes-25-m">Aaww... Crying your pimp for help? I already said you both are only supposed to talk when I allow...</s>
+
+<s id="s-mia-yes-26-ch">That's enough, <d character="Mia" suffix="..." /> You know I'm the one in charge here...</s>
+<s id="s-mia-yes-27-ch">Yeah... But I just have quick chore for her so she can pay for the way she treats me...</s>
+
+<s id="s-mia-yes-26">I'll go easy on you while your man watch, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-27">I'm the one in charge here and I just have an easy task for you to pay for the way you treated me...</s>
+
+<s id="s-mia-yes-28-go">SIT AND WATCH</s>
+<s id="s-mia-yes-28-no">DO NOT ALLOW</s>
+
+<s id="s-mia-yes-28-go-1">I want to see you on your knees, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-28-go-2">NOW!</s>
+<s id="s-mia-yes-28-go-3">See this nice butt, Miss <d character="Lara" data="TXT_SURNAME" suffix="?" /></s>
+<s id="s-mia-yes-28-go-4">I'll rub it it all over your face... And you'll work that juicy  tongue of your all over my asshole...</s>
+<s id="s-mia-yes-28-go-5">But...</s>
+<s id="s-mia-yes-28-go-6">But you're a woman... and I... never...</s>
+<s id="s-mia-yes-28-go-7">What... Are you saying you wish your hands only holding men's dirty cocks?</s>
+<s id="s-mia-yes-28-go-8">Let me help you, then...</s>
+<s id="s-mia-yes-28-go-9">I'll open this silly mind of yours...</s>
+<s id="s-mia-yes-28-go-10">Check this out... My asshole is cleaner than any man stinky balls, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-28-go-11">You're going to learn with my me how girls can have fun together...</s>
+<s id="s-mia-yes-28-go-12">You want me to put my mouth on... on your...</s>
+<s id="s-mia-yes-28-go-13">Not simply 'put your mouth', Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Your mouth... your tongue... I want you to slurp everything...</s>
+<s id="s-mia-yes-28-go-14-t">I... I don't know...</s>
+<s id="s-mia-yes-28-go-15-t">You don't need to know anything, dear... Let's just get started and give <d character="Player" /> here a good show...</s>
+<s id="s-mia-yes-28-go-14-c">Oh my... I... I never noticed how sexy your body is... What... What is happening to me...</s>
+<s id="s-mia-yes-28-go-15-c">Little sluts like you finds sexy in everything, dear... Let's just get started and give your man a good show...</s>
+<s id="s-mia-yes-28-go-14-m">Yes, mistress... Whatever you want...</s>
+<s id="s-mia-yes-28-go-15-m">Oh my... Such obedience... Looks like <d character="Player" /> has been training you well... Let's get started, dear...</s>
+
+<s id="s-mia-yes-29-go">Oh my God... It's like a dream coming true... I'm sitting on the face of Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-30-go">You do it like a natural submissive girl, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> so good...</s>
+<s id="s-mia-yes-31-go">How do you feel eating the ass of a girl?</s>
+<s id="s-mia-yes-32-go">mmm.... mm....</s>
+<s id="s-mia-yes-33-go">Oh... By the way you're sticking so deep your tongue... I think you're loving it...</s>
+<s id="s-mia-yes-34-go">But I want more intensity, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-35-go">I won't take my ass off your face while it's not drenching with your fluids...</s>
+<s id="s-mia-yes-36-go">Yes... That's it...</s>
+<s id="s-mia-yes-37-go">It's enough, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> I hope you learned your lesson and my name...</s>
+
+<s id="s-mia-yes-38-go-t">Oh my... This was... different...</s>
+<s id="s-mia-yes-38-go-c">Oh my... This made me so horny again...</s>
+<s id="s-mia-yes-38-go-m">Yes, mistress...</s>
+
+<s id="s-mia-yes-39-go">Come up to me again...</s>
+<s id="s-mia-yes-40-go">You did good, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Looks like <d character="Player" /> here has been a very good teacher...</s>
+<s id="s-mia-yes-41-go">But our date is not finished yet...</s>
+
+<s id="s-mia-yes-28-no-1">Hey... I think I said that I choose the chores here, <d character="Mia" suffix="..." /></s>
+<s id="s-mia-yes-28-no-2">Let's all just have a nice time together and show <d character="Lara" /> how girls pleasure each other...</s>
+<s id="s-mia-yes-28-no-3">You're lucky that I trust <d character="Player" /> enough to let him in charge, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-28-no-4">It seems you like a dominant alpha male, don't you? Naugthy girl...</s>
+<s id="s-mia-yes-28-no-5">Then you'd better always obey your man, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-yes-28-no-6">Always!</s>
+<s id="s-mia-yes-28-no-7">Come on, ladies... Be nice... I wanna see a beautiful session of girls exchanging pleasure...</s>
+
+<s id="s-mia-start2-1">Let's go to a more comfortable place...</s>
+<s id="s-mia-start2-2">Are you ready, Miss <d character="Lara" data="TXT_SURNAME" suffix="?" /></s>
+<s id="s-mia-start2-3">But I... I've never... been with another girl before...</s>
+<s id="s-mia-start2-4">Such a waste... But I'll make up for it... I'll show you a whole new world of pleasure...</s>
+<s id="s-mia-start2-3-ass">What... What are you going to do now...</s>
+<s id="s-mia-start2-4-ass">I'll retribute all the pleasure you just gave me...</s>
+<s id="s-mia-start2-5">Did you know that every time I come to clean your room while you're out I masturbate on this bed?</s>
+<s id="s-mia-start2-6">What!? But... but... why...</s>
+<s id="s-mia-start2-7">I drop my juices on your sheets... So you can sleep with a little bit of my scent every single day...</s>
+<s id="s-mia-start2-8">Whoah... That's class A Tokyo grade stalking, <d character="Mia" suffix="..." /></s>
+<s id="s-mia-start2-9">Shut up, <d character="Player" suffix="..." /> This is between me and her...</s>
+<s id="s-mia-start2-9-ch">It's called 'passion', <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-10">Now... Try to relax, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-start2-11">Oh dear... I dreamed so many times to be in this bed with you, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-start2-12">... and this beautiful pussy... I can already feel the sweet scent of it...</s>
+<s id="s-mia-start2-12-t-1">It's a shame it also smells like cock... You let your man fuck you a few minutes ago, didn't you? Naughty girl...</s>
+<s id="s-mia-start2-12-t-2">I... I...</s>
+<s id="s-mia-start2-12-t-3">Don't worry, dear... I can bear with it...</s>
+<s id="s-mia-start2-13">I'll feast on this cunt and show you a kind of pleasure no cock can provide...</s>
+<s id="s-mia-start2-14">Oh man... This is so hot... Girl on girl action is always beautiful...</s>
+
+<s id="s-mia-start2-14-p">PARTICIPATE</s>
+<s id="s-mia-start2-14-p-ch">IN CHARGE</s>
+<s id="s-mia-start2-14-p-nch">NOT IN CHARGE</s>
+<s id="s-mia-start2-14-f">LET THEM HAVE FUN</s>
+
+<s id="s-mia-start2-14-p-1"><d character="Player" suffix="!?!?" case="up" /></s>
+<s id="s-mia-start2-14-p-2"><d character="Player" suffix="..." /> What are you doing!?!?</s>
+<s id="s-mia-start2-14-p-3">Relax, <d character="Mia" suffix="..." /> I just need a closer look of this scene for now...</s>
+<s id="s-mia-start2-14-p-4">But you are... you are...</s>
+<s id="s-mia-start2-14-p-5">Hey... You knew I'd be the one in command here...</s>
+<s id="s-mia-start2-14-p-6">So just keep doing your business like a good girl...</s>
+<s id="s-mia-start2-14-p-7">........ okay... I will... But only because it's you...</s>
+<s id="s-mia-start2-14-p-8">Here I go, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-start2-14-p-9">Damn... Just check out these girls...</s>
+<s id="s-mia-start2-14-p-10">Fuuuck... I can't hold myself... I have to...</s>
+<s id="s-mia-start2-14-p-11"><d character="Player" suffix="!?!?!" /> What the hell!?!?!</s>
+<s id="s-mia-start2-14-p-12">Come on, <d character="Mia" suffix="..." /> Let me show you how a skilled man can also give you a good time...</s>
+<s id="s-mia-start2-14-p-13">But... But I don't...</s>
+<s id="s-mia-start2-14-p-14">Hey... Don't you trust me?</s>
+<s id="s-mia-start2-14-p-15">You came here knowing this could happen... Now just relax and enjoy...</s>
+<s id="s-mia-start2-14-p-16-t">Will you simply allow your boyfriend have his way with me, Miss <d character="Lara" data="TXT_SURNAME" suffix="!?" /></s>
+<s id="s-mia-start2-14-p-17-t">Yes... He does so much for me... I'm feeling good and he deserve it too...</s>
+<s id="s-mia-start2-14-p-18-t">Oh my God... I was the one supposed to be a predator here, you couple of... of...</s>
+<s id="s-mia-start2-14-p-16-m">Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Can't you see what he is trying to do??</s>
+<s id="s-mia-start2-14-p-17-m">You shoud just submit... He does whatever he wants and we must obey him... Right, <d character="Player" data="TXT_MASTER_NAME" suffix="?" /></s>
+<s id="s-mia-start2-14-p-18-m">Oh my God, <d character="Player" suffix="..." /> Did you turned her into a mindless doll or something!?!</s>
+<s id="s-mia-start2-14-p-16-c">Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Can't you see what he is trying to do??</s>
+<s id="s-mia-start2-14-p-17-c">Don't you also love cock like me, <d character="Mia" suffix="?" /> <d character="Player" /> have a wonderful one... I'm sure you'll love...</s>
+<s id="s-mia-start2-14-p-18-c">Oh my God... I was supposed to be the kinky one here, you couple of... of...</s>
+<s id="s-mia-start2-14-p-19">Damn... You're tight, <d character="Mia" suffix="..." /></s>
+<s id="s-mia-start2-14-p-20">I'm not... used to take... real cocks... you jerk...</s>
+<s id="s-mia-start2-14-p-21">Well... They say variety is the spice of life...</s>
+<s id="s-mia-start2-14-p-22-t">Are you okay there, <d character="Lara" data="TXT_PET_NAME" suffix="?" /> Having lots of fun with our guest?</s>
+<s id="s-mia-start2-14-p-23-t">Yes, <d character="Player" suffix="..." /> Let's just keep enjoying her services, please?</s>
+<s id="s-mia-start2-14-p-24-t">Of corse, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-mia-start2-14-p-22-m">What are you learning from this scene, <d character="Lara" suffix="?" /></s>
+<s id="s-mia-start2-14-p-23-m">That there's no point on trying to resist against your will, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-mia-start2-14-p-24-m">Good girl... Have a good time with our guest as a reward...</s>
+<s id="s-mia-start2-14-p-22-c">Are you liking to have your pussy being eaten by a girl, <d character="Lara" suffix="?" /></s>
+<s id="s-mia-start2-14-p-23-c">Yes... But I think I still prefer some nice big manhood there...</s>
+<s id="s-mia-start2-14-p-24-c">Well... I can arrange that for you later, slutty girl...</s>
+
+<s id="s-mia-start2-14-p-25">Oh man... This is the best job ever...</s>
+<s id="s-mia-start2-14-p-26">MMmmmmmnnghhh... feeels... sooo... gooood....</s>
+<s id="s-mia-start2-14-p-27-t">And you also seem to be enjoying yourself, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-mia-start2-14-p-27-m">And you also seem to be enjoying yourself, <d character="Lara" suffix="..." /></s>
+<s id="s-mia-start2-14-p-27-c">And you also seem to be enjoying yourself, <d character="Lara" suffix="..." /></s>
+<s id="s-mia-start2-14-p-28">What about you, <d character="Mia" suffix="?" /> How does it feel being a sub yourself for a change?</s>
+<s id="s-mia-start2-14-p-29">MMMmmmmmppfff!! MMMmmmmmppfff!!</s>
+<s id="s-mia-start2-14-p-30">Yeah... I bet you're loving...</s>
+
+<s id="s-mia-start2-14-p-31">Shiiit... I'm about to pop again...</s>
+<s id="s-mia-start2-14-p-32-t">MMmmmmmnnghhh... Me too... We're going to cum together on our guest, honey...</s>
+<s id="s-mia-start2-14-p-33-t">Niiiiiiice.....</s>
+<s id="s-mia-start2-14-p-32-c">MMmmmmmnnghhh... Me too... We're going to cum together on our guest, <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-p-33-c">Niiiiiiice.....</s>
+<s id="s-mia-start2-14-p-32-m">MMmmmmmnnghhh...</s>
+<s id="s-mia-start2-14-p-33-m">Let's cum together on our guest, <d character="Lara" suffix="..." /> Here it goooeess.....</s>
+
+<s id="s-mia-start2-14-p-34">Pheeew... I spent all my mana this time, but this was great...</s>
+<s id="s-mia-start2-14-p-35-t">I loved it too, <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-p-35-c">I loved it too, <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-p-35-m">I'm glad you enjoyed, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-mia-start2-14-p-36"><d character="Mia" suffix="?" /> Are you with us?</s>
+<s id="s-mia-start2-14-p-37">Yes, mister <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-p-38">Oh my... You... You both are... are...</s>
+<s id="s-mia-start2-14-p-39">I didn't remember how not being in control could also be so exciting...</s>
+<s id="s-mia-start2-14-p-40">Well... We're glad to help...</s>
+<s id="s-mia-start2-14-p-41">But we need a good rest now... We had a LOT of activity today...</s>
+<s id="s-mia-start2-14-p-42">I... I totally agree...</s>
+
+<s id="s-mia-start2-14-f-1">Get ready to know the most skilled tongue in this town, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-start2-14-f-2">Mmmpf... Oh mmfmy... Mmmiss <d character="Lara" data="TXT_SURNAME" suffix="......" /></s>
+<s id="s-mia-start2-14-f-3">You're... twitchingmmpf... real hard here....</s>
+<s id="s-mia-start2-14-f-4">Looks likemmmpf....... you needmpff... a special doub stimulimmmpfff.... treatment....</s>
+<s id="s-mia-start2-14-f-5">Mmmpf... Mmmisshh <d character="Lara" data="TXT_SURNAME" suffix="......" /></s>
+<s id="s-mia-start2-14-f-6">Yoummpf little slutshh... You like mmmy thumbff ravagimmmgf your asss.... donm'tpff you ?</s>
+<s id="s-mia-start2-14-f-7">You wantmmpf more ???</s>
+<s id="s-mia-start2-14-f-8">I'll mmmmfmmake you cum...... so hardmmmpff...</s>
+<s id="s-mia-start2-14-f-9">Commme onnmsf... Mmmisshh <d character="Lara" data="TXT_SURNAME" suffix="......" /></s>
+<s id="s-mia-start2-14-f-10">Gimme all the mmmjuice youpff have!!!</s>
+
+<s id="s-mia-start2-14-f-11">mmmmmnnggg.... I can't believe... I had an orgasm... with a girl...</s>
+<s id="s-mia-start2-14-f-12">Oh my... And I can't believe I made <d character="Lara" /><d character="Lara" data="TXT_SURNAME" /> cum on my face....</s>
+<s id="s-mia-start2-14-f-13">I was able to feel the heat of that climax, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="s-mia-start2-14-f-14-t">Did you like watching me cum for you, <d character="Player" suffix="?" /></s>
+<s id="s-mia-start2-14-f-15-t">Urgh... Come on... I did all the hard work here and you ask for his feelings? You're a lucky bastard for getting her hooked like this, <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-f-14-m"><d character="Player" suffix="?" /> Did watching me cum satisfied you, <d character="Player" data="TXT_MASTER_NAME" suffix="?" /></s>
+<s id="s-mia-start2-14-f-15-m">Urgh... Come on... I did all the work here and you ask for his satisfaction? You really made her your dumb doll, <d character="Player" suffix="..." /></s>
+<s id="s-mia-start2-14-f-14-c">I don't understand... This was... as good as..... as..... as...</s>
+<s id="s-mia-start2-14-f-15-c">It means you like both cocks and girls, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Like all little sluts do...</s>
+<s id="s-mia-start2-14-f-16">I... I think I need to rest now...</s>
+<s id="s-mia-start2-14-f-17">I totally agree...</s>
+
+<s id="s-mia-start2-14-f-18-t">Come, <d character="Player" suffix="..." /> I need you here with me...</s>
+<s id="s-mia-start2-14-f-19-t">Of course, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="s-mia-start2-14-f-18-m">Come, <d character="Player" data="TXT_MASTER_NAME"  suffix="..." /> You'll always have your place on this bed...</s>
+<s id="s-mia-start2-14-f-19-m">Took too long to ask, <d character="Lara" suffix="..." /></s>
+<s id="s-mia-start2-14-f-18-c"><d character="Player" suffix="..." /> I'll call you tomorrow so we can back to work okay? I need... We need... little privacy now...</s>
+<s id="s-mia-start2-14-f-19-c">Well... Have fun, girls... I'm also wasted for today...</s>
+
+<s id="s-corr-1">MMmmmm.... <d character="Player" suffix="..." /></s>
+<s id="s-corr-2">What are you doing...</s>
+<s id="s-corr-3">Come on, <d character="Lara" suffix="..." /> Cut the act...</s>
+<s id="s-corr-4">You don't need to pretend with me... I know you're in heat again...</s>
+<s id="s-corr-5">MMmmmmm... Since I started this adventure... I started to feel like this...</s>
+<s id="s-corr-6">OOooww... All the time... just like this...</s>
+<s id="s-corr-7">MMmmmmm... I want to... I want to... I need...</s>
+<s id="s-corr-8">Ha... I know what exactly what you need...</s>
+<s id="s-corr-9">Get on all fours and I'll show you...</s>
+<s id="s-corr-10">Damn... You look even hotter with your ass arching in the air like this...</s>
+<s id="s-corr-11">This position... A few weeks ago I'd feel so embarassed to expose myself like this...</s>
+<s id="s-corr-12">But now... I fell... I feel...</s>
+<s id="s-corr-13">Now you feel like a bitch in position to mate... And you're eager for it...</s>
+<s id="s-corr-14">Mmmn... <d character="Player" suffix="..." /> How can I feel so horny when I hear you talk like this to me...</s>
+<s id="s-corr-15">Because this is what you became... A cock hungry dirty girl...</s>
+<s id="s-corr-16">And there's nothing wrong about that... Don't deny your true nature...</s>
+<s id="s-corr-17">I'll give what naughty girls like you want...</s>
+<s id="s-corr-18">I've been dreaming about tapping this ass since the day I saw you...</s>
+<s id="s-corr-19">Oh my God... But I... I never...</s>
+<s id="s-corr-20">Don't worry... I'll be gentle and show you a whole new kind of pleasure...</s>
+<s id="s-corr-19-a">Yes, please... I want to feel... filled again... Just be... gentle...</s>
+<s id="s-corr-20-a">Jeez... Your adventures really made you addicted to this, huh? I just hope you won't give some nasty STD...</s>
+<s id="s-corr-21">Whoah... Check this out...</s>
+<s id="s-corr-22">It's a small target... but I have a good aim...</s>
+<s id="s-corr-23">Let's give it a try...</s>
+<s id="s-corr-24">Come on, <d character="Lara" suffix="..." /> Just relax a bit more so I can make my way in...</s>
+<s id="s-corr-25">I... I'm a little scared that it will hurt...</s>
+<s id="s-corr-26">Nah... Once you know the feeling, you will just want more...</s>
+<s id="s-corr-24-a">I can already feel the way opening for me, <d character="Lara" suffix="..." /></s>
+<s id="s-corr-25-a">Mmmnn... I'm relaxing it for you...</s>
+<s id="s-corr-26-a">Nice... Looks like you've been learning a lot lately...</s>
+<s id="s-corr-27">Now... I think pushing a little harder may help getting this done...</s>
+<s id="s-corr-28">Yeah... You now have a cock sticked up your ass, <d character="Lara" suffix="..." /> How do you feel?</s>
+<s id="s-corr-29">It's... It's... a little painful... But also feels... mmmmnnng...</s>
+<s id="s-corr-30">Don't worry... Soon the pain will leave and you be left only with the pleasure...</s>
+<s id="s-corr-28-a">Yeah... You took it like a pro, <d character="Lara" suffix="..." /></s>
+<s id="s-corr-29-a">Mmmmnnng... Fuck me, <d character="Player" suffix="..." /> Pump it inside me...</s>
+<s id="s-corr-30-a">The most beautiful words you ever said, I'm sure...</s>
+<s id="s-corr-31">I'm pounding <d character="Lara" /><d character="Lara" data="TXT_SURNAME" suffix="'s" />ass... It's amazing how life is full of unexpected turns...</s>
+<s id="s-corr-32"><d character="Player" suffix="..." /> This is... mmmnnggnn... too intense...</s>
+<s id="s-corr-33">Hey... We didn't even reached the maximum level of intensity yet...</s>
+<s id="s-corr-34">Let me show you...</s>
+<s id="s-corr-35">Mmmnng... Mmmnng... Mmmnng...</s>
+<s id="s-corr-36">Jesus Christ, <d character="Lara" suffix="..." /> You started milking me really hard here with that orgasm...</s>
+<s id="s-corr-37">I can't hold much longer like thiiiis...</s>
+<s id="s-corr-38">Damn... That was good...</s>
+<s id="s-corr-c-in-1">And that's what we call a sperm enema, <d character="Lara" suffix="..." /></s>
+<s id="s-corr-c-in-2">The feeling of it leaking... Makes me feel so... dirty...</s>
+<s id="s-corr-c-in-3">But I... I love it...</s>
+<s id="s-corr-c-in-4">Yeah... I know you do...</s>
+<s id="s-corr-c-out-0">Phew...</s>
+<s id="s-corr-c-out-1">Yeah... Your ass looks even more beautiful with my paint all over it, <d character="Lara" suffix="..." /></s>
+<s id="s-corr-c-out-2">Thank you... I can feel the warm all over my skin...</s>
+<s id="s-corr-c-out-3">I'm sure you're getting used to it...</s>
+<s id="s-corr-40">Now... This could be a good moment to bring <d character="Mia" /> into the game...</s>
+<s id="s-corr-41-watch">But I said she's supposed to only watch... So I hope this was enough for her...</s>
+<s id="s-corr-41-uninv">But I didn't invited her... So I think this is all the action for today...</s>
+<s id="s-corr-42"><d character="Lara" /> is in a very good mood and will be willing in take part in a new experience...</s>
+<s id="s-corr-43">Should I signal <d character="Mia" /> to come in or keep moment this only between us two?</s>
+<s id="s-corr-42-n">But I don't think <d character="Lara" /> is in the perfect mood to bring <d character="Mia" /> here...</s>
+<s id="s-corr-43-n">Sorry, <d character="Mia" suffix="..." /> I hope watching us was enough for you to settle your issues...</s>
+
+
+
+<s id="s-mind-1">What... What are you doing?</s>
+<s id="s-mind-2">Didn't you realize yet?</s>
+<s id="s-mind-3">My dick doesn't feed on your nice words... It's time for you to give a proper payment for my services...</s>
+<s id="s-mind-3-a">My dick doesn't feed on your nice words... It's time for you to give me a proper payment again...</s>
+<s id="s-mind-4"><d character="Player" suffix="..." /> I know I owe you but... please... not like this...</s>
+<s id="s-mind-5">You already know I'm the one responsible for you getting so far in this adventure, <d character="Lara" suffix="..." /></s>
+<s id="s-mind-6">I... I know... but...</s>
+<s id="s-mind-7">You know you'd be probably dead or captured by some goon at this point if it was not for me, don't you?</s>
+<s id="s-mind-8">I... I...</s>
+<s id="s-mind-9">Then accept your position... I'm the head of this team... and you...</s>
+<s id="s-mind-10">... you'll just keep doing what it seems to be the only thing you're useful for...</s>
+<s id="s-mind-11">........ _<d character="Player" />_ ...</s>
+<s id="s-mind-12">...and start to show me the proper respect, will you?</s>
+<s id="s-mind-12-input">CHOOSE HOW <d character="Lara" case="up" /> SHOULD ADDRESS YOU</s>
+
+<s id="s-mind-13">_.....yes, <d character="Player" data="TXT_MASTER_NAME" suffix="..." />_</s>
+<s id="s-mind-14">Now be a good girl and bring your mouth over here...</s>
+<s id="s-mind-15">Damn... You really woke me up down here...</s>
+<s id="s-mind-16">... now you'll gonna have to complete the job...</s>
+<s id="s-mind-17">.............</s>
+<s id="s-mind-18">Well... If you don't mind...</s>
+<s id="s-mind-19">Whoah... No complaining... no whining... Would you be finally understanding your role in this business?</s>
+<s id="s-mind-20">_I... I think I am, <d character="Player" data="TXT_MASTER_NAME" suffix="..." />_</s>
+<s id="s-mind-21">Nice... Then you know what your mouth is really good for, right?</s>
+<s id="s-mind-22">So... Start making a proper use of it...</s>
+<s id="s-mind-23">Yeah... That's it...</s>
+<s id="s-mind-24">Who would say the prestigious Miss <d character="Lara" data="TXT_SURNAME" /> is such a talented cock sucker...</s>
+<s id="s-mind-25">Well... At least you have one talent, right?</s>
+<s id="s-mind-26">I've been waiting to properly raid this little mouth... It's time to do it right...</s>
+<s id="s-mind-27">Damn... You're working it very well for someone with not much experience...</s>
+<s id="s-mind-28">After a few sessions will be doing it like a pro...</s>
+<s id="s-mind-27-e">Damn... This is good... Looks like you learned a lot with all these dicks you've been sucking...</s>
+<s id="s-mind-28-e">I just hope you washed your mouth before this meeting...</s>
+<s id="s-mind-29">Anyways... I think you're ready for a litte more intense action...</s>
+<s id="s-mind-30">You see, <d character="Lara" suffix="..." /> You don't need to think much...</s>
+<s id="s-mind-31">Just keep submissive like this... And you'll have everything you need to be happy...</s>
+<s id="s-mind-32">Daaamn... I won't last much longer at this pace...</s>
+<s id="s-mind-33">Get ready for some cummies in tummies, <d character="Lara" suffix="..." /></s>
+<s id="s-mind-34">Shiiiit... That was good...</s>
+<s id="s-mind-save-1">Let's get a little slower, now...</s>
+<s id="s-mind-save-2">I was not fondling your ass for nothing...</s>
+<s id="s-mind-save-3">Now don't you dare get out of this position...</s>
+<s id="s-mind-save-4">Spraed these cheeks, <d character="Lara" suffix="..." /> It's time for me to make a good use of this butthole of yours...</s>
+<s id="s-mind-save-5">... but... but...</s>
+<s id="s-mind-save-6">You were behaving so well a little earlier and now started complaining again? What a disappointment...</s>
+<s id="s-mind-save-7">But shoving my cock in your ass might teach you again who's giving orders in this 'partnership'...</s>
+<s id="s-mind-save-8">..........</s>
+<s id="s-mind-save-9">Good... Now I'll push it into your asshole and you'll gonna take it without saying a word, do you understand?</s>
+<s id="s-mind-save-10">_....... yes <d character="Player" data="TXT_MASTER_NAME" suffix="..." />_</s>
+<s id="s-mind-save-11">............</s>
+<s id="s-mind-save-12">Good girl... Good girl...</s>
+<s id="s-mind-save-13">You deserve a good ass pounding...</s>
+<s id="s-mind-save-14">Can you feel now what is being under control looks like, <d character="Lara" suffix="?" /></s>
+<s id="s-mind-save-15">Now I just need to leave my mark on you...</s>
+<s id="s-mind-save-16">Phew... At least you know damn well how to satisfy a man, <d character="Lara" suffix="..." /></s>
+<s id="s-mind-save-17">..............</s>
+
+<s id="s-mind-35">Now... This could be a good moment to bring <d character="Mia" /> into the game...</s>
+<s id="s-mind-36-watch">But I said she's supposed to only watch... So I hope this was enough for her... I'd better just get some sleep...</s>
+<s id="s-mind-36-uninv">But I didn't invited her... So I think this is all the action for today...  I'd better just get some sleep...</s>
+<s id="s-mind-37"><d character="Lara" /> is mine now... I don't give a shit if she is in a good mood not... I can do whatever the fuck I want and she will accept...</s>
+<s id="s-mind-38">Should I signal <d character="Mia" /> to come in or keep this moment this only between us two?</s>
+
+
+<s id="end-mc-lara-1-t">Oh, man... Sleeping in a top bed with the best company...</s>
+<s id="end-mc-lara-2-t">Talk about a nice reward, huh...</s>
+<s id="end-mc-lara-1-c">Jeez... I pity the man who tries to have <d character="Lara" /> as a faithful 'girlfriend' instead of a fuck buddy... The girl seems ready to have sex with anyone in her way... </s>
+<s id="end-mc-lara-2-c">Well... This bedroom is much more comfy than my small bedroom... I'd better just enjoy the night...</s>
+<s id="end-mc-lara-1-m">Yeah... <d character="Lara" /> became really dependent on me and will probably do anything I ask now...</s>
+<s id="end-mc-lara-2-m">Well... Sleeping in this comfy bed every day instead of my shitty bedroom will definetively worth it...</s>
+
+<s id="end-mc-lara-mia-1">Oh, man... Check this nice scene... Dad would be so proud...</s>
+<s id="end-mc-lara-mia-2">Well... I'd better just get a good night of sleep now before these two wake up...</s>
+
+<s id="end-lara-mia-1">Oh, man... Thank god this camera still works so I can have a glimpse of this scene...</s>
+<s id="end-lara-mia-2">I could be there lying between those two... But I think I had a fair amount of fun today... I'd better also get some sleep now...</s>
+
+<s id="s-wake-0">..... zzzzzzz...... zzzzzz...</s>
+<s id="s-wake-1">........ yyyaaawnnn...</s>
+<s id="s-wake-2">....... I don't remember the last time I had such a good night of sleep...</s>
+
+<s id="s-wake-a-3">... I avoided the head ache of having to deal with those unstable girls...</s>
+<s id="s-wake-b-3">... all that amazing exercise yesterday...</s>
+<s id="s-wake-3">... all that hot exercise yesterday... enjoying this awesome bed...</s>
+
+<s id="s-wake-4">And, of course... Not being waken by <d character="Winston" /> shouts is really nice for a change...</s>
+
+<s id="s-wake-4-a-1">The manor seems really quiet... It's like both <d character="Mia" /> and <d character="Winston" /> are gone...</s>
+<s id="s-wake-4-b-1">I'm curious about how the girls are doing... I'd better check them out...</s>
+<s id="s-wake-4-c-1">Damn... But now I really need to take a leak...</s>
+<s id="s-wake-4-c-2">Look at her... Still sleeping deeply... She's probably still tired after all those travels and our 'work' last night...</s>
+<s id="s-wake-4-c-3">Ahhh... The unique pleasure of the morning piss...</s>
+
+<s id="s-wake-5">Hey... Where is <d character="Mia" />?</s>
+
+<s id="s-wake-5-b">Let's change the camera angle and look for her...</s>
+
+<s id="s-wake-6">Looks like she left while we were sleeping...</s>
+<s id="s-wake-7">There's a note on the bed table...</s>
+<s id="s-wake-7-b">I think I can read it from here...</s>
+<s id="s-wake-8-1">Thank you, <d character="Player" suffix="..." /> I'll never forget what you did for me... But I think the best for me now is to leave this house...</s>
+<s id="s-wake-8-2">Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> I loved my time working for you... In every possible way...</s>
+<s id="s-wake-8-3">Kisses, <d character="Mia" /></s>
+<s id="s-wake-9">Well... I think I made a good deed after all... I hope she becomes less... intense... after yesterday events...</s>
+
+<s id="s-wake-10">Sigh... It's been a while since a had some relaxing free time...</s>
+<s id="s-wake-11">I think I'll just chill here for a while and enjoy the peace... Let's check what's new at r/DarkNetMarkets...</s>
+
+<s id="s-wake-12-intertitle">A FEW HOURS LATER</s>
+<s id="s-wake-12">Sigh...</s>
+<s id="s-wake-13">It's ridiculous... Why the same stupid reposts always get so many upvotes?</s>
+<s id="s-wake-14">I swear one day I'll...</s>
+<s id="s-wake-15-m"><d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-wake-15-c"><d character="Player" suffix="?" /></s>
+<s id="s-wake-15-t"><d character="Player" suffix="?" /></s>
+<s id="s-wake-15-n"><d character="Player" suffix="?" /></s>
+<s id="s-wake-16">Huh?</s>
+
+<s id="s-wake-17-m">I... I'm sorry to disturb you, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-wake-18-m">I was feeling so alone... I... I was scared of staying up there without you to protect me, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-wake-19-m">Good girl... Don't worry... I'm here to guide you...</s>
+<s id="s-wake-20-m">Thank you, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="s-wake-17-c">Hey... There you are...</s>
+<s id="s-wake-18-c">Are you browsing porn so early in the morning? Found something hot to show me?</s>
+<s id="s-wake-19-c">Nah... Reddit is borderline porn... But the damned mods always cut out the most interesting stuff...</s>
+<s id="s-wake-20-c">Tee hee...</s>
+<s id="s-wake-17-t">Hey... There you are... You left me alone up there, you meanie...</s>
+<s id="s-wake-18-t">And I missed you...</s>
+<s id="s-wake-19-t">You were in such a beautifull deep sleep... I just wanted to let you rest properly, <d character="Lara" data="TXT_PET_NAME" suffix="..." />...</s>
+<s id="s-wake-20-t">Oh... And I really needed... Thank you...</s>
+<s id="s-wake-17-n">Hello, <d character="Player" suffix="..." /></s>
+<s id="s-wake-18-n">Were you able to rest properly?</s>
+<s id="s-wake-19-n">Yeah... Sure, <d character="Player" suffix="..." /></s>
+<s id="s-wake-20-n">Great! We need to be ready for the next step!</s>
+
+<s id="s-wake-21">........ this house... Why does it feel so quiet and empty?</s>
+<s id="s-wake-22">Well... Apparently <d character="Mia" /> left for good... She is not around and looks like all her personal stuff is gone...</s>
+<s id="s-wake-23">You mean the maid? Well... She always looked like a weird one for sure...</s>
+<s id="s-wake-23-mia">Oh... Just now when we were... uuuhh... knowing her better...</s>
+<s id="s-wake-24">I also didn't bump with <d character="Winston" /> today... He usually seems to spend the day roaming around the house...</s>
+<s id="s-wake-25">Uhhmm... <d character="Winston" />is never late for work... Maybe he went out to buy groceries or something...</s>
+
+<s id="s-wake-26-t">Well... I believe we still have a mission to complete, right?</s>
+<s id="s-wake-27-t">Whoah... Don't you want take a break? You've been working non-stop on this for weeks now...</s>
+<s id="s-wake-28-t">Oh... I know you worry about me, <d character="Player" suffix="..." /> But I won't be able to rest while this hunt isn't over...</s>
+<s id="s-wake-26-c">So... I'm very excited to complete this mission! We don't have any time to lose!</s>
+<s id="s-wake-27-c">Jeez... I think you are more excited about 'dealing' with those goons than the mission itself...</s>
+<s id="s-wake-28-c">Well... Dealing with bad guys is part of the job, right?!</s>
+<s id="s-wake-26-m">.......................</s>
+<s id="s-wake-27-m">Uuhh... Are you going to just keep standing there like a doll? I believe you sill want to find your temple thing, right?</s>
+<s id="s-wake-28-m">Oh... I... almost forgot about it... Yes, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I need your help to find the temple...</s>
+<s id="s-wake-26-n">Well... I believe we still have a mission to complete, right?</s>
+<s id="s-wake-27-n">Sure... You're very close to the temple thing now...</s>
+<s id="s-wake-28-n">Yes!! Father would be so excited!!</s>
+
+<s id="s-wake-29">So... Now that we know the way into that cave... I believe you must travel back to the village, right?</s>
+<s id="s-wake-30">Yes, but... I... I was wondering if we could trying something different this time...</s>
+<s id="s-wake-31">Different?</s>
+<s id="s-wake-32">yes........ uuuhhh......</s>
+
+<s id="s-wake-32-t">Would like to go there with me?</s>
+<s id="s-wake-33-t">Whoah... You're inviting me to go in a 6 day journey to some third world country... jumping from a plane... to a rundown bus... to the back of some stinky llama... to finally ride an old helicopter flying on fumes to a village in the middle of nowhere?</s>
+<s id="s-wake-34-t">Tee hee... Look on the bright side... We'll spend a lot of time together... Come on... Pretty please!!</s>
+<s id="s-wake-35-t">Well... How can I refuse when you ask like that...</s>
+<s id="s-wake-36-t">Yatta!! Yatta!!</s>
+<s id="s-wake-37-t">Oh my God... Are you trying to pull that waifu trick on me!?!</s>
+
+<s id="s-wake-32-c">Would like tag along with me this time?</s>
+<s id="s-wake-33-c">Whoah... It's not like you're inviting to the movies, you know? It's a 6 day journey to one of the most isolated spots of the world...</s>
+<s id="s-wake-34-c">Come on... I might need some serious help into that cave... I'll add a big bonus to your payment and... I can 'entertain' you during the travel when you get bored...</s>
+<s id="s-wake-35-c">Well... The way you said sounded like an offer too tempting to refuse...</s>
+<s id="s-wake-36-c">Yay!! I won!!</s>
+<s id="s-wake-37-c">Whatever you say, <d character="Lara" suffix="..." /></s>
+
+
+<s id="s-wake-32-m"><d character="Player" data="TXT_MASTER_NAME" suffix="..." /> please... would take me there?</s>
+<s id="s-wake-33-m">What!? Go with you in a 6 day journey to one of the most isolated spots of the world?!? Riding the back of stinky llamas and clinging on some rundown helicopter?!</s>
+<s id="s-wake-34-m">please, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I... I don't remember very well how to get there... I'll need your help...</s>
+<s id="s-wake-35-m">Sigh... If I do this you're going to add a huge bonus to payment, do you understand? And I expect you ready to 'entertain' me any time things get too boring...</s>
+<s id="s-wake-36-m">Yes... Anything you want, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> Thank you so much...</s>
+<s id="s-wake-37-m">Good girl...</s>
+
+<s id="s-wake-32-n">Would you go there with me?</s>
+<s id="s-wake-33-n">Whoah... It's a 6 day journey to one of the most isolated spots of the world...</s>
+<s id="s-wake-34-n">Yeah... I know it's not a pleasant travel... But I might need some serious help into that cave... I'll add a big bonus to your payment if you agree...</s>
+<s id="s-wake-35-n">Well... I'm not the kind of guy that rejects a big bonus, you know...</s>
+<s id="s-wake-36-n">Great! Thank you!</s>
+<s id="s-wake-37-n">You're welcome...</s>
+
+
+<s id="s-wake-37">Look... I had my days of 'field work' myself... It's not my expertise, but it will be cool to leave the chair again for a change...</s>
+<s id="s-wake-38">I am only worried about <d character="Winston" suffix="..." /> Where is he?</s>
+<s id="s-wake-39">Don't worry... Just pack your stuff and leave a note for him... I will book a flight and organize the rest of the travel...</s>
+<s id="s-wake-40">Okay... Let's do this!</s>
+<s id="s-wake-41">See you soon!!</s>
+
+<s id="s-wake-42-t">Well... Looks like I'll be able to protect her 'on site' this time...</s>
+<s id="s-wake-42-c">Ha... She seems a lot more upbeat after losing a lot of that prudeness...</s>
+<s id="s-wake-42-m">Damn... All my work on lowering her confidence is paying out...</s>
+<s id="s-wake-42-n">Sigh...</s>
+<s id="s-wake-43">I'd better get ready... This definetively is going to be... different...</s>
+
+
+<s id="THROAT">FINISH IN HER THROAT</s>
+<s id="SAVE">SAVE FOR MORE ACTION</s>
+<s id="INSIDE">INSIDE</s>
+<s id="OUTSIDE">OUTSIDE</s>
+<s id="BELLY">CARESS BELLY</s>
+<s id="BOOB">CARESS BOOB</s>
+<s id="PANTIES">GO FOR HER PANTY</s>
+<s id="GRIND">GRIND</s>
+<s id="SLOW">SLOW</s>
+<s id="FAST">FAST</s>
+<s id="CONTINUE">CONTINUE</s>
+
+
+</strings>

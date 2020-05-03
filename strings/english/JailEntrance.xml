@@ -1,0 +1,152 @@
+﻿<strings>
+<!--- Lara -->
+<s id="comment-warder-lara-1">Whoah... One of those men is sleeping there...</s>
+<!--- Player -->
+<s id="comment-warder-player-1">Then let's make sure he keeps like that... You'd better avoid making any loud noises!</s>
+<!--- Lara -->
+<s id="comment-warder-lara-2">I thought I'd never see that bastard again... I should kill him while he sleeps...</s>
+<!--- Player -->
+<s id="comment-warder-player-2">Hey... Easy... Let's not get into more trouble, okay...</s>
+
+<!--- Lara -->
+<s id="vixen">Vixen... Oh, these bloddy perverts...</s>
+<!--- Player -->
+<s id="find-somet">Did you find something that can help us, <d character="Lara" data="TXT_NAME" suffix="?" /></s>
+<!--- Lara -->
+<s id="poster">Oh... No, it's... just a poster of some... dirty film... with some slender girls.... a blonde and a brunette... uuhh... hugging eachother...</s>
+<!--- Player -->
+<s id="suspicious">Uhmm... This is suspicious...</s>
+<!--- Lara -->
+<s id="what-mean">Suspicious? What do you mean?</s>
+<!--- Player -->
+<s id="refined">By your description I can guess... A Vixen film... Riley Reid and Carter Cruise... Isn't strange that these thughs have such a refined taste?</s>
+<!--- Lara -->
+<s id="WHAT">What?!</s>
+<s id="connoiseur">So, are you... like... a connoiseur of this... this... kind... of...</s>
+
+<!--- Player -->
+<s id="kind-art">This kind of Art, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="Art">This kind of Art, <d character="Lara" data="TXT_NAME" suffix="..." /> If you ever see the beautiful lightning, angles, framing, photography... The script is not that intricate but... Cinema is supposed to be firstly a visual Art, right?</s>
+<!--- Lara -->
+<s id="imagine">Yes, but... How can a thing like that can ever be beautiful? I can't imagine...</s>
+<!--- Player -->
+<s id="curious">Uhm... I noticed you become a little curious... I can recommend some art pieces like that when you come back... Some good ones... Not that Gaspar Moe's pretentious crap...</s>
+<!--- Lara -->
+<s id="but-hey">But hey... I didn't... I...</s>
+<!--- Player -->
+<s id="focus">Yeah... Now let's focus on the mission, right?...</s>
+
+<!--- Player -->
+<s id="well-informed-1">It's my job to be well informed... Anything to help you, <d character="Lara" suffix="..." /></s>
+<s id="well-informed-2">It's my job to be well informed... I need to antecipate anything dangerous and suspicious that might appear in your way...</s>
+<!--- Lara -->
+<s id="sorry">Oh... I'm sorry... I didn't mean to... I... I know it's important...</s>
+<!--- Player -->
+<s id="for-you">Anything for you, <d character="Lara" suffix="..." /></s>
+<!--- Lara -->
+<s id="thanks">Oh... Thank you, <d character="Player" suffix="..." /></s>
+
+<!--- Lara -->
+<s id="enough">I... I already saw enough of this...</s>
+
+<!--- Lara -->
+<s id="stinks">Eeww... This horrible man stinks...</s>
+<!--- Player -->
+<s id="doing-next">Don't try anything... It's better to just avoind him...</s>
+<!--- Lara -->
+<s id="sort-key">Yeah... You're right...</s>
+
+<!--- Lara -->
+<s id="cells">I can see the holding cells down this way... I should search there, but this door won't move... It doesn't have a lock or keyhole of some sort...</s>
+<!--- Player -->
+<s id="remotely">Then it's probably operated remotely... There might be some eletric panel giving access to its engine nearby... If you find we can try to override it...</s>
+<s id="crawl">Look carefully... There are some spots that you'll notice only while *crawling* [PRESS *S* OR *ARROW DOWN*] </s>
+<s id="need-panel">Are you sure there are no other way to open this door?</s>
+<s id="nope">Nope... Sorry...</s>
+
+<!--- Lara -->
+<s id="access-panel">Hey I think the panel of the door mechanism is inside this box!</s>
+<!--- Player -->
+<s id="open-panel">Great... Now, open it and let's make some hacking...</s>
+<!--- Lara -->
+<s id="locked">Uhm... This thing is closed and locked... I can't open it...</s>
+<s id="gun-butt">It seems a quite frail lock, though... It can probably break it open if I hit it with my gun butt...</s>
+<!--- Player -->
+<s id="keep-butt">Hey... Keep your butt exactly where it is now!</s>
+<!--- Lara -->
+<s id="supposed">What the hell is that supposed to mean?</s>
+<!--- Player -->
+<s id="hit-metal">I mean... Your gun butt... You don't want to wake the warder with the sound of it hitting metal...</s>
+<!--- Lara -->
+<s id="forgot">Bloody hell... I almost forgot about him...</s>
+<s id="stuck">But now what? I'm stuck...</s>
+<!--- Player -->
+<s id="short-circuit">We can try to short circuit the panel... It won't make much noise and will force the mechanism to open the door...</s>
+<!--- Lara -->
+<s id="how">Yes... How can I do this without accessing getting the box open?</s>
+<!--- Player -->
+<s id="pour-water">Just pour some water over it or over any exposed power wires near it... Easy peasy...</s>
+<!--- Lara -->
+<s id="cant-see">Water? I can't see any liquid around here... That thug dried his liquor bottle... No wonder he is in such deep sleep...</s>
+<!--- Player -->
+<s id="body-water">Well... You can always use your own... body water...</s>
+<!--- Lara -->
+<s id="what-body-water">Body water?</s>
+<!--- Player -->
+<s id="number-one">You know... a quick number one near and over the panel will be enough to fry it...</s>
+<s id="again">Oh my God... Again?! This can't be the only way we have to solve every electricity problem...</s>
+<s id="sshhh">Ssshhh... Keep your voice down... Remember the warder...</s>
+<s id="another-way">Look... I can't see another way to open the door... You can do it in a few seconds...</s>
+
+<s id="POUR">POUR 'BODY WATER'</s>
+<s id="NO-WAY">NO WAY</s>
+
+<!--- Lara -->
+<s id="sigh-do">Sigh... Okay, <d character="Player" suffix="..." /> I'll try your... sugestion...</s>
+<!--- Player -->
+<s id="no-worry">Don't worry... There's no one there to see you...</s>
+<!--- Lara -->
+<s id="woke">No one woke at least...</s>
+<!--- Player -->
+<s id="camera">Focus, now... First position your life monitor camera properly to transmit images of the operation...</s>
+<!--- Lara -->
+<s id="joking">Okay... Now you'd better be really joking...</s>
+<!--- Player -->
+<s id="processors">No... The camera feed is point-to-point encrypted and transmited direct to your server's image processors... They'll analyze the damage levels to the door mechanism and say when you should stop and not overdo it...</s>
+<s id="watch">But, hey... Did you think I want to watch?! I'm offended, <d character="Lara" suffix="..." /> It's not like I have access to your personal profile on the computer here... I'm just thinking about your safety...</s>
+<!--- Lara -->
+<s id="sorry-know">Oh... I... I'm sorry... I didn't know...</s>
+<s id="started">I... I should prepare this 'operation'...</s>
+
+<!--- Lara -->
+<s id="field">I can't believe I'm taking off my shorts in a place like this... What if that man wakes up while I'm doing it?</s>
+<s id="ready">Okay... I'm... I'm position, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<!--- Player -->
+<s id="can-see">Yeeeaaah... This position is perfect...</s>
+<!--- Lara -->
+<s id="wtf">What the... Are you watching!?!?!</s>
+<!--- Player -->
+<s id="mean-processor">No... Of course not! I mean... All I can see are the server image processors reporting its analysis with top accuracy...</s>
+<!--- Lara -->
+<s id="sigh">Sigh... I hope this plan of yours really work...</s>
+<s id="cant-believe">I can't believe I'm saying this, but... Just tell me when to stop, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<!--- Player -->
+<s id="goood">Veeeery good, <d character="Lara" data="TXT_NAME" suffix="..." /> The sensors are reading an increase in the... uuhh... pH level of the surroundings ... The eletric panel is going down any time now...</s>
+
+<s id="STOP">STOP</s>
+
+<!--- Lara -->
+<s id="sparks">The thing is starting to spark here...</s>
+<s id="it-worked">Yes! You did it, <d character="Player" data="TXT_NAME" suffix="!!" /></s>
+<!--- Player -->
+<s id="oh-please">Oh, please... You are the one doing the wet work... I mean... The hard work!</s>
+
+<!--- Lara -->
+<s id="already-open">The dor is already open... I'd beter leave this thing alone...</s>
+<s id="hate-place">I hate this place... But once I leave, it will not be easy to come back...</s>
+<s id="LEAVE">LEAVE</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+<s id="cant-leave">I won't have another chance here to find the key to release the old man... I can't leave now...</s>
+
+</strings>

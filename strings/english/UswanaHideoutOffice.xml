@@ -1,0 +1,119 @@
+<string>
+<s id="PUT-AWAY">PUT AWAY</s>
+<s id="RETURN-CANTEEN">RETURN THE CANTEEN</s>
+<s id="TAKE-CANTEEN">TAKE CANTEEN</s>
+<s id="TAKE-AMMO">TAKE AMMO</s>
+<s id="NOPE">NOPE</s>
+
+<s id="door-1">Urgh... This place stinks...</s>
+<s id="door-2">But there must be some clue about the Goddess Slab around here... Let's look around...</s>
+
+<s id="couch-1">A black couch... Why would they have a couch in a place like this...</s>
+<s id="couch-2">Uuhh... Dark fabric... Private office... Have you ever heard about the concept of a casting couch?</s>
+<s id="couch-3">Oh Lord... Are you serious?</s>
+<s id="couch-4">That's the kind of thing we can expect from those guys...</s>
+<s id="couch-5">I... I'm starting to wonder if this infiltration plan was a good idea...</s>
+
+<s id="couch-0">Casting couch... You got to be kidding me...</s>
+
+
+<s id="page-a">I remember the first time I... 'failed'... in the presence of a girl... I was wasted on booze... 
+I always tought alcohol shoud numb a man senses... But it somehow has the opposite effect to me...
+I never touched on booze again after that day... I'm always worried that a single sip of alcohol will make me jizz my pants again just by looking at a hot girl face...
+Now I keep my canteen over my table only with sour juice and always drink it before my meetings... It help me concentrate in doing what I do best...</s>
+
+<s id="page-a-0">It's a kind of diary page...</s>
+<s id="page-a-0-r">This must be one of 'The Boss' diary entries...</s>
+<s id="page-a-1">That was weird...</s>
+<s id="page-a-1-r">So... Making the man drink alcohol would be a way of 'pacifying' him...</s>
+
+<s id="table-0">Okay... The Boss' table... This is what I'm here for...</s>
+<s id="table-ss-0">I already learned everything this computer has to offer... Now I should work on that wacky plan of recreating the boss diary pages events and then wait for him outside...</s>
+<s id="table-ss-1">Hey... There is a spreadsheet with information about the auction!!</s>
+<s id="table-ss-2">It lists the items that will be sold today at the auction, including... the Goddess Slab!</s>
+<s id="table-ss-3">Does it say where they store the items?</s>
+<s id="table-ss-4">Uuhh... There are some lines at the end of the file...</s>
+<s id="table-ss-5">"The assets must remain locked at safe room B-14 with a timed lock programmed to open only during the auction. Strong security must be held the whole day until buyers come to collect their items accompanied by a guard and an auction hostess."</s>
+<s id="table-ss-6">Shit... So much security... How the hell will I be able to steal... I mean... take back the Goddess Slab?</s>
+<s id="table-ss-7">Well... Looks like you'll need to wait until the auction starts... I don't think we can open that lock before the programmed time...</s>
+<s id="table-ss-8-h">But, hey... As you're there to work as an autcion hostess, then you'll be able to get in that room without raising any suspicion!</s>
+<s id="table-ss-9-h">I... I'm still not sure if that was the best choice...</s>
+<s id="table-ss-8-m">And, uuhh... I don't want sound like capitain hindsight, but taking the place of the hostess would allow you into that room without raising any suspicion...</s>
+<s id="table-ss-9-m">Yet... We still don't know what the other girl were supposed to do here...</s>
+<s id="table-ss-10">Anyways... I'll have to attend the meeting with this man and hope to not be kicked out of the headquarters until that safe door open...</s>
+
+<s id="table-ss-11">I'd better close this file and get out of here before...</s>
+<s id="table-ss-12">Now, what's this?</s>
+<s id="table-ss-13">"Human Resources Report of Andrew Miller (A.K.A 'The Boss')"</s>
+<s id="table-ss-14">Information about the enemy is always interesting... You should read this one too...</s>
+<s id="table-ss-15">Okay...</s>
+
+<s id="table-ss-16">"'The Boss' used to be C.E.O. of Miller Enterprises LTDA for several years... He was already known as a very aggressive leader at that time..."</s>
+<s id="table-ss-17">"Even facing several accusations of assault and sexual harassment by his employees, The Boss had a natural military-like tactic management talent that lead the company to constant success..."</s>
+<s id="table-ss-18">"However, a major political/sexual scandal involving his brother and company president suddenly led the entire group to bankruptcy..."</s>
+<s id="table-ss-18-2">"At that moment, Freedom Bulls HR offered him a position as squad leader, which he promptly accepted and honored with the exact type of aggressive work the Bulls expected from him..."</s>
+
+<s id="table-ss-19">How can anyone be interested in hire a man with such history!?!?</s>
+<s id="table-ss-20">Human Resources people... They are the scum of the Earth...</s>
+<s id="table-ss-21">There's more down here...</s>
+
+<s id="table-ss-22">"Andrew Miller shows several traits that make him the ideal leadership for the Uswana Pacification Contract..."</s>
+<s id="table-ss-23">"'The Boss' has strong symptoms of several mental health disorders... He has a constant self-centered attitude, display a severe lack of human empathy and is extremely cruel with people he believe is below him..."</s>
+<s id="table-ss-24">"There is not a single record of meetings with him that don't include complaints of severe sexual harassment, aggression or violent behavior..."</s>
+
+
+<s id="table-ss-25">OH MY GOD... Is this the man I'm going to meet with in a few minutes!?!?</s>
+<s id="table-ss-26">Whoah... He definetively doesn't seem like a nice guy...</s>
+<s id="table-ss-27">He might not only be very... unpleasant to me... But he might also suspect I'm the one I'm claiming to be...</s>
+<s id="table-ss-28">Keep reading the profile... Maybe there is some information we can take advantage of...</s>
+
+<s id="table-ss-29">"MEDICAL RECORD: 'The Boss' has reported symptoms of split personality disorder triggered by rare cases of premature ejaculation and..."</s>
+<s id="table-ss-30">OH MY GOD... I can't read more about that sick man...</s>
+<s id="table-ss-31">Wait... That sounded something you can exploit for your advantage...</s>
+<s id="table-ss-32">What the hell are you talking about, <d character="Player" suffix="?" /> I'm not interested in this creep's weird problems...</s>
+<s id="table-ss-33">Just keep reading, trust me...</s>
+<s id="table-ss-34">Sigh... Okay...</s>
+
+<s id="table-ss-35">"Andrew seeked out psychological help to talk about a few specific meetings during wich he had sudden peaks of arousal, leading him to sexual climax without even getting near his 'subjects'..."</s>
+<s id="table-ss-35-2">"When it happens, The Boss changes to a docile and submissive personality due to a deep feeling of embarassment..."</s>
+<s id="table-ss-36">"It was recommended to The Boss write diary entries about these events... But, the psychologist who was treating him was found brutally murdered after his first sessions..."</s>
+<s id="table-ss-37">"There are several reports of The Boss showing a psychotic behaviour that day, hiding his diary pages in several places at the Uswana Headquarters... Further investigation is required..."</s>
+
+<s id="table-ss-38">See? That's what I was talking about!</s>
+
+<s id="table-end-1-m">I... I'm sorry... I still don't get it...</s>
+<s id="table-end-2-m-d">If you are that stupid, then it's not worth to help you...</s>
+<s id="table-end-3-m-d">If you are so stupid to not understand, then it's not worth to help you...</s>
+<s id="table-end-4-m-d">No... Please... I'm sorry... I need help to deal with that man... I swear I'll keep doing everything you say to me...</s>
+<s id="table-end-5-m-d">Sigh... Okay... I'll explain...</s>
+<s id="table-end-6-m-d">These diary pages spread around there... You should find and read them all... They will certainly give us tips about what can be done before and during the meeting to crush this boss dude's mind......</s>
+<s id="table-end-7-m-d">If you recreate the conditions that led him to... you know... premature ejaculation... Then he won't create problems for you...</s>
+
+<s id="table-end-1">Are you really suggesting that I should exploit the wicked stuff about that boss man?</s>
+<s id="table-end-2">It seems the only way you have to 'pacify' him during the meeting before he show all these 'qualities'  human resources is talking about...</s>
+<s id="table-end-3">Sigh... If it doesn't require me to do anything weird, then maybe I could try...</s>
+<s id="table-end-4">You should look for these diary pages the report say he spread around the headquarters... They will certainly give us tips about what you can be done before and during the meeting to crush this dude's mind...</s>
+<s id="table-end-5">If you recreate the conditions that led him to... you know... become docile... Then he won't create problems for you...</s>
+
+<s id="table-end-f">Okay... I'll do that...</s>
+
+<s id="phone-1">A disconnected phone... It seems to serve only as decoration here...</s>
+
+<s id="canteen-1">This canteen is leaking some disgusting stinky liquid all over the table...</s>
+<s id="canteen-2">I'd rather not touch it unless I have a really strong reason...</s>
+
+<s id="canteen-a-1">I think this is The Boss' canteen...</s>
+<s id="canteen-a-2">He wrote on that diary page he always drink from it before a meeting... Maybe you can surprise him by changing the contents of the canteen...</s>
+<s id="canteen-a-3">Uhmmm... In that case, I think could borrow it for a few minutes...</s>
+
+<s id="canteen-b-1">Should I return the canteen back to its place?</s>
+<s id="canteen-b-2">Done...</s>
+
+<s id="canteen-c-1">Should I take the canteen?</s>
+
+<s id="drawers-1-a">These drawers are full of trash...</s>
+<s id="drawers-2-a">There's also a couple of 9mm bullets here... Should I take them?</s>
+
+<s id="drawers-1-b">There's nothing but trash now inside these drawers...</s>
+
+</string>

@@ -1,0 +1,329 @@
+<strings>
+<s id="MOVE">MOVE PICTURES ASIDE</s>
+<s id="KEEP">KEEP THEM THERE</s>
+<s id="LEAVE">LEAVE</s>
+<s id="STAY">SEARCH MORE</s>
+
+<s id="sr-h-1">Mister Kuznetsov... The safe room is right ahead...</s>
+<s id="sr-h-2">In a few minutes you will have your item...</s>
+<s id="sr-h-3">Humpf...</s>
+<s id="sr-h-4">Here it is... The door to the safe room...</s>
+<s id="sr-h-5">The timed lock is about to open... Please give it a few seconds...</s>
+<s id="sr-h-6">........</s>
+<s id="sr-h-7">_What about you, girl? You're supposed to be a hostess... Say something to brighten his mood..._</s>
+<s id="sr-h-8">Oh... Uuuh... Congratulations, Mister Kuznetsov... You aquired an unvaluable piece of History today...</s>
+<s id="sr-h-9">We... I mean... The Freedom Bulls hope you... enjoy... your item...</s>
+<s id="sr-h-10">I don't give a shit about History... I only intend to make profit by reselling that junk in my country's black market...</s>
+<s id="sr-h-11">Oh... That's horrible... I mean... I mean...</s>
+
+<s id="sr-h-12-l">I heard you recently married Mister Miller, am I right?</s>
+<s id="sr-h-13-l">Oh... You mean... The Boss... I... I...</s>
+<s id="sr-h-14-l">Yeah... You both semmed really in love up there... such a scene...</s>
+<s id="sr-h-15-l">That was... was.......</s>
+<s id="sr-h-16-l">Damn... A girl like you must be really desperate to accept be touched by that disgusting man...</s>
+<s id="sr-h-17-l">...........</s>
+<s id="sr-h-18-l">_Kick that door open, for God's Sake... This is too awkward..._</s>
+
+<s id="sr-h-12-w">So... Why Mister Miller didn't joined us tonight?</s>
+<s id="sr-h-13-w">Oh... You mean 'The Boss'... He called sick today, sir...</s>
+<s id="sr-h-14-w">Yeah... You still call him by this stupid alias... Never heard about him missing important events due to sickness though...</s>
+<s id="sr-h-15-w">Oh... He was not feeling well, sir... A serious case of... incontinence... and diarrhea... really gross...</s>
+<s id="sr-h-16-w">Humpf... And I tought there couldn't be more reasons to be disgusted by that man...</s>
+<s id="sr-h-17-w">Ha... There are lots of reasons you still don't know, sir... But I'll spare you...</s>
+<s id="sr-h-18-w">_Hey... I'm gonna tell The Boss about this, bitch..._</s>
+
+<s id="sr-h-19">There... It's open... Come on, girl... Get in the room and fetch Mister Kuznetsov's merchandise... We'll be waiting here...</s>
+
+<s id="sr-m-1">Come on, girl... The safe room is right ahead...</s>
+<s id="sr-m-2">You'll soon be taking your place in there among the merchandise...</s>
+<s id="sr-m-3">..........</s>
+<s id="sr-m-4">Here it is... The door to the safe room...</s>
+<s id="sr-m-5">But it seems still locked...</s>
+<s id="sr-m-6">Are you that eager to get in? Hold your panties... The timed lock should open in a few seconds...</s>
+<s id="sr-m-7">You know... Mister Kuznetsov runs the black market in his country and he usually buys stuff in our auctions to resell there for profit... including girls...</s>
+
+<s id="sr-m-8-w">But you... after your stupid speech during the auction... I think he probably bought you just for fun...</s>
+<s id="sr-m-9-w">Fun?</s>
+<s id="sr-m-10-w">Yeah... Fun for him, of course...</s>
+<s id="sr-m-11-w">There are sick stories about what he likes to do with stubborn girls like you... Sick... stories...</s>
+<s id="sr-m-12-w">Sick... You, him, and everyone else in this building are the sick ones...</s>
+<s id="sr-m-13-w">Ha... I just want to be there when he breaks this attitude of yours...</s>
+
+<s id="sr-m-8-l">But by the value he paid for you... he will probably place you in his elite team...</s>
+<s id="sr-m-9-l">Elite... team?</s>
+<s id="sr-m-10-l">Yeah... He also runs the most famomus high class escort service in east Europe... Old rich men from the whole world pay top money for a night with his elite escorts...</s>
+<s id="sr-m-11-l">Looks like you're going to meet a LOT of them...</s>
+<s id="sr-m-12-l">This... this won't happen to me...</s>
+<s id="sr-m-13-l">Yeah... Keep clinging to hope while you still have it...</s>
+
+<s id="sr-m-14">There... It's open... Get in now and wait for Mister Kuznetsov there... He always make a private 'quality check' of his girls before taking them home...</s>
+
+
+<s id="sr-in-1"><d character="Player" suffix="..." /> Come in... I did it... I did it...</s>
+<s id="sr-in-2"><d character="Lara" suffix="!?" /> Did you get in? Is this really the safe room?</s>
+<s id="sr-in-3">I hope so... It looks like another mess of a place... Just like everywhere around here...</s>
+<s id="sr-in-4">It kinda seems a storage room to me... You have to search this place quickly...</s>
+<s id="sr-in-5">Yes... The Goddess Slab must be somewhere here...</s>
+
+<s id="sr-in-missile-1">Is... Is this thing... for real? They wouldn't simply let a real missile leaning on the wall of a storage room, would they?</s>
+<s id="sr-in-missile-2">Seems very real to me... I just hope the warhead doesn't contain some kind of tactical nuke...</s>
+<s id="sr-in-vase-1">Do they really expect that this cheap fake can pass as an acient vase? It's so light that it seems made of sugar...</s>
+<s id="sr-in-vase-2">Well... There are always gullible people with money spend in shit like this...</s>
+<s id="sr-in-skull-1">A very heavy 'crystal skull'... Plain stupid... It's definetively the most absurd and worthless item I'll find in this room...</s>
+<s id="sr-in-skull-2">At least it's not an ALIEN crystal skull, you know...</s>
+<s id="sr-in-box-1">Humm... That box looks suspicious... Can you check it from there, <d character="Player" suffix="?" /></s>
+<s id="sr-in-box-2">Shit... From what I can read, you should definetively not get near it...</s>
+<s id="sr-in-drawers-1">I should check if the slab is into one of these drawers...</s>
+<s id="sr-in-drawers-2">No... Just another 9mm bullet...</s>
+<s id="sr-in-drawers-3">There's nothing else in these drawers...</s>
+<s id="sr-in-pepper-1">This reads... "Military Grade Pepper Spray"...</s>
+<s id="sr-in-pepper-2">A nice stun weapon against unarmed agressors... Won't help much against a bunch or gun wielding mercenaries though...</s>
+
+<s id="sr-in-pics-1">I've been seeing pictures of this man everywhere around here... Is he the president or something?</s>
+<s id="sr-in-pics-2">Probably... What I know for a fact is that he has a strong aura of awesomeness...</s>
+<s id="sr-in-pics-3">Hey... There's something hidden behind these frames...</s>
+<s id="sr-in-pics-4">Oh my God... I found it! I found it!</s>
+<s id="sr-in-pics-5">Huh? What did you find?</s>
+<s id="sr-in-pics-6">This is it! The Goddess Slab!!</s>
+<s id="sr-in-pics-7">You mean... This old dirty piece of clay?!</s>
+<s id="sr-in-pics-8">Yes!! See these inscriptions? As McGuffin wrote, these must be the instructions to find the temple!! Once I translate it, I'll be able to create a map to...</s>
+<s id="sr-in-pics-9">Sure... This is all very interesting... But remember you're still inside the headquarters of a dangerous mercenary group...</s>
+<s id="sr-in-pics-10">Oh... You're... right... I still need to figure how to get out of this place...</s>
+
+<s id="sr-leave">I don't know if I can still find anything useful here... Should I leave now?</s>
+
+<s id="sr-leave-h-1">What should I do now? If I leave, they will take the Goddess Slab from me...</s>
+<s id="sr-leave-h-2">Well... We'll need to improvise... What about you...</s>
+<s id="sr-leave-h-3">Hey! Why are you taking so long?? Mister Kuznetsov is impatient!</s>
+<s id="sr-leave-h-4">It's... uuuhhh... because it... I mean...</s>
+<s id="sr-leave-h-5">...... it was stolen!!!</s>
+<s id="sr-leave-h-6">WHAT!?!?</s>
+<s id="sr-leave-h-7">The Goddess Slab was stolen! Someone uuuh... someone digged a hole into this room and took it! Maybe they are going to strike the headquarters now!</s>
+<s id="sr-leave-h-8">Shit... I need to call reinforcements and protect the guests!! Stay right there, girl!!</s>
+<s id="sr-leave-h-9">Jesus... Is this your idea of improvisation?</s>
+<s id="sr-leave-h-10">Well... It was the first idea that popped in head... And it worked, okay?</s>
+<s id="sr-leave-h-11">Now I can just leave while the guard is...</s>
+<s id="sr-leave-h-12">Anyone can fool these Freedom Bulls idiots like you did, girl... But thinking you can do the same to me is offensive...</s>
+<s id="sr-leave-h-13">Oh... I... I was just...</s>
+<s id="sr-leave-h-14">So are you trying to steal my artifact? Are you nothing but a pitiful thief? I deeply despise thiefs...</s>
+<s id="sr-leave-h-15">Every single one who tried to steal from me had a very short life time... And I intend to keep those statistics...</s>
+<s id="sr-leave-h-16">Oh my God, <d character="Player" suffix="..." /> Help me... He's going to... He's going to...</s>
+
+<s id="sr-leave-m-1">I... I should try to find way to sneak out of this room before the... 'buyer'... arrives and...</s>
+<s id="sr-leave-m-2">Oh no... Someone is coming...</s>
+
+<s id="sr-leave-m-3">Oh... You are the... bidder......... I was... I was just...</s>
+<s id="sr-leave-m-4">You have much to learn...</s>
+<s id="sr-leave-m-5">I'm sorry... This... This is a mistake...</s>
+<s id="sr-leave-m-6">First lesson... You never talk before my explicit permission...</s>
+<s id="sr-leave-m-7">Resistance to these lessons will only make your life more difficult...</s>
+<s id="sr-leave-m-8">Wait... wait... I'm... I'm not supposed to be here...</s>
+<s id="sr-leave-m-9">Second lesson... You're supposed to be wherever I want you to be...</s>
+<s id="sr-leave-m-10">You... You don't understand... My name is <d character="Lara" /><d character="Lara" data="TXT_SURNAME" suffix="..." /> You must have heard about a...</s>
+<s id="sr-leave-m-11">Third lesson... Forget about your name, and your past life...</s>
+<s id="sr-leave-m-12-l">I'll choose a new name for the new life I'm planning for you... You'll going to called... 'Sveta'...</s>
+<s id="sr-leave-m-12-w">I heard your little speech earlier... I'll make you understand that people forget about their 'human' rights when they start to feel less than 'human'...</s>
+<s id="sr-leave-m-13">_Oh my God, <d character="Player" suffix="..." />... Help me... I need a plan to get out of here... urgent..._</s>
+
+<s id="sr-use">Use something lying in the room to knock him down!</s>
+<s id="sr-use-1">This room seems full of dangerous shit, <d character="Lara" suffix="..." /> Use something to put him down! Fast!</s>
+<s id="sr-use-2">_Oh my God... To put him down?_</s>
+<s id="sr-use-3">_But... What should I use?_</s>
+
+<s id="sr-use-missile">Fire the missile at him!</s>
+<s id="sr-checked-missile">CHECKED MISSILE</s>
+<s id="sr-not-checked-missile">DID NOT CHECKED MISSILE</s>
+<s id="sr-use-missile-1">_The missile? What the hell are you talking about? I can't even..._</s>
+
+<s id="sr-use-skull">Crack his head with the crystal skull!!</s>
+<s id="sr-checked-skull">CHECKED SKULL</s>
+<s id="sr-not-checked-skull">DID NOT CHECKED SKULL</s>
+<s id="sr-use-skull-1">_Nice idea..._</s>
+<s id="sr-use-skull-2-m">So... Do you accept your new life or...</s>
+<s id="sr-use-skull-2-h">It's a shame I have to shoot such pretty girl...</s>
+<s id="sr-use-skull-3-m">I'll show you what my submission looks like, you fucking pig!</s>
+<s id="sr-use-skull-3-h">Don't you know that bad guys who talk too much never win?</s>
+<s id="sr-use-skull-4-h">Bastard... I'm not just a 'pretty girl'... Are you ready to learn my name?</s>
+<s id="sr-use-skull-4-m">Are you ready to learn my name now? I'll stay it one more time!</s>
+<s id="sr-use-skull-4-2"><d character="Lara" case="up" /><d character="Lara" data="TXT_SURNAME" case="up" />AND THE CRYSTAL SKULL!!</s>
+<s id="sr-use-skull-5">Easy, <d character="Lara" suffix="..." /> I think it's enough...</s>
+<s id="sr-use-skull-6">Yeah... He won't wake up until I'm out of here...</s>
+<s id="sr-use-skull-7">I don't think he will ever wake up again...</s>
+<s id="sr-use-skull-8">Whatever... I don't care... He deserved it...</s>
+
+<s id="sr-use-vase">Crack his head with the vase!!</s>
+<s id="sr-checked-vase">CHECKED VASE</s>
+<s id="sr-not-checked-vase">DID NOT CHECKED VASE</s>
+<s id="sr-use-vase-1">_Yeah... I'll try..._</s>
+<s id="sr-use-vase-2-m">So... What about you submit to this!!</s>
+<s id="sr-use-vase-2-h">You talk too much! And I intend to get out here now!!</s>
+<s id="sr-use-vase-3-m">You must understand...</s>
+<s id="sr-use-vase-3-h">You... you...</s>
+<s id="sr-use-vase-4">Oh no... The vase... It's really like if it was made of sugar...</s>
+<s id="sr-use-vase-5-m">...this kind of behavior will only bring you more suffering...</s>
+<s id="sr-use-vase-5-h">...you won't even have the time to regret your stupidity...</s>
+
+<s id="sr-use-pepper">Use the pepper spray on his face!!</s>
+<s id="sr-checked-pepper">CHECKED PEPER SPRAY</s>
+<s id="sr-not-checked-pepper">DID NOT CHECKED PEPER SPRAY</s>
+<s id="sr-use-pepper-2-m">So... Do you accept your new life or...</s>
+<s id="sr-use-pepper-2-h">It's a shame I have to shoot such pretty girl...</s>
+<s id="sr-use-pepper-3-m">I'll show you what my submission looks like, you fucking pig!</s>
+<s id="sr-use-pepper-3-h">Don't you know that bad guys who talk too much never win?</s>
+<s id="sr-use-pepper-4">I hope this burn your eyes beyond repair, bastard!</s>
+<s id="sr-use-pepper-5"><d character="Lara" suffix="..." /> I don't know if you're aware you that you don't need to empty the can for the spray make effect...</s>
+<s id="sr-use-pepper-6">I think he will be down for several hours after this...</s>
+<s id="sr-use-pepper-7">He deserved much worse...</s>
+
+
+<s id="sr-use-something">Uuuuuhh...</s>
+<s id="sr-use-something-1">Uuuuuhh... Sorry... I can't think anything that could help now...</s>
+<s id="sr-use-something-2">_Oh no, no, no..._</s>
+
+<s id="sr-soften">You'll need to 'soften' him so he can open his guard...</s>
+<s id="sr-soften-1">This guy seems dangerous... I think there's now way, but to 'soften' him a little... If you know what I mean...</s>
+<s id="sr-soften-2">Just 'pretend' to obey him so you can open his guard... Then you might have a chance to put him down...</s>
+<s id="sr-soften-3">... how can you suggest to..... simply..... submit...... to him</s>
+
+<s id="sr-leave-m-14">You'll start addressing me as 'Master Kuznetsov'...</s>
+<s id="sr-leave-m-15">...and finally... you'll fully submit your body to me...</s>
+
+<s id="sr-lost-1">_No way... No way..._</s>
+<s id="sr-lost-1-sl">_I... I will play his game until I find an opportunity to take him down... there's... no other way... right?_</s>
+
+<s id="sr-lost-2">NO! GET AWAY FROM ME!! I'M NOT YOUR PROPERTY!!</s>
+<s id="sr-lost-3">Looks like I'll have a lot of fun later breaking your will...</s>
+<s id="sr-lost-4">For now, you won't have much of a choice... There's no escape from here...</s>
+
+<s id="sr-lost-2-sl">_Yes... Master Kuznetsov..._</s>
+<s id="sr-lost-3-sl">Good girl... I didn't expect you to learn so fast... Your life will be much more pleasant if you keep this behaviour...</s>
+<s id="sr-lost-4-sl">If you make an effort, I'll put you in my elite team... You may even lead my girls one day...</s>
+
+<s id="sr-lost-5">For now...</s>
+<s id="sr-lost-6">YOU WILL OBEY!</s>
+<s id="sr-lost-7">Pull one of these chairs for me...</s>
+<s id="sr-lost-7-2">That's more like it...</s>
+<s id="sr-lost-8">Now come here... I need to make a quick inspection on you...</s>
+<s id="sr-lost-9">Humm... Nice childbearing hips indeed...</s>
+<s id="sr-lost-10">It seems you'll have a nice range of 'usage' in my organization...</s>
+<s id="sr-lost-11">But to fully check you, we'll need to get rid of these ridiculous garments...</s>
+<s id="sr-lost-12">I don't know why these idiots here always dress the girls like this...</s>
+<s id="sr-lost-13">No... Please...</s>
+<s id="sr-lost-13-sl">Please... Master Kuznetsov...</s>
+<s id="sr-lost-14">Hey... I don't remember having allowed you to speak... Control yourself...</s>
+<s id="sr-lost-15">Stay quiet while I continue my inspection...</s>
+<s id="sr-lost-16">Nice... This is a solid B+ backside...</s>
+<s id="sr-lost-17">_Humpf... I'm no bloody B+..._</s>
+<s id="sr-lost-18">What? Did that sting your body pride?</s>
+<s id="sr-lost-19">I'll forgive this new interruption because I liked your reaction...</s>
+<s id="sr-lost-20">You'll gonna have fierce competition in your new life... This kind of feeling is important for you to be on top of my other girls...</s>
+<s id="sr-lost-21">You shoudln't worry, though... As soon as I post these previews at my website, there's going to be a long line of VIPs waiting for you...</s>
+<s id="sr-lost-22">I'm sure I'll recover my investiment in you in a very short time...</s>
+<s id="sr-lost-23">But now... I have a little challenge for you... I wanna see if you can keep your mouth shut while I do this...</s>
+<s id="sr-lost-24">Most of your future clients will want to be in control... And the moment they take off your panties is considered an important mark of their dominance over you...</s>
+<s id="sr-lost-25">Hence the importance of keeping silent...</s>
+<s id="sr-lost-26">_sob... sob..._</s>
+<s id="sr-lost-26-sl">_nnnnngh..._</s>
+<s id="sr-lost-27">Very good... Whimpering or moaning are very welcome responses...</s>
+<s id="sr-lost-28">It's your job to know your client and use the response he would mostly appreciate...</s>
+<s id="sr-lost-29">Can you feel it?</s>
+<s id="sr-lost-30">You will soon become proud of the feeling of your panties falling to your ankles...</s>
+<s id="sr-lost-31">You'll be conditioned to empty your mind every time you feel this...</s>
+<s id="sr-lost-32">No shame... No fear... No anger... Only submission...</s>
+<s id="sr-lost-33">I can fell that you take well care of your pubic hair...</s>
+<s id="sr-lost-34">However... I'll have to personally shave you as soon as we get home... A shaved cunt is the trademark of my elite team...</s>
+<s id="sr-lost-34-plug-1">Sigh... Another girl I buy here that comes with this preposterous tracking device...</s>
+<s id="sr-lost-34-plug-2">And they call me a savage...</s>
+<s id="sr-lost-34-plug-3">Whatever... I wouldn't inspect your rectum now anyways...</s>
+<s id="sr-lost-35">No time for it today, though... It's time for the real deal...</s>
+<s id="sr-lost-36">Come... Sit on your master's lap...</s>
+<s id="sr-lost-37">Your body is light as a feather... Slender, but fit... A combination requested often...</s>
+<s id="sr-lost-38">But now let me see how you perform...</s>
+<s id="sr-lost-39">I like how your breathing is getting heavy... It's very stimulating...</s>
+<s id="sr-lost-40">But I only showed you my penis... We have a long way to go...</s>
+<s id="sr-lost-41">First, I need to check your lubrication capabilities...</s>
+<s id="sr-lost-42">Humm... Quick natural lubrication after a few seconds of contact... A nice feature...</s>
+<s id="sr-lost-43">Please... Stop analysing me like a... product... It's so unsettling...</s>
+<s id="sr-lost-44">Ha... There are much more serious reasons for you to get nervous girl...</s>
+<s id="sr-lost-45">For example...</s>
+<s id="sr-lost-46">Oh my God... What are you doing...</s>
+<s id="sr-lost-47">As I said... Light as a feather...</s>
+<s id="sr-lost-48">You see... My clients are not like your efeminate western boyfriends... They'll handle you with a strong arm...</s>
+<s id="sr-lost-49">This should unsetlle you...</s>
+<s id="sr-lost-50">Try to keep quiet now for a very important test...</s>
+<s id="sr-lost-51">Outstandig tightness... You are an unexpected real bargain, girl...</s>
+<s id="sr-lost-52">MMmmmng... Not like this... not like this...</s>
+<s id="sr-lost-53">It is the way your master wants it to be... Just handle it...</s>
+<s id="sr-lost-52-sl">Please... Stop teasing and take me already, master... Please...</s>
+<s id="sr-lost-53-sl">Humm... So you are a corrupted one... This will make my work easier...</s>
+<s id="sr-lost-54">Let's see how much you can take...</s>
+<s id="sr-lost-54-v">_father... I'm sorry... it's going to happen..._</s>
+<s id="sr-lost-55-v">Sigh... I can't believe those idiots sold me a virgin and didn't even care to say... I feel like I just killed an unicorn... What a waste...</s>
+<s id="sr-lost-55">Very good... Wet, tight and warm... Money well spent...</s>
+<s id="sr-lost-56">Well... Let's see if you can really get into my elite team...</s>
+<s id="sr-lost-57">Yes... The way you twich and moan... Even after all that non willing attitude...</s>
+<s id="sr-lost-58-sl">MMmmmnng... I should be hating this... But it feels... soooo good to be... filled by you, Master Kuznetsov...</s>
+<s id="sr-lost-59-sl">Yes, my dear Sveta... I'll make you a star...</s>
+<s id="sr-lost-58">Nooooo... why don't you just... let me... go home...</s>
+<s id="sr-lost-59">Oh, but you're going to be home soon... At our new home...</s>
+<s id="sr-lost-60">Yeah... You're very close to grant a place in my elite team...</s>
+<s id="sr-lost-61">But how about yoy take the lead and show me what you know?</s>
+<s id="sr-lost-62">What? I don't know what are you talking about... I already told you I don't want this...</s>
+<s id="sr-lost-62-sl">I'm sorry, Master Kuznetsov... I... I don't know what can I do to please you more...</s>
+<s id="sr-lost-62-sl2">Yes, Master Kuznetsov... I'll please you...</s>
+<s id="sr-lost-swing-1">Yeees... this is it...</s>
+<s id="sr-lost-swing-2">Oh... My dear Sveta... Have a true orgasm like this in front of a client, and he'll give you the world...</s>
+<s id="sr-lost-swing-3">It's settled... I'll definetively make you my new top elite girl...</s>
+<s id="sr-lost-swing-no">Sigh... Such disappointment...</s>
+<s id="sr-lost-63">Well... Unfortunately my days of youth are gone, and I'll need to finish this...</s>
+<s id="sr-lost-64">Uuurghh...</s>
+<s id="sr-lost-65">Get ready, now... I'll fill your insides with my seed... Marking you as mine...</s>
+<s id="sr-lost-66">Yeeehhh... Here it cooomes...</s>
+<s id="sr-lost-67">Uuurg... Let's allow it to leak for a moment... So you can have the feeling of a mission accomplished...</s>
+<s id="sr-lost-68">You posetively surprised me , girl...</s>
+<s id="sr-lost-68-sl">Thank you, Sveta... You're a pleasant surprise...</s>
+
+<s id="sr-lost-69">Now go put on your clothes while I recover here... Age has been consuming my energy lately so I'll need a moment to recover...</s>
+<s id="sr-lost-70">_He'll be down for a few seconds... This is my last chance..._</s>
+
+<s id="sr-leave-1">I... I must try to leave while he's resting...</s>
+<s id="sr-leave-2">You really tought you could just leave me here?</s>
+
+<s id="sr-go-1">You disappoint me, girl...</s>
+<s id="sr-go-2">I'll keep you chained now... Maybe this will make you understand that you belong to me... That you are not free...</s>
+<s id="sr-go-3">You're going to be severely punished for this when you get home...</s>
+<s id="sr-go-4">And you can leave this little toy here... You're not allowed to have any possessions...</s>
+<s id="sr-go-5">Now let's go home...</s>
+<s id="sr-go-6"><d character="Player" suffix="...." /> I'm so scared... Help me... Please...</s>
+<s id="sr-go-7"><d character="Lara" /> lost her radio uplink... I tried to contact her for days without success...</s>
+<s id="sr-go-8">I found in the dark web a few records of a girl named 'Sveta' that matched her description...</s>
+<s id="sr-go-9">But that trail went cold... And we never heared about her anymore...</s>
+<s id="sr-go-10">My mysterious client didn't liked this outcome and also never contacted me anymore... I had no choice... I had...</s>
+<s id="sr-go-11">...I had to find another job...</s>
+<s id="sr-go-12">GAME OVER\nIT'S [A] NEW LIFE FOR <d character="Lara" case="up" /></s>
+
+<s id="sr-go-gun-1">It's a shame having to put a hole in such pretty face...</s>
+<s id="sr-go-gun-2">You could be so much, girl... Unfortunately, I can't let you live...</s>
+<s id="sr-go-gun-3">Goodbye, thief..</s>
+<s id="sr-go-gun-4">GAME OVER\nIT ENDS WITH A [B]ULLET</s>
+
+
+
+<s id="sr-lost-gun-butt">HIT HIM WITH THE GUN BUTT</s>
+<s id="sr-lost-gun-butt-1">Take that you fucking savage!</s>
+<s id="sr-lost-gun-head">SHOOT HIM IN THE HEAD</s>
+<s id="sr-lost-gun-head-1">You are the property now, asshole... Property of the worms...</s>
+<s id="sr-lost-gun-dick">SHOOT HIM IN THE DICK!!</s>
+<s id="sr-lost-gun-dick-1">BLYAT!!!!</s>
+<s id="sr-lost-gun-dick-2">_fucking shlyukha... i'm going kill you... i swear i'm going to kill you..._</s>
+<s id="sr-lost-gun-dick-3">No... You're going to lay there... bleeding... until I'm very far from here, you fucking pig!!!!</s>
+
+
+<s id="sr-win-1">Hey... Look what he dropped...</s>
+
+<s id="sr-exit-1">Finally I have a gun and ammunition... No bloody goon can't stop me from leaving this place now...</s>
+<s id="sr-exit-2">Jesus Christ, <d character="Lara" suffix="..." /> Are you sure about that?</s>
+<s id="sr-exit-3">I'm damn sure... Finally I'll have the opportunity to do some shooting...</s>
+<s id="sr-exit-4">Now let's get out of here...</s>
+
+</strings>

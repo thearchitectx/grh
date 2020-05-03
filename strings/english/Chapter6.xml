@@ -1,0 +1,443 @@
+<strings>
+<s id="start-1">&lt;size="30"&gt;CHAPTER VI&lt;/size&gt;\n\nTHE 'LAST' REVELATION</s>
+<s id="start-2">SIX DAYS OF TRAVEL LATER...</s>
+
+<s id="start-3">Jesus Christ... Finally... Talk about a shitty ride...</s>
+
+<s id="start-4">Yeah... I remember the way here weren't so nice during my first visit...</s>
+<s id="start-4-preg-1">But this time the flight make me especially nauseous...</s>
+<s id="start-4-preg-2">Really!? Like... uuuhhh... morning sickness?</s>
+<s id="start-4-preg-3">What!? No... Of course not... I... I just felt sick... in... the morning...</s>
+
+<s id="start-5">Well... I thought I had already gone on uncomfortable trips in the past... But this one was the absolute champion...</s>
+
+<s id="start-6-m">I... I'm very sorry, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="start-7-m">You're here because of me... It's all my fault...</s>
+<s id="start-8-m">You bet your ass it is... But I'll find a way for you to repay me...</s>
+<s id="start-9-m">Yes, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="start-6-t">Come on, you grumpy... It's exciting to be finally here, isn't?</s>
+<s id="start-7-t">I never tought one day I would be in a place like this with you...</s>
+<s id="start-8-t">Well... I'd rather be with you in a much more comfortable location... But it's okay...</s>
+<s id="start-9-t">Aaaww... I'll promise we'll be home soon...</s>
+<s id="start-6-c">Stop complaining, <d character="Player" suffix="..." /> </s>
+<s id="start-7-c">This place is amazing!! I loved every single moment I spent here last time...</s>
+<s id="start-8-c">Sure... I bet you loved much more the... experiences and 'people' you met here than the place itself...</s>
+<s id="start-9-c">Thee hee... I can't deny I have some hot memories of that visit...</s>
+<s id="start-6-n">Stop complaining, <d character="Player" suffix="..."/> We are very close now...</s>
+<s id="start-7-n">If we do this right, soon we'll be at home again...</s>
+<s id="start-8-n">The we'd better not screw up this mission...</s>
+<s id="start-9-n">Don't worry... We won't!</s>
+
+<s id="start-10">Yeah... But I'm still not sure if this was a good idea...</s>
+<s id="start-11">Those armed dudes are certainly keeping their positions around the village...</s>
+<s id="start-12">... and they won't be happy knowing you're back to mess with their business...</s>
+<s id="start-13-c">Hummm... Actually I think some of them will be very happy when they see me again...</s>
+<s id="start-14-c">Indeed... But they won't like the fact you brought male company this time...</s>
+<s id="start-15-c">Oh... Yeeeaahh... Those boys can be quite possessive about me, don't you think?</s>
+<s id="start-16-c">Sigh... Control yourself for a minute, <d character="Lara" suffix="..." /> You dragged me here... We'll need a plan so we can both get into that cave...</s>
+<s id="start-13-m">Oh no... Oh no... Oh no... What... What now... I shouldn't have come back here... They will hurt me...</s>
+<s id="start-14-m">Hey... Pull yourself together... We didn't even started our first setp for God's sake...</s>
+<s id="start-15-m">I'm sorry, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I'm so sorry... I don't know what to do...</s>
+<s id="start-16-m">Damn, you're really useless ain't you? I'll have to come up with a plan...</s>
+<s id="start-13-t">Damn... I almost forgot about them...</s>
+<s id="start-14-t">They'll certainly become more agressive if they notice you started bringing your own people here...</s>
+<s id="start-15-t">I agree... We need a plan to infiltrate the village in a secure way...</s>
+<s id="start-16-t">A plan...</s>
+<s id="start-13-n">Damn... I almost forgot about them...</s>
+<s id="start-14-n">They'll certainly become more agressive if they notice you started bringing your own people here...</s>
+<s id="start-15-n">I agree... We need a plan to infiltrate the village in a secure way...</s>
+<s id="start-16-n">A plan...</s>
+
+<s id="start-17-c">........... Bye, bye, mister pilot... Tee hee...</s>
+<s id="start-18-c">Sigh... _I think I created a monster..._</s>
+<s id="start-17-m">Oh no... The transport is leaving... Please make it come back, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="start-18-m">Sigh... Too late... Looks like we'll be visiting those friends of yours...</s>
+<s id="start-17-t">Thank God the transport is leaving... I'm definetively not eager to hop into that damned helicopter again...</s>
+<s id="start-18-t">Yeah... Neither do I...</s>
+<s id="start-17-n">Thank God the transport is leaving... I'm definetively not eager to hop into that damned helicopter again...</s>
+<s id="start-18-n">Yeah... Neither do I...</s>
+
+<s id="start-19">Well... Our ride just left, so we won't have any choice but come up with some idea to get into the village</s>
+<s id="start-20">Listen... Now that all that noise went away I believe I can hear at least two of them at the gates...</s>
+<s id="start-21">If we approach them together they might get really nervous... We need to decide how to approach the problem and who'll go there first...</s>
+<s id="start-22-c">At least two? I volunteer to go meet them...</s>
+<s id="start-22-m">Please, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> Don't make me go there by myself... I don't know if I can deal with them...</s>
+<s id="start-22-t">Just check this out... Two goons... Two guns... I liked this style and the Math is precise...</s>
+<s id="start-22-n">Just check this out... Two goons... Two guns... I liked this style and the Math is precise...</s>
+
+<s id="deal-mc"><d character="Player" case="up"/> WILL DEAL WITH THEM</s>
+<s id="deal-lara"><d character="Lara"  case="up"/> WILL DEAL WITH THEM</s>
+<s id="deal-both"><d character="Player"  case="up"/> AND <d character="Lara" case="up" /> WILL DEAL WITH THEM</s>
+<s id="deal-both-cond-m">ROMANCING <d character="Lara" case="up"/></s>
+<s id="deal-both-cond-u">NOT ROMANCING <d character="Lara" case="up"/></s>
+
+<s id="deal-mc-1">I got this... You already risked yourself too many times during this adventure, <d character="Lara" suffix="..." /></s>
+<s id="deal-mc-2">Aaawww... Thank you, <d character="Player" suffix="..." /> Just be careful, okay?</s>
+
+<s id="deal-lara-1-t">So... Do you think you can use these toys to handle the bad guys, <d character="Lara" suffix="?" /></s>
+<s id="deal-lara-2-t">Yes... I've been waiting for an opportunity to try some dual wielding firing style...</s>
+<s id="deal-lara-3-t">Go get'em tigress...</s>
+<s id="deal-lara-1-c">So... Do you think you can handle them, <d character="Lara" suffix="?" /></s>
+<s id="deal-lara-2-c">Don't you know my talents already? Of course I can...</s>
+<s id="deal-lara-3-c">Yeah... If you don't mind, then go on...</s>
+<s id="deal-lara-1-m">This is your responsibility, <d character="Lara" suffix="..." /> You'll have to get by on your own...</s>
+<s id="deal-lara-2-m">But... But they will... please, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> not me...</s>
+<s id="deal-lara-3-m">Stop whining... You're going to do this...</s>
+<s id="deal-lara-m-g-a">TAKE HER GUNS</s>
+<s id="deal-lara-m-g-a-1">Hey... Who the hell allowed you to bring guns? You can just drop them here...</s>
+<s id="deal-lara-m-g-a-2">But, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I could use them to...</s>
+<s id="deal-lara-m-g-a-3">Are you nuts!? An airhead like you using guns might end up accidentally killing yourself and put everyone else in danger...</s>
+<s id="deal-lara-m-g-a-4">Oh... Maybe... Maybe you're right, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I... I'll leave them here...</s>
+<s id="deal-lara-m-g-a-5">Good girl... Go now... I'm sure you can figure a way to get us into the village</s>
+
+<s id="deal-lara-4-c">Yay!!! I know exactly how I can convince those boys let us into the village...</s>
+<s id="deal-lara-5-c">I'm pretty sure you know... Just don't take too much time, for God's sake...</s>
+<s id="deal-lara-6-c">Tee hee... If there are two of them then it may take just a little while...</s>
+<s id="deal-lara-7-c">See you later....</s>
+
+
+<s id="deal-lara-m-g-b">LET HER KEEP THE GUNS</s>
+<s id="deal-lara-m-g-b-1">Come on... I trust you... I'm sure you can figure a way to get us into the village...</s>
+
+<s id="deal-lara-m-g-c">TAKE HER AMMO CLIPS</s>
+<s id="deal-lara-m-g-c-1">Do you think I'm going to let you strut around carrying these loaded pieces?</s>
+<s id="deal-lara-m-g-c-2">It's going to be dangerous for me and yourself...</s>
+<s id="deal-lara-m-g-c-3">But, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> It's everything I have to protect myself and...</s>
+<s id="deal-lara-m-g-c-4">Sigh... Okay... Keep the guns but give me the ammo clips...</s>
+<s id="deal-lara-m-g-c-4-2">You'll still have one bullet on each chamber... You'd be dead if you'd need more than that anyways...</s>
+<s id="deal-lara-m-g-c-5">Thank you, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I guess...</s>
+<s id="deal-lara-m-g-c-6">Good girl... Go now... I'm sure you can figure a way to get us into the village</s>
+
+
+<s id="deal-lara-m-1">Oh my God... There they are...</s>
+<s id="deal-lara-m-2-larry">I'm telling you, man... Larry just laid her over the tavern table and banged that bitch hard...</s>
+<s id="deal-lara-m-3-larry">We could hear moans all over the village... So hot...</s>
+<s id="deal-lara-m-4-larry">Well... It's one of the perks of being the leader and...</s>
+<s id="deal-lara-m-2-gate">I'm telling you, man... The girl was super hot...</s>
+<s id="deal-lara-m-3-gate">I still jack off at night remembering how those perky tits felt in my hands...</s>
+<s id="deal-lara-m-4-gate">Too much information... For God's sake, can't you just...</s>
+<s id="deal-lara-m-2">I'm telling you, man... The girl was super hot...</s>
+<s id="deal-lara-m-3">The way she walked all around here swinging that ass...</s>
+<s id="deal-lara-m-4">Sigh... I was doing guard duty at the jail and saw her too, you know... So would you please...</s>
+<s id="deal-lara-m-5">Hey... Did your hear that!?</s>
+<s id="deal-lara-m-6">What are you talking about? It's probably just...</s>
+<s id="deal-lara-m-7">Hey... I think there's someone over there...</s>
+<s id="deal-lara-m-8">That's what I was saying, dickhead...</s>
+<s id="deal-lara-m-9">We shall call for backup...</s>
+<s id="deal-lara-m-10">Hey... I know you're there...</s>
+<s id="deal-lara-m-10-2">Come out now and we promise to let you go unharmed...</s>
+<s id="deal-lara-m-11">Really?! Do you think anyone would be stupid enough to fall for that?</s>
+<s id="deal-lara-m-12">Okay... I... I give up...</s>
+<s id="deal-lara-m-13">Please... Don't hurt me... Please...</s>
+<s id="deal-lara-m-14">Uuuhhh... Looks like you're not the only stupid one around here...</s>
+<s id="deal-lara-m-15">Fuck you, man... Why did they have to assign you to work here with me?</s>
+<s id="deal-lara-m-16">Whatever...</s>
+<s id="deal-lara-m-17">Hey girl, you'd better come here now... Very slowly...</s>
+
+<s id="deal-lara-m-18">Now... What do we have here...</s>
+<s id="deal-lara-m-19">Hey... Isn't she that...</s>
+<s id="deal-lara-m-20">Yeah... It's the hot stuff I was talking about...</s>
+<s id="deal-lara-m-21-jail">Jesus Christ, girl... Did you like the treatment you received at our jail and come back for more?</s>
+<s id="deal-lara-m-21-ko">I think this little shit is the one who knocked me out... I got a lot of heat for that and I've been waiting for revenge...</s>
+<s id="deal-lara-m-21">The criminal always return to the scene of the crime...</s>
+<s id="deal-lara-m-22">Please... I... I wasn't trying to sneak on you or something...</s>
+<s id="deal-lara-m-23">Awww... And you expect us to believe your bullshit...</s>
+<s id="deal-lara-m-24">You already have a bad reputation around here, girl...</s>
+<s id="deal-lara-m-23-gate">Yeah... Did you miss me, honey? I knew you'd never forget that quick encounter we had...</s>
+<s id="deal-lara-m-24-gate">Such a good coincidence you show up just when we were talking about you...</s>
+<s id="deal-lara-m-23-larry">Yeah... Tell me... I heard lieutenant Larry is the one who popped your cherry...</s>
+<s id="deal-lara-m-24-larry">You did not fall in in love with him or something, right? You came here to meet someone... different...</s>
+<s id="deal-lara-m-23-larry-gate">Yeah... Did you miss me, honey? I knew you'd never forget that quick encounter we had...</s>
+<s id="deal-lara-m-24-larry-gate">It's a shame you chose lieutenant Larry to pop your cherry... I could have done a much better job for a naughty girl like you...</s>
+<s id="deal-lara-m-25">Please... We... We just want to visit the village for a while... We won't disturb your business...</s>
+<s id="deal-lara-m-26">'We'!?! You brought someone with you this time!?!</s>
+<s id="deal-lara-m-27">Wait... Is it another hot girl!?!</s>
+<s id="deal-lara-m-28">No... He is... He is the one that...</s>
+<s id="deal-lara-m-29">Urgh... A dude... Don't tell me he is one of those that wears and old hat and carries a whip around...</s>
+<s id="deal-lara-m-30">No... He... I... Please... Just let us in...</s>
+<s id="deal-lara-m-31">Hey, girl... You're lucky to still be breathing until this moment... We usually gun down any tresspasser here without warning...</s>
+<s id="deal-lara-m-32">But you came unarmed last time and seem so clueless that I'll let you go back to hole you came from...</s>
+<s id="deal-lara-m-33">Just leave, because there's no way you're coming back to this village...</s>
+<s id="deal-lara-m-34">Hey... Quit the jobsworth attitude, man...</s>
+<s id="deal-lara-m-35">I'm sure we can let the girl visit the place for a while if she ask us properly... You know what I'm saying...</s>
+<s id="deal-lara-m-36">Oh... Uuuuhhh... It's really tempting, but... We can get in trouble for that...</s>
+<s id="deal-lara-m-37">Come on, man... Just chill out for once in your life... Check that hot ass... </s>
+<s id="deal-lara-m-38">Hellooooo... <d character="Lara" suffix="?" /> Anybody home? I can hear all the way from here how those guys are planning to screw you...</s>
+<s id="deal-lara-m-39">They seem distracted enough for you to pull your pistols if you have the guts to do it...</s>
+<s id="deal-lara-m-38-ng">Oups... Looks like you'll need accept their terms, <d character="Lara" suffix="..." /> We really need to get into the village right...</s>
+<s id="deal-lara-m-39-ng">_But, <d character="Lara" suffix="..." /> They... They will..._</s>
+<s id="deal-lara-m-40-ng">Yeah... I'm sure you can handle whatever they'll do to you...</s>
+<s id="deal-lara-m-41-ng">Come here, girl... If you let us 'inspect' you... maybe we let you get into the village...</s>
+
+<s id="deal-lara-m-draw">TRY TO DRAW PISTOLS</s>
+<s id="deal-lara-m-give">GIVE THEM THE PISTOLS</s>
+
+<s id="deal-lara-m-give-1">Hey... Please... Listen... I...</s>
+<s id="deal-lara-m-give-2">Here... Take these... I... I don't want to get in any trouble...</s>
+<s id="deal-lara-m-give-3">Whoah... You shouldn't walk around here loaded with these...</s>
+<s id="deal-lara-m-give-4">Yeah... If we had seen you were carrying these weapons you'd be already dead...</s>
+<s id="deal-lara-m-give-5">I'm sorry...</s>
+<s id="deal-lara-m-give-6">But we'll let you off the hook since you were a good girl and gave them to us...</s>
+<s id="deal-lara-m-give-7">........ yes... I... I'm a good girl...</s>
+<s id="deal-lara-m-give-8">So... I think we can all relief a bit of our stress and then let you in the village... What do you think?</s>
+<s id="deal-lara-m-give-9">relief... stress...</s>
+<s id="deal-lara-m-give-10">Yeah... You know exactly what we mean... You were probably expecting it when you came here begging to enter...</s>
+<s id="deal-lara-m-give-11">.......... I... I...</s>
+<s id="deal-lara-m-give-12">Well... We don't have time to wait for you to decide...</s>
+
+<s id="deal-lara-m-sex-1">...............</s>
+<s id="deal-lara-m-sex-2">Damn... She smells so good...</s>
+<s id="deal-lara-m-sex-3">What did I tell you, man? This girl is the best...</s>
+<s id="deal-lara-m-sex-4">Just have a feel of this skin...</s>
+<s id="deal-lara-m-sex-5">_... I... I'm a... good girl... a good girl..._</s>
+<s id="deal-lara-m-sex-6">Uuuhh... She sounds a little weird... Looks like someone did a good mind conditioning work on her...</s>
+<s id="deal-lara-m-sex-7">Whatever... I prefer her much more this way...</s>
+<s id="deal-lara-m-sex-8">Last time she acted all offended when I asked to see her tits...</s>
+<s id="deal-lara-m-sex-9">But now... I feel she will take whatever we do to her without even complaining...</s>
+<s id="deal-lara-m-sex-10">Let's perform a quick test...</s>
+<s id="deal-lara-m-sex-11">_............. I'm doing this for you, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> for you..._</s>
+<s id="deal-lara-m-sex-12">You see?? No complains... No whining...</s>
+<s id="deal-lara-m-sex-13">She's still shivering though...</s>
+<s id="deal-lara-m-sex-14">It doesn't matter... We came way too far for her to stop us now...</s>
+<s id="deal-lara-m-sex-15">Right, girl? Do you have something to say?</s>
+<s id="deal-lara-m-sex-16">.................</s>
+<s id="deal-lara-m-sex-17">Yeah... That's what I expected....</s>
+<s id="deal-lara-m-sex-18">Now I need to cop a good feel of these tits...</s>
+<s id="deal-lara-m-sex-19">Damn... So soft... So sweet...</s>
+<s id="deal-lara-m-sex-18-gate">I've been dreaming about groping these tits again...</s>
+<s id="deal-lara-m-sex-19-gate">Yeah... That's my little slut... So soft... So sweet...</s>
+<s id="deal-lara-m-sex-20">Jesus Christ... She's so fucking hot...</s>
+<s id="deal-lara-m-sex-21">I have to go on her first... You get the next turn...</s>
+<s id="deal-lara-m-sex-22">You wish... I'm the one who convinced her... And we can't leave the gate unguarded for much long...</s>
+<s id="deal-lara-m-sex-23">And look... There's no time to each one of us enjoy a private session with the girl... So I a have a better idea... Let's give her a DP...</s>
+<s id="deal-lara-m-sex-24">No way... That shit might look great on porn but it's actually very awkward, you know...</s>
+<s id="deal-lara-m-sex-25">Quit being be such a pussy, man... Let's give her a experience she won't forget...</s>
+<s id="deal-lara-m-sex-26">I'll even let you be the one using her backdoor...</s>
+<s id="deal-lara-m-sex-27">The backdoor..............</s>
+<s id="deal-lara-m-sex-28">Shit........ Now you convinced me...</s>
+<s id="deal-lara-m-sex-29">Nice...</s>
+<s id="deal-lara-m-sex-30">You heard that, girl? You'd better get ready, because we're going to stuff a lot of meat inside you today...</s>
+<s id="deal-lara-m-sex-31">Let's find some privacy... Come on, now...</s>
+<s id="deal-lara-m-sex-32">_...... where... where are you taking me..._</s>
+<s id="deal-lara-m-sex-33">Don't worry, honey... Here... I'll show you the way...</s>
+<s id="deal-lara-m-sex-34">Give me your hand... It's time to earn your passage into the village...</s>
+<s id="deal-lara-m-sex-35">_......... what... what are you going to do......._</s>
+<s id="deal-lara-m-sex-36">Sshhhh... We will do whatever we want to do, girl... And you will just deal with it...</s>
+<s id="deal-lara-m-sex-37">I'm sure you are satisfied with these terms, right?</s>
+<s id="deal-lara-m-sex-38">..................</s>
+<s id="deal-lara-m-sex-39">Yeah... This is the right answer...</s>
+<s id="deal-lara-m-sex-40">Now, come... The grass is comfy enough for us...</s>
+<s id="deal-lara-m-sex-41">Oh, man... I never had a girl so hot like this one...</s>
+<s id="deal-lara-m-sex-42">Much better than those skinny village girls that I have to fuck around here...</s>
+<s id="deal-lara-m-sex-43">They charge me a few bucks and still ask to use condoms... While I can do you bareback and pay nothing...</s>
+<s id="deal-lara-m-sex-44">Now... Just check these thighs...</s>
+<s id="deal-lara-m-sex-45">Yeah, thick and nice...</s>
+<s id="deal-lara-m-sex-46">Don't you like when I spank you, girl? You shiver every time I do it...</s>
+<s id="deal-lara-m-sex-47">_....... I... don't know, mister... you... you can..._</s>
+<s id="deal-lara-m-sex-48">Whatever... I really don't give a shit about what you like or dislike...</s>
+<s id="deal-lara-m-sex-49">Now... About these cute perky tits...</s>
+<s id="deal-lara-m-sex-50">Let me feel these nipples with in a more intimate way...</s>
+<s id="deal-lara-m-sex-51">Niiice...</s>
+<s id="deal-lara-m-sex-52">Mmm.... I could suck on these the whole day...</s>
+<s id="deal-lara-m-sex-53">But enough of that...</s>
+<s id="deal-lara-m-sex-54">Now look what the feel of your body made to me... I'm rock hard for you, girl...</s>
+<s id="deal-lara-m-sex-55">Ready to feel my cock tearing this little pussy of yours?</s>
+<s id="deal-lara-m-sex-56">....... I think... I....... couldn't be........ another way to...</s>
+<s id="deal-lara-m-sex-57">Hey... That was a rethorical question... But I don't think a dumb bitch like you don't even know what it means...</s>
+<s id="deal-lara-m-sex-58">Let's just make things hot here...</s>
+<s id="deal-lara-m-sex-59">Damn... I love a tight pussy...</s>
+<s id="deal-lara-m-sex-60">I think your juices started flowing, girl... I can feel my cock almost slipping in...</s>
+<s id="deal-lara-m-sex-61">Enough of teasing... It's time to get it in...</s>
+<s id="deal-lara-m-sex-62">Oh, fuuuuuck... This is the best pussy ever...</s>
+<s id="deal-lara-m-sex-63">Do you like the feeling my meat deep inside you, girl?</s>
+<s id="deal-lara-m-sex-64">Now I wonder if I can...</s>
+<s id="deal-lara-m-sex-65">Oh... There you are... What the hell were you doing, man? I almost forgot about you...</s>
+<s id="deal-lara-m-sex-66">I was getting my tool ready... I don't indulge whores with foreplay...</s>
+<s id="deal-lara-m-sex-67">Jeez... Take it easy, man... She's not a whore...</s>
+<s id="deal-lara-m-sex-68">What... Are you like... her boyfriend now?</s>
+<s id="deal-lara-m-sex-69">Ha... What I mean is... Whores fuck for money... Our girl here is just a mindless slut offering herself for free...</s>
+<s id="deal-lara-m-sex-70">I don't care about your definitions... All I'm interested about is ravaging her asshole... It's been a while since the last time I had the opportunity...</s>
+<s id="deal-lara-m-sex-71">Oh, oh... I hope you're ready for this, girl... This fucker behind you isn't nearly as gentle as me...</s>
+<s id="deal-lara-m-sex-72">Please... Just try hard to not touch me, for God's sake...</s>
+<s id="deal-lara-m-sex-73">What!?! Just stop being weird and do it already, moron... She's waiting...</s>
+<s id="deal-lara-m-sex-74">That's it... I love the unique feeling of a squeezing sphincter...</s>
+<s id="deal-lara-m-sex-75">Yeah... How do feel, girl... Being fully filled with cock?</s>
+<s id="deal-lara-m-sex-76">_..............(sob).......(sob)......_</s>
+<s id="deal-lara-m-sex-77">Why the fuck are even talking to her? Can't you just shut up?</s>
+<s id="deal-lara-m-sex-78">Hey... I wanna mess more with her head, okay? It's part of the fun...</s>
+<s id="deal-lara-m-sex-79">A much more effective way to do that is by pumping hard inside her... Can't you just concentrate in this task?</s>
+<s id="deal-lara-m-sex-80">Yeah... Sure... Let's do it...</s>
+<s id="deal-lara-m-sex-81">Yeeahh, man... That's the shit...</s>
+<s id="deal-lara-m-sex-82">So... How do you feel having two dicks invading you at the same time, girl? Only the dirtiest sluts do this kind of stuff...</s>
+<s id="deal-lara-m-sex-83">Oooohhh, boy.... Your daddy would be so proud if he saw you doing this...</s>
+<s id="deal-lara-m-sex-84">_....... father... should... exploration... like this....._</s>
+<s id="deal-lara-m-sex-85">_............ this is... this is what must be done...... in order to....... to the mission...._</s>
+<s id="deal-lara-m-sex-86">_............ I... I'm a good girl, <d character="Player" data="TXT_MASTER_NAME" suffix="......" /> a good girl...._</s>
+<s id="deal-lara-m-sex-87">What the fuck is she mumbling about?</s>
+<s id="deal-lara-m-sex-88">I don't know, man... But it's getting annoying and starting to kill my buzz....</s>
+<s id="deal-lara-m-sex-89">Then let's make things more intense so she won't be able to even articulate more senseless shit in her head....</s>
+<s id="deal-lara-m-sex-90">Nice idea...</s>
+<s id="deal-lara-m-sex-91">Oh man... This is good... This is good...</s>
+<s id="deal-lara-m-sex-92">And the best is... She can't say any more words... Just as I predicted...</s>
+<s id="deal-lara-m-sex-93">Oh man... That's it... That's it...</s>
+<s id="deal-lara-m-sex-94">Fuuuuuuck... Her asshole is violently milking me... I can't take it much longer...</s>
+<s id="deal-lara-m-sex-95">Then let's fill all her insides with some hot cream...</s>
+<s id="deal-lara-m-sex-96">Shiiiiiit...</s>
+<s id="deal-lara-m-sex-97">Holy shit... I think never came such a big load before... I totally overflowed her womb...</s>
+<s id="deal-lara-m-sex-98">Yeaaah... Me to... Things are pretty tight here, but it's leaking a lot...</s>
+<s id="deal-lara-m-sex-99">Can you feel the slimy heat inside you, girl? Because we just...</s>
+<s id="deal-lara-m-sex-100">Wait a minute... It's leaking back there... it will...</s>
+<s id="deal-lara-m-sex-101">OH FUCK!! YOUR SHIT IS GOING TO START DRIPPING ON ME!!</s>
+<s id="deal-lara-m-sex-102">I told you so... Double penetration is awkward...</s>
+<s id="deal-lara-m-sex-103">Just get off and push her from me!!! Come on!!</s>
+<s id="deal-lara-m-sex-104">Damn... Just look what we did... We really messed her up...</s>
+<s id="deal-lara-m-sex-105">Is she going to simply stay lying there?</s>
+<s id="deal-lara-m-sex-106">She probaby will need some time to recover from the shock of the new experience...</s>
+<s id="deal-lara-m-sex-107">Well... Whatever...</s>
+<s id="deal-lara-m-sex-108">Thanks for the fun, girl... You can bring your people into the village if you ever remember how to walk again...</s>
+<s id="deal-lara-m-sex-109">See ya...</s>
+
+
+<s id="deal-lara-m-draw-1">Please... Let us go into the village... please...</s>
+<s id="deal-lara-m-draw-2">Whoah, whoah... Be careful with these... They are not toys for a silly girl like you...</s>
+<s id="deal-lara-m-draw-3">You just made a serious mistake, cunt...</s>
+<s id="deal-lara-m-draw-4">No! I... I swear... I'll shoot if you... if you...</s>
+<s id="deal-lara-m-draw-5">Hey... Hey... Let's all calm down and have a pleasant chat here...</s>
+<s id="deal-lara-m-draw-6">I'll just come there and take the guns from you, okay? Nice and easy...</s>
+<s id="deal-lara-m-draw-7">Jesus Christ... Just pull the damn triggers, <d character="Lara" suffix="..." /></s>
+<s id="deal-lara-m-draw-8">Oh my God... Oh my God... Oh my God... Are... Are they... dead?</s>
+<s id="deal-lara-m-draw-9">Quick tip for you... If they are not moving and not breathing they are probably dead...</s>
+<s id="deal-lara-m-draw-10">Then... Then I... I did it?</s>
+<s id="deal-lara-m-draw-11">Yep... You just commited two 1st degree murders... They send people to the eletric chair for that here, you know...</s>
+<s id="deal-lara-m-draw-12">WHAT?!?</s>
+<s id="deal-lara-m-draw-13">Ha... Just fucking with you... It's always so easy... Don't worry... There's probably no law around this shithole you brought me...</s>
+<s id="deal-lara-m-draw-14">Oh... I... Thank you... ...for guiding me, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /></s>
+<s id="deal-lara-m-draw-15">Yeah... Whatever...</s>
+<s id="deal-lara-m-draw-16">Now... These things are really dangerous... I should be really careful and not...</s>
+<s id="deal-lara-m-draw-17">Hey... Watch it... You should always put the safety on before...</s>
+<s id="deal-lara-m-draw-18"><d character="Lara" suffix="!?!?!" /></s>
+<s id="deal-lara-m-draw-19">I can't fucking believe it... I never tought she would be stupid enough to do that...</s>
+<s id="deal-lara-m-draw-20">Shit!! Why did I allowed her to walk around with those fully loaded guns!? It will be a pain to find a way back home now...</s>
+<s id="deal-lara-m-draw-21">GAME OVER\n[D]ARWIN WINS</s>
+<s id="deal-lara-m-draw-18-a">Jesus Christ... Did you heard that click? Do you know what it mean??</s>
+<s id="deal-lara-m-draw-19-a">Huuh? What is clicking?</s>
+<s id="deal-lara-m-draw-20-a">Do you realize that if I hadn't taken those ammo clips earlier you'd be dead now, you idiot!?</s>
+<s id="deal-lara-m-draw-21-a">Oh... I know you're here to protect me, <d character="Player" data="TXT_MASTER_NAME" suffix="..." /> I know you woudn't let anything bad happen to me...</s>
+<s id="deal-lara-m-draw-22-a">Sigh... Just stop playing with the gun and let's go to the cave...</s>
+
+<s id="deal-lara-m-draw-lost-1">Watch out... She has guns!!</s>
+<s id="deal-lara-m-draw-lost-2">Jesus Christ... Are you trying to screw us?!?!</s>
+<s id="deal-lara-m-draw-lost-3">Oh my God... No... Please... I'm sorry... I'm so sorry...</s>
+<s id="deal-lara-m-draw-lost-4">That's was your last mistake, cunt... There's no tolerance for that behaviour...</s>
+<s id="deal-lara-m-draw-lost-5">Nooo... I didn't mean to do that... Let me go... Please...</s>
+<s id="deal-lara-m-draw-lost-6">Sigh... Such a shame...</s>
+<s id="deal-lara-m-draw-lost-7">Nooo... please... noooooo.....</s>
+<s id="deal-lara-m-draw-lost-8">Damn it... What a damn waste...</s>
+<s id="deal-lara-m-draw-lost-9"><d character="Lara" suffix="!?!?!" /> Are you.......</s>
+<s id="deal-lara-m-draw-lost-10">Shit... I should know she was too stupid to get that done... Now it's going to be a pain to find a way back home...</s>
+<s id="deal-lara-m-draw-lost-11">GAME OVER\nDEADLY IN[C]OMPETENCE</s>
+
+<s id="deal-lara-c-1-larry">I'm telling you, man... Larry just laid her over the tavern table and fucked that bitch hard...</s>
+<s id="deal-lara-c-2-larry">She had just popped her cherry in that filthy place and was already moaning like a slut... We could hear her screams all over the village...</s>
+<s id="deal-lara-c-3-larry">Well... It's one of the perks of being the leader and...</s>
+<s id="deal-lara-c-1-gate">I'm telling you, man... The girl was super hot and slutty...</s>
+<s id="deal-lara-c-2-gate">She let me grope right in that corner... I still jack off at night those nice tits in my hands and...</s>
+<s id="deal-lara-c-3-gate">Jesus... Too much information... Can't you just...</s>
+<s id="deal-lara-c-1">I'm telling you, man... The girl was super hot...</s>
+<s id="deal-lara-c-2">The way she walked all around here swinging that ass...</s>
+<s id="deal-lara-c-3">Sigh... I was doing guard duty at the jail and saw her too, you know... So would you please...</s>
+<s id="deal-lara-c-4">There they are... And they're talking about me... So nice...</s>
+<s id="deal-lara-c-5">Well... I don't wanna scare them, so I'd better announce myself...</s>
+<s id="deal-lara-c-6">Hiyaaa... Hello, boys...</s>
+<s id="deal-lara-c-7">What the fuck!?!?!</s>
+<s id="deal-lara-c-8">Did you also heard that?</s>
+<s id="deal-lara-c-9">Hey... Don't be need to be so jumpy... It's just me...</s>
+
+
+<s id="deal-both-1">Humm... I'm thinking about a less lethal plan we execute together to get rid of them, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="deal-both-2">Oh... I don't like the 'less lethal' element... But I love everything about 'together'...</s>
+<s id="deal-both-3">Nice... The idea is to use the element of surprise...</s>
+<s id="deal-both-4">This is what we'll do........</s>
+
+<s id="deal-both-5">I'm telling you, man... That was a shitty deal...</s>
+<s id="deal-both-6">Larry really fucked up this time... That fat creep is probably laughing at his face right now...</s>
+<s id="deal-both-7">Yeah... Why don't you say all that to the lieutenant?</s>
+<s id="deal-both-8">Because I obviously don't have a death wish...</s>
+
+<s id="deal-both-9">There they are...</s>
+<s id="deal-both-10">Uuurgh... I thought I'd never meet those dirty faces again...</s>
+<s id="deal-both-11">Don't worry, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> This is the last time we'll see them...</s>
+<s id="deal-both-12">Remember... Wait until they are in close range and distracted... We just need to pull our toys fast enough...</s>
+<s id="deal-both-13">We got this...</s>
+
+<s id="deal-both-14">Look... I'm not saying they tricked us or something, but... Come on... Fucking AKs? It's a mid to bottom layer rifle... Slow rate of fire, medium damage and...</s>
+<s id="deal-both-15">Jeez... I can see the source of your knowledge in firearms is videogames...</s>
+<s id="deal-both-16">The AK-47 is most valued by its resilience in harsh conditions... It's a good weapon for hot and humid environments like this and it keeps working even in the hands of morons that can't give it proper mainentance...</s>
+<s id="deal-both-17">... and it can still rip a person like paper with a single fire spray if well used...</s>
+<s id="deal-both-18">Well... Ain't you a fucking smartass? I wonder why you still...</s>
+<s id="deal-both-19">What!? Did you hear that?</s>
+<s id="deal-both-20">Sigh... I swear I'll defect if they assign me to work with you again and...</s>
+<s id="deal-both-21">Hey... Someone is back there...</s>
+<s id="deal-both-22">That's what I was trying to say, Einstein...</s>
+<s id="deal-both-23">I think we should call for backup and...</s>
+<s id="deal-both-24">Wait... Just check that out... Let's go there...</s>
+<s id="deal-both-25">What the fuck...</s>
+<s id="deal-both-26">Careful... It can be a trap...</s>
+<s id="deal-both-27">Chill out, Admiral Ackbar...</s>
+<s id="deal-both-28">Man... I thought I've already seen unexpected stuff around here...</s>
+<s id="deal-both-29">I don't like this...</s>
+<s id="deal-both-30">Come on... Can you believe this shit!?</s>
+<s id="deal-both-31">Uuhhh... Hello there....</s>
+<s id="deal-both-32">Did these snowflakes really think that coming all the way here to make out is a good idea??</s>
+<s id="deal-both-33">I think more strange is the fact they are not concerned with our presence...</s>
+<s id="deal-both-34">Nah... It's those damned millenials, man... They're always like these egocentrical asshole kids...</s>
+<s id="deal-both-35">But... Damn... I wish I'd be the one groping that fine...</s>
+<s id="deal-both-36">Wait a minute... I think I know this girl...</s>
+<s id="deal-both-37">You what!?</s>
+<s id="deal-both-38-f">She looks like the girl that attacked and kicked my ass a few weeks ago...</s>
+<s id="deal-both-38">She looks like the girl that tried to break into the village a few weeks ago...</s>
+<s id="deal-both-39">Wait... I think I also saw her walking around here too...</s>
+<s id="deal-both-40">That's it, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> We can't get them more distracted than this...</s>
+<s id="deal-both-41">Let's draw our weapons... Fast!!</s>
+
+<s id="deal-win-1">Hey... What the...</s>
+<s id="deal-win-2">Yes... It's me, moron...</s>
+<s id="deal-win-2-f">Yes... It's me again, moron... Ready to get your ass kicked one more time?</s>
+<s id="deal-win-3">You fucking idiot... I told you!</s>
+<s id="deal-win-4">Sorry but we aren't here to chat, gentleman!</s>
+<s id="deal-win-5">It's time for you to take a long nap...</s>
+<s id="deal-win-6">Wait... What are...</s>
+<s id="deal-win-7">Now, <d character="Lara" suffix="!!!" /></s>
+<s id="deal-win-8">And stay down, bastards!!!</s>
+<s id="deal-win-9">You see, <d character="Lara" data="TXT_PET_NAME" suffix="..." /> You can get rid of them without having blood on your hands...</s>
+<s id="deal-win-10">I believe you speak figuratively, right!? Just look at my hand...</s>
+<s id="deal-win-11">Oh... Of course... He may have a minor brain damage... but he will live...</s>
+<s id="deal-win-12">That's what they get for interrupting us like that...</s>
+<s id="deal-win-13">Yeah... I almost forgot... At what point we stopped?</s>
+<s id="deal-win-14">Right here...</s>
+<s id="deal-win-15">You know... This beautiful green grass seems really inviting to lay down and...</s>
+<s id="deal-win-16">Uhnnn... We... We'll have plenty of time for this later, <d character="Player" suffix="..." /></s>
+<s id="deal-win-17">Besides... I believe some big aggressive ants make nests around this area...</s>
+<s id="deal-win-18">Yikes... Nature sucks...</s>
+<s id="deal-win-19">Come on... The path to the cave is now open...</s>
+
+<s id="deal-lose-1">Shit! Watch out! They are loaded...</s>
+<s id="deal-lose-2">I told you, idiot...</s>
+<s id="deal-lose-3">Were you trying to fuck with us?!?!?</s>
+<s id="deal-lose-4">No... We were just...</s>
+<s id="deal-lose-5">You're out of luck, kids... The lieutenant imposed a zero tolerance for armed trespassers... Make no prisioners, he says...</s>
+<s id="deal-lose-6"><d character="Player" suffix="?!?!" /> What we will do, now!?!?!</s>
+<s id="deal-lose-7">Just hold my hand, <d character="Lara" data="TXT_PET_NAME" suffix="..." /></s>
+<s id="deal-lose-8">Stupid kids... What were they thinking...</s>
+<s id="deal-lose-9">Hey... This rifle is not so bad after all...</s>
+<s id="deal-lose-10">Sigh...</s>
+<s id="deal-lose-11">Can't you just shut up and enjoy the sad beauty of that scene?</s>
+<s id="deal-lose-12">The beauty?!? Fuck, man... Now you're creeping me out...</s>
+<s id="deal-lose-13">GAME OVER\nTILL D[EA]TH DO US PART</s>
+
+<s id="BACKSIDE">BACKSIDE</s>
+<s id="CLOSER">CLOSER</s>
+<s id="FURTHER">FURTHER</s>
+<s id="LOOP">LOOP</s>
+<s id="CONTINUE">CONTINUE</s>
+</strings>

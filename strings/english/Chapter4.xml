@@ -1,0 +1,441 @@
+﻿<strings>
+<s id="title">&lt;size=30&gt;CHAPTER IV&lt;/size&gt;\n\nDEMOCRATIC REPUBLIC OF USWANA</s>
+
+<s id="start-1">Phew... Thank God it landed... I was starting to get really worried about the safety of this airplane...</s>
+<s id="start-2">I knew this wouldn't be a first class travel, but this is much worst than I imagined...</s>
+<s id="start-3"><d character="Lara" suffix="!?" /></s>
+<s id="start-4"><d character="Lara" suffix="," /> do you copy?</s>
+<s id="start-5"><d character="Player" suffix="!?" /> Why are you calling me? I'm still in the plane and I don't know if I'm allowed to use the radio here...</s>
+<s id="start-6"><d character="Lara" suffix="..." /> What the heck are you doing? You spent months preparing for your first travel and now you get on a plane the day after we decide the next destination?</s>
+<s id="start-7">Well... I figured that even with all that preparation I ended up in the middle of a jungle without my notes, money and ammunition...</s>
+<s id="start-8">So... I decided to improvise this time for a change...</s>
+<s id="start-9">Jesus Christ, <d character="Lara" suffix="..." /> You're in a place much more dangerous than that village... There's a group of rogue para-military thugs taking care of the security of this country, and they make their own laws...</s>
+<s id="start-10">Please... Don't make me feel more nervous than I already are, <d character="Player" suffix="..." /> I had to fill dozens of immigration forms before landing, half of them written in a language that I'm not familiar with...</s>
+<s id="start-11">And... Anyways... I wasn't allowed to bring my guns on the plane, but at least this time I was able to bring a good amount of our own money and I'm sure it will help a lot here. Trying to deal with local currency didn't work last time...</s>
+<s id="start-12">What!?! Don't you know they strictly forbid the entrance of 'imperialist' currency in the country!?!? One of the forms you signed was probably a statement that you were not carrying foreign money!!</s>
+<s id="start-13">Oh... That... might become... a problem...</s>
+
+<s id="stupid-1">You wont last long making such stupid decisions...</s>
+<s id="stupid-2">You wont last long in this business making such stupid decisions, <d character="Lara" suffix="..." /></s>
+<s id="stupid-3">I... I'm sorry... I shouldn't...</s>
+<s id="stupid-4">Now just shut up and listen...</s>
+
+<s id="worry-1">If you're trying to make me worry, then you're really succeeding...</s>
+<s id="worry-2">If you're worried it only means you care about me...</s>
+<s id="worry-3">Sigh... Listen to me...</s>
+
+<s id="sigh-1">Here we go again...</s>
+
+<s id="listen-1">The mercenaries are probably in charge of the airport security. They might suspect a 'tourist' like you willingly entering the country and will check what you're bringing in...</s>
+<s id="listen-2">Oh no...</s>
+<s id="listen-3">Yeah... But remember that these are highly corruptible people... There might be ways of getting out of the trouble and even keep some of the money...</s>
+<s id="listen-4">"Ways"...</s>
+<s id="listen-5">Yeah... Just keep your cool... And try to find some leads about where they might be keeping your artifact...</s>
+<s id="listen-6">Okay...</s>
+<s id="listen-7">And one last thing...</s>
+
+<s id="ex-yes">HAD INTIMACY WITH HER</s>
+<s id="ex-no">DID NOT HAD INTIMACY WITH HER</s>
+
+<s id="wet-1">I know you're still wet thinking about our 'exercise' last night...</s>
+<s id="wet-2">I know you left so abruptly only because you wouldn't resist the temptation of repeating our 'exercise' last night... And I know you're still getting wet thinking about it...</s>
+<s id="wet-3">......... <d character="Player" suffix="..." /> Please...</s>
+<s id="wet-4">Yeah... For now, let's focus on the mission...</s>
+
+<s id="reckless-1">Please, don't be so reckless and get back in one piece...</s>
+<s id="reckless-2">Please, don't be so reckless and get back in one piece...</s>
+<s id="reckless-3">Thank you for taking care of me, <d character="Player" suffix="..." /></s>
+
+<s id="nevermind">Actually... Nevermind...</s>
+
+<s id="silence">Now just try to act naturally until you're out of the airport...</s>
+<s id="about-money">What about the money... It's right here inside my backpack...</s>
+<s id="about-money-backpack-1">Keep it in the backpack</s>
+<s id="about-money-backpack-2">Keep it in the backpack... Try to hide it under all your stuff there... At least it will be a little harder to find...</s>
+<s id="about-money-shorts-1">Hide it in your shorts</s>
+<s id="about-money-shorts-2">Hide it in your shorts... The plane crew will report if you left it in the plane and their customs might search the backpack...</s>
+<s id="about-money-2">Okay... You're right...</s>
+<s id="about-money-3">Now get out of there...</s>
+
+
+<s id="lobby-1">Hum... This place doesn't look so bad...</s>
+<s id="lobby-2">But... It's weird how there aren't a single soul around here...</s>
+<s id="lobby-3">Don't be fooled by a fancy facade, <d character="Lara" suffix="..." /> You can't see anyone in the arrival gate because most people are interested in getting out this country...</s>
+<s id="lobby-4">...while you are one of the very few trying to get in...</s>
+<s id="lobby-5">Oh... I never thought about that...</s>
+<s id="lobby-6">I wonder if I can just...</s>
+<s id="lobby-7">Hey!! You there!!</s>
+<s id="lobby-8">Tourists must pass a security check before entering the country...</s>
+<s id="lobby-9">Come this way...</s>
+<s id="lobby-10">_Oh no... Oh no... Oh no..._</s>
+<s id="lobby-11">Calm down... The more suspicious he is of you the bigger is the trouble you get into...</s>
+<s id="lobby-12">I'll try to help you during the secutiy check...</s>
+
+<s id="interview-1-a">Come in, girl... Take off your boots so I can check them first...</s>
+<s id="interview-1-b">Boots are clean... Now stand right there for the security check...</s>
+<s id="interview-2">I'll ask you some questions now... And I must warn you that lying to an immigration officer is a serious crime...</s>
+
+<s id="q-1-wrong">But I didn't do anything wrong...</s>
+<s id="q-1-wrong-1">But I... I didn't do anything wrong... I swear...</s>
+<s id="q-1-wrong-2">Hey... You only talk when I allow... We didn't even started and you say a classic guilty line...</s>
+<s id="q-1-wrong-3">Oh...</s>
+<s id="q-1-okay">Oh... Okay, sir...</s>
+<s id="q-1-okay-1">Oh... Okay, sir...</s>
+<s id="q-1-okay-2">Good... Cooperate with this procedure and you may leave very soon...</s>
+<s id="q-1-okay-3">Thank you, sir...</s>
+<s id="q-1-silent">KEEP SILENT</s>
+<s id="q-1-silent-1">.....</s>
+<s id="q-1-silent-2">You look nervous, girl... Forcing yourself to stay silent usually means fear of saying the wrong thing...</s>
+<s id="q-1-silent-3">I... I...</s>
+
+<s id="interview-3">Now listen carefully and and answer the questions...</s>
+<s id="interview-4">First... Tell me your name...</s>
+
+<s id="q-2-know">My name is written in the passport, sir...</s>
+<s id="q-2-know-1">What kind of question is this? My name is written in the passport, sir...</s>
+<s id="q-2-know-2">Are you stupid or something? I said you to answer the fucking questions!</s>
+<s id="q-2-know-3">Oh... I'm sorry...</s>
+
+<s id="q-2-wrong"><d character="Player" data="TXT_WRONG_NAME" /> <d character="Player" data="TXT_WRONG_SURNAME" /></s>
+<s id="q-2-wrong-1"><d character="Player" data="TXT_WRONG_NAME" /> <d character="Player" data="TXT_WRONG_SURNAME" /></s>
+<s id="q-2-wrong-2">This is not what it says in you passport, girl... Is it a conterfeit one? Are you dumb enough to not even memorize your fake name?</s>
+<s id="q-2-wrong-3">No... no... I was distracted... My name is <d character="Lara" data="TXT_SURNAME" />... <d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" />...</s>
+
+<s id="q-2-right"><d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" /></s>
+<s id="q-2-right-1"><d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" /></s>
+<s id="q-2-right-2">Such a fancy name... You probably're one of those spoiled attention whores trying to post pictures at exotic places aren't you?</s>
+<s id="q-2-right-3">No... I'm not, sir...</s>
+
+<s id="interview-6">Yeah... Yeah... Whatever...</s>
+<s id="interview-7">Now... The next question is very important...</s>
+<s id="interview-8">And you'd better don't lie! I'm very good on spoting little liars...</s>
+<s id="interview-9">What's the purpose of your visit?</s>
+
+<s id="q-3-art">I'm trying to locate an ancient artifact</s>
+<s id="q-3-art-1">I'm trying to locate an ancient artifact...</s>
+<s id="q-3-art-2">So... You'll try to steal one of the many historic treasures of this country... And you have the nerve to say it my face?</s>
+<s id="q-3-art-3">What!? No, sir... I... I won't steal anything... I just need to study it for...</s>
+<s id="q-3-art-4">Don't waste your breath, girl... I can sense you're up to no good here...</s>
+<s id="q-3-holiday">I'm here on holiday</s>
+<s id="q-3-holiday-1">I'm uhhh... I'm here on holiday...</s>
+<s id="q-3-holiday-2">Holiday... At the Democratic Republic of Uswana... That would be hard enough to believe even if you were not so bad at lying....</s>
+<s id="q-3-holiday-3">I... I'm not lying, sir... I swear... I'm... I'm just nervous...</s>
+<s id="q-3-holiday-4">You're making yourself very hard to believe, girl...</s>
+<s id="q-3-busin">It's a business trip</s>
+<s id="q-3-busin-1">It's a business trip...</s>
+<s id="q-3-busin-2">Business... A girl like you? I see...</s>
+<s id="q-3-busin-3">You're probably one of those high class escorts hired by some of our government leaders, right?</s>
+<s id="q-3-busin-3-a-1">Uhh... Yes, I am...</s>
+<s id="q-3-busin-3-a-2">Nice... Those guys have all the fun... Maybe you can show me a bit of your 'business' later...</s>
+<s id="q-3-busin-3-b-1">What!? I'm no escort...</s>
+<s id="q-3-busin-3-b-2">Humm... I believe you're saying half truths to me, girl...</s>
+
+<s id="interview-10">Well, girl... At the end of the day, there's one thing I really must know... And you better not lie this time if you don't want to get into a world of trouble...</s>
+<s id="interview-11">Are you bringing any illegal items into this country?</s>
+
+<s id="q-4-illegal-yes">I brought this money...</s>
+<s id="q-4-illegal-yes-1">I... I'm sorry, but I... I brought this money from my country...</s>
+<s id="q-4-illegal-yes-2">So... You are really one of the stupid ones, aren't you?</s>
+<s id="q-4-illegal-yes-3">Huh?</s>
+<s id="q-4-illegal-yes-4">You travelled all the way here just to confess that you're carring a currency that's explicity not allowed in the hands of civillians...</s>
+<s id="q-4-illegal-yes-5">I... I didn't know it was illegal... I just don't want to get into trouble...</s>
+<s id="q-4-illegal-yes-6">Of course you didn't know... As I said: stupid... And confessing won't save you from any trouble...</s>
+<s id="q-4-illegal-yes-7">I'm sorry, sir... I'm so sorry...</s>
+<s id="q-4-illegal-yes-8">Give me the fucking money...</s>
+
+
+<s id="q-4-illegal-dominance-no">Don't be stupid... Just say 'no'...</s>
+<s id="q-4-illegal-no">No...</s>
+<s id="q-4-illegal-no-1">I... No... I... definetively not brought anything illegal...</s>
+<s id="q-4-illegal-no-2">Yeah... That's what they all say...</s>
+<s id="q-4-illegal-no-3">I... I'm telling the truth, sir...</s>
+<s id="q-4-illegal-what">What exactly is illegal?</s>
+<s id="q-4-illegal-what-1">What exactly is illegal to bring, sir?</s>
+<s id="q-4-illegal-what-2">So... Are you really going to play dumb with me? If you don't know what is not allowed here, chances are that you actually brought something illegal...</s>
+<s id="q-4-illegal-what-3">No... I mean... I don't have anything illegal... I was just wondering why things like money can't be brough here and...</s>
+<s id="q-4-illegal-what-4">Sigh... Mommy and daddy shouldn't allow you to travel alone, silly girl...</s>
+
+<s id="interview-12">Well... You're not sounding very convincing, girl...</s>
+<s id="interview-13">I'm telling the truth, sir... I don't have nothing illegal with me...</s>
+<s id="interview-14">The very few people who still try to get into the country these days usually try to smuggle something concealed in their clothes or their luggage...</s>
+<s id="interview-15">So you won't mind if I perform a quick search into that backpack of yours, right...</s>
+
+<s id="search-bp-0">_Oh no..._</s>
+<s id="search-bp-1">Wait... Wait...</s>
+<s id="search-bp-2">Huh?!</s>
+<s id="search-bp-3">_Oh my God... He will find the money if I let him search my backpack... I need to distract him..._</s>
+<s id="search-bp-4">Look here sir... I'll show you I'm telling the truth... I... I have nothing concealed into my clothes... You don't need to worry about me...</s>
+<s id="search-bp-5">Now this is starting to get interesting...</s>
+<s id="search-bp-6">I can see you have nothing there, but... I'll need to see more to get convinced, girl...</s>
+<s id="search-bp-7">What... What do you mean...</s>
+<s id="search-bp-8">I need to see more skin to... you know... make sure you don't have anything hidden elsewhere...</s>
+<s id="search-bp-9">But...</s>
+<s id="search-bp-10">Come on... I know you are the kind of girl who loves to show her nice body to any men using uniforms... Aren't you?</s>
+
+<s id="search-bp-agree">SHOW MORE</s>
+<s id="search-bp-agree-1">I... I'll show... Just to prove that I'm not hiding anything illegal...</s>
+<s id="search-bp-agree-2">Yeah... Whatever you say...</s>
+<s id="search-bp-agree-3">Here... You see... Nothing hidden...</s>
+<s id="search-bp-agree-4">Well... I can see two very nice things that were hidden... But thank God they are very legal...</s>
+<s id="search-bp-agree-5">So... What are you waiting for?</s>
+<s id="search-bp-agree-6">Huh!?</s>
+<s id="search-bp-agree-7">I can still see clothing where you could hide stuff... And I must be sure...</s>
+<s id="search-bp-agree-8">You can't be serious...</s>
+<s id="search-bp-agree-9">Oh... I'm dead serious... If you can't show me more I will never be sure....</s>
+
+<s id="search-bp-agree-10">......</s>
+<s id="search-bp-agree-11">Can you see, now... I have nothing hidden...</s>
+<s id="search-bp-agree-12">I can't believe this is a procedure accepted by authorities in this airport...</s>
+<s id="search-bp-agree-13">Yeah... A common procedure for little sluts like you...</s>
+<s id="search-bp-agree-14">Well... There's very little left now to I finally let you go...</s>
+<s id="search-bp-agree-15">WHAT!?</s>
+<s id="search-bp-agree-16">I just need know if didn't hide anything into... you know...</s>
+<s id="search-bp-agree-17">Into your happy place...</s>
+<s id="search-bp-agree-18">You... You... You can't ask for this...</s>
+<s id="search-bp-agree-19">I can ask for more than you think, skank...</s>
+<s id="search-bp-agree-20">I might even do the 'search' myself if you don't convince me...</s>
+<s id="search-bp-agree-21">So give a clear view of the common 'hiding places'...</s>
+
+<s id="search-bp-agree-22">......</s>
+<s id="search-bp-agree-24">Huumm...</s>
+<s id="search-bp-agree-25">Nice to see a girl not ashamed to show her intimacy to the first man who asks for it... I'll remember this image for 'later', you know...</s>
+<s id="search-bp-agree-26">You... You... You just demanded to...</s>
+<s id="search-bp-agree-27">Yeah... And you just accepted without questioning...</s>
+<s id="search-bp-agree-27-ntr">Yeah... I wonder if your boyfriend knows you drop your clothes to strangers so easily like this...</s>
+<s id="search-bp-agree-28">But, hey... At first sight your really don't seem to be hiding anything there...</s>
+<s id="search-bp-agree-29">I told you so... Now let me dress again...</s>
+<s id="search-bp-agree-30">I... I showed everything, sir... Please, let me go now...</s>
+
+
+<s id="search-bp-no-way">NO WAY</s>
+<s id="search-bp-no-way-1">This... This is not appropriate for you to ask... I... I can't...</s>
+<s id="search-bp-no-way-2">So you're just a tease... I hate your kind, you know...</s>
+<s id="search-bp-no-way-3">Well... I'm still suspicious... So... I guess I'll need to look first at that backpack of yours...</s>
+<s id="search-bp-no-way-4">But... But...</s>
+
+
+<s id="search-sh-1">Sure, sir... No problem...</s>
+<s id="search-sh-2">Then let's see what we can find here...</s>
+<s id="search-sh-3">Hey... This is not looking good, <d character="Lara" />...</s>
+<s id="search-sh-4">Looks like he won't give up so easily... You might have a few seconds while he is distracted to try something quick!</s>
+
+<!-- Throw money into trash bin -->
+<s id="search-sh-trash">The recycle bin... Quick! Dump the money there...</s>
+<s id="search-sh-trash-1">I did it, but... But I won't be able to recover it from there...</s>
+<s id="search-sh-trash-2">It doesn't matter... We have no idea what he could do to you if he found this money with you...</s>
+
+<!-- Throw money into boots -->
+<s id="search-sh-boots">Your boots! Throw the money into the boots...</s>
+<s id="search-sh-boots-1">I did it!</s>
+<s id="search-sh-boots-2">Nice... He already checked the boots earlier... Let's hope he won't look into it again...</s>
+
+<!-- Hide money under fan -->
+<s id="search-sh-fan">The fan... Hide the money under the fan!</s>
+<s id="search-sh-fan-1">It's... It's too dangerous... The fan is too close to him... He will notice me...</s>
+<s id="search-sh-fan-2">Damn, <d character="Lara" suffix="..." /> That was probably the only chance you had...</s>
+
+<!-- Hide money under fan -->
+<s id="search-sh-papers">Those papers... Try to hide the money under those papers!</s>
+<s id="search-sh-papers-1">It's... It's too dangerous... The fan is too close to him... And money might just be blown all over hus face!...</s>
+<s id="search-sh-papers-2">Damn, <d character="Lara" suffix="..." /> That was probably the only chance you had...</s>
+
+<!-- Hide money time out-->
+<s id="search-sh-time">Quick, <d character="Lara" suffix="..." /> Can't you see any place to hide the money?</s>
+<s id="search-sh-time-1">I... I... I don't know what to do...</s>
+<s id="search-sh-time-2">Jesus Christ... You might get into serious trouble because of this...</s>
+
+
+<s id="backpack-dildo-0">What the fuck is this...</s>
+<s id="backpack-dildo-1">Oh my God...</s>
+<s id="backpack-dildo-2">Hey girl... This is not technically illegal, but...</s>
+<s id="backpack-dildo-3">You might get into serious trouble if some people in this country find you playing with this...</s>
+<s id="backpack-dildo-4">This is... This is not supposed to be there... I... I forgot I was supposed to throw it away...</s>
+<s id="backpack-dildo-5">Yeah... But you just couldn't stay away of your best friend, right?</s>
+<s id="backpack-dildo-6">No, it's... I just...</s>
+<s id="backpack-dildo-7">Don't worry... As I said, it won't be confiscated... You'll keep your toy...</s>
+<s id="backpack-dildo-8">Now let's see if there are more nasty stuff hidden in this thing...</s>
+
+<s id="found-money-0">Hey... What's this...</s>
+<s id="found-money-1">Whoah... Jackpot...</s>
+<s id="found-money-2">Looks like you came here quite loaded, didn't you...</s>
+<s id="found-money-3">I... I'm sorry...</s>
+<s id="found-money-4">Sorry?</s>
+<s id="found-money-5">Are you sorry for bringing this money or for lying to me when I asked about illegal items?</s>
+<s id="found-money-6">I... I...</s>
+<s id="found-money-7">Do you really tought I'm too supid to not find this?</s>
+<s id="found-money-8">No... I...</s>
+<s id="found-money-9">Are you trying to fuck with me?</s>
+<s id="found-money-10">No, sir... Please...</s>
+<s id="found-money-11">Stupid bitch... You have no idea with who you're messing with...</s>
+<s id="found-money-12">Now... If you were trying to get into the country with this... Then I'll have to perform a FULL SEARCH on you...</s>
+<s id="found-money-13">A full... Full search?</s>
+<s id="found-money-14">Yes... A good old cavity search...</s>
+<s id="found-money-15">WHAT!?</s>
+<s id="found-money-16">My orders are to follow the procedure, and this part is my favorite one...</s>
+<s id="found-money-17">And don't you dare to complain... The procedure is the only thing saving you from me beating your face to a pulp for trying to fool me...</s>
+<s id="found-money-18">So... Get your hands on the wall...</s>
+<s id="found-money-19">NOW!!</s>
+<s id="found-money-20">Please, sir...</s>
+<s id="found-money-21">This... This procedure must be against all UN regulations...</s>
+<s id="found-money-22">Ha ha ha... Don't make me laugh, girl... The blue helmet pussies don't have the balls to even come close to our borders...</s>
+<s id="found-money-23">Now let get this started...</s>
+<s id="found-money-24">Nice...</s>
+<s id="found-money-25">I hate doing this boring desk job while the guys can shoot their guns in the open...</s>
+<s id="found-money-26">But there are always times like this that makes everything worth...</s>
+<s id="found-money-27">Now... To make sure you're not carry any other illegal shit, we'll need to lose some of these clothes...</s>
+<s id="found-money-28">But don't move... This is my job...</s>
+<s id="found-money-29">Oh, boy... Talk about a lucky day...</s>
+<s id="shorts-down-silent">STAY SILENT</s>
+<s id="shorts-down-silent-1">.......</s>
+<s id="shorts-down-silent-2">It's good to notice you stopped whining, girl... It seems you're either trying to act tough or just eager for the procedure...</s>
+<s id="shorts-down-whimper">WHIMPER</s>
+<s id="shorts-down-whimper-1">_no... not this... please..._</s>
+<s id="shorts-down-whimper-2">Goddamnit... You're going to stop whining or things will get even worse, girl... NOW, SHUT UP!!</s>
+<s id="shorts-down-gentle">ASK TO BE GENTLE</s>
+<s id="shorts-down-gentle-1">Please, be gentle...</s>
+<s id="shorts-down-gentle-2">Cool down, slut... Do you think I'll just start pounding you? This is not exactly what this procedure is about...</s>
+<s id="found-money-31">Great... This gives me a good view of your whole body...</s>
+<s id="found-money-32">And... Man... What a nice body...</s>
+<s id="found-money-33">Jesus Christ, Lara... You just arrived there and are already exposing yourself to the men around?</s>
+<s id="found-money-34">Well... The superficial exam didn't show nothing wrong being carried with you...</s>
+<s id="found-money-35">See!? Can I go now?</s>
+<s id="found-money-36">Ha ha ha... We still need to perform the 'in depth' exam, girl...</s>
+<s id="found-money-37">.........</s>
+<s id="found-money-38">Yeah... Just stay right there</s>
+
+<s id="cavity-search-1">I hope you found a comfortable position, girl...</s>
+<s id="cavity-search-2">What... What do you mean...</s>
+<s id="cavity-search-3">Shhh.... You'll understand very soon...</s>
+<s id="cavity-search-4">Oh Lord... What... What are you doing?</s>
+<s id="cavity-search-5">As I said... I need to make a in depht search on you... And I will need a very close look here...</s>
+<s id="cavity-search-6">You see... There's a special place where girls like you often use to conceal illegal stuff...</s>
+<s id="cavity-search-7">No... Please... I don't have anything more on me... I swear...</s>
+<s id="cavity-search-8">Sorry, but your word means nothing to me...</s>
+<s id="cavity-search-9">Now... There it is...</s>
+<s id="cavity-search-10">Whoah... Seems quite tight from here... But looks can be deceiving...</s>
+<s id="cavity-search-11">What... What are you doing?!?</s>
+<s id="cavity-search-12">You can't be so stupid... You know what a cavity search means, right?</s>
+<s id="cavity-search-13">But if you don't know... You'll learn very soon...</s>
+<s id="cavity-search-14">Let me get rid of these gloves and I will show you...</s>
+<s id="cavity-search-15">No... Please... I never... never... had anything get into my... my...</s>
+<s id="cavity-search-16">Well... If you're telling the truth, then maybe this will hurt just a little at the beggining...</s>
+<s id="cavity-search-17">But I'm sure you'll get used to it really quick...</s>
+<s id="cavity-search-18">But let's stop wasting our time and get this done...</s>
+<s id="cavity-search-19">Oh my God... Please... Not there... Please...</s>
+<s id="cavity-search-20">Damn... It's tight, indeed...</s>
+<s id="cavity-search-21">But I can't stop now...</s>
+<s id="cavity-search-22">So... If you really never had anything going up here... then the time to know how it feels is now... Get ready...</s>
+<s id="cavity-search-23">Stop, please!! It hurts!! It hurts!!</s>
+<s id="cavity-search-24">Easy, now... I can feel that soon you'll be actually enjoying this...</s>
+<s id="cavity-search-25">But you probably heard I talking about an 'in depth' search, right? And we are still not deep enough...</s>
+<s id="cavity-search-26">No... Please... No...</s>
+<s id="cavity-search-27">Here we goooo...</s>
+<s id="cavity-search-28">Shiit... It's nice, warm and goddamn tight here, girl...</s>
+<s id="cavity-search-29">I'm starting to believe you when you said nothing ever went in the 'upwards' direction here...</s>
+<s id="cavity-search-29-ntr">Your boyfriend really never tapped this ass? I'm glad to be the first one to show you how it feels then...</s>
+<s id="cavity-search-30">MMmmmnngh... MMmmmnngh...</s>
+<s id="cavity-search-31">What? Can't speak intelligible words, now? Is it because it hurts or are just starting to feel good?</s>
+<s id="cavity-search-32">MMmmmnngh... MMmmmnngh...</s>
+<s id="cavity-search-33">Yeah... I think I know the answer...</s>
+<s id="cavity-search-33-a-1">This is what I'm talking about, girl...</s>
+<s id="cavity-search-33-a-2">Can you feel? Those are your juices flowing... You know what it means?</s>
+<s id="cavity-search-33-a-3">It... It means nothing...</s>
+<s id="cavity-search-33-a-4">Yeah... Keep fooling yourself...</s>
+<s id="cavity-search-33-a-5">Now... Back to work...</s>
+<s id="cavity-search-33-b-1">But don't worry... A little bit more of practice and you'll soon be really enjoying this...</s>
+<s id="cavity-search-34">I'm almost convinced you're clean, girl...</s>
+<s id="cavity-search-35">Let's just make sure nothing will appear if we try this a little harder...</s>
+<s id="cavity-search-36">Yeah... Now let me show you something amazing...</s>
+<s id="cavity-search-37">There... You see?</s>
+<s id="cavity-search-38">See what? Please... Stop this non-sense already...</s>
+<s id="cavity-search-39">Right there... Your tiny asshole... Not so tiny now...</s>
+<s id="cavity-search-40">See how it still twinkles... It's your sphincter, girl... Creating the muscle memory you need to soon be craving for having all kinds of stuff sticked up your butthole...</s>
+<s id="cavity-search-41">Oh my God... You are trully a sick man...</s>
+<s id="cavity-search-42">Please... You already checked me... I'm not carrying anything more... Stop with this...</s>
+
+<s id="cavity-search-43">Wait right there...</s>
+<s id="cavity-search-44">I notice this thing in your backpack that is perfect for this situation...</s>
+<s id="cavity-search-45">WHAT!? You... You can't be serious...</s>
+<s id="cavity-search-46">Yes, I am... The procedure allows me to use on the search only my finger... or other addtional 'appropriate' tools...</s>
+<s id="cavity-search-47">If this is not appropriate, I don't know what more could be... And I won't let pass the opportunity to finally cover all possible ground of the rules...</s>
+<s id="cavity-search-48">Here... Why would you want to carry around this little buddy of yours if you never use it correctly...</s>
+<s id="cavity-search-49">Oh my God... You're insane... Please... Let me go...</s>
+<s id="cavity-search-50">Stop whining... You'll be thanking me soon...</s>
+<s id="cavity-search-51">It won't fit... It won't fit...</s>
+<s id="cavity-search-52">Of course it will... It's just a little bigger than my finger...</s>
+<s id="cavity-search-53">You should be thankfull I'm not allowed to use my johnson on you while I'm on duty... That would be difficult to fit...</s>
+<s id="cavity-search-54">Now get your sphincter ready... It's time to go all in...</s>
+<s id="cavity-search-55">Nice... You took it all like a pro...</s>
+<s id="cavity-search-56">Oooouch... This thing is... Is filling me...</s>
+<s id="cavity-search-57">Yeah... Soon you'll be thinking about having this void filled with real cock...</s>
+<s id="cavity-search-58">So... I'll start the training for your future...</s>
+<s id="cavity-search-59">Yeeeah... Do you like it, girl? Taking some pumping into your ass?</s>
+<s id="cavity-search-60">MMmmmnngh... MMmmmnngh...</s>
+<s id="cavity-search-61">Hey... Quit your moaning and answer me properly... Do you like it?</s>
+<s id="cavity-search-62-a-1">I... I... I do, sir... It's... It's good... Stick it right up my ass...</s>
+<s id="cavity-search-62-a-2">Ha... I knew there was anal slut inside you waiting to be freed...</s>
+<s id="cavity-search-62-a-3">What... Noo... I... I don't even know what I'm saying...</s>
+<s id="cavity-search-62-a-4">It's because you can't think straight when you're about to cum while having a dildo up your ass... I can feel your pussy twitching every time my fingers get close enough to touch it...</s>
+<s id="cavity-search-62-b-1">Nooo... It huurts...</s>
+<s id="cavity-search-62-b-2">Humpf... Looks you still need a little more training, then...</s>
+<s id="cavity-search-62-b-3">Just stop it, please...</s>
+<s id="cavity-search-63">Now... Let's end this with a good final act, right?</s>
+<s id="cavity-search-64-a-1">Come on, girl... Let yourself go... I know you can do it...</s>
+<s id="cavity-search-64-a-2">Damn... Such a dirty girl...</s>
+<s id="cavity-search-64-a-3-ntr">I'm sorry, <d character="Player" />... I'm so sorry... I didn't want to feel like this...</s>
+<s id="cavity-search-64-a-4-ntr">Don't worry... It's not like your boyfriend could hear you moaning with my moves, right?</s>
+<s id="cavity-search-64-a-3">What... What is happening to me... How could I...</s>
+<s id="cavity-search-64-a-4">Ha... It's just your true nature... You're just discovering more about yourself...</s>
+<s id="cavity-search-64-b-1">Okay... I think you had enough...</s>
+
+<s id="cavity-search-65">Well... Can you feel the wind blowing inside you, girl? You better get used to this feeling...</s>
+<s id="cavity-search-66">Please... Just let me go...</s>
+<s id="cavity-search-67">Okay... If you had something hidden in there, I would definetively be able to see now... You can get dressed again...</s>
+
+
+<s id="backpack-clean-1">Well... Your backpack seems okay...</s>
+<s id="backpack-clean-2">Now if you show me you have nothing hidden around your waist then I might let you go...</s>
+<s id="backpack-clean-3">What?!</s>
+<s id="backpack-clean-4">No reason to get so shy, now... Just raise your shirt a little bit so I can check you have nothing hidden into these tight shorts of yours...</s>
+
+<s id="backpack-clean-a-1">Whoah... If you didn't get rid of the money then things would get ugly now...</s>
+<s id="backpack-clean-a-2">If he's not supicious after this, maybe he will let you go...</s>
+<s id="backpack-clean-a-3">Here... You see? I... I have nothing on me...</s>
+<s id="backpack-clean-a-4">Oh... You have a lot... But I don't think these nice abs count as an illegal item...</s>
+<s id="backpack-clean-a-5">Looks like you're clean there too...</s>
+
+<s id="backpack-clean-b-1">_Oh no... Oh no... Oh no..._</s>
+<s id="backpack-clean-b-2">Come on... I don't have time to waste...</s>
+<s id="backpack-clean-b-3">Do it... NOW!</s>
+
+
+<s id="not-convinced-1">I don't know... You did not convinced me of your innocence...</s>
+<s id="not-convinced-2">And in this case I'm authorized to perform a cavity search...</s>
+<s id="not-convinced-3">A WHAT?!?</s>
+<s id="not-convinced-4">Yeah... It's the only way to make sure you're not smuggling anything...</s>
+<s id="not-convinced-5">But... but...</s>
+<s id="not-convinced-6">You should have read this is a standard procedure at this airport... You even signed a form stating you would agree to do it at the plane...</s>
+<s id="not-convinced-7">I... I couldn't even read what was written in those forms...</s>
+<s id="not-convinced-8">It's too late to regret now... You did not pass the check, and since we don't have any female officers around, I'll have to perform the search myself...</s>
+<s id="not-convinced-9">But... but...</s>
+<s id="not-convinced-10">Just stop whining and let's get it started... Turn your face to the wall! NOW!</s>
+<s id="not-convinced-11">This... This can't be happening...</s>
+<s id="not-convinced-12">Yes, it can... It's the best part of this job... Just keep quiet there while I work...</s>
+
+<s id="convinced-1">Well... You convinced me... I don't think I'll find anything wrong with you...</s>
+<s id="convinced-2">So... Welcome to the Democratic Repulic of Uswana...</s>
+<s id="convinced-3">Uhh... Thank you, sir... I guess...</s>
+<s id="convinced-4">Now gather your stuff and get the hell out of my office...</s>
+
+<s id="end-found-money-1">Okay... Consider yourself very lucky, girl... The amount of money I found on you is just bellow the minimum required to grant you a few mounths months in the pits of our prison system...</s>
+<s id="end-found-money-2">It will be confiscated and you now have a criminal record... So... You'd better behave... or else you'll have to learn to call this country as 'home'...</s>
+<s id="end-found-money-3">I... I'll behave...</s>
+<s id="end-found-money-4">Good... Now gather your stuff and get out of my sight...</s>
+
+<s id="get-out-1">You'd better get out of there before he changes his mind, <d character="Lara" suffix="..." /></s>
+<s id="get-out-fm-1">But... My money... It would be so helpful if I could keep some of it...</s>
+<s id="get-out-fm-2">What the hell are you talking about? Get out of there already...</s>
+<s id="get-out-fm-3">I wonder if...</s>
+
+
+</strings>

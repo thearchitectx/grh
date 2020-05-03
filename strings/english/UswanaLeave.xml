@@ -1,0 +1,223 @@
+<string>
+<s id="leave-1">There it is! It's my way out of here!</s>
+<s id="leave-2">What are you waiting for? Get out!</s>
+<s id="leave-3">Come on, idiots! Open the door! We need to catch her!</s>
+<s id="leave-4">Damn... Looks like I won't be able to leave without a fight...</s>
+<s id="leave-5">You'd better find a good cover and prepare for action...</s>
+<s id="leave-6">You found enough ammo earlier for this, didn't you?</s>
+<s id="leave-7">I hope so...</s>
+<s id="leave-8">Then it's time to focus, because they're coming in! Also, don't forget to pay attention to the environment! There are a lot of shit in this place that you can shoot to put them down!</s>
+<s id="leave-9">There she is!! We need to hold this bitch until backup comes!!</s>
+
+
+<s id="tut-1">RAIL SHOOTER TIME!!\n\n&lt;color=cyan&gt;HOLD/RELEASE SPACEBAR&lt;/color&gt; TO GET OUT/IN COVER\nWHILE OUT OF COVER, &lt;color=cyan&gt;MOVE MOUSE&lt;/color&gt; TO AIM AND &lt;color=cyan&gt;CLICK TO SHOOT&lt;/color&gt;\nYOU CAN PUT GOONS DOWNS EVEN WHEN THEY ARE COVERING USING ENVIRONMENT HAZARDS!\nWATCH YOUR AMMO AND THE TIMER UNTIL BACKUP ARRIVES!</s>
+
+<s id="win-1">BASTARDS!! WHAT ABOUT THAT FOR A 'BITCH'!?!?  YOU WANNA PLAY ROUGH!?</s>
+<s id="win-2">Nice shooting, <d character="Lara" suffix="!!" /></s>
+<s id="win-3">I don't know if I could do this without your help, <d character="Player" suffix="..." /></s>
+<s id="win-4">Come on, guys!! The Boss will kill us all if we let the girl escape!</s>
+<s id="win-5">Oh no... There are still more coming... I don't have ammo to fight them all...</s>
+<s id="win-6">I have a plan... Throw the gun in the direction of the auction room then go hide in the changing room...</s>
+<s id="win-7">They will think you hid among the guests and pass right through the door... Then the path will be clear...</s>
+<s id="win-8">It's a risky plan... But I don't have another option...</s>
+
+<s id="win-9">Oh no... It's that man from the airport... What's he doing here?</s>
+<s id="win-10">I can actually hear from here what he's doing, <d character="Lara" suffix="..." /></s>
+<s id="win-11">Eeeeewww....</s>
+<s id="win-12">He didn't noticed me yet... But I already threw the gun away... What should I do???</s>
+<s id="win-13">I don't know how he's so calm after all that shooting... But I can say you have a few seconds to do something... Number 1 never last long...</s>
+
+<s id="win-bat-1">Dialog... I think I know what you mean, <d character="Player" suffix="..." /> That's an excelent idea...</s>
+<s id="win-bat-2">Hey, asshole!!</s>
+<s id="win-bat-3">Asshole!? Yes, please... I want to see your...</s>
+<s id="win-bat-4">I hope you have horrible dreams, bastard...</s>
+<s id="win-bat-5">Nicely done, <d character="Lara" suffix="..." /> </s>
+<s id="win-bat-6">Thanks, <d character="Player" suffix="..." /></s>
+<s id="win-bat-7">Putting this dude down was also very fortunate coincidence!!</s>
+<s id="win-bat-8">While he's sleeping, there won't be no security checkouts at the airport... and there's a flight leaving the conutry in a couple of hours...</s>
+<s id="win-bat-9">That's it... My ticket home!! I'll be able to board with the Goddess Slab without any more trouble!!</s>
+<s id="win-bat-9-1-plug">Remember you still have the security thing... plugged... on you... The sensors say it's safe to remove it now...</s>
+<s id="win-bat-9-2-plug">Oh... I'll... remove it before arriving at the airport... I don't wan't anyone tracking... me...</s>
+<s id="win-bat-10">You should leave now while the cost is clear... Those reinforcement guys might come back any time...</s>
+<s id="win-bat-11">Okay!! Ask Winston to prepare my tea... I'm coming home!!</s>
+
+<s id="win-timeout-1">Oh my God... I think he's finishing...</s>
+<s id="win-locker-1">Hide there? But I would need to get closer to him... Not while he is...</s>
+<s id="win-dialog-1">No way... This man would never listen if I...</s>
+
+<s id="hit-1">Nice shot, man!! You hit the gun out of her hands!!</s>
+<s id="hit-2">Of course!! We need the girl alive if we want to have fun with her, right? I'm still not as sick as The Boss...</s>
+<s id="hit-3">And here's the backup... Just in time for the fun!! Let's see if she can handle 8 guys at the same time...</s>
+<s id="hit-4">_Oh my God... no... no... no... no..._</s>
+
+<s id="timeout-1">It's over, girl! The backup is here...</s>
+<s id="timeout-2">There's no way you can handle 8 guys at once...</s>
+<s id="timeout-3">Well... Not with a gun at least... Because we are all going to 'handle' you now...</s>
+<s id="timeout-4">_Oh my God... no... no... no... no..._</s>
+
+<s id="empty-1">Oh no... I'm out of ammo...</s>
+<s id="empty-2">It's over, girl! We know you're empty...</s>
+<s id="empty-3">But don't worry... There are a lot of guys here ready to fill you up...</s>
+<s id="empty-4">_Oh my God... no... no... no... no..._</s>
+
+
+<s id="saved-1">Hey... You're making the girl cry... Do you guys think this is the proper way to treat to a lady?</s>
+<s id="saved-2">Huh!? Who the fuck are you? Some fucking white knight?</s>
+<s id="saved-3">Dude... You're new around here... So you still don't know...</s>
+<s id="saved-4">Believe me when I say you don't wanna mess with him...</s>
+<s id="saved-5">Finally... Some words of wisdom...</s>
+<s id="saved-6">Sigh... Whatever... As long as The Boss don't think we were the ones who fucked up...</s>
+<s id="saved-7">Just get the fuck out of my sight...</s>
+<s id="saved-8">Oh my God... Thank you for saving me, sir... They were going to... to...</s>
+<s id="saved-9">Shhhhh... They won't hurt you now...</s>
+<s id="saved-10">I never tought I would find a kind soul around here...</s>
+<s id="saved-11">But... Your voice... Sounds familiar...</s>
+<s id="saved-12">Did you already forget about me?</s>
+<s id="saved-13">No... No... Not you... Not you...</s>
+<s id="saved-14">Easy now... We finally have the time and a private place... Just for us...</s>
+<s id="saved-15">No... I just want to leave...</s>
+<s id="saved-16">Sshhhhhh... Let's just get into the changing room over there, okay?</s>
+<s id="saved-17">After all... You don't want to be given back to all those guys, right?</s>
+
+<s id="saved-18">Here... Isn't this a comfy place?</s>
+<s id="saved-19">No, sir... It's not... I just want to...</s>
+<s id="saved-20">Hey... Now you shut up and listen...</s>
+
+<s id="caught-1">Hello there...</s>
+<s id="caught-2">Don't get startled or something, okay? You didn't shoot all those morons outside just to be caught by the reinforcements...</s>
+<s id="caught-3">You... you...</s>
+
+<s id="lose-1-plug">I told you I was going to track your ass, didn't I?</s>
+<s id="lose-2-plug">I was noticing the suspicious long time you took at the safe room, so I decided to came here to wait and check how you were doing...</s>
+<s id="lose-1-bare">I was just about to go to my crib...</s>
+<s id="lose-2-bare">I stop here to take a leak...</s>
+<s id="lose-3">...when I start to hear hell breaking loose outside...</s>
+<s id="lose-4">...which is regular to happen between the morons themselves here... but it's quite rare to involve a hot thief like you...</s>
+<s id="lose-5">I'm not a thief... I just...</s>
+<s id="lose-6-win">You're definetively my type... always struggling... always full of surprises...</s>
+<s id="lose-6-lost">Consider yourself lucky I heard your sobbing when the shooting stopped... I'd never thought you were the one fighting out there...</s>
+<s id="lose-8">Now... I don't care about what you're trying to steal from here...</s>
+<s id="lose-9">Actually... I'd love to see The Boss taking the heat for being robbed by a silly girl...</s>
+<s id="lose-10">But, you'll need to pay the price for me letting you go... Just a little exercise...</s>
+<s id="lose-11-sl">It's always about a 'price'... You all just want a piece of me...</s>
+<s id="lose-12-sl">Don't worry... It seems you're getting used to it...</s>
+<s id="lose-11">Can't you just let me go? Please</s>
+<s id="lose-12">No... You'll do as I say... You don't have a choice this time, so no whining...</s>
+<s id="lose-13">Now... Let me show your position for the exercise...</s>
+<s id="lose-14">Hands over there...</s>
+<s id="lose-15">But... this place is filthy...</s>
+<s id="lose-16">The guys looking for you out there would take you to a much worse place... So, DO IT NOW!!</s>
+
+
+<s id="lose-17">Damn... You do have a gorgeous body...</s>
+<s id="lose-18">But we need to take the wraps out of the way...</s>
+
+<s id="lose-19-met">Not please... Not again... Leave my butt alone...</s>
+<s id="lose-19-met-sl">Are... Are you going to play again with my butt, sir?</s>
+<s id="lose-19">Oh my God... What are you going to do ?</s>
+<s id="lose-19-sl">Oh my God... What are you going to do ?</s>
+<s id="lose-20-met">Sorry, but no... But this time it's going to be the real deal...</s>
+<s id="lose-20-met-sl">I know you're eager for some playtime, girl... But this time it's going to be the real deal...</s>
+<s id="lose-20">Something your buthole will never forget...</s>
+<s id="lose-20-sl">Something your buthole will never forget...</s>
+
+<s id="lose-21">But let's chek this upclose...</s>
+
+<s id="lose-22-bare">Check the size of this tiny asshole...</s>
+<s id="lose-23-bare">You should have allowed me to use the Security Plug on you, girl... You would be much more 'prepared' for our next exercise...</s>
+<s id="lose-24-bare">..........</s>
+<s id="lose-25-bare">Now you'll have to endure a harsher experience with no foreplay... Because the exercise is about me filling up your backside...</s>
+
+
+<s id="lose-22-plug">I bet you enjoyed using the Security Plug, didn't you? The telemetry data it sent to me was nice and smooth...</s>
+<s id="lose-23-plug">But the LED shows an almost depleted battery, so it's time to take it out and run some diagnostics...</s>
+<s id="lose-24-plug">Please... Take this thing out of me, but... I beg you... Do it gently... Please...</s>
+<s id="lose-25-plug">Ha... I'll make better than that... I'll teach you a neat trick...</s>
+<s id="lose-26-plug">Oh my God... What are you doing!!!</s>
+<s id="lose-27-plug">I'm showing your sphincter how it can put the plug out without my help...</s>
+<s id="lose-28-plug">No..... I can't... I can't...</s>
+<s id="lose-29-plug">Yes, you can... It's already beggining to move...</s>
+<s id="lose-30-plug">Anngg... Please... Stop...</s>
+<s id="lose-31-plug">Get ready... It will pop anytime now...</s>
+<s id="lose-32-plug">Yeeahh... Look how the plug streched you nicely...</s>
+<s id="lose-33-plug">Once you learn how to control these muscles, you'll be able to give unspeakable pleasure to men using your asshole...</s>
+
+<s id="lose-34-plug">I feel... I feel so...</s>
+<s id="lose-35-plug">Come on... Say it... It's the whole point of using a plug...</s>
+<s id="lose-36-plug">I... I... I would never say such degrading thing...</s>
+<s id="lose-37-plug">Maybe you'll not say it out loud... But I know you're thinking about the void you fell now that the plug is gone...</s>
+<s id="lose-36-plug-sl">I feel so... empty...</s>
+<s id="lose-37-plug-sl">Yeah, baby... That's what I wanted you to experiment...</s>
+<s id="lose-38-plug">But don't worry... Because our exercise is about me filling your emptiness...</s>
+
+<s id="lose-40">So, that's it... Get ready to know the feelling of being properly sodomized...</s>
+<s id="lose-41">Can you feel it, girl? You'll now understand that your toys are nothing compared to the real thing...</s>
+<s id="lose-42">I can already feel your butthole twiching...</s>
+<s id="lose-43">So let's not make it wait any longer...</s>
+
+<s id="lose-44">........</s>
+<s id="lose-45">Why do you seem so scared, girl?</s>
+<s id="lose-46">This... I can... I can fell... too big... too big...</s>
+<s id="lose-47">There's no such thing as 'too big', girl... The sphincter is a highly flexible muscle...</s>
+<s id="lose-48">Yes... It may hurt a little a first... But once you adapt, everything will work just fine...</s>
+
+<s id="lose-49">This so hot... It has to be properly documented...</s>
+<s id="lose-50">Noooo.... You can't record me doing something so shameful...</s>
+<s id="lose-51">Don't worry... It's for my private collection... For my own 'inspiration'...</s>
+<s id="lose-52">And your focus should be in what is about to happen...</s>
+
+<s id="lose-53">_oh my God... oh my God... oh my God... oh my God..._</s>
+<s id="lose-54">All this tension only make things more difficult for you... Try to relax and accept what is coming for you...</s>
+
+<s id="lose-55">Oh my God... No... It's going to tear me... it's going to tear me...</s>
+<s id="lose-56">Shhh... Shhh... Shhh... Don't despair, now...</s>
+<s id="lose-57">I'll show how this little princess asshole can embrace several inches of meat...</s>
+
+<s id="lose-58">Annnnnghh... I can't believe this is happening... I can't believe this is happening... </s>
+<s id="lose-59">Well... You better believe it... There's a nice real big cock rubbing your intestine from inside...</s>
+<s id="lose-60-plug">But the feeling of emptiness left by the plug is gone again, right? Once you repeat a few more times this cycle, you won't want anything else...</s>
+<s id="lose-61-plug">You'll be craving to be fucked in the ass every single day...</s>
+<s id="lose-60-bare">After we finish, you should practice more with your toys...</s>
+<s id="lose-61-bare">Soon you'll be a pro on taking up the ass...</s>
+
+<s id="lose-62">For now... Let's start the exercise...</s>
+
+<s id="lose-63">Yeeahh... This is the meaning of life... Don't you think, girl?</s>
+<s id="lose-64">Unnh... I...... mmnggh... I can't...... oooww... think... straight...</s>
+<s id="lose-65">Of course... The first time is a heavy sensory overload for you... Should be hard to concentrate...</s>
+<s id="lose-66">Some scientists speculate the loss of cognition due to sensory overload while having intense anal sex is one of the causes of the 'bimbo girl' phenomena...</s>
+<s id="lose-67">You should take care to not walk that path, though... I like you the way you are...</s>
+
+<s id="lose-68-sl">Ahhhnnnnnngggg... My aaaass... is..... on fiiiiire...</s>
+<s id="lose-69-sl">That's a good sign... It's signals the end of the pain and the start of the pleasure...</s>
+<s id="lose-70-sl">Can you feel my testicles tingling your clitoris? You have all you need to climax with me... I'll speed up the pace to help you...</s>
+<s id="lose-71-sl">Oh my God... Why.... Why.... Why does this feel so good?</s>
+<s id="lose-72-sl">Congratulations for climaxing during your first real anal session... Now it's my turn...</s>
+
+<s id="lose-68">Please... It's... enough... My butt is sore...</s>
+<s id="lose-69">Sigh... Maybe you're still not ready to feel good while being fucked this way...</s>
+<s id="lose-70">Well... At least I can feel good... I'll show you some mercy and finish it already...</s>
+<s id="lose-71">Nooo... Slow down!! Slow down!!</s>
+<s id="lose-72">Here it comes...</s>
+
+<s id="lose-73">Yeeaahhh... Feel this heat inside you... It's called a sperm enema...</s>
+<s id="lose-74">Damn... That was good... Let's see the result...</s>
+<s id="lose-75">Nice... Check out how it leaks beautifully...</s>
+
+<s id="lose-76">You did good, girl... I'll even let you pass through the airport with your stolen item now...</s>
+<s id="lose-77">I want to see the face of The Boss when they tell him you escaped...</s>
+<s id="lose-78">I'm also dropping a gift to you in your backpack...</s>
+<s id="lose-79">I hope we'll still see each other one day... Bye bye!!</s>
+<s id="lose-80">He just... left me here... like this...</s>
+
+<s id="lose-81">Uuuhhh... <d character="Lara" suffix="?" /></s>
+<s id="lose-82">........</s>
+<s id="lose-83"><d character="Lara" suffix="..." /> You should definetively get out of there... now...</s>
+<s id="lose-84">I was hoping to have a little time to clean up... and... expel all the... the....... out of my....</s>
+<s id="lose-85"><d character="Lara" suffix="..." /> Those reinforcement guys might come back any time...</s>
+<s id="lose-86">The path to the exit is clear... and there's a flight leaving the conutry in a couple of hours...</s>
+<s id="lose-87">Just run to the airport and get back home with the artifact... I heard you have... free pass... with the security, right?</s>
+<s id="lose-88">....... okay... I just hope the airplane have very comfortable seats, I... I don't know if I'll be able to... sit straight...</s>
+<s id="lose-89"><d character="Lara" suffix="..." /> Get out of there... NOW!</s>
+<s id="lose-90">Okay... I... I'm coming home...</s>
+</string>

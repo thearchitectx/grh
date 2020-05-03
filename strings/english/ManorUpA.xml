@@ -1,0 +1,38 @@
+﻿<strings>
+	<s id="phone-1">This is a rotary dial landline phone... A blast from the past...</s>
+	<s id="phone-2">There are some service numbers noted here...</s>
+	<s id="911">911</s>
+	<s id="PIZZA">MARIO'S PIZZA</s>
+	<s id="POOL">AQUATEC POOL MAINENTANCE</s>
+	<s id="BACK">BACK</s>
+
+	<s id="no-911">No, thank you... I'm not a big fan of this number...</s>
+	<s id="no-pool">Maybe one day I will have a big house with a pool... For now there's no reason to call them...</s>
+	<s id="no-pizza">I love pizza... But I'm not hungry right now...</s>
+	<s id="ORDER">ORDER PIZZA</s>
+	<s id="pizza-call-1">Hey... If I order some pizza, the butler will need to leave the library and answer the door for the delivery guy...</s>
+	<s id="pizza-call-2">This might give me some time to check that study table...</s>
+	<s id="pizza-arrived">The pizza guy is already at the door... I should check that table while <d character="Winston" data="TXT_NAME"/> is out of the way...</s>
+	<s id="pizza-done">Mario already served his pizza delivery purposes...</s>
+
+		<s id="pizza-lets-do">Let's do this!</s>
+	<s id="pizza-order-hello">Uh... Hello? Mario's Pizza?</s>
+	<s id="pizza-order-itsame">Yes, dear customer! It's a me...</s>
+	<s id="pizza-order-whatever">Whatever man... I wanna order a pizza... Can you deliver fast?</s>
+	<s id="pizza-order-sure">Oh... Sure... Sure..</s>
+	<s id="pizza-order-great">Great... Here's my order and address...</s>
+	<s id="pizza-order-fuckyou">Fuck you, Mario... I've been wating 30 minutes... You said you would deliver it fast...</s>
+	<s id="pizza-order-there">Yes... There he is...</s>
+	<!--- Winston -->
+	<s id="pizza-order-urg">Urgh... I can't have a tiny moment of peace...</s>
+	<!--- Player -->
+	<s id="pizza-order-buzz">Yeah... I also heard someone ringing the doorbell...</s>
+
+	<!--- Winston -->
+	<s id="pizza-order-behave">I'll go see who it is... And you better behave, Mister <d character="Player" data="TXT_NAME"/>.</s>
+	<!--- Player -->
+	<s id="pizza-order-ofcourse">Of course I will...</s>
+	<s id="pizza-order-chance">Ok... Now is my chance to search that table...</s>
+
+	<s id="no-winston-face">I really don't want to see <d character="Winston" data="TXT_NAME" suffix="'s"/> face now...</s>
+</strings>

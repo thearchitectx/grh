@@ -1,0 +1,6 @@
+﻿<strings>
+<!--- Player -->
+<s id="nothing-there-1">There's nothing but several miles of dense jungle this way, <d character="Lara" data="TXT_NAME" />...</s>
+<!--- Lara -->
+<s id="nothing-there-2">Oh... Okay...</s>
+</strings>

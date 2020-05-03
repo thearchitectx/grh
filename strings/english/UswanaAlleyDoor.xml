@@ -1,0 +1,194 @@
+﻿<strings>
+<s id="door-1">Hey... That flag up there...</s>
+<s id="door-2">This must the place... This door must be the entrance to their hideout...</s>
+<s id="door-3">And... Will you simply knock and ask about your artifact?</s>
+<s id="door-4">I know you're optimistic, <d character="Lara" suffix="..." /> But this guys are not the types one can easily deceive...</s>
+<s id="door-5">I... I need to try something...</s>
+
+<s id="door-6">Hello!?</s>
+<s id="door-7">What ya want?</s>
+<s id="door-8">Hi... Is this... Is this the Freedom Bulls headquarters?</s>
+<s id="door-9">Bad start, thot... State your business or fuck off !</s>
+<s id="door-10">I have a, uuhhh... business meeting with your... boss?</s>
+<s id="door-11">Oh... Okay... Just a sec...</s>
+<s id="door-12">_Bloody hell... Just like that? Will it really work?_</s>
+<s id="door-13">Hey... I can't see any meeting scheduled for the next hours in our system...</s>
+<s id="door-14">Oh... I didn't know that I needed to...</s>
+<s id="door-15">Wake up, thot... You need to schedule an appointment if you want to talk to the captain...</s>
+<s id="door-16">He is a busy man... Maybe he'll have a free time for you next month...</s>
+<s id="door-17">But... But...</s>
+<s id="door-18">Now, fuck off...</s>
+<s id="door-19">Damn it...</s>
+<s id="door-20">My only hope to find the Goddess Slab is by finding a way into this place...</s>
+<s id="door-21">Then we will need to schedule you a meeting...</s>
+<s id="door-22">What are you talking about... Didn't you hear what that man said?</s>
+<s id="door-23">Yes, I heard he checking some system for info... And if there is a system, there is a way to hack into it...</s>
+<s id="door-24">You mean you can fake an appointment for me?</s>
+<s id="door-25">Of course...</s>
+<s id="door-25-l-1">You're so clever, <d character="Player" />... Like one of those handyman husbands... And I'm so lucky to have found you...</s>
+<s id="door-25-l-2">Uhhh... Okaaay...</s>
+<s id="door-25-l-3">But about the hacking...</s>
+<s id="door-25-c-1">You're so handy, <d character="Player" />... Like my perfect little tool...</s>
+<s id="door-25-c-2">Well... Actually a... very good sized... tool...</s>
+<s id="door-25-c-3">Yeah... Good to know you kept good memories about me...</s>
+<s id="door-25-c-4">But about the hacking...</s>
+<s id="door-26">They're probably using a closed circuit network, so I'll need physical access in order to try something...</s>
+<s id="door-27">I'm still lost...</s>
+<s id="door-28">Look around... There must be some network interface panel around... If you connect your satellite link to some of their network ports I might be able to do some magic...</s>
+<s id="door-29">Okay... I can do this...</s>
+
+<s id="door-talked-1">No point talking to that man now... First I need to help <d character="Player" /> hack my way into that system...</s>
+
+<s id="panel-el-1">Hey... There is a big panel over here...</s>
+<s id="panel-el-2">Great... Tell me how it looks...</s>
+<s id="panel-el-3">It has a rusty handle and a big yellow lightning sign...</s>
+<s id="panel-el-4">Humm... It loks like an old central eletric panel...</s>
+<s id="panel-el-5">So is this the one you're looking for?</s>
+<s id="panel-el-6">Nope... Shuting down the power won't help us...</s>
+<s id="panel-el-5-piss">Oh no no no... I know how you make me to solve these 'eletric' problems... I won't squat here in the middle of this dirty alley and...</s>
+<s id="panel-el-6-piss">Hey... Easy there... The last thing we want is to cause a blackout and put these guys on full alert...</s>
+<s id="panel-el-7">There should be other panels next to this one... Keep looking...</s>
+
+<s id="panel-el-8">This panel won't be of much help to me...</s>
+
+<s id="panel-ne-1"><d character="Player" suffix="..." /> I found another panel here...</s>
+<s id="panel-ne-2">Tell me about it...</s>
+<s id="panel-ne-3">It has a small phone symbol on it and I think there are several small lights blinking inside...</s>
+<s id="panel-ne-4">Then you found it! That mut be the one!</s>
+<s id="panel-ne-5">Finally some good news...</s>
+<s id="panel-ne-6">Now... Open the panel and connect the satellite link to any port inside it...</s>
+<s id="panel-ne-7">Yeah... I can do this...</s>
+<s id="panel-ne-8"><d character="Lara" suffix="?" /></s>
+<s id="panel-ne-9">It's... It's not that simple... This thing...</s>
+<s id="panel-ne-10">This thing is screwed... I mean literally... It's sealed with big screws and nuts... I don't think I can open it without some proper tools...</s>
+<s id="panel-ne-11">Damnt it... You don't carry a wrench into that backpack of yours, do you?</s>
+<s id="panel-ne-12">Well... I only carry essential items in my backpack and...</s>
+<s id="panel-ne-13">Yeah... Yeah... I totally believe you...</s>
+<s id="panel-ne-14">Sigh... I'll need to look around... Maybe there are somethig in this alley that will help me open this panel...</s>
+
+<s id="panel-ne-searching">I need to find some kind of tool to be able to open this panel here...</s>
+
+<s id="panel-open-1">Okay... I think I can open this panel with the wrench... Should I do it now?</s>
+<s id="YES">YES</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+<s id="panel-open-2">Do it! Once you have access to the panel we'll finally be able get you into their headquaters...</s>
+
+<s id="panel-open-3">Okay... Let's see if all that trouble to buy this wrench will worth something...</s>
+<s id="panel-open-4">Yes! I did it!</s>
+
+<s id="panel-opened-well-done-1">Well done, <d character="Lara" suffix="!" /></s>
+<s id="panel-opened-well-done-2">Thanks, <d character="Player" suffix="!" /> I would never be able to get here without your help...</s>
+<s id="panel-opened-so-long-1">About time... Why did you take so long?</s>
+<s id="panel-opened-so-long-2">I... I'm sorry... The panel is all rusty and...</s>
+
+<s id="panel-open-5">Yeah... What matters is that now we can have physical access to their network...</s>
+<s id="panel-open-6">This thing is so messy... There are tangled cables everywhere...</s>
+<s id="panel-open-7">Nah... I've seen server rooms much worse than this...</s>
+<s id="panel-open-8">Now... We'd better not raise suspicion by removing any cables and disrupting their network...</s>
+<s id="panel-open-9">Let's try to find a free working port on the panel...</s>
+<s id="panel-open-10">Here! I found one...</s>
+<s id="panel-open-11">Awesome! Now connect the retractable cable of the radio link to that port...</s>
+<s id="panel-open-12">Done!</s>
+<s id="panel-open-13">Nice! I have a signal... and access to their network!</s>
+<s id="panel-open-14">Will you be able make the appointment for me now!?</s>
+<s id="panel-open-15">I just need to run a few exploits first... Give it a minute to scan the network vulnerabilities...</s>
+
+<s id="panel-open-16"><d character="Player" suffix="..." /> While this thing is running...</s>
+<s id="panel-open-17">I... I just wanted to ask you something...</s>
+<s id="panel-open-18">Uhh... Okay...</s>
+<s id="panel-open-19">That night... After we finished the research...</s>
+
+<s id="ask-kissed">Why... Why did you kissed me?</s>
+<s id="ask-groped">Why... Why did you started groping me like that?</s>
+<s id="ask-pushed">Why... Why did you do that to me? You pushed me down like... like a...</s>
+<s id="ask-nothing">I... I shouldn't have jumped on you like that... You didn't get any wrong idead, did you?</s>
+
+<s id="ask-1">Oh... That was an unexpected question...</s>
+<s id="ask-2">It's nice to see you open to talk about that... The truth is...</s>
+
+<s id="no-slut-1">I got the idea... But I prefer to not get involved with 'easy' girls...</s>
+<s id="no-mix-1">I got the idea... But I prefered to not mix business and pleasure that moment...</s>
+<s id="like-1">I like you, <d character="Lara" suffix="..." /></s>
+<s id="fun-1">We just deserved some fun at that moment...</s>
+<s id="heat-1">You were clearly behaving like a bitch in heat...</s>
+
+<s id="no-slut-2">_Easy?_</s>
+<s id="no-slut-3">I know extacly what you wanted... The way you behave around men... The way you shamelessly jumped on me seeking 'attention'... I know that kind of girl...</s>
+<s id="no-slut-4">And I don't judge... I just prefer to avoid the risk of getting some nasty STD from them, you know...</s>
+<s id="no-slut-5">................</s>
+<s id="no-slut-6">Yeah... Let's just concentrate on the mission for now, ok?</s>
+
+<s id="no-mix-2">But, I... I didn't meant to...</s>
+<s id="no-mix-3">No reason to be ashamed, <d character="Lara" suffix="..." /> You're young and eager... That's absolutely normal...</s>
+<s id="no-mix-4">Let's just concentrate on the mission for now, ok?</s>
+
+<s id="like-2">I like you, <d character="Lara" suffix="..." /> You're beautiful, focused and you deserve to succeed in your mission... I'll do anything in my reach to help you...</s>
+<s id="like-3">Oh, <d character="Player" suffix="..." /> Thank you so much... I like you too... I... I never tought you'd become so special to me...</s>
+<s id="like-ntr-1">I'm... I'm so ashamed of what you saw I doing with some of these men... Please, forgive me.... Please...</s>
+<s id="like-ntr-2">Sigh... Let's just try to avoid them, okay... I'll try to take better care of you...</s>
+<s id="like-4">I can't wait to get back home and be with you again...</s>
+<s id="like-5">Then let's get this mission done!</s>
+
+<s id="fun-2">We worked so much that night... We deserved some moments of good fun and I noticed you wanted it too...</s>
+<s id="fun-3">Oh... So... was it only some... fun?</s>
+<s id="fun-4">Yeah... You liked didn't you?</s>
+<s id="fun-5">I... I tought it was more than just a night of...</s>
+<s id="fun-6">Look... We'd better focus on the mission now, okay? We talk more about it later...</s>
+
+<s id="fun-7">Well... I can't deny that it was just what I needed at the moment...</s>
+<s id="fun-8">Ha... I never fucked the boss at my job before... But I never had a hot boss like you...</s>
+<s id="fun-9">Oh my God, <d character="Player" suffix="..." /> Let's try to keep the composure... We'd better stop talking about this...</s>
+<s id="fun-10">Okay... We'll focus on the mission... for now...</s>
+
+<s id="fun-11">No... What you did to me was... was...</s>
+<s id="fun-12">Hey... Don't fret about it, okay... Let's just focus on the mission...</s>
+
+<s id="heat-2">You were clearly behaving like a bitch in heat... A slut begging for cock...</s>
+<s id="heat-3">.........</s>
+<s id="heat-4">You... You can't talk to me like that...</s>
+<s id="heat-5">But I know you like to be treated like this... And I know you loved that night...</s>
+<s id="heat-6">You're probably touching yourself now thinking about it...</s>
+<s id="heat-6-passed">You've been passed around the hands of these men like a mindless slut... I was just grabing my bite that night... And maybe I'll get another one later if you don't get too much wrecked during this trip...</s>
+<s id="heat-7">.........</s>
+<s id="heat-8">Yeah... Don't overthink too much the situation... Let's focus on the mission...</s>
+
+<s id="scanned-1">Heads up... The scan is about to end...</s>
+<s id="scanned-2">Looks like they keep their systems up to date... Most services have the latest security patches applied...</s>
+<s id="scanned-3">I have access to their booking system files, but I couldn't acquire root privileges...</s>
+<s id="scanned-4">Is it bad news?</s>
+<s id="scanned-5">I don't want to be accused of mansplaining but... It means I have partial access to their system... Read only access...</s>
+<s id="scanned-6">What? So you won't able to book a meeting with this boss for me?</s>
+<s id="scanned-7">I can't book a new meeting, but it might not be need after all...</s>
+<s id="scanned-8">I can access contact info of the people scheduled to meet this boss today... I could simply send messages to one of them telling the meeting is canceled and then you can take their place!</s>
+<s id="scanned-9">Oh... That might work...</s>
+<s id="scanned-10">But... Obviously I can't just use the identity of some men...</s>
+<s id="scanned-11">Yeah... I can see meetings scheduled for two women today... We just need to choose witch one you will be!</s>
+<s id="scanned-12">This is it!!!</s>
+<s id="scanned-13">But remember you'll need to impersonate one of these girls... One might give you an easier time than the other in there...</s>
+<s id="scanned-14">Yeah... Makes sense... What can you tell me about them...</s>
+<s id="scanned-15">One is a local girl that will work during the auction tonight as hostess... She's supposed to receive instruction for the job in a meeting...</s>
+<s id="scanned-16">A hostess? These men doesn't seem the type that would help or... respect... a simple hostess...</s>
+<s id="scanned-17">Well... The problem with the second girl is that there's not much info about her besides the name and fact that she is foreign... All the info about what her meeting is redacted...</s>
+<s id="scanned-18">Humm... Maybe she is like... some shady international smuggler buying or selling something at the auction... That would be someone even with access to the location of the Goddes Slab!</s>
+<s id="scanned-19">Yeah... That's a possibility... But we'll never know until you get in there...</s>
+<s id="scanned-20">Anyways... We'll have to choose one... The hostess or the mysterious foreign girl?</s>
+
+<s id="hostess">Hostess</s>
+<s id="ugirl">Unknown Girl</s>
+
+<s id="hostess-1">I prefer to take over the place of the hostess... Maybe it's better to play this safe...</s>
+<s id="sec-1">Okay... Just give me a sec...</s>
+<s id="sec-2">Done... I sent her a message through the booking system calling off the meeting... You can safely use her identidy to get into the headquarters now...</s>
+<s id="sec-3">I just hope this was the right decision...</s>
+<s id="hostess-2">We will know soon... You can now knock on their door now and use her name: Jessica...</s>
+<s id="sec-4">Sigh... I'm not much sure about this plan, but looks like it's the only way in...</s>
+
+<s id="ugirl-1">I prefer to take over the place of that unknown girl... It might be risky, but it can also make my life easier in there...</s>
+<s id="ugirl-2">We will know soon... You can now knock on their door now and use her name: Amara...</s>
+
+<s id="panel-done">I can already get into the headquarters... I don't need to mess with this panel anymore...</s>
+
+<s id="knock-again">Should I knock again and use the name of the girl to get into their hideout?</s>
+
+</strings>

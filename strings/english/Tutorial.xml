@@ -1,0 +1,15 @@
+<strings>
+<s id="about">ABOUT <d character="Lara" suffix="'s" case="up" /> STATS</s>
+<s id="about-desc">Your choices during the game will shape the <d character="Lara" suffix="'s" /> personality by changing a group of stats. Each time one of these stats change, a quick notificiation will be displayed.</s>
+
+<s id="trust">TRUST</s>
+<s id="trust-desc">Trust is a measure of <d character="Lara" suffix="'s" /> feelings towards <d character="Player" />. Having a high trust can lead <d character="Player" /> to become someone really special to her.</s>
+<s id="corruption">CORRUPTION</s>
+<s id="corruption-desc">Corruption is a measure of how much the <d character="Lara" /> is open to sexual interactions. At high levels of corruption, it becomes impossible to stop her from starting sexual encounters (A.K.A.: out of control slut).</s>
+<s id="mind">MIND</s>
+<s id="mind-desc">Mind is a measure of <d character="Lara" suffix="'s" /> general mental state and influences her confidence and hability to get away of problems by herself. A low Mind will make her more sugestionable and submissive.</s>
+<s id="violence">VIOLENCE</s>
+<s id="violence-desc">Violence is a measure of how easily <d character="Lara" /> resorts to violence in order to solve problems. Be warned that even <d character="Player" /> can become victim of a high violent girl.</s>
+<s id="dominance">DOMINANCE</s>
+<s id="dominance-desc"><d character="Player" /> can earn dominance 'points' over <d character="Lara" /> during special moments by exploting a low Mind (evil bastard) or a high Trust (heartless snake). Dominance allows <d character="Player" /> to demand certain actions the girl wouldn't normally do (due to her nature or other current stats). Dominance points are 'spent' each time you resort to them, and some actions can demand more dominance points than others...</s>
+</strings>

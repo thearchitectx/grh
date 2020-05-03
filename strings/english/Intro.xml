@@ -1,0 +1,114 @@
+<strings>
+<s id="save-1">Your progress is automatically saved in this game\nDon't close the game while the save icon is flashing</s>
+<s id="save-2">Oldest auto-saves are automatically deleted\nYou can preserve auto-saves by 'collecting' them in the load screen</s>
+
+
+
+<!-- ############### Start ################# -->
+<s id="choose-name">Choose character name</s>
+<s id="turn-lights-on">Turn lights on</s>
+<s id="phew">Phew...</s>
+<s id="last-one">I hope this is the last one... Let's get this done...</s>
+<s id="wont-she-stop">Will she never stop asking me to move things around here? This place is huge!</s>
+<s id="not-the-job">This wasn't in the job description... If I knew this would require so much manual labor, I'd not have taken the job...</s>
+<s id="should-predicted">But I should have predicted this... Rich girl, living by herself, going out on dangerous adventures around the world, looking for an 'intelligence assistant'...</s>
+<s id="wanted-sidekick">She obviously just wanted a cheap sidekick to do all the boring and tedious work...</s>
+<s id="at-least-moments">At least there are perks to the job like this view from time to time...</s>
+<s id="she-is-focused">She stays so focused researching her shit that she dosen't even notices when I take my time to admire her beauty...</s>
+<s id="take-good-look">And now is the perfect time to take a break and enjoy the view...</s>
+<s id="look-at-her">Look at her... Totally lost on her 'expedition plans'...</s>
+
+
+
+<!-- ############### CheckLara ################# -->
+<s id="that-ass">That ass... </s>
+<s id="grope">Damn... My hands are screaming to grope those cheeks... But I don't think she'll be happy with it for now....</s>
+<s id="should-careful">She should be careful though... Swinging this booty around remote places might be very dangerous for her... integrity...</s>
+
+
+
+<s id="about-her-1"><d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" suffix="..." /> She looks all serious researching her next mission, but I did my research too...</s>
+<s id="about-her-2">She might have some athletic skills and basic combat training, but she's still a rookie in the field...</s>
+<s id="about-her-3">...and also very naive to think she can handle herself when dealing with the corrupt group involved with her father's death...</s>
+
+
+<s id="no-copyright-1">Oh, no no no... This is a seriously copyrighted name... I might get into trouble if...</s>
+<s id="no-copyright-2">...</s>
+<s id="no-copyright-3">Nah... I will call her whatever the fuck I want...</s>
+
+
+<s id="excuse-me">Uh... Excuse me, Miss <d character="Lara" data="TXT_SURNAME" />... Where should I put this...</s>
+            
+<s id="just-a-moment">Uh... What... Just a moment, I...</s>
+<s id="i-was-close">Oh... No, no, no... I was so close... But I lost the track again...</s>
+<s id="sorry-disturbed">Oh... I'm very sorry that I disturbed your concentration, Miss <d character="Lara" data="TXT_SURNAME" />...</s>
+<s id="its-okay">Sigh... I feel there is some clue in this map that will point to the location of the forbidden temple... But I'm having trouble finding it...</s>
+<s id="whats-happening">I must be very exhausted... This should not be this difficult... But...</s>
+<s id="you-can-do">I'm sure you can do it, Miss <d character="Lara" data="TXT_SURNAME" />...</s>
+<s id="careful-crate">Anyways... Be careful with that crate... It contains *medikits* that are important for my travels... Put them on the shelf in the storage room with the other consumables...</s>
+
+<s id="no-problem">I'll head there now...</s>
+            
+
+<s id="brit-accent">Oh man... The Brit accent... So fucking sexy...</s>
+<s id="guide-her">But I also thought she was supposed to solve these bullshit ancient puzzles quite easily... Maybe she needs someone to guide her...</s>
+
+
+<s id="not-bother">She's still trying to figure out the map thing... I'd better not bother her...</s>
+
+<s id="wonder-research">I wonder what she is trying to figure out on that map...</s>
+<s id="first-piece">Probably the first piece of an endless chain of clues to some unreachable goal...</s>
+
+
+<s id="find-solution">FIND SOLUTION</s>
+<s id="not-now">NOT NOW</s>
+<s id="can-i-try">Miss <d character="Lara" data="TXT_SURNAME" />... Can I try to help with the map...?</s>
+<s id="you-try">Oh... Well not to offend, but this is not a simplistic puzzle, you know...  It requires some deep knowledge of the local surrounding cultures and...</s>
+            
+<s id="well-ok">Sigh... I should probably take a break though... You may take a crack at it if you like while I step away for moment... Just don't damage the map...</s>
+
+
+
+<s id="map-comment">'Simplistic'... I'll show her... These are just scrambled glyphs... They should form some sort of rune... Let's solve this...</s>
+            
+<s id="done">Done!</s>
+<s id="really-did">I'm gobsmacked... You completed it so quickly...</s>
+
+
+<s id="not-hard-1">It wasn't that hard...</s>
+<s id="not-hard-2">It wasn't that hard... Maybe you overestimated this one, Miss <d character="Lara" data="TXT_SURNAME" />?</s>
+<s id="not-hard-3">Or perhaps... I'm overestimating... myself...</s>
+<s id="not-hard-4">Well... What matters is that it's solved...</s>
+
+
+
+<s id="tired-1">You are probably very tired...</s>
+<s id="tired-2">You are probably very tired, <d character="Lara" data="TXT_SURNAME" />... It's hard to concentrate after so many hours of work... and I had some luck...</s>
+<s id="tired-3">Yes... Quite right... Thank you... I... I really need some rest...</s>
+<s id="tired-4">Well... We solved it...</s>
+
+
+
+<s id="the-symbol">Indeed... And now I recognize the symbol...</s>
+<s id="the-mark">It's not a rune... It's the the mark of Phillip McGuffin, an explorer from the 19th century... He disapeared a long time ago during an expedition to an ancient village...</s>
+<s id="always-happen">It's seems the kind of thing that always happens with these old time explorers...</s>
+<s id="temple-location">Some people believe he found the temple's location but was never able to reach it...</s>
+<s id="last-location">Records of his last know location points to a small town near the Andes... I think that's the place I should start looking!</s>
+<s id="place-dangerous">Well... You should know that these places are dangerous and...</s>
+<s id="prepare-travel">It doesn't matter... We need to prepare to travel! I'll study this map a little more now... See you tomorrow!</s>
+
+
+
+<s id="yes-progress">Yeah, alright... Finally some real progress... Can't wait to get there...</s>
+<s id="impulsive-1">Goddamnit... She's really impulsive...</s>
+<s id="impulsive-2">But I can see she is really excited because she's doing that thing with her hand again...</s>
+
+
+<s id="look-at-that">Look at that... I noticed that twitch before... She keeps moving her hand like that when excited...</s>
+<s id="boner">Jesus Christ... I'm getting a boner... I'd better stop looking...</s>
+
+
+<s id="exit">Well... I don't think I'll get her attention again... I'd better go to that storage room and drop off this crate...</s>
+
+<s id="chapter-1">&lt;size=30&gt;CHAPTER I&lt;/size&gt;\n\nTHE <d character="Lara" data="TXT_SURNAME" /> MANOR</s>
+</strings>

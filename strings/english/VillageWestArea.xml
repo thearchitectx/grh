@@ -1,0 +1,242 @@
+﻿<strings>
+<!-- Elder -->
+<s id="gods">Oh... The gods must be tricking me...</s>
+
+<!-- Lara -->
+<s id="okay-sir">What? Are you okay, sir?</s>
+<!-- Elder -->
+<s id="willing">The gods sent not only a pretty young lady...  But the last kind person in the world willing to talk to me...</s>
+<!-- Lara -->
+<s id="what-hapen">I don't understand... What happened to you?</s>
+<!-- Elder -->
+<s id="thugs">These thugs... I mean... Our finest 'security officers'...</s>
+<s id="farms">They coerce everyone here to work at their farms... That's why you don't see much people around the village...</s>
+<!-- Lara -->
+<s id="farmers">Farms? These guys don't look like farmers to me with all these guns and...</s>
+<!-- Elder -->
+<s id="naive">Oh, dear... So naive... What they grow in the farms are not meant to feed the body, pretty lady... But to poison the soul...</s>
+<!-- Player -->
+<s id="coke">Woah... Coke farms...</s>
+<!-- Lara -->
+<s id="poisonous">Coke? I knew that soft drink is poisonous, but...</s>
+<!-- Player -->
+<s id="cocaine">I mean cocaine, <d character="Lara" data="TXT_NAME" />... You know... Dust... Snow... Powder... Yeyo... Nose candy...</s>
+<!-- Lara -->
+<s id="drugs">Oh... Drugs... At least now we know they are not here to loot the village or search for the artifact...</s>
+<!-- Player -->
+<s id="sosa">Jesus Christ, <d character="Lara" data="TXT_NAME" />... This is Alejandro Sosa level of danger you're getting into... It explains all this security...</s>
+<!-- Lara -->
+<s id="who-sosa">Wait... Who is...</s>
+<!-- Elder -->
+<s id="god-speaking">Oh... Are the gods speaking with you now? Ask them to help me!</s>
+<!-- Lara -->
+<s id="no-explain">No, no... <d character="Player" data="TXT_NAME" /> is no god... I mean... Look... Nothing you said explains why you here like this...</s>
+<!-- Elder -->
+<s id="too-old">I'm too old... I can't work all day at the farms anymore... So they cuffed me and left me to die here to serve as an example...</s>
+<s id="going-die">Please, pretty lady... Help me... I'm going to die...</s>
+<!-- Lara -->
+<s id="not-free">But I'm not here to free people... I don't have much time to find clues about old McGuffin and...</s>
+<!-- Elder -->
+<s id="foreigner">You mean the foreigner who came here looking for glory a hundred years ago? He was the the first one who ever visited our village... And I know everything about him!</s>
+<!-- Lara -->
+<s id="really">Really!?</s>
+<!-- Elder -->
+<s id="yes-yes">Yes! Yes! Please, free me and I'll tell and show you everything about the ancient stranger!</s>
+
+<s id="TRY-FREE">TRY TO FREE HIM</s>
+<!-- Lara -->
+<s id="able-free">Do you think I'm able to free you from the bonds?</s>
+<!-- Elder -->
+<s id="tight">It's uuhh... a tight space back here, child... Come a little closer and check if you can see the handcuffs...</s>
+
+<!-- Lara -->
+<s id="hurt-try">It doesn't hurt to try...</s>
+<s id="see-can-do">Let's see if I can do it...</s>
+<s id="solid-handcuff">I don't know... It looks like a pretty solid handcuff from here...</s>
+<!-- Elder -->
+<s id="give-try">Oh come on, child... Try to look a little closer...</s>
+<!-- Lara -->
+<s id="not-much-space">But... There's not much space between these spikes... I'll need to strech to reach the thing...</s>
+<!-- Elder -->
+<s id="can-do-it">Come on... You look like a very handfull adventurer... I know you can do it...</s>
+<!-- Lara -->
+<s id="maybe-if">Well... Maybe if I...</s>
+<!-- Elder -->
+<s id="take-time">Take your time, my child... No need to rush...</s>
+<!-- Lara -->
+<s id="lockpick">I think I can reach it... And I read about lockpicking once... I could try with this one...</s>
+<!-- Elder -->
+<s id="i-can-wait">Please, try... I can wait...</s>
+<!-- Lara -->
+<s id="bloddy-hell">Bloody hell... This lockpicking thing is much harder than I thought... And annoying... I'm wasting all my bobbypins...</s>
+<!-- Elder -->
+<s id="very-patient">Don't worry... I'm veeeery patient... I can wait you trying this aaaall day long...</s>
+<!-- Lara -->
+<s id="no-way">Nah... I give up... There's no way to break this damn thing...</s>
+<!-- Elder -->
+<s id="try-any-time">You can try again any time you want, my child...</s>
+<!-- Lara -->
+<s id="why-do-that">Why... would I want to do that?</s>
+<!-- Elder -->
+<s id="answer">The answer lies is in your heart, child... _Or at least somewhere also in your chest..._</s>
+
+<!-- Lara -->
+<s id="no-point">I don't see the point of trying...</s>
+<s id="require-key">Handcuffs usually are not easy to break away from... They require a specific key...</s>
+<!-- Elder -->
+<s id="least-give-try">Oh come on, child... At least give it a try...</s>
+<!-- Lara -->
+<s id="dont-push">Don't push me, sir... I'll decide the plan...</s>
+
+<!-- Elder -->
+<s id="please-help">Please help me, child...</s>
+
+<!-- Lara -->
+<s id="who-are">Who are these guys?</s>
+<!-- Elder -->
+<s id="bbc-1">I don't know, my child... A few years ago some very nice people that speaks just like you came here with strange equipments saying they would show the beauty of our land to the world...</s>
+<s id="bbc-2">They said they would show how our village is difficult to reach and how fertile is our soil... Not much time after they left, the bad people came looking for a place to grow their farms...</s>
+<!-- Lara -->
+<s id="bbc-3">Goddamn BBC documentaries...</s>
+
+<!-- Lara -->
+<s id="where-keys">Where can I find the keys of the handcuff?</s>
+<!-- Elder -->
+<s id="keep-office">They probably keep it in their security office... or jail house... or whatever they call that horrible place...</s>
+<s id="take-people">They like to take there anyone who defy their presence here, calling them troublemakers... They impose their own laws here...</s>
+<!-- Lara -->
+<s id="not-easy-in">That doesn't seems like a place I can easily get into...</s>
+<s id="not-again">Oh no... Not that place again...</s>
+
+<!-- Elder -->
+<s id="potential">I know you can do it... I see so much... potential in you, child...</s>
+<s id="forget">And don't forget I'm the only one who can help you with your search for the ancient stranger...</s>
+
+<!-- Lara -->
+<s id="stay-here">Stay right here... I'll try to find the handcuff key and come back later...</s>
+
+<!-- Player -->
+<s id="u-sure">Are you sure about this, <d character="Lara" data="TXT_NAME" suffix="?" /></s>
+<!-- Lara -->
+<s id="only-chance">Releasing this codger is my only chance to find McGuffin... I know it won't be easy to sneak into that jail but...</s>
+<!-- Player -->
+<s id="easy-in">From what I heard, it will actually be very easy to get into but very hard to leave...</s>
+<s id="you-just-left">You just left that place... You know it's easy to get in but hard to get out...</s>
+<!-- Lara -->
+<s id="cock-up">Well... Only if I make a total cock up here...</s>
+<!-- Player -->
+<s id="brit">Cock up... _Gotta... hold... the snickering..._</s>
+<!-- Lara -->
+<s id="didnt-copy">Uuh... I didn't copy that....</s>
+<!-- Player -->
+<s id="good-luck">Oh... I just said good luck!</s>
+
+<s id="LEAVE">LEAVE</s>
+
+
+<!-- v0.2.5 -->
+<!-- Elder -->
+<s id="where-been">Where have you been, my child? I'm dying here......</s>
+<!-- Lara -->
+<s id="no-easy">Hey! It wasn't easy recover this key from that horrible place, old man...</s>
+<!-- Elder -->
+<s id="you-found">So you found it! Praise the gods!</s>
+<s id="know-place">Oh... But I... I know that place you visited...</s>
+<s id="sacrifice">I just hope you didn't have to sacrifice some of your... innocence... to complete this objective...</s>
+<!-- Lara -->
+<s id="someone-helped">Nah... I have someone who's really helping me. I said earlier he's not a god, but maybe he's getting in the guardian angel level.</s>
+<!-- Player -->
+<s id="called-god">You know... I wouldn't mind to be called know as a god...</s>
+<!-- Lara -->
+<s id="oh-please">Oh <d character="Player" suffix="," /> please...</s>
+
+<s id="i-had-to">Oh... I... I had to... to...</s>
+<s id="doesnt-matter">It... It doesn't matter... I need to focus on my mission here...</s>
+<!-- Elder -->
+<s id="no-ashamed">Of course... There's no reason to be ashamed... You just do what you have to do...</s>
+
+<!-- Elder -->
+<s id="free-me">Now, please... Free me from these bonds...</s>
+<!-- Lara -->
+<s id="lot-keys">Sigh... I found a lot of keys that might fit the handcuff... I'll need to try all of them...</s>
+<!-- Elder -->
+<s id="wonderful">That's wonderful! I mean... Just come close here again to try all these keys... It's still a tight space...</s>
+<s id="try-closer">Uhm... You can now come closer here to try the keys... It's a tight space, but I can handle it...</s>
+
+<s id="COME-TRY">COME CLOSER AND TRY THE KEYS</s>
+<!-- Lara -->
+<s id="not-this-key">It's not this key...</s>
+<!-- Elder -->
+<s id="take-time-right">Just take your time... You will get the right one at some moment...</s>
+<!-- Lara -->
+<s id="damn-neither">Damn it... Neither this one...</s>
+<s id="this-is-one">Yes... This is the one!</s>
+
+<s id="go-around-1">Sensors show that you can go aroud the poles, <d character="Lara" suffix="..." /></s>
+<!-- Player -->
+<s id="go-around-2">Sensors show that you can simply go around the poles where he's locked to try the keys, <d character="Lara" suffix="..." /> Wouldn't it be easier?</s>
+<!-- Lara -->
+<s id="go-of-course">Of course! I should had seen that! Thanks, <d character="Player" suffix="..." /></s>
+<!-- Elder -->
+<s id="killjoy">Oh... This god who's talking to you is a real killjoy...</s>
+<!-- Lara -->
+<s id="know-about">I don't know what are you talking about, old man... Just keep still while I try the keys...</s>
+
+<!-- Elder -->
+<s id="finally-free">I'm free! I'm finally free!</s>
+<s id="thank-child">Thank you so much, my child...</s> 
+<!-- Lara -->
+<s id="now-tell">You're welcome, but now... Tell me what you know about Phillip McGuffin...</s>
+<!-- Elder -->
+<s id="yes-ofcourse">Yes... Of course...</s>
+<s id="grandfather">My grandfather told me about this old countryman of yours... Our village always welcomed strangers, and he was the first of the very few visitors able to reach our location...</s>
+<!-- Lara -->
+<s id="but-why">But why McGuffin came to this village? What did he wanted here?</s>
+<!-- Elder -->
+<s id="trying-find">Well... He was trying to find the way to Temple of the Great Goddess... He claimed it was buried somewhere into our ancient cave system... </s>
+<!-- Lara -->
+<s id="i-knew">I knew it! This is it!</s>
+<!-- Elder -->
+<s id="never-back">Yes, my child... But you probably also know the old stranger never came back to your land...</s>
+<!-- Lara -->
+<s id="what-happened">Oh... Yes, I do... Do you know what happened to him?</s>
+<!-- Elder -->
+<s id="possess-seal">The stranger was in possession of the Goddess Seal and he promised to give to my grandfather if he helped him in the search...</s>
+<s id="went-caves">They went together to the caves, and discovered that the Seal was a key to open a hidden ancient door...</s>
+<!-- Lara -->
+<s id="exciting">Oh my God! That must have been so exciting!</s>
+<!-- Elder -->
+<s id="wait-door">The stranger asked my grandfather to wait at the door and then went in... But after a couple of minutes the seal slipped from the position and fell on the ground, making the door closing violently...</s>
+<s id="open-again">My grandfather tried to use the seal again to open the door, but to his dismay it stopped working... Until this very day, that door remains closed and nothing more was known about that stranger...</s>
+<!-- Lara -->
+<s id="combination">Uhmm... In my research, I read that the Goddess Seal cointains a specific combination of small gears that only in the right position can trigger a door mechanism...</s>
+<s id="scrambled">The combination was probably scrambled when the seal fell on the ground... That's why your grandfather could never open the door again...</s>
+<!-- Elder -->
+<s id="end-story">Well... And that is the sad ending of the story... I'm sorry if I disappointed you...</s>
+<!-- Lara -->
+<s id="kept-seal">No, you didn't... Your grandfather kept the seal, right?</s>
+<!-- Elder -->
+<s id="left-father">Of course... He kept it... Gave it to my father when he died... And my father gave it to me...</s>
+<!-- Lara -->
+<s id="repair">Excellent! I think I can repair the seal combination and use it again to open the door!</s>
+<!-- Elder -->
+<s id="redeem">Really!? By the gods... It means I would be able to redeem his soul for that unfortunate tragedy!</s>
+<!-- Lara -->
+<s id="follow-old">Yes! And I will be able to follow old McGuffin footsteps!</s>
+<!-- Elder -->
+<s id="would-great">That would be great...</s>
+<s id="if-not-taken">...if Larry had not taken the Goddess Seal from me when he condemned me to die here...</s>
+<!-- Lara -->
+<s id="who-hell">What!? Who the hell is Larry?</s>
+<!-- Elder -->
+<s id="our-finest">He is one of our finest 'security lieutenants'... The last words he said to me is that he would sell the Seal for some money as way to pay for my 'lazyness'...</s>
+<!-- Lara -->
+<s id="not-men-again">Oh no... Not those men again...</s>
+<!-- Elder -->
+<s id="spend-day">Now he spends the day at our community center... Well... It was a community center until they turned it into some sort of tavern where the officers spend the day drinking and gambling while our people work at the farms...</s>
+<!-- Lara -->
+<s id="damn-it">Damn it...</s>
+<!-- Elder -->
+<s id="cant-seen">Look... I can't be seen walking around the village... I'll hide near the caves while you try to recover the Goddess Seal...</s>
+<s id="gamble">Remember I said he likes to bet and gamble... If you want to take the seal back, maybe you can explore this weakness...</s>
+</strings>

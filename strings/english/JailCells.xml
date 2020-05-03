@@ -1,0 +1,239 @@
+﻿<strings>
+<!--- Warder -->
+<s id="get-jailed-warden-a-1">Come on, criminal scum...</s>
+<s id="get-jailed-warden-a-2">So... It seems you wanted to sleep again my little palace, right girl...</s>
+<!--- Lara -->
+<s id="get-jailed-lara-a-1">Listen... This is a misunderstanding... I... I didn't do anything wrong...</s>
+<s id="get-jailed-lara-a-2">No... I'm not supposed to be here... I don't want to be here!!</s>
+<!--- Warder -->
+<s id="get-jailed-warden-b-1">Yeah... That's what they all say...</s>
+<s id="get-jailed-warden-b-2">You keep saying that... But you keep coming back...</s>
+
+<s id="last-time-escaped-1">You used a dirty trick to escape last time... I mean literally dirty... I can still smell it...</s>
+<s id="last-time-escaped-2">But I'm not angry with you... I like it when my girls fight back... Gives me more motivation to break their will...</s>
+<s id="last-time-bribe-1">I bet you were missing me, right? Just couldn't forget about holding my cock...</s>
+
+<s id="get-moving">NOW GET MOVING!</s>
+<!--- Lara -->
+<s id="please-sir">Please, sir... I'm so sorry... I'm so sorry...</s>
+<!--- Warder -->
+<s id="bet-are">Ha ha ha... I bet you are!</s>
+<s id="get-in">Now get in!</s>
+<!--- Lara -->
+<s id="get-jailed-lara-c-1">No... Please... I... I can't handle enclosed spaces...</s>
+<s id="get-jailed-lara-c-2">No... Please... I hate this place... I can't stay here!!</s>
+<!--- Warder -->
+<s id="guess-what">Guess what? I don't give a fuck!</s>
+<s id="bye-honey">Bye, honey... See you in a few days...</s>
+<!--- Lara -->
+<s id="nooo">Nooo!!!</s>
+<s id="need-out-1">Oh no... Oh no... I need to get out of here...</s>
+<s id="need-out-2">No... no... no... Not again...</s>
+
+<!-- Player -->
+<s id="deep-breath">Hey... Hey... Take a deep breath...</s>
+<!--- Lara -->
+<s id="locked"><d character="Player" data="TXT_NAME" suffix="!!" /> Oh, <d character="Player" data="TXT_NAME" suffix="..." /> They locked me in here... I can't get out and now everything is dark and...</s>
+<!-- Player -->
+<s id="comms">Easy... Easy... It's a good thing they didn't take your communicator...</s>
+<!--- Lara -->
+<s id="help-me">Help me... I need to get out of here... Help me, PLEASE!</s>
+<!--- Warder -->
+<s id="hey">Hey!</s>
+<s id="voices">You've been there for five minutes and is already screaming to the voices in your head!? That's a new record...</s>
+<s id="sleep">Now shut up! I need to sleep early today and the lights will be kept out until next morning... Get used to your new daily routine!</s>
+<!-- Player -->
+<s id="quiet">We'd better keep quiet for now... We can't look for a way out in the dark...</s>
+<!--- Lara -->
+<s id="night-here">_Oh no... I don't wan't to spend the night here..._</s>
+
+<!-- Player -->
+<s id="be-here">I'll be here with you all the time, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="be-here-2">Hey... I'll be here with you... I won't sleep... You can call anytime...</s>
+<s id="be-here-3">Oh... Thank you so much, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<s id="be-here-4">You're going to be okay... and... I will finally be able to tell my mom I spent a night with <d character="Lara" data="TXT_NAME" /> <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="be-here-5">Oh... You... You really don't get tired of joking...</s>
+<s id="be-here-6">I... I'll call you if I need something...</s>
+
+<s id="be-strong">Be strong, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="be-strong-2">Be strong, <d character="Lara" data="TXT_NAME" suffix="..." /> These people are even meaner when they see weakness...</s>
+<s id="be-strong-3">Yes... I... I'll be... You're right...</s>
+<s id="be-strong-4">I won't give them the statisfaction...</s>
+
+<s id="be-sleepy">I need to sleep too, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="be-sleepy-2">I need to sleep too, <d character="Lara" data="TXT_NAME" suffix="..." /> And you should also try to rest...</s>
+<s id="be-sleepy-3">But... but... I...</s>
+<s id="be-sleepy-4">We talk tomorrow...</s>
+
+<!-- warder -->
+<s id="wakey-wakey">Wakey, wakey... It's time for the morning exercise...</s>
+<!--- Lara -->
+<s id="lara-wake-1">Oh... Will I be allowed to leave the cell?</s>
+<s id="lara-wake-2">Do you really have to say that every morning?</s>
+<!-- warder -->
+<s id="warder-wake-1">Of course not! Just keep running in circles in there, ha ha ha ha....</s>
+<s id="warder-wake-2">Can you believe this is a standard procedure? Ha ha ha... Good to see you're getting used to the routine...</s>
+
+<!--- Player -->
+<s id="way-out">Okay... Now it's time to think about ways of getting out there, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<s id="see-find">Look around... See if you can find something that can help...</s>
+<s id="you-can">KEEP SILENT</s>
+
+<!--- Player -->
+<s id="no-way-out"><d character="Lara" data="TXT_NAME" suffix="..." /> He's probably much more careful now... I don't think there's a way to escape this time...</s>
+<!--- Lara -->
+<s id="only-way">Oh no.... It means the only way out might be... uurgh....</s>
+
+<!--- Player -->
+<s id="know-drill">Well... You know the drill, <d character="Lara" data="TXT_NAME" suffix="..." /> What you did last time might work again...</s>
+
+<!-- Lara -->
+<s id="eeew">Eeew.... Not in a million years...</s>
+<s id="door-locked">This door is strongly locked... There's nothing I can do about it...</s>
+<s id="old-circuit">It's just an old circuit reaker... I can't see how could this help me...</s>
+
+
+<s id="cant-find">I... I can't find anything useful... I'm stuck here...</s>
+<!-- Player -->
+<s id="crawl">Maybe if you *crawl* [PRESS *S* OR *ARROW DOWN*], you might see things that were not noticeable when standing...</s>
+<!--- Lara -->
+<s id="filthy">Crawl in this filthy place? Eeew...</s>
+
+
+<!--- Player -->
+<s id="bribe">You can try to... 'bribe'... the warder to get out...</s>
+<!--- Lara -->
+<s id="no-money">But... I don't have any money... The money I brought is worthless...</s>
+<!--- Player -->
+<s id="favor">Oh... Maybe he can accept some... 'favor' as a bribe...</s>
+<s id="gate-keeper">I mean... A bribe like the way you tried with that gate keeper earlier...</s>
+<s id="accept">He seems lonely there... Be... creative... He will probably accept...</s>
+
+<!-- Lara -->
+<s id="wire">Hey... There's a peeled power wire laying in the ground right in front of the door... This place is a mess and this one looks dangerous...</s>
+<!--- Player -->
+<s id="stay-away">Then stay away from it...</s>
+<s id="this-is-it-1">This is it!</s>
+<s id="this-is-it-2">This is it! If you get power flowing in this wire, and the warder step on it...</s>
+<!-- Lara -->
+<s id="knock-out">He will be knocked out right in front of me... And I will be able get the cell key from him!</s>
+<!--- Player -->
+<s id="plan">Looks like we have a plan!</s>
+
+<!-- Lara -->
+<s id="disabled">Oh no... Looks like he disabled this thing... I can't turn the power on anymore...</s>
+<s id="power-is-on">I already turned this thing on</s>
+<s id="switch">Uhmm... I think I can reach the switch from here...</s>
+<s id="check-wire">I'd better check the wire again...</s>
+<s id="turn-on">TURN ON</s>
+<s id="leave-it">LEAVE IT ALONE</s>
+
+<!--- Lara -->
+<s id="power-off-again">There's no power running through the wire again...</s>
+<s id="power-off">There's no power running through that wire... I must turn it on...</s>
+<s id="not-promising">Oh... This is not much promising...</s>
+<!--- Player -->
+<s id="deceptive">Appearances are deceptive, <d character="Lara" data="TXT_NAME" suffix="..." /> The sensors show a strong eletric current near you... It might even kill the dude...</s>
+<!--- Lara -->
+<s id="increase-area">The problems is... We need to increase the shock area... It's too small and he'll probably never step on it...</s>
+<!--- Player -->
+<s id="liquid">Well... Just spill some water on in... It will spread the electricity for a larger area!</s>
+<!--- Lara -->
+<s id="no-liquid">But there's no water around here... Even that disgusting toilet is dry...</s>
+<!--- Player -->
+<s id="produce">You can certainly... 'produce'... some liquid, right?</s>
+<!--- Lara -->
+<s id="w-produce-1">Produce? What do you...</s>
+<s id="serious-1">Oh my God... Are you serious?!</s>
+<s id="serious-2">Oh my God... Again?! This can't be the way how we solve every problem with electricity...</s>
+<!--- Player -->
+<s id="no-solution">I... can't see another solution... And there's no one around to look, right?</s>
+<!--- Lara -->
+<s id="looking">Yeah... There isn't... Although I... I always have this strange feelig that someone is looking...</s>
+
+<s id="SIT-AND-PRODUCE">PRODUCE SOME LIQUID</s>
+<s id="NO-WAY">NO WAY</s>
+
+<!--- Lara -->
+<s id="sigh-liq">Sigh... Okay... I'll do the liquid thing...</s>
+<!--- Player -->
+<s id="camera">Great... First position your life monitor camera properly to transmit images of the operation...</s>
+<!--- Lara -->
+<s id="drill">Yeah... I know the drill...</s>
+<s id="WHAAAAT">WHAT!?!</s>
+<!--- Player -->
+<s id="processors">Hey... The camera feed is point-to-point encrypted and transmited direct to your server's image processors... They'll analyze when the shock area is optimal and when you should stop...</s>
+<s id="watch">Did you think I want to watch?! I'm offended, <d character="Lara" data="TXT_NAME" suffix="..." /> It's not like I have access to your personal profile on the computer here... I'm just thinking about your safety...</s>
+
+<!--- Lara -->
+<s id="sorry">Oh... I... I'm sorry... I didn't know...</s>
+<s id="started">I... I should prepare the operation...</s>
+
+<s id="adventure">Oh Lord... I never thought a life of adventure would require such... skill...</s>
+<s id="ready">Okay... I'm... I'm ready, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<!--- Player -->
+<s id="can-see">Yeeeaaah... I can see...</s>
+<!--- Lara -->
+<s id="wtf-can-see">YOU CAN SEE!?!?!</s>
+<!--- Player -->
+<s id="mean-processor">I mean... I can see the server's image processors are starting to report its analysis...</s>
+<!--- Lara -->
+<s id="sigh">Sigh... I hope this plan really worths doing this...</s>
+<s id="cant-believe">I can't believe I'm saying this, but... Just tell me when to stop, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<!--- Player -->
+<s id="ph-level">Veeeery good, <d character="Lara" data="TXT_NAME" suffix="..." /> The sensors are reading an increase in the... uuhh... pH level of the surroundings ... it matches a pefect shock area...</s>
+
+<s id="STOP">STOP</s>
+
+<!--- Lara -->
+<s id="it-worked">Hey... It worked! You did it, <d character="Player" data="TXT_NAME" suffix="!!" /></s>
+<!--- Player -->
+<s id="oh-please">Oh, please... You did the skillful work, <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<!--- Lara -->
+<s id="burn">Now it's time to fry that bastard...</s>
+<s id="hey-warder">Hello!!</s>
+<s id="somt-see">Mister warder... There's something here you need to see!!!</s>
+<!--- Warder -->
+<s id="finally">Finally... I knew it wouldn't take long until you call me and 'negotiate' your freedom...</s>
+<!--- Lara -->
+<s id="come-closer">Oh... Of course... Come closer...</s>
+<!--- Warder -->
+<s id="hot-prisioner">Yeah... It's always a pleasure to have such a hot prisioner here...</s>
+<!--- Lara -->
+<s id="very-hot">I'm sure it's very hot, now!</s>
+
+<s id="POWER-OFF">TURN SWITCH OFF</s>
+<s id="let-burn">LET HIM BURN MORE</s>
+<s id="burn-bastard">Burn, you bastard!</s>
+<s id="yes-key">Yes... Now I can take his key and open the door!</s>
+<!--- Player -->
+<s id="unconscious">Don't take much time hanging around this place, <d character="Lara" data="TXT_NAME" suffix="..." /> The sensors shows he's not dead... Just unconscious...</s>
+
+
+<s id="no-escape">Maybe there's now way to escape this place... Maybe my only hope is convince the warder to let me go...</s>
+<s id="lead-to">But I know what this can lead to...</s>
+<s id="NEGOTIATE">'NEGOTIATE' WITH THE WARDER</s>
+<s id="have-do">I... I have to do this...</s>
+<s id="need-talk">I need to talk to you...</s>
+
+<!--- Lara -->
+<s id="cell-filthy">Such a filthy place... I pity the people who have to sleep in a place like this...</s>
+<s id="cell-spent-1">This is the most horrible place I ever spent a night on...</s>
+<!--- Player -->
+<s id="cell-spent-2">It's not that bad compared to my old bedroom...</s>
+<!--- Lara -->
+<s id="cell-spent-3">Urgh... Please, <d character="Player" data="TXT_NAME" suffix="..." /> </s>
+
+<!--- Lara -->
+<s id="keys-got">I already got the keys from here...</s>
+<s id="keys-nope-1">Looks like a place where they hang keys...</s>
+<s id="keys-nope-2">But there's nothing here at the moment...</s>
+<s id="keys-find">Look... One of these must be the key I need to free that old man...</s>
+<s id="keys-a-lot">Blimey... There's a lot of them here...</s>
+<!--- Player -->
+<s id="keys-take-all">Just take them all,  <d character="Lara" data="TXT_NAME" suffix="..." /></s>
+<!--- Lara -->
+<s id="keys-of-couse">Yeah... Of course...</s>
+<s id="keys-out">Finally... Now I can get out of here...</s>
+
+</strings>

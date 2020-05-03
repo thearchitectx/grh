@@ -1,0 +1,10 @@
+﻿<strings>
+<s id="locked">The door to the pool area is locked... Maybe I'll have a chance to come in when someone is using it...</s>
+<s id="where-going">Where do you think you're going?</s>
+<s id="checking">I'm uuhh... just checking the pool area for supplies and...</s>
+<s id="closed">The area is closed while Miss <d character="Lara" data="TXT_SURNAME" /> is using the pool... You'll need to wait until she leaves...</s>
+<s id="surprised">Sigh... Why I'm not surprised?</s>
+<s id="still-here">I have a better question: Why are you still here?</s>
+<s id="whatever">Whatever, man...</s>
+<s id="another-way">Damn... Is there another way to get pictures of <d character="Lara" data="TXT_NAME" /> at the pool without going into there?</s>
+</strings>

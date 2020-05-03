@@ -1,0 +1,55 @@
+<strings>
+<s id="TAKE">TAKE LIVE ROUNDS</s>
+<s id="NOT-TAKE">KEEP LIVE ROUNDS THERE</s>
+<s id="DO-IT">FILL CANTEEN</s>
+<s id="NOPE">NOPE</s>
+
+<s id="exit-l-1">Shit... This way leads me back to the main door...</s>
+<s id="exit-l-2">I don't think that door man will like to see me walking around here...</s>
+
+<s id="wc-1">There's a water cooler here...</s>
+<s id="wc-2">But I can't say what kind of liquid it is storing... It's definetively not water, judging by its color...</s>
+<s id="wc-fill-1">Uhmm... I can fill The Boss' canteen with whatever liquid is inside this water cooler... Should I do it?</s>
+<s id="wc-fill-2">Done... I should return the canteen to the same spot on his table if I want this to be a surprise for him...</s>
+
+
+<s id="sh-1">Bloody hell... It doesn't need a clever detective to understand what happened here...</s>
+<s id="sh-2">There are clearly several trigger happy dudes around this place... You'd better be careful, <d character="Lara" suffix="..." /></s>
+<s id="sh-3">Looks like whoever did this mess dropped some live rounds while unloading the gun...</s>
+<s id="sh-take">I'll keep these... We never know, right?</s>
+<s id="sh-not-take">You might get in trouble if they find ammo with you... You'd better just leave it there...</s>
+<s id="sh-took">I already took the live rounds that were here...</s>
+
+<s id="hentai-1">Maybe there is something useful inside these drawers...</s>
+<s id="hentai-2">Nothing here...</s>
+<s id="hentai-3">Only some... some very... strange... Japanese... comic books...</s>
+<s id="hentai-4">Good ol' Hentai... I can see some of these printed editions are pricy rarities in the West... These issues were probably stolen during one of their 'jobs'...</s>
+<s id="hentai-5">How can men be... into... this weird stuff?</s>
+
+<s id="hentai-saw">Uuuhh... Yeah... Those weird comic books are still here... I don't know why I keep opening these drawers expecting to find something different...</s>
+
+<s id="hentai-w-1">It is different, but... saying 'weird' is a bit of an ethnocentric view, don't you think?</s>
+<s id="hentai-w-2">Oh... Absolutely... As an archaeologist, I should be more careful about that...</s>
+<s id="hentai-w-3">It's amazing how you make me learn important stuff even in situations like this...</s>
+
+<s id="hentai-f-1">It's just fantasy, <d character="Lara" suffix="..." /> You would understand if you read one...</s>
+<s id="hentai-f-2">Fantasy..... Like...</s>
+<s id="hentai-f-3">I mean... Yes... Maybe... Maybe it's important to... understand different cultures...</s>
+
+<s id="hentai-j-1">The tentacle thing has an interesting origin...</s>
+<s id="hentai-j-2">The tentacle thing has an interesting origin... From old Japanese fisherman stories to becoming a way for modern artists to circumvent censorship...</s>
+<s id="hentai-j-3">Jesus... Thank you, <d character="Player" suffix="..." /> But this is not the kind of culture I'm interested...</s>
+
+<s id="safe-1">Damn it... Apparently they like to use electronic locks around here...</s>
+<s id="safe-2">What can you tell me about this lock? Can you see some kind of brand or number?</s>
+<s id="safe-3">It reads here... LivSec ML-2000</s>
+<s id="safe-4">Whoah... This is a brand new model... There are no known exploits for it... No way to open it without the 10 digit passcode...</s>
+<s id="safe-5">Shit... This is going to be harder than I thought...</s>
+<s id="safe-6">At least we know such level of security means this door is protecting something very important...</s>
+<s id="safe-7">Humm... I think you're right about that...</s>
+<s id="safe-8">Sigh... I don't have any other option but keep exploring for now...</s>
+<s id="safe-9">There's nothing I can do about this door for now...</s>
+
+<s id="door-1">Finally... An unlocked door... I wonder where it will lead to...</s>
+
+</strings>

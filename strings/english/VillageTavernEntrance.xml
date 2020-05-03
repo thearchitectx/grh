@@ -1,0 +1,61 @@
+﻿<strings>
+<s id="bucket-1">Umm... There's an old bucket hanging dangerously up there... And it seems pretty heavy...</s>
+<s id="bucket-2">I wonder if it would fall if hit it with something hard... That would cause a good distraction... and an opportunity to sneak into the jail house...</s>
+<s id="bucket-3">Lobbing things from distance requires a good precision, <d character="Lara" data="TXT_NAME" suffix="..." /> Things might not end the way you expect...</s>
+<s id="bucket-4">I need to find a proper projectile first, like a little rock... Then give it a try...</s>
+<s id="bucket-danger">People don't know much about work safety here...</s>
+
+<s id="HIT">TRY TO HIT THE BUCKET</s>
+<s id="NOPE">NOT NOW</s>
+
+<s id="hide">Okay... I think I can hide and try to hit the bucket from here...</s>
+<s id="sensors">Now... The motion sensors show the guard in a patrol routine... You need to *hit the bucket when he is under it*, throwing *with the right force*...</s>
+<s id="barely">I... I can barely see him from here... You need to help me, <d character="Player" data="TXT_NAME" suffix="..." /></s> 
+
+<!-- Lara -->
+<s id="yes">Yes...</s>
+<s id="nice">Nice throw, <d character="Lara" data="TXT_NAME" suffix="..." /></s> 
+<s id="thanks">Thanks...</s>
+<s id="able">But I wouldn't be able to do it without your help, <d character="Player" data="TXT_NAME" suffix="..." /></s>
+<s id="hired">That's why you hired me, right?</s>
+<s id="glad">I'm glad I did...</s>
+<s id="chance">Now it's my only chance to sneak in while the guard is unconscious...</s>
+
+
+<!-- Guard -->
+<s id="can-see">I can see you there, bitch! Do you wanna play rough!?</s> 
+<!-- Lara -->
+<s id="sorry">I... I'm sorry... I didn't meant to...</s> 
+<!-- Guard -->
+<s id="fuck-you">Fuck you!</s> 
+<s id="one-way">You got a one way ticket to the prison you wanted so much to visit...</s> 
+
+<!-- Guard -->
+<s id="how-in">Hey... How did you get into the security headquarters? Are you the one who knocked me out?</s>
+<!-- Lara -->
+<s id="course-not">Me? Of course not... I... I was passing by here earlier when your warder colleague came checking what was wrong with you...</s>
+<s id="invited">Then he... invited me to get in for a few minutes...</s>
+<!-- Guard -->
+<s id="naps">Urgh... Fucking Henry... Always taking naps and trying to score girls during work time... I hope he doesn't tell the boss what happened to me...</s>
+
+<!-- Guard -->
+<s id="in-jail">Hey... Aren't you supposed to be in jail?</s>
+<!-- Lara -->
+<s id="oh-i">Oh... I... I just...</s>
+<!-- Guard -->
+<s id="no-explain">Ha, ha, ha... You don't need to explain...</s>
+<s id="what-happens">I know what kind of stuff happens into there for a prisioner get released so early... Henry scored real high with you... The bastard has the best job ever...</s>
+
+<!-- Lara -->
+<s id="silent">I... I didn't want to...</s>
+<s id="absolutely">Yes... Yes... The warder is totally fine... No problem happened at all...</s>
+
+<!-- Guard -->
+<s id="that-kind">Yeah... And I didn't know you are that kind of girl... Can't wait to hear he talking about what you did to him in our next staff meeting...</s>
+<s id="know-he-is">Yeah... I know...</s>
+<s id="move-out">Now... Move out!</s>
+
+<!-- Lara -->
+<s id="can-free">Now that I have these keys I can finally free the village elder!</s>
+
+</strings>

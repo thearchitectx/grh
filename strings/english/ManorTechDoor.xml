@@ -1,0 +1,32 @@
+﻿<strings>
+<!--Player-->
+<s id="nice">Yeah... Another nice booty... Working here is becoming a quite pleasant experience...</s>
+<!---Mia-->
+<s id="mister">Mister <d character="Player" data="TXT_NAME"/>... I didn't see you there...</s>
+<!--Player-->
+<s id="not-boss">Jesus Christ, <d character="Mia" data="TXT_NAME"/>... I'm not your boss... Just call me <d character="Player" data="TXT_NAME"/>, okay?</s>
+<!---Mia-->
+<s id="sorry">Sorry, mister <d character="Player" data="TXT_NAME"/>... I didn't mean to...</s>
+<s id="did-again">Oh... I did it again...</s>
+<!--Player-->
+<s id="be-like">Look... We are coleagues... Let's trust each other... Let's be like...</s>
+<!---Choice-->
+<s id="union">...the <d character="Lara" data="TXT_SURNAME"/> Manor workers union</s>
+<s id="funny">Tee hee... You're funny...</s>
+<!---Choice-->
+<s id="friends">...good friends here</s>
+<s id="i-try">Okay... I'll try...</s>
+<!---Player-->
+<s id="cleaning">So... Uhh... How's the... cleaning?</s>
+<!---Mia-->
+<s id="omg">OMG... This place is a mess... Like... How can a refined woman like Miss <d character="Lara" data="TXT_SURNAME"/> live like this...</s>
+
+<!---Player-->
+<s id="yeah-she">Yeah... She is very... you know...</s>
+<!---Mia-->
+<s id="wont-allow">But I won't allow it! I won't let a single speck of dust touch her amazing skin...</s>
+
+<s id="excuse">Now excuse me, mister <d character="Player" data="TXT_NAME"/>... It's very nice to chat with you but I still have a lot of work to do...</s>
+<!---Player-->
+<s id="peculiar">Man... This house is filled with very... peculiar people...</s>
+</strings>

@@ -1,0 +1,76 @@
+﻿<strings>
+<!--- Player -->
+<s id="taking-long">Jesus... Why is she taking so long?</s>
+<s id="finally">There she comes... Finally...</s>
+<!--- Lara -->
+<s id="hello">Hello, <d character="Player" data="TXT_NAME"  />...</s>
+<!--- Player -->
+<s id="ready">Miss <d character="Lara" data="TXT_SURNAME"  />... Are you ready to leave?</s>
+<!--- Lara -->
+<s id="ready-yes">Indeed... I had finished packing yesterday... And you were bang on with your suggestion to relax... I feel quite refreshed after my time at the pool...</s>
+<!--- Player -->
+<s id="glad">I'm glad to hear that...</s>
+<!--- Lara -->
+<s id="instructions">I have final instructions for you prior to my departure...</s>
+<!--- Player -->
+<s id="of-course">Of course...</s>
+<!--- Lara -->
+<s id="simple">It's quite simple... I'll need to stay focused out there, so you're supposed to only contact me when I do it first... The computer terminal will be unlocked by a timer in a few hours... You keep this information room running and only perform any research if I request...</s>
+<s id="understand">Do you understand?</s>
+<!--- Player -->
+<s id="sure">Yeah... Sure...</s>
+<!--- Lara -->
+<s id="you-focused-good">Just keep focused as you were yesterday... You stored every crate in the right place and this is the kind of work that will help me succeed...</s>
+<s id="you-focused-bad">Just focus a little more in the job... Yesterday you stored crates in the wrong place and I need everything perfect to be able to succeed...</s>
+<s id="time-go">But now it's time to go...</s>
+<!--- Player -->
+<s id="be-careful">Be careful out there...</s>
+<!--- Lara -->
+<s id="dont-worry">Don't worry... I have everything ready and very good protection...</s>
+<s id="see-you">See you later...</s>
+<!--- Player -->
+<s id="not-so-sure">Ready and protected... After my activities in her bedroom... I'm not so sure about that...</s>
+<s id="soon">I think we'll talk sooner than she expect...</s>
+
+<!-- Intertitle -->
+<s id="intertitle">&lt;size=30&gt;CHAPTER II&lt;/size&gt;\n\nTHE OLD VILLAGE</s>
+
+<!-- Arrival -->
+<!-- Lara -->
+<s id="im-here">I have arrived... I'm finally here...</s>
+<s id="preparation">After a year of preparation, I'm about to put myself to the test in the field...</s>
+<s id="not-safe">It doesn't appear to be very safe around here and I'm a little nervous... But I think I'm ready...</s>
+<s id="check-notes">My notes are here with me and everything I need to do is carefully written... I'll just quickly review them to see where I should head next...</s>
+<s id="now-where">Now... Where should I...</s>
+<s id="cup-sugar">Wait... One half cup sugar... One teaspoon of salt... What... What the bloody hell is this?</s>
+<s id="aint-my-notes">OH MY GOD... MY NOTES... THESE ARE NOT MY NOTES... It can't be... Did I leave them at home!?</s>
+<s id="hey-wait">Hey! Wait! Don't leave! I can't stay here without...</s>
+<s id="no-no-no">Oh no... Oh no... Oh no... What am I going to do?</s>
+<s id="call-player"><d character="Player" data="TXT_NAME"  />... I need to call <d character="Player" data="TXT_NAME"  />...</s>
+
+<s id="come-in-1"><d character="Player" data="TXT_NAME"  />... <d character="Player" data="TXT_NAME"  />... Come in...</s>
+<s id="come-in-2"><d character="Player" data="TXT_NAME"  />... <d character="Player" data="TXT_NAME"  />... Come in... Please...</s>
+
+<!--- Player -->
+<s id="hello-lara">Hello Miss <d character="Lara" data="TXT_SURNAME"  />... Is everything okay? I didn't expect to hear from you so early...</s>
+<!--- Lara -->
+<s id="not-ok">No! Everthing is not okay! I must have left my notes in my bedroom... And my transport has already left... I don't know where to go from here and...</s>
+<!--- Player -->
+<s id="easy">Whoah... Whoah... Easy... Take a deep breath... I actually just found your notes in the main hall... I bet you dropped them on your way out...</s>
+<!--- Lara -->
+<s id="cant-happening">Oh my God... This can't be happening... I should have memorized everything, but I lost so much time with stupid details and...</s>
+<!--- Player -->
+<s id="im-with-you">Hey... Don't worry... I'm with you... Well... Remotely with you at least...</s>
+<s id="link">The headset satellite link is working, right?</s>
+<!--- Lara -->
+<s id="need-help">Yes... You are right... Listen... I don't like it but I'll have to rely on you more than I first expected... I'm lost without my notes...</s>
+<s id="guide">I... can't believe it but, you... you...  You'll have to guide me... </s>
+<!--- Player -->
+<s id="my-pleasure">Hmm... No problem... It's my pleasure to help...</s>
+<!--- Lara -->
+<s id="show-way">Okay... The village is somewhere around here... Show me the way...</s>
+
+
+<s id="message-control">You can control <d character="Lara" data="TXT_NAME" suffix="'s"  /> exploration at this location and influence her choices and actions</s>
+<s id="message-no-save">The game won't be saved after this point to avoid compatiblity issues with the next version</s>
+</strings>

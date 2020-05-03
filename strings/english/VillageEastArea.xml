@@ -1,0 +1,87 @@
+﻿<strings>
+<!-- Lara -->
+<s id="coconuts-d">Standing under this tree might be dangerous... A person can get a bad headache if one of those big coconuts falls at the wrong time... </s>
+<s id="leave-tree-alone">I'd better leave this tree alone for now...</s>
+
+<!-- Player -->
+<s id="some-interest">Did you find something interesting, <d character="Lara" data="TXT_NAME" suffix="?" /></s>
+<!-- Lara -->
+<s id="coconuts">I can see some coconuts in a tree right in front of me...</s>
+<!-- Player -->
+<s id="hungry">Coconuts? Are you hungry already? Didn't you pack some food on the way to...</s>
+<!-- Lara -->
+<s id="not-eat">Oh come on, <d character="Player" data="TXT_NAME" suffix="..." /> I don't want them to eat...  I can see some small coconuts that I could use to hit the swinging bucket back there...</s>
+<s id="not-eat-trust">Tee hee... It's not to eat, silly... I can see some small coconuts that I could use to hit the swinging bucket back there...</s>
+<!-- Player -->
+<s id="give-push">If you give the tree a hard kick, maybe one of the small ones will fall...</s>
+<s id="death-coconut">But... I'd pay more attention to the big ones... The term 'Death by coconut' is not only used as the name of that disgusting Irish dark beer, you know...</s>
+
+<s id="PUSH">GIVE THE TREE A KICK</s>
+<s id="LEAVE">LEAVE</s>
+
+<!-- Lara -->
+<s id="goes-nothing">Here goes nothing...</s>
+<!-- Player -->
+<s id="kick-hard">You'll have to kick really hard, <d character="Lara" data="TXT_NAME" suffix="..." /> Concentrate... Imagine this tree threw away your whole stock of tea...</s>
+
+<!-- Lara -->
+<s id="close">Woah... That was close... You are right, <d character="Player" data="TXT_NAME" suffix="..." /> Those big ones would certainly knocked me out...</s>
+<s id="bucket-down">But now I have the perfect projectile to hit that bucket down...</s>
+
+<!-- Player -->
+<s id="hit-1"><d character="Lara" data="TXT_NAME" suffix="!?" /></s>
+<s id="hit-2"><d character="Lara" data="TXT_NAME" suffix="..." /> <d character="Lara" data="TXT_NAME" suffix="..." /> Do you copy?</s>
+<s id="hit-3">Shit... I think I lost the connection...</s>
+
+<!-- Worker -->
+<s id="born">Sigh... Why did I had to be born in this cursed place...</s>
+<s id="favour">At least the gods are starting to favour me...</s>
+<s id="break-work">I finally got a break of work at that stupid farm... They said me that I just have to check if the old man is still...</s>
+<s id="wait">Wait... Who is this... lady...</s>
+<s id="what-happened">What happened to her... Is she sleeping?</s>
+<s id="another-tourist">No... Looks like another tourist who didn't pay atention to the large coconuts...</s>
+<s id="gorgeous">But she... She is gorgeous and... this tight shirt... I can almost fell what is under...</s>
+<s id="lady-hear">Lady? Lady, can you hear me?</s>
+<s id="lady">Lady?</s>
+<s id="blessing">The gods must be really blessing me...</s>
+<s id="gift">Such a beautiful gift...</s>
+<s id="i-mean">I mean...</s>
+<s id="someone">Uh... Is someone around?</s>
+<s id="anyone">Anyone here to help me reanimate this lady?</s>
+
+<s id="i-cant-help">She's taking a really god nap... and I... I can't help it...</s>
+<s id="forgive-me">Forgive me, gods... What I'm doing is probably very wrong... But I won't work every single day until I die without knowing how does it feel to touch a girl like this...</s>
+<s id="so-beautiful">Whoah...  So beautiful... Such smooth skin and... and these... these...</s>
+<s id="excuse">Excuse me, lady... But I must fell these wih my hands...</s>
+
+<s id="so-good">Woooaah... This feels so good...</s>
+<s id="all-day">I could keep doing this all day...</s>
+<s id="hurt">It's starting to hurt down here...</s>
+<s id="excuse-again">Excuse me again, lady...</s>
+<s id="skin-touch">Uurgh... Her skin is touching it... I never felt so... hard... in my life...</s>
+<s id="wonder">I wonder what feels when I...</s>
+<s id="by-gods">By the gods... What am I doing...</s>
+<s id="fuck-it">Uurgh... Fuck it... Sorry, lady... But I can't stop now...</s>
+<s id="shit-shit">Oh shit... Oh shit...</s>
+<s id="yeeahh">Yeeeahh...</s>
+<s id="mess">Oh no... What did I do...</s>
+<s id="shirt-down">I... I'll just pull her shirt down... Hopefully she won't notice when she wake up...</s>
+<s id="bye-lady">Bye, lady... This was the best date ever! Be safe!</s>
+
+<!-- Lara -->
+<s id="what-the">What the...</s>
+<!-- Player -->
+<s id="hey-back">Hey... There you are... I was starting to get really worried...</s>
+<!-- Lara -->
+<s id="coconuts-heavy">Blimey... Those coconuts ARE heavy...</s>
+<!-- Player -->
+<s id="feeling">Are you okay?</s>
+<!-- Lara -->
+<s id="headache">I'm fine... Just got a little headache...</s>
+<s id="warmer">but... I think this place feels warmer now...  I'm... I'm sweating... My shirt is all sticky...</s>
+<!-- Player -->
+<s id="uu-okay">Uuhh... Okay...</s>
+<!-- Lara -->
+<s id="got-projectile">At least I got the projetile I needed to cause an accident with that bucket...</s>
+
+</strings>

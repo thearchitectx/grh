@@ -1,0 +1,213 @@
+﻿<strings>
+<s id="shirt">I always wanted to see up close what's hidden under this shirt...</s>
+<s id="shirt-c">Hum... Okay... But don't get lost in the gaze... Someone can come in here any time...</s>
+<s id="shirt-t">Oh... I... I usually wouldn't do this... But... for you.... I'll show...</s>
+<s id="shirt-r">Beautiful...</s>
+
+<s id="shorts">Come on, <d character="Lara" suffix="..." /> It's time to show me properly this gorgeous body of yours...</s>
+<s id="shorts-c">Well... I really need to catch a breeze anyway...</s>
+<s id="shorts-c-f">Hum... Someone is in a hurry... I like it... We don't have time to lose, right?</s>
+<s id="shorts-t">Oh... I... Okay... But... Just make sure no one will come in, please...</s>
+<s id="shorts-t-f">What!? Please, go easy with me... I... I'm not used to this...</s>
+<s id="shorts-r">Damn, you're hot...</s>
+
+<s id="MOUTH">USE MOUTH</s>
+<s id="HANDS">USE HANDS</s>
+
+<s id="hands-1">Whoah... Look at these twins...</s>
+<s id="hands-2">Why... Why men are always so mesmerized by breasts...</s>
+<s id="hands-3">It's like they're magnets... for my hands...</s>
+
+<s id="MESSAGE-HANDS">WHILE PLAYING WITH HER BOOBS, YOU CAN RAISE HER AROUSAL BY KEEPING THE RIGHT SPEED FOR A FEW SECONDS</s>
+
+<s id="hands-4">Jeez... Touching you feels... amazing... Did you like it, <d character="Lara" suffix="?" /></s>
+<s id="hands-5-t">It... It felt good too, <d character="Player" suffix="..." /></s>
+<s id="hands-5-c">Mmm... I love to be played like that...</s>
+
+<s id="mouth-1">Whoah... Look at these twins...</s>
+<s id="mouth-2">Why... Why men are always so mesmerized by breasts...</s>
+<s id="mouth-3">I wonder if are they ready for the original... biological function...</s>
+
+<s id="mouth-4">Amazing... It's so good to be a mammal... Did you like it, <d character="Lara" suffix="?" /></s>
+<s id="mouth-5-t">It... It felt good too, <d character="Player" suffix="..." /></s>
+<s id="mouth-5-c">Mmm... I love to be played like that...</s>
+
+<s id="no-boobs">Please... Not again, <d character="Player" suffix="..." /> You already made them too sensitive...</s>
+
+<s id="try-luck">I can try my luck and check if she's willing to go all the way down... Should I ask her now?</s>
+<s id="ASK">ASK</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+<s id="ask-1">Come on, <d character="Lara" suffix="..." /> Let's make it happen and have some real fun...</s>
+
+
+<s id="ask-fail-1">What!? I... I can't just do it here in the middle of the researh room...</s>
+<s id="ask-fail-2">I... I think I'd better get some rest at my bedroom, now...</s>
+<s id="ask-fail-3">Wait... You don't need to...</s>
+<s id="ask-fail-4">See you later...</s>
+<s id="ask-fail-5">Damn... I think she wasn't aroused enough for this...</s>
+
+<s id="ask-success">Oh... You mean to...</s>
+<s id="ask-virgin-t">I... I think want to... with you... but... but I...</s>
+<s id="ask-virgin-c">It's cool to fool around, but this... This is too much... I...</s>
+<s id="ask-virgin-1">I never did it... and... I always wanted the first time to happen in a special occasion... Not in a hurry like this... Sitting on chair in the middle of the research room...</s>
+<s id="ask-virgin-2">I'm... I'm so silly... Please, don't laugh...</s>
+
+<s id="LAUGH">LAUGH</s>
+<s id="CONVINCE">TRY TO PERSUADE</s>
+<s id="RESPECT">RESPECT</s>
+
+<!--- LAUGH -->
+<s id="ask-laugh-1">Bwahahahaha... Really!? Did I just travel back to my highschool years!?</s>
+<s id="ask-laugh-2">Jesus Christ, <d character="Lara" suffix="..." /> I know you are a History buff, but we live in the 21st century...</s>
+<s id="ask-laugh-3">Come on... I never thought you'd be so old fashioned...</s>
+<s id="ask-laugh-4">You... Your're right...</s>
+<s id="ask-laugh-5">It's... It's nonsense... We should do it...</s>
+
+<!--- CONVINCE -->
+<s id="ask-convince-1">Hey... Don't you think this is a special occasion!?</s>
+<s id="ask-convince-2">You're young, on the mood and on the brink of a great discovery...</s>
+<s id="ask-convince-3">But... but...</s>
+<s id="ask-convince-4">You'll be going on great adventures during your life... This is the perfect time and the perfect place to live another one!</s>
+<s id="ask-convince-5">Well... I... I never thought about it from that angle...</s>
+<s id="ask-convince-6">Come on... You'll love it...</s>
+<s id="ask-convince-7">Okay... You're right... This is the moment!</s>
+
+<!-- RESPECT -->
+<s id="ask-respect-1">Hey... Why would I laugh? You deserve to have it exactly the way you want...</s>
+<s id="ask-respect-2">Oh, <d character="Player" suffix="..." /> You're so sweet...</s>
+<s id="ask-respect-3">I wish I knew you when I was younger...</s>
+<s id="ask-respect-4">Spoke like a 72 years old lady...</s>
+<s id="ask-respect-5">Tee hee...</s>
+<s id="ask-respect-6">What about you have a little harmless training, then?</s>
+<s id="ask-respect-7">Training?</s>
+<s id="ask-respect-8">I show you...</s>
+
+
+<s id="ask-not-virgin-1-c">Well... How can I refuse when you put it in such nice words...</s>
+<s id="ask-not-virgin-2-c">At least you're not like that horrible thug who forced himself over me...</s>
+<s id="ask-not-virgin-1-t">I want, but... I'm still so ashamed by the way it happened at that village...</s>
+<s id="ask-not-virgin-2-t">I... I wish I had my first one with you...</s>
+
+<s id="MOAN">I could hear you moaning through the radio, you know...</s>
+<s id="KICK">I hope you kick his teeth off when you're back there...</s>
+
+<s id="ask-not-virgin-kick-t">Yes... You already give me so much strengh... I should stand up for myself more...</s>
+<s id="ask-not-virgin-kick-c">Yeah... I'll be ready for him next time...</s>
+
+<s id="ask-not-virgin-moan-t">Oh... That was so humiliating.... I... I'm so sorry...</s>
+<s id="ask-not-virgin-moan-c">You can't stop your body to feel some involuntary stimuli, you know... I just hope you were not jealous...</s>
+
+<s id="ask-not-virgin-do">Well... Let's forget what happened and get it started... We don't have much time...</s>
+
+
+<s id="pump-1">It's starting to get really hot here...</s>
+<s id="pump-2">I believe it's my time to get a little more comfortable here, right?</s>
+<s id="pump-3">Huh?</s>
+<s id="pump-4">Yeah... Much better... I needed some fresh air down there...</s>
+<s id="pump-5-c">Whoah... What a nice surprise, <d character="Player" suffix="..." /> I just hope you won't hurt me...</s>
+<s id="pump-6-c">Well... You created this problem... Now you'll have to solve it</s>
+<s id="pump-5-t">Oh my God, <d character="Player" suffix="..." /> I'm... I'm a little scared...</s>
+<s id="pump-6-t">Don't worry... I'll be gentle with you...</s>
+<s id="pump-5-r"><d character="Player" suffix="!?!" /> You... You promised we wouldn't...</s>
+<s id="pump-6-r">Hey... I didn't forget what I said... We'll just do some a harmless practice...</s>
+<s id="pump-7">Oh, Lord... I... I can feel it rubbing in over skin...</s>
+
+<s id="TRAINING">HAVE A LITTLE TRAINING</s>
+<s id="DISPLACE">DISPLACE HER PANTIES</s>
+<s id="DONE">DONE</s>
+
+<s id="training-1-t">Hey... If you're still a little nervous, why try some warm-up?</s>
+<s id="training-2-t">What... What do you mean?</s>
+<s id="training-3-t">Try some moves... A ligth sequence of squats so you can get used to it...</s>
+<s id="training-4-t">Oh... I... I think I can do this...</s>
+<s id="training-1-c">So... How about you show me some moves?</s>
+<s id="training-2-c">Like a little warm-up? Absolutely...</s>
+<s id="training-3-c">Then give me a display of your talents, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="training-4-c">What about this?</s>
+<s id="training-1-r">So... For our little training... Just try some moves... A ligth sequence of squats so you can feel what the real thing is about...</s>
+<s id="training-2-r">What if... What if I can't do it right?</s>
+<s id="training-3-r">You are qualified to run and jump around ancient archaelogical sites, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> This will be a piece of cake to you...</s>
+<s id="training-4-r">Tee hee... I'll try...</s>
+
+<s id="training-5">Whoah... Very good, <d character="Lara" suffix="..." /> You're a natural...</s>
+<s id="training-6-c">Oh, yeah... Then I hope you can endure a little more...</s>
+<s id="training-6-r">Thank you... I... I guess...</s>
+<s id="training-6-t">Thank you... I... I guess...</s>
+
+<s id="training-7">Those were some nice moves, <d character="Lara" suffix="..." /></s>
+<s id="training-8">Well... Squats were always my favorite daily sequence of exercises...</s>
+
+<s id="training-9">Now... If we are not having the real thing today, then what about speeding up the pace and give me a deserved relief here?</s>
+<s id="training-10">Oh... I... I'll be glad to help you, <d character="Player" suffix="..." /> You deserve...</s>
+<s id="training-11">Niiiice...</s>
+<s id="training-12">NNggh... Thanks, <d character="Lara" suffix="..." /> You're the best...</s>
+<s id="training-13">I loved our date, <d character="Player" suffix="..." /> But now, I... I need to go... I'm still terrified by the possibility of someone entering here and seeing me like this...</s>
+<s id="training-14">I need a good night of sleep... We talk tomorrow about my next travel!</s>
+
+<s id="displace-1">Now... If we want this to get serious, we need first to get something out of the way...</s>
+<s id="displace-2">Out of the way?</s>
+<s id="displace-3">Here...</s>
+<s id="displace-4">Yeah... Now we have access to the gates of pleasure...</s>
+<s id="displace-5">It... It feels so cheap to just displace my panties like this...</s>
+<s id="displace-6-t">Hey... It's not cheap... It's sexy... And we don't have much time of privacy to waste here, do we?</s>
+<s id="displace-7-t">Oh... Okay...</s>
+<s id="displace-6-c">Somehow I feel this is exactly the way you like it, am I right?</s>
+<s id="displace-7-c">Humpf... Maybe...</s>
+
+<s id="probe-1">Okay, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Time to make it real...</s>
+<s id="probe-2">Come up here... Let's see how narrow is the path...</s>
+<s id="probe-3">Oh my God...</s>
+<s id="probe-4">Oh shit... I can already sense that amazing hot moisture coming down...</s>
+<s id="probe-5">Come on... Give it a try... Take your time...</s>
+<s id="probe-6">Damn... This is tight...</s>
+<s id="probe-7">Oh my God... Oh my God... Oh my God...</s>
+<s id="probe-8">Just take it easy... And keep trying...</s>
+<s id="probe-9">Come on, <d character="Lara" suffix="..." /> You can do it...</s>
+<s id="probe-10">Oh, man... That's it...</s>
+<s id="probe-10-t">Do you feel good, <d character="Lara" suffix="?" /></s>
+<s id="probe-11-t">Oh, <d character="Player" suffix="..." /> I... I'm so happy I'm doing this with you... I never felt like this before...</s>
+<s id="probe-12-t">And I'm happy you're enjoying it...</s>
+<s id="probe-10-c">Damn... It feels amazing to be inside you, <d character="Lara" suffix="..." /></s>
+<s id="probe-11-c">Mmmm... Do you like screwing your boss, Mr <d character="Player" suffix="?"/> Then make me feel good...</s>
+<s id="probe-12-c">That's an order I'll be happy to comply...</s>
+
+<s id="pump-1-t">Mmm... <d character="Player" suffix="..." /> This is so... intense...</s>
+<s id="pump-2-t">Just relax and enjoy...</s>
+<s id="pump-3-t">I am...</s>
+<s id="pump-4-t">That's good, babe...</s>
+
+<s id="pump-1-c">Mmm... Do me, <d character="Player" suffix="..." /> Do it good...</s>
+<s id="pump-2-c">Oh, yeah? Then use the appropriate verb... You know what it is...</s>
+<s id="pump-3-c">Yes... Just... Just... Fuck me... Fuck me good...</s>
+<s id="pump-4-c">Ahh... This expression sound so beautiful with a brit accent...</s>
+
+<s id="pump-5">Come on, <d character="Lara" suffix="..." /> Let's speed up the pace and make things really intense here...</s>
+
+<s id="pump-lara-cum-1"><d character="Player" suffix="..." /> <d character="Player" suffix="..." /> This feels good... This feels so good...</s>
+<s id="pump-lara-cum-2">Nnnnghhh...</s>
+<s id="pump-lara-cum-3">Niiiice... You came beautifully...</s>
+
+<s id="pump-player-cum-1">Oh boy... I can't hold it anymore... Here it comes...</s>
+<s id="pump-player-cum-2">Important... decision... Have... to choose... fast...</s>
+
+<s id="INSIDE">INSIDE</s>
+<s id="OUTSIDE">OUTSIDE</s>
+
+<s id="pump-player-cum-3">Daamnn... I needed that...</s>
+
+<s id="after-cum-in-1">Oh my... I can feel it inside me... Thank God I'm taking those pills...</s>
+<s id="after-cum-in-2">What pills, <d character="Lara" suffix="?" /></s>
+<s id="after-cum-in-3">Oh, it's... It's nothing... Forget about what I just said...</s>
+
+<s id="after-cum-1">I... I worked so many times in this very room... I never tought one of my most unforgettable nights here would be like this...</s>
+<s id="after-cum-2">I'm glad you enjoyed...</s>
+<s id="after-cum-3-t">I wish so much I could stay here cuddling with you... But I'm also terrified of the possibility of someone cacthing me like this...</s>
+<s id="after-cum-3-c">I wish I could learn a thing or two more with you now... But I'm also terrified of the possibility of someone cacthing me like this...</s>
+<s id="after-cum-4">And I also desperately need a good night of sleep... So... I think I should go now...</s>
+<s id="after-cum-5">I hope you also get some rest... We talk tomorrow about my next travel!</s>
+
+
+<s id="sleep">Well... I don't think we'll be doing more work for today... I should get some sleep too if I don't have nothing else to do...</s>
+
+</strings>

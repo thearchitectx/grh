@@ -1,0 +1,266 @@
+﻿<strings>
+<s id="no-money-1">You can't be so clueless...</s>
+<s id="no-money-2">Jesus Christ... Looks like you are...</s>
+<s id="no-money-3">Please... Forgive me, sir...</s>
+<s id="no-money-4">You'll have to come with me...</s>
+<s id="no-money-5">But... I... I don't...</s>
+<s id="no-money-6">Look... If you can't pay what you owe, then you'll have to work in order to earn the money...</s>
+<s id="no-money-7">But... But...</s>
+<s id="no-money-8">I used to be an agent to girls that need to make easy money on the streets... Just like you...</s>
+<s id="no-money-9">I'll find some clients for you to 'serve' so you can make the money you need to pay me...</s>
+<s id="no-money-10">Now... Come with me... There's no other way for you to get out of this trouble...</s>
+
+<s id="no-way">NO WAY!</s>
+<s id="go-with-him">GO WITH HIM</s>
+
+<s id="no-way-1">NO WAY!</s>
+<s id="no-way-2">What... What do you think I am?? I won't just...</s>
+<s id="no-way-3">Wrong answer...</s>
+<s id="no-way-4">Sigh... Why didn't you just came with me? Now I'll have to drag you around...</s>
+
+<s id="no-money-11">If... If there's no other way...</s>
+<s id="no-money-12">Yeah... Good choice... Come on...</s>
+
+<s id="ko-1"><d character="Lara" suffix="..." /></s>
+<s id="ko-2"><d character="Lara" suffix="..." /> Come in... I can't hear you...</s>
+<s id="ko-3">_mmmmnn..._</s>
+<s id="ko-4">_<d character="Player" suffix="..." />_</s>
+<s id="ko-5"><d character="Player" suffix="..." /> Are you here?</s>
+<s id="ko-6">Nope... Just the good old me with you, pretty girl...</s>
+<s id="ko-7">What the...</s>
+<s id="ko-8">Finally... It was about time for you to wake up...</s>
+<s id="ko-9">Where am I?? Why am I here?? What... What happened to my clothes...</s>
+<s id="ko-10">Whoa... So many questions... Easy there...</s>
+<s id="ko-11">First... it doesn't matter where you are...</s>
+<s id="ko-12">Second... Your clothes are right there over the shelves...</s>
+<s id="ko-13">Don't worry... I didn't took any "advantage" of you...</s>
+<s id="ko-14">I just wanted to make you feel more comfortable...</s>
+<s id="ko-15">Finally... The reason why you're here is... to pay back what you owe me...</s>
+<s id="ko-16">But I... I don't...</s>
+
+<s id="ko2-1-flash">I still can't see straight because of that annoying flash of yours... I won't be able to work today like that...</s>
+<s id="ko2-2-flash">I'm sorry... I didn't meant to...</s>
+<s id="ko2-3-flash">I already took all the money you had to cover the financial loss of this day... But it wasn't enough...</s>
+<s id="ko2-4-flash">My business generate a lot of revenue, and I can't just walk back to the boss with less than expected...</s>
+
+<s id="ko2-1-money">You should know that not paying your gambling debts is a serious crime in this country... Really serious...</s>
+<s id="ko2-2-money">I'm sorry... I didn't meant to...</s>
+<s id="ko2-3-money">Just be thankful that I won't hand you over to the authorities...</s>
+<s id="ko2-4-money">They would give you a much harsher treatment than this...</s>
+
+<s id="ko-17">I... I have lots of money at home... If I... I could just...</s>
+<s id="ko-18">Sorry... But I can't wait you ask daddy for money... And I can't risk let you leave and never come back...</s>
+<s id="ko-19">So... You're going to work here today to earn the money you sill owe me...</s>
+
+
+<s id="work-flash-1">Work? What... What do you mean...</s>
+<s id="work-flash-2">Look around... Look at you... You're a clever girl... I'm sure you already figured it out...</s>
+<s id="work-flash-3">This... This can't be real...</s>
+<s id="work-flash-4">Oh... It's very real... There's no easier way for a girl to make money, right?</s>
+
+<s id="ko-20">No... Let me go... Please... I'm sorry... I'm sorry...</s>
+<s id="ko-21">Hey... Don't be sorry...</s>
+
+<s id="accept-1"><d character="Lara" suffix="..." /></s>
+<s id="accept-2"><d character="Lara" suffix="..." /> Where are you?</s>
+<s id="accept-3">I... I'm not sure...</s>
+<s id="accept-4">Well... It doesn't look like a friendly place...</s>
+<s id="accept-4-n">What the hell, <d character="Lara" suffix="..." /> How can you agree to this 'serving men' thing?</s>
+<s id="accept-5">Oh my God... Why do I always end up in these situations?</s>
+<s id="accept-5-n">I'm... I'm sorry, <d character="Player" suffix="..." />... I don't have a choice... I'll be thinking about us while I... I...</s>
+<s id="accept-6">Hey, pretty girl... Who the hell are you talking to?</s>
+<s id="accept-7">Oh... I'm just talking to myself...</s>
+<s id="accept-8">Hey... Don't lose your mind now... Everything is going to be okay...</s>
+<s id="accept-9">I... I'm not sure about this...</s>
+<s id="accept-10">Don't worry... It's normal to be nervous during your first time 'working'...</s>
+
+<s id="join-1">You're actually very lucky... I thought at first you would need to 'work' here for weeks and serve a lot of 'clients' to pay your debt...</s>
+<s id="join-2">But I just got a call from a high-level official... He's been looking for a nice foreign girl and offered A LOT of money for you when I described your qualities...</s>
+<s id="join-3">So... You'll only need to see this one client and the debt your settled...</s>
+<s id="join-4">I... I'm not... I'm not a...</s>
+<s id="join-5">What? A whore? A prostitute? A hooker?</s>
+<s id="join-6">You can babble whatever you want, pretty girl... But you won't leave this room wihtout paying your debt first...</s>
+<s id="join-7">Now stay there... He is already arriving...</s>
+<s id="join-8">He likes quiet girls, so you'd better not annoy him with your constant whining...</s>
+<s id="join-9">Treat him well and you might even receive a fine tip... The bastard won loads of money in our last mission...</s>
+
+<s id="give-up">Don't give up, <d character="Lara" suffix="..." /></s>
+<s id="give-up-1">Don't give up, <d character="Lara" suffix="..." /> You're smarter than these bastards... I know you can find a way to escape this place without submiting to them...</s>
+<s id="give-up-2">Oh... Thank you for staying with me, <d character="Player" suffix="..." /> I'll try something...</s>
+
+<s id="accepting">You're accepting this situation quite well, <d character="Lara" suffix="..." /></s>
+<s id="accepting-1">You're accepting this situation quite well, <d character="Lara" suffix="..." /></s>
+<s id="accepting-2">It's because... I... I can't see a way of get out of this without... doing what he said...</s>
+
+<s id="silent">STAY SILENT</s>
+<s id="silent-1"><d character="Player" suffix="?" /></s>
+<s id="silent-2"><d character="Player" suffix="..." /> Are you still with me? I don't want to be alone here...</s>
+
+<s id="client-1">_You can get in, sir... She's waiting..._</s>
+<s id="client-2">Oh no... Someone is coming...</s>
+<s id="client-3">Daaamn... I really hit the jackpot this time...</s>
+<s id="client-4">What are the odds of finding such fine girl like this selling herself in this country, huh?</s>
+
+<s id="help">ASK FOR HELP</s>
+<s id="help-1">Please, help me sir... That man forced me to be here... I just want to leave...</s>
+<s id="help-2">Yeah... Your boy told me you have this fantasy kink about being kidnapped and...</s>
+<s id="help-3">But... But it's not a...</s>
+<s id="help-4">Hey... I'm not into this role play shit... Just cut it out... My patience is short...</s>
+
+<s id="look-down">KEEP LOOKING DOWN</s>
+<s id="look-down-1">Oh, man... She's the silent and shy type... This can't get any better...</s>
+
+<s id="client-5">So... Let's know each other a little better...</s>
+
+<s id="client-6">Look at you... So beautiful and clean... So much better than the dirty local girls I have to resort to...</s>
+
+<s id="client-7">Those junkies keep bothering me... asking for another pill of 'candy'... They don't know how difficult is to bring my shipments of MDMA to sell here...</s>
+<s id="client-8">What about you? Do you want some candy? I could give you as much as you want...</s>
+
+<s id="shake-head">SHAKE HEAD NEGATIVELY</s>
+<s id="shake-head-1">no...</s>
+<s id="shake-head-2">Ha... You're pure gold, girl... Do you have a boyfriend? I could definetively bring you to live with me...</s>
+
+<s id="mdma">Methylenodioxymethanphetamine?!</s>
+<s id="mdma-1">Methylenodioxymethanphetamine? It's... It's a highly addictive psychoactive substance, sir... It's very dangerous...</s>
+<s id="mdma-2">Jesus Christ... Are you an undercover narc or something? Junkies are annoying, but squares who talk like this are even worse...</s>
+
+<s id="client-9">Anyways... Now that we know more of each other...</s>
+
+<s id="client-10">...we can get a little closer...</s>
+<s id="client-11">Yeah... At first I thought I paid too much for you... But, damn... This will definetively worth...</s>
+<s id="client-12">Don't you think?</s>
+
+<s id="knife-1">Well... Look at this... You're full of susprises aren't you, honey?</s>
+<s id="knife-2">You... stay away from me... or else...</s>
+<s id="knife-3">Or else what? Just put it down and let's have some fun...</s>
+<s id="knife-4">You're just a frail and scared little girl...</s>
+<s id="knife-5">You don't you have the guts to use this knife...</s>
+
+<s id="kill-1">HE IS WRONG!</s>
+<s id="kill-2">I'm sick of hearing your voice, you slimy bastard...</s>
+<s id="kill-3"><d character="Lara" suffix="!?" /> <d character="Lara" suffix="!?" /> What the hell just happened?</s>
+<s id="kill-4">I just showed this pig who is frail and scared...</s>
+<s id="kill-5">Jesus Christ... That was the best plan you could figure?</s>
+<s id="kill-6">I... I don't know... But it was my only option...</s>
+<s id="kill-7">Wait a minute... I'll search him...</s>
+<s id="kill-8">Damnit... His gun is empty...</s>
+<s id="kill-9">But, hey...</s>
+<s id="kill-10">At least he had a lot of money in his wallet... I don't think he'll need it now, right?</s>
+<s id="kill-11">Sir? Is everything okay in there?</s>
+<s id="kill-12">Oh, shit...</s>
+<s id="kill-13">Sir? Uhh...</s>
+<s id="kill-14">I don't want to disturb your fun, sir... Just reporting that the girl and the room are yours until tomorrow... I'm leaving now...</s>
+<s id="kill-15">Good... This might give me some time to keep exploring before somebody find this mess...</s>
+<s id="kill-16">You should get the hell out of this room as soon as the coast is clear...</s>
+<s id="kill-17">Yes... There's a window here that might lead outside... I think I can break it open using the knife...</s>
+<s id="kill-18">Hey... I'm back at the bus stop...</s>
+<s id="kill-19">Good... Now you'd better just avoid that gambler...</s>
+<s id="kill-20">Yeah... It would be probably better for his health if I not meet him again...</s>
+
+<s id="chicken-1">He is right...</s>
+<s id="chicken-2">I... I'm sorry... I'm sorry...</s>
+<s id="chicken-3">Shhh... Shhh... Shhh... I forgive you this time, honey...</s>
+<s id="chicken-4">Just keep your fucking mouth shut and I'll help you understand where's your place...</s>
+
+<s id="beg-1">Please, sir... I don't want this... I wanna go home... I beg you... I beg you...</s>
+<s id="beg-2">Goddamnit... So beautiful, but so annoying... Why don't you just shut the fuck up?</s>
+<s id="beg-3">This is going to happen, honey... you should try to relax and enjoy...</s>
+
+<s id="submit-1">_Yes, sir..._</s>
+<s id="submit-2">Oh, girl... Are you trying to make me fall in love with you?</s>
+<s id="submit-3">I'll show you a good time as a reward...</s>
+
+<s id="check-1">Well... Let me first check the merchandise...</s>
+<s id="check-2">I'll gonna need some space down here, honey...</s>
+<s id="check-3">Yeah... I can already feel the nice smell of your panties...</s>
+<s id="check-4">But it's time for a hands-on approach...</s>
+<s id="check-5">Daamn... Check this warm swollen pussy...</s>
+<s id="check-6">This is top quality...</s>
+<s id="check-7">But, let me check how sensitive is your weak spot...</s>
+<s id="check-8">This pussy twiching like crazy... Looks like it's been craving for some good action...</s>
+<s id="check-9">Yeah... You're already leaking... Let's make it flow freely...</s>
+<s id="check-10">Jesus fucking Christ... This is going to be the best money I ever spent...</s>
+<s id="check-11">I need to feel this...</s>
+<s id="check-12">Shit... Someone here has a short mileage... This is tight...</s>
+<s id="check-13">Yeeahh... But you're already quite wet for a quiet and shy girl...</s>
+<s id="check-14">Well... I'll show something you'll never forget...</s>
+<s id="check-15">Now that you seem ready, it's time to change to a more comfortable position...</s>
+
+<s id="work-1">Yeah... Legs spread... Fully exposed... This is how you please your man...</s>
+<s id="work-2">And look at this pussy... You can keep the 'unsure' attitude as long as you want... But I can see down here what your body really wants...</s>
+<s id="work-3">But I'll give what it's asking for...</s>
+<s id="work-4">See... I'm ready too, girl... Are you scared or excited?</s>
+<s id="work-5">Anyways... Don't worry... I'll go easy on you... At first...</s>
+<s id="work-6">Now let's make some contact...</s>
+<s id="work-7">Oh man... Feels like knocking in the heaven's door... Can you feel it, girl?</s>
+<s id="work-8">_yes, sir..._</s>
+<s id="work-8-c">_mmmmmnnn... yeeeahh..._</s>
+<s id="work-8-v">_Please, don't do this... I never... I'm a... I'm a......._</s>
+<s id="work-9">You know... I usually wear condoms to fuck local whores... But I feel I don't need to worry about it with you...</s>
+<s id="work-10">I just can't wait to wreck this pussy...</s>
+<s id="work-11">Damn... This is tight...</s>
+<s id="work-12">I'll definetively give you a nice tip, girl... It's been ages since I had a pussy like this...</s>
+<s id="work-13">........</s>
+<s id="work-14">Yeah... Whatever you said...</s>
+<s id="work-13-v">_I'm sorry, father... I'm sorry..._</s>
+<s id="work-14-v">Yeah... Whatever you said...</s>
+<s id="work-13-c">_Do me... Do me... I can't wait anymore..._</s>
+<s id="work-14-c">Yeah... Let yourself go, girl...</s>
+<s id="work-15">Okay... It's time to pierce this cunt...</s>
+
+<s id="work-v-1">What the... Are you really a bloody virgin?!</s>
+<s id="work-v-2">What a waste... The president would pay millions for a first timer like you...</s>
+<s id="work-v-3">Well... Too late... Not a virgin anymore...</s>
+
+<s id="work-16">It feels great to be inside you, girl... But you'd better be taking your precautions...</s>
+<s id="work-17">It's been a week since my last 'discharge' and I'm going to hit your womb and fill it with my seed...</s>
+<s id="work-18">No... Not inside me... Please... I don't know if...</s>
+<s id="work-19">Sigh... You should already know that I don't care much about what you want, right?</s>
+<s id="work-20">Now, shut the fuck up and enjoy...</s>
+<s id="work-21">Yeeeah... This is what life is about...</s>
+<s id="work-22">You like it, don't you? Having a strong man dominating you...</s>
+<s id="work-23">I... just... want... this... to end...</s>
+<s id="work-24">Oh... It will end soon... With a lot of my swimmers inside you...</s>
+<s id="work-23-v">I... just... want... this... to end...</s>
+<s id="work-24-v">Oh... It will end soon... With a lot of my swimmers inside you...</s>
+<s id="work-23-c">Mmnnnggh... Yeeeeahh... Feels... sooo... goooood...</s>
+<s id="work-24-c">I knew you are a little slut... I never bought your demure girl act... You'll love even more when you feel my cum start leaking from your insides...</s>
+<s id="work-25">No... Sir... I'm begging you... Please don't finish inside... It's always risky to...</s>
+
+<s id="work-a-1">That's it... You annoyed me to the limit with your non-stop whining...</s>
+<s id="work-a-2">PRIVATE! COME IN HERE... NOW!</s>
+<s id="work-a-3">Sir!?! Is the girl causing any trouble??</s>
+<s id="work-a-4">Yes... She won't stop annoying me with her squeaky cries...</s>
+<s id="work-a-5">You know our standard procedure to make a girl shut up, right? So do it!</s>
+<s id="work-a-6">YES!! THANK YOU, SIR!!</s>
+<s id="work-a-7">I mean... Of course, sir... I... I'll follow your orders...</s>
+<s id="work-a-8">Yeah... I hope that you'll teach to keep quiet and accept your fate, girl...</s>
+
+<s id="work-26">Girl... This is the last time I'm telling you to stop whining...</s>
+
+<s id="work-27">Fuuuck... I love pussyyy...</s>
+<s id="work-1-cum">Really!? I paid for the session and this slut is the one cumming hard while taking my cock...</s>
+<s id="work-2-cum">Well... It's good for my ego anyways...</s>
+<s id="work-28">Yeeaahh... That's it... I'm gonna cum so hard into you...</s>
+
+<s id="work-29">Phew... That was good...</s>
+<s id="work-30">Damn... We have a big cream pie down here, girl...</s>
+<s id="work-31">Oh my God... I can feel it overflowing me...</s>
+<s id="work-32">Yes... This is the way our Lord designed...</s>
+<s id="work-31-a">mmm... mmm...</s>
+<s id="work-32-a">Oh... I forgot you also have your mouth full... That's enough, private...</s>
+<s id="work-33">Well... I'm a busy person, so I won't have time to cuddle with you...</s>
+<s id="work-34">Here... Have this nice tip... I don't even have how to spend all that money in this country, but you worth it...</s>
+<s id="work-35">I'll definetively come back looking for you again... See ya...</s>
+<s id="work-36">Well... Your debt with me is settled girl... You can leave when you're ready...</s>
+<s id="work-37">I hope you take care of the money he gave you...</s>
+<s id="work-38">And, uuhhh... if you spend everything and need more, I can always find more work for you...</s>
+
+<s id="work-39"><d character="Lara" suffix="..." /></s>
+<s id="work-40"><d character="Lara" suffix="..." /> Can you hear me?</s>
+<s id="work-41">Yes... I... I just need a few minutes... before leaving this place...</s>
+<s id="work-42">The exit lead me back to the bus stop... I... I can't stop now... I need to keep going...</s>
+
+
+</strings>

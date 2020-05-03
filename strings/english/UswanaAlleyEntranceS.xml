@@ -1,0 +1,106 @@
+﻿<strings>
+<s id="bm-1">Humm... Looks like someone missed me...</s>
+<s id="bm-2">The customs officer? You... You told me I could leave...</s>
+<s id="bm-3">Don't worry, girl... I did not come here chasing you...</s>
+<s id="bm-4">I just took the rest of the day off because there are no more incoming flights today... It's like people don't want to visit this beautiful country anymore...</s>
+<s id="bm-5">Yeah... I wonder why...</s>
+<s id="bm-6">But, hey... If I knew you were coming here I'd have offered you a lift... Girls of this neighborhood love to ride in the frontseat of my jeep, you know...</s>
+<s id="bm-7">I... I think I'd have prefered take a bus...</s>
+<s id="bm-7-a-1">Would you? I bet your backside is still twitching non-stop thinking about our 'procedure' earlier...</s>
+<s id="bm-7-a-2">.......... that... was... horrible...</s>
+<s id="bm-7-a-2-c">.......... that... was... different...</s>
+<s id="bm-7-a-3">Ha... I'm sure what you meant is 'I loved it'...</s>
+<s id="bm-7-a-3-came">Yeah... I'm sure what you meant is 'I loved it'... I remember that shameful orgasm you had...</s>
+<s id="bm-7-b-1">So prude... I'm sure you would change that attitude if you knew me better...</s>
+<s id="bm-8">Anyways... I operate a small black market shop in this place during my free time...</s>
+<s id="bm-9">So... Fell free to browse my wares... Only quality exclusive items...</s>
+<s id="bm-10">Actually, I... I wonder if you have a...</s>
+<s id="bm-11">Before you start... The only payment I accept here are those green notes of imperialist money...</s>
+<s id="bm-12">What!? Weren't you supposed to not allow anyone come in with...</s>
+<s id="bm-13">Different job... Different rules... If you were smart enough to smuggle some money in, fell free to spend it here... I won't mind...</s>
+<s id="bm-14">Now... My shop has just opened so fell free to take a look...</s>	
+
+<s id="bm-items">Tell me if you are interested in any of these...</s>
+<s id="bm-monkey-wrench">Monkey Wrench</s>
+<s id="bm-secret">Secret Item</s>
+
+<s id="mw-1">I... think I saw this monkey wrench before... Anyways, it can be quite useful for some of my... plans...</s>
+<s id="mw-2">Well chosen, girl... It costs only $<d character="Player" data="WRENCH_PRICE"/> greens!</s>
+<s id="mw-3">What!?!</s>
+<s id="mw-4">Yeah... This is an historic item... It's the first wrench made by inventor Charles Moncky himself in the 1880's... A true collector item that still works perfectly to this very day!</s>
+<s id="mw-5">But... But...</s>
+<s id="mw-6">Come on... I remember reading on your immigration papers that you are an archaeologist... You must know how much this historic stuff worth...</s>
+<s id="mw-7">And I... I now remember where I saw this wrench... It was exposed in the National Museum...</s>
+<s id="mw-7-1">But they moved it to a reserved section after evidence came up that the Charles Moncky story is nothing but a hoax...</s>
+<s id="mw-8">Humpf... Looks like we have a smart ass, here... You'd better keep that hoax thing to yourself if you don't want me to use your head to test the sturdiness of the wrench... I won't change the price...</s>
+<s id="mw-9">I... I won't tell, sir... I swear...</s>
+<s id="mw-10">I'm just curious if... If you have other items that were stolen from... I mean... were brought from the National Museum...</s>
+<s id="mw-11">The boss gave me the wrench as a reward for the museum job...</s>
+<s id="mw-12">But he kept other valued items... There's even an ancient stone tablet there with a big price tag...</s>
+<s id="mw-13">YES! It's the one I want!</s>
+<s id="mw-14">Ha ha ha... Good luck with that... It's not easy to negotiate with the boss, even if you somehow find a way to talk with him...</s>
+<s id="mw-15">Now... Enough of this chit chat... Just tell me if you're interested in actually buying something...</s>
+
+<s id="mw-buy-1">The price is $<d character="Player" data="WRENCH_PRICE"/>... Are you going to buy it or not?</s>
+<s id="BUY">BUY</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+<s id="mw-buy-no-1">It costs a lot of money... but I buy this thing I could use it to open that network panel...</s>
+<s id="mw-buy-no-2">Well... You need money to buy stuff to do things... I took a full semester of economy classes to learn that...</s>
+
+
+<s id="si-1">Secret item!? What is it supposed to be?</s>
+<s id="si-2">Ha! It's a new marketing strategy I'm working on. It's a cheap unique item only available to customers that already bought another item. A great idea, isn't?</s>
+<s id="si-3">Huuh... I'm not much into this marketing thing...</s>
+<s id="si-4">But now you're utterly curious about about the item, aren't you?</s>
+<s id="si-5">I... I don't think so...</s>
+<s id="si-6">Yeah... Whatever...</s>
+<s id="si-no">As I said... This item is only available for regular customers...</s>
+
+<s id="bm-charger-1">Hey, girl... Before you go... I have a promotional gift for you. It's a... another part of my marketing strategy!</s>
+<s id="bm-charger-2">Promotional gift?</s>
+<s id="bm-charger-3">To be honest... It's some shit I want to get rid of...</s>
+<s id="bm-charger-4">Here... You can have this...</s>
+<s id="bm-charger-5">What... What is this thing?</s>
+<s id="bm-charger-6">Uuhh... It's just a trinket that were confiscated from tourists last week at the airport...</s>
+<s id="bm-charger-7">The guys would get the wrong idea if they find this thing in my possession... So you better not tell anyone you got it from me...</s>
+<s id="bm-charger-8">Uuhh... Okay...</s>
+<s id="bm-charger-9">Now get lost and come back when you have the money to actually buy something...</s>
+
+<s id="bm-charger-10"><d character="Player" suffix="..." /></s>
+<s id="bm-charger-11">I'm here, <d character="Lara" suffix="..." /></s>
+<s id="bm-charger-12">Do you know what is this thing he gave to me?</s>
+<s id="bm-charger-13">The box says 'Portable Juices Charger 3000 XD'...</s>
+<s id="bm-charger-14">It's some kind of device that looks like... like a...</s>
+<s id="bm-charger-15">Whoah... A real Juices Charger?! Only someone with good links into the dark web would be able to aquire one of those...</s>
+<s id="bm-charger-16">Do you know what it is!?!</s>
+<s id="bm-charger-17">Yeah... Have you ever heard of a research about the amount of electric and chemical energy discharged by... female orgasms?</s>
+<s id="bm-charger-18">Oh, come on... That was just a rubish pseudo-science paper...</s>
+<s id="bm-charger-19">Well... Based on that research, a small company developed a device named Juices Charger able to capture that kind of... energy... and use it to charge small batteries...</s>
+<s id="bm-charger-20">It... It can't be real...</s>
+<s id="bm-charger-21">It is so real that big oil companies quickly lobbied to make it illegal in the whole world... You know how the concept of 'free energy' scare those guys...</s>
+<s id="bm-charger-22">That's why you can only find these chargers in the dark web...</s>
+
+<s id="bm-charger-end-1">Well... I don't think I'll ever need to... use this thing...</s>
+<s id="bm-charger-end-2">You should keep it in your backpack... We never know... Right?</s>
+
+<s id="bought-mw-1">Hummm... Between us... Were you able to slip in with all this money at the airport or did you aquire it here... somehow?</s>
+<s id="bought-mw-2">Do I... Do I need to answer this in order to buy from your shop?</s>
+<s id="bought-mw-3">Nah... Just curious...</s>
+<s id="bought-mw-4">Here is your precious item...</s>
+<s id="bought-mw-5">I never tought a sucker... I mean... a customer would actually buy it...</s>
+<s id="bought-mw-6">Sigh... Thank you, sir...</s>
+<s id="bought-mw-7">Don't forget that now that you're a certified customer, can you buy the secret item!...</s>
+
+<s id="secret-1">Ah... Finally...</s>
+<s id="secret-2">Sigh... I don't get all the mystery about this item...</s>
+<s id="secret-3">Oh... You'll understand... It's all about you...</s>
+<s id="secret-4">Huh?</s>
+<s id="secret-5">Well... I made a quick search for your name in the Freedom Bulls security archives... It's an old habit, you know...</s>
+<s id="secret-6">Sir... I never did anything against your... organization...</s>
+<s id="secret-7">I believe... Because I found a file with your name, and the 'intel' was not something that would make a threat...</s>
+<s id="secret-8">Quite the opposite, actually...</s>
+<s id="secret-9">Sorry... But what you're saying doesn't make any sense...</s>
+<s id="secret-10">I'll show you... This is what I found and what's I'm offering you to buy...</s>
+
+</strings>

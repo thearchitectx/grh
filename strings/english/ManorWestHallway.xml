@@ -1,0 +1,51 @@
+﻿<strings>
+<!--Player-->
+<s id="rest">Okay... I'm really tired of all this walking around... I need a nap to pull myself togheter and get ready for some action...</s>
+<s id="not-comfortable">This is not very comfortable... I hope they actually build this room in a *future version*</s>
+
+<s id="wake-up">Damn... Is it time to get up already? I fell like I only slept for a couple of seconds...</s>
+<s id="wake-up-2">Well... It's time to get up... This day feels promising...</s>
+
+<s id="no-rest">A good nap is always welcomed... But I still have stuff to do...</s>
+
+<s id="lara-out-bedroom-1">Okay... <d character="Lara" data="TXT_NAME" /> must be getting ready to start searching for her artifact thing...</s>
+<s id="lara-out-bedroom-2">I should find a way to get her out of her bedroom and snoop around for a bit...</s>
+
+<s id="lara-out-bedroom-3">Well... Maybe I should go there and ask if she needs something...</s>
+
+<s id="cupboard-r-1">There are several organized piles of old foreign cash here...</s>
+<s id="cupboard-r-2">Well... It's a mix of History and money... No wonder the <d character="Lara" data="TXT_SURNAME" suffix="s" /> have a collection like this...</s>
+
+<s id="cupboard-r-get-money">This is exactly what I need... I'll just get some of these notes to put in her diary...</s>
+
+
+<s id="rest-return">Well... There's not much more I can do until <d character="Lara" /> comes back... I' better get some rest...</s>
+
+<s id="comment-bedroom">This place is not that bad... But the most uncomfortable thing is to know this used to be <d character="Winston" suffix="'s" /> bedroom...</s>
+
+<s id="comment-hole-1">Hey... Is that a... hole in the wall?</s>
+<s id="comment-hole-2">Well... Looks like our buddy <d character="Winston" /> still does some mischief under that serious butler mask...</s>
+<s id="comment-hole-3">Let's take a look...</s>
+
+<s id="comment-mia-quarter-1">Wait... I think this is the maid's bedroom... That old bastard <d character="Winston" /> has a less than moral hobby, ain't he?</s>
+<s id="comment-mia-quarter-2">Well... Let's not waste the work he had making this hole and take a good look...</s>
+
+<s id="comment-mia-quarter-shrine-1">Jeez... Is that the shrine she was talking about? We can't argue about tastes but, I don't know if that can be even called 'art'...</s>
+<s id="comment-mia-quarter-shrine-2">And... Did she just found one of <d character="Lara" suffix="'s" /> pistols lying around and simply used it as decoration!?</s>
+<s id="comment-mia-quarter-shrine-3">This is not only dangerouns, but I can almost hear the guns control activists screaming...</s>
+<s id="comment-mia-quarter-shrine-4">Well... I wonder what <d character="Mia" />is doing now...</s>
+<s id="comment-mia-quarter-shrine-5">Oh shit... There she is...</s>
+<s id="comment-mia-quarter-shrine-6">And... Looks like she is really... excited... about working in that shrine...</s>
+<s id="comment-mia-quarter-shrine-7">I mean... Really excited...</s>
+<s id="comment-mia-quarter-shrine-8">Damn... Talk about getting soaked...</s>
+<s id="comment-mia-quarter-shrine-9">Oh, man... This girl needs help... Several kinds of help... But I'd better leave her alone for now...</s>
+
+
+<s id="leave-hole">I'd better leave this hole alone for today... She might get suspicious...</s>
+
+<s id="have-panties">I can't keep walking around with <d character="Lara" suffix="'s"/> panties in my pocket... If I plan to give this thing to <d character="Mia" suffix=","/> then I must do it before going to sleep...</s>
+
+<s id="SLEEP">SLEEP</s>
+<s id="NOT-NOW">NOT NOW</s>
+<s id="LEAVE">LEAVE</s>
+</strings>

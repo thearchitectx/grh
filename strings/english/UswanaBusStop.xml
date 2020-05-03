@@ -1,0 +1,13 @@
+﻿<strings>
+<s id="arrival-1">Are... Are you sure this is the right location, <d character="Player" suffix="?" /></s>
+<s id="arrival-2">Yep... I traced back a lot of network traffic of content related to those so called Freedom Bulls... This neighborhood is a source of a lot of their activity...</s>
+<s id="arrival-3">They must have a crib somewhere around there...</s>
+<s id="arrival-4">I... I don't like the way this place looks... But I must find a way to recover the Goddess Slab...</s>
+<s id="arrival-money">Oh... And I forgot to say... Thank God I was able to keep the money... It might be useful here...</s>
+<s id="arrival-no-money">Sigh... I'm just worried because... I think the money I lost at the airport would be useful here...</s>
+
+<s id="exit-r-1">This way leads to the road back to the airport, <d character="Lara" suffix="..." /> Nothing interesting there...</s>
+<s id="exit-r-2">Oh... Thanks for the tip, <d character="Player" suffix="..." /></s>
+
+<s id="bus-1">I'd love to take that hideous bus and get out of here... But I need to find the Goddess Slab...</s>
+</strings>

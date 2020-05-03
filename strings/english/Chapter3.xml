@@ -1,0 +1,177 @@
+﻿<strings>
+<s id="title">&lt;size=30&gt;CHAPTER III&lt;/size&gt;\n\nTHERE AND BACK AGAIN</s>
+<s id="sigh">Sigh...</s>
+<s id="interesting">That was an interesting adventure... I'm sure it was nothing like what she expected...</s>
+<s id="heroine">Well... I'd better do what she asked and tell <d character="Winston" /> our heroine is coming back...</s>
+
+
+<s id="hello-mia">Oh... Hello, <d character="Mia" suffix="..." /></s>
+<!-- Mia -->
+<s id="all-time">Wooahh... Were you talking with Miss <d character="Lara" data="TXT_SURNAME" /> all this time!?</s>
+<s id="hired">Well... This is kind of the reason she hired me...</s>
+<s id="lucky">Damn... You're so lucky... It must be the best job ever!</s>
+
+<s id="amusing-1">I can't deny it's really amusing...</s>
+<s id="amusing-2">I can't deny it's really amusing... I have a lot of fun watching how Miss <d character="Lara" data="TXT_SURNAME" /> 'handles' her work...</s>
+<s id="stressful-1">It's actually quite stressful...</s>
+<s id="stressful-2">It's actually quite stressful... It's not easy to keep Miss <d character="Lara" data="TXT_SURNAME" /> out of trouble, you know...</s>
+
+<s id="wish">I wish I could spend all day talking right into her ears... Hearign her breath... Whatching she running around using those sexy shorts... and..</s>
+<s id="and-">and...</s>
+<s id="doing-again">Damn... I'm doing it again...</s>
+<s id="what-mean">What do you mean, <d character="Mia" suffix="?" /></s>
+<s id="polite">You don't need to be polite, <d character="Player" suffix="..." /> I know the way I behave when it comes to anything about Miss <d character="Lara" data="TXT_SURNAME" /> is not very... healthy...</s>
+
+<s id="obsessive-1">You mean the obsessive-compulsive behaviour?</s>
+<s id="obsessive-2">Oh... This is the technical name, right?</s>
+<s id="obsessive-3">It's so good to know you are into the psychology thing, <d character="Player" suffix="..." /> Because I clearly need professional help...</s>
+
+<s id="no-wrong-1">I can't see nothing wrong with you...</s>
+<s id="no-wrong-2">I told you to be honest, <d character="Player" suffix="..." /></s>
+<s id="no-wrong-3">I don't need sympathy... I need help... I must stop thinking about her all the time... It's consuming all my energy...</s>
+
+<s id="quit">I should quit this job... Try to forget she exists... Please, help me <d character="Player" suffix="..." /></s>
+
+<s id="drastic">Look... From what I heard, these drastic measures usually only make things worse...</s>
+<s id="focus">You should try to focus on some productive activity to keep your mind busy and away from her... Try some new hobby, learn and create some creative project...</s>
+<s id="art">You mean... Like making art? I... I've been working on something like that lately, but never took it seriously...</s>
+<s id="awesome">Awesome... This is it! Keep working on that! Make it something you'll be proud of!</s>
+<s id="would-great">Yes... That would be great! Thank you, <d character="Player" suffix="..." /></s>
+<s id="counselor">No problem... Usually I'm not a great counselor, but...</s>
+<s id="shrine">I'll make that shrine the most beautiful piece of art of the century!</s>
+<s id="wait">Wait... A shrine!?</s>
+<s id="my-own">Yes! My own <d character="Lara" data="TXT_SURNAME" /> shrine! I started building it after you gave me that wonderful pictures of her... It's a beautiful piece of Art!</s>
+<s id="no-good">Whoah... I... I don't think it's a good idea to...</s>
+<s id="help-borrow">Hey! And I know how can you help me to create a true masterpiece! Please, try to borrow something even more precious for me... like... some of her panties...</s>
+<s id="WHAT">WHAT!?</s>
+<s id="dressing">Yes... Her dressing room is always locked while she's not in the bedroom, so I never had the opportunniy... But I know you are the 'resourceful' type, right? You can do it!</s>
+<s id="need-go">Now I need to go! My head is bursting with ideas to make a piece worthy of her! Thanks a lot, <d character="Player" suffix="!" /></s>
+<s id="escalated">Sigh... That escalated quickly...</s>
+<s id="refuse">Well... I don't usually refuse interesting missions like that... Let's see what can I do...</s>
+
+
+<s id="no-upstairs">Winston won't let me going upstairs now... I'd better just go to my bedroom...</s>
+
+<s id="think-going">Hey... Where do you think you're going?</s>
+<s id="there-are">Oh... There you are...</s>
+<s id="assisting">Weren't you supposed to be assisting Miss <d character="Lara" data="TXT_SURNAME" suffix="?" /></s>
+<s id="am-doing">Well... That's exactly what I am doing...</s>
+<s id="way-back">Our girl is on her way back... She asked me to tell you to prep whatever it needs to be prepped for her return...</s>
+<s id="cant-stand">Finally... I can't stand anymore having to share this house only with insolent people like you and the maid...</s>
+<s id="jeez">Jeez, man... Has <d character="Lara" /> been dealing with this humour of yours during all her life?</s>
+<s id="fridge">I'm starting to suspect the rumors about she locking you in the fridge some years ago were true...</s>
+<s id="gossip">What!? I... I won't comment about gossip spread by dirty tabloids...</s>
+<s id="second-floor">Anyways... You should know I'm the only one allowed in the second floor while Miss <d character ="Lara" data="TXT_SURNAME" /> is out...</s>
+<s id="suspect">Yeah... i was starting to suspect you'd say something like that...</s>
+<s id="spend-room">Just go spend your brief free time at your room... All the staff must be promptly ready when she arrives...</s>
+<s id="whatever">Whatever, man... I need a good sleep anyways... My bed calls me...</s>
+
+<s id="hours-later">A FEW HOURS LATER</s>
+<s id="late">There you are... You're late, Mister <d character="Player" suffix="..." /></s>
+<s id="listen">Okay... Now you two listen carefully!</s>
+<s id="arriving">Miss <d character="Lara" data="TXT_SURNAME" /> is about to arrive!</s>
+<s id="leader">As the leader of this staff, it's my duty to enforce the importance of you making an extra effort to assure her comfort after her adventures in some wild jungle...</s>
+<s id="proud">You must be proud of working in this wonderful place, for a wonderful person and...</s>
+<s id="believe">Jesus Christ... Can you belive this guy?</s>
+<s id="endure">Urrgh... I only endure him and this job because of Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="she-comes">Heads up! There she comes!</s>
+
+<s id="missed">Sigh... Finally... I never thought I would miss so much this house...</s>
+<s id="welcome">Welcome, Miss <d character="Lara" data="TXT_SURNAME" suffix="!" /></s>
+
+<s id="thank-wins">Thank you, <d character="Winston" suffix="..."/></s>
+<s id="pleasure-back">It's a great pleasure to have you back... I personally certified that the house and the staff are ready for your return...</s>
+<s id="the-staff">Oh... The staff ? You mean...</s>
+<s id="hi-lara">Hi, <d character="Lara" suffix="..."/></s>
+<s id="player-"><d character="Player" suffix="?" /> Are you here?</s>
+
+<s id="thank-support">Oh my God... I couldn't wait to come back here and properly thank you for all your support!!</s>
+<s id="improved">Whoah... Looks like our adventured improved a lot her attitude towards me ...</s>
+<s id="care-1">I still can't believe how important was you help!</s>
+<s id="care-2">No one ever took good such care of me like you did...</s>
+
+<s id="missed-too">I missed you too, <d character="Lara" suffix="..."/></s>
+<s id="joking">Tee hee... You just don't stop joking, do you?</s>
+<s id="just-job">Just doing my job...</s>
+<s id="superbly">Yes... And you did it superbly...</s>
+
+<s id="lying-hug">I'm glad you were not lying when you said you could hug me and...</s>
+
+<s id="ahem">Ahem... Miss <d character="Lara" data="TXT_SURNAME" suffix="!?"/></s>
+<s id="thanks-again">Oh... Okay... Anyways... Thanks again, <d character="Player" suffix="!" /></s>
+
+<s id="yep">Yep...Ready for another mission...</s>
+<s id="satisfactory">There you are... Well... I can say you did a satisfactory job...</s>
+<s id="bumps">Yes... There were some... bumps on the road, but... in the end we could call it a mission accomplished...</s>
+
+<s id="unf-1">Some first time experiences are unforgettable, right?</s>
+<s id="unf-2">Some first time experiences are unforgettable, right? I mean... working in the field, of course...</s>
+<s id="unf-3">Yes, I... I suppose so...</s>
+
+<s id="do-more-1">I wish I could do more for you...</s>
+<s id="do-more-2">Well... What matters is that we managed to achieve everything that was possible...</s>
+
+<s id="pleasant">Anyways... I hope exploring that jungle was a nice experience for you...</s>
+
+<s id="surrounded">Sure... I love being surrounded by nature... But I must say that running and jumping around some dense vegetation is not easy... My skin surelly suffered enough...</s>
+
+<s id="look-this">Just look at this...</s>
+<s id="thorny">All those thorny plants and trees... This is what happen when you roam around that kind of jungle...</s>
+<s id="painful">It's uhh... It's beautiful... I mean... It's a shame... I hope it's not much painful...</s>
+<s id="scratches">Nah... It's only annoying, and scratches a lot...</s>
+<s id="behaviour">Whoah... I think all those new 'experiences' had a quite an effect on her old overly pruddish behaviour...</s>
+<s id="appropriate-1">Miss <d character="Lara" data="TXT_SURNAME" suffix="!!"/></s>
+<s id="appropriate-2">Please... This is not appropriate!</s>
+<s id="appropriate-3">Huh?</s>
+<s id="appropriate-4">Yeah... Whatever you say...</s>
+
+<s id="thicker">Maybe... Maybe... I should wear thicker clothes next time...</s>
+
+<s id="research">Well... We will need to start the research on the Goddess Slab, <d character="Player" suffix="!"/></s>
+<s id="we-">'We' ?</s>
+<s id="res-trust">Of course! You showed me we are partners in this adventure! I need your help!</s>
+<s id="res-before">Yeah... You helped before with the map... Maybe you can be useful again!</s>
+
+<s id="shower">But now... I've been craving for a hot steamy shower for ages... I'll be enjoying one for for a good time, now... </s>
+
+<s id="malfunctioning">I... I'm really sorry about that, Miss <d character="Lara" data="TXT_SURNAME" suffix="..."/> But yesterday I noted the central water heater appears to be malfunctioning...</s>
+<s id="what--">What!?</s>
+<s id="reliable">I tried to warn you that our old gas water heater were much more reliable than the eletric one installed by that shady 'home automation' company...</s>
+<s id="mainentance">Now the thing simply won't turn on and the company said a mainentance visit could only be schedule until next week...</s>
+<s id="frustating">Sigh... This is so frustating...</s>
+<s id="familiar"><d character="Player" suffix="..."/> You are familiar with this automation system, right? Would you please check if there's a way to fix it?</s>
+<s id="can-try">Huuh... Sure... I can't try...</s>
+<s id="eletric-1">It won't be as easy as the way we solved that 'eletric problem' during your trip, though...</s>
+<s id="eletric-2">Ha... That was the peak of 'eletric enginering' skills... I still can't believe I did that...</s>
+<s id="eletric-3">What do you mean, <d character="Lara" data="TXT_SURNAME" suffix="?"/> What happened?</s>
+<s id="eletric-4">I... I prefer keep that between me and <d character="Player" suffix=","/> <d character="Winston" suffix="..."/></s>
+<s id="eletric-5">Humpf...</s>
+
+
+<s id="in-depot">Anyways... The water heater control is at the depot... I'll be waiting in my bedroom... Please tell if you were able to fix it...</s>
+<s id="sure-thing">Sure thing...</s>
+
+<s id="garbage">From garbage man to mainentance technician... I think I can call that a promotion...</s>
+<s id="can-do">Let's see what I can do... The *eletric panel* is at the *depot*...</s>
+
+
+<s id="end-1">This was a quite tiresome day... I'll just enjoy these comfy sheets as much as I can...</s>
+<s id="end-2">_Mister <d character="Player" suffix="..."/>_</s>
+<s id="end-3">_Mister <d character="Player" suffix="..."/> Quit with your lazyness! Wake up!_</s>
+<s id="end-4">What the...</s>
+<s id="end-5">_Come on! It's time for another staff meeting!_</s>
+<s id="end-6">Damn it... I'm not getting paid enough to wake up like this...</s>
+<s id="end-7">So... You finally decided to show up... Your presence is required at the computer room...</s>
+<s id="end-8">What are you talking about, man?</s>
+<s id="end-9">Miss <d character="Lara" data="TXT_SURNAME" /> left earlier to the Democratic Republic of... something...</s>
+<s id="end-10">What!? But we've just discovered this is the country where...</s>
+<s id="end-11">She asked me yesterday to buy plane tickets to the place as soon as possible... And with my contacts, and my legendary efficiency, I found one available flight leaving today at the morning...</s>
+<s id="end-12">Jesus... And she leaves like that without any preparations?</s>
+<s id="end-13">You job is not to question her decisions... You just need to sit a the computer terminal and help her when she asks for...</s>
+<s id="end-14">So just go there and wait for her contact...</s>
+<s id="end-15">Sigh... I'm going now, then... Anything is better than attending this 'meeting'...</s>
+
+
+
+
+</strings>

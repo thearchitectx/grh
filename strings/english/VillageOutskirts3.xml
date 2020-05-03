@@ -1,0 +1,203 @@
+﻿<strings>
+<!--- Lara -->
+<s id="there-it-is">Yes... There it is... Now we need to find a way in...</s>
+<!--- Player -->
+<s id="militia">Your notes say there is a savage militia controlling the village, <d character="Lara" />... It also says that they are unfriendly to strangers...</s>
+<!--- Lara -->
+<s id="i-can-deal">It doesn't matter... I can handle them... I'm going in...</s>
+
+<!-- Gate Keeper -->
+<s id="where-going">Hey... Where do you think you're going, hot stuff?</s>
+<!--- Lara -->
+<s id="visit">Oh... I... I'm going to visit the village...</s>
+<!-- Gate Keeper -->
+<s id="wasted-trip">Wasted trip... The village is closed to tourists...</s>
+<!--- Lara -->
+<s id="came-far">What? But... But I came from so far... I really need to...</s>
+<!-- Gate Keeper -->
+<s id="piss-off">I don't care! Just piss off! I'm not in my best mood!</s>
+<!--- Lara -->
+<s id="donate">Wait... What if I offered a... financial donation to the village... like paying a toll to enter?</s>
+<!-- Gate Keeper -->
+<s id="show-me">Humm... Our people love donations.... Show me some good cash and I might let you in...</s>
+<!--- Lara -->
+<s id="have-money">I think this amount is more than reasonable... What say you?</s>
+<!-- Gate Keeper -->
+<s id="bribe">Ahh... It has been so long since I last accepted a bribe...</s>
+<s id="wtf-this">What the fuck... This is bullshit money... Are you fucking kidding me? Do you think I'm stupid?</s>
+<!--- Lara -->
+<s id="sorry">No... I thought these would be the local currency... I... I don't understand... I don't know how...</s>
+<!-- Gate Keeper -->
+<s id="lost">Damn... Thought I was going to make a little extra today... You know this is no place for a foolish little tourist girl to wander around...</s>
+<!--- Lara -->
+<s id="what-imnot">What? No... I... I'm not...</s>
+<!-- Gate Keeper -->
+<s id="dont-worry">But don't worry... I'll help you... You see... I've been on duty at this gate for hours and I'm bored as shit...</s>
+<s id="flash">I need something to boost my morale... Why don't you show me those perky tits of your's and then I say you paid the toll?</s>
+<!--- Lara -->
+<s id="beg-pardon">I BEG YOUR PARDON?!</s>
+<!-- Gate Keeper -->
+<s id="no-one-see">Come on... It's just me here... No one would know... I could ask for a lot worse than that...</s>
+<!--- Lara -->
+<s id="need-go">I... I need to step over here to... to check my bag for...</s>
+
+
+<!--- Lara -->
+<s id="cant-believe">I... I can't believe that grunt said that to me...</s>
+<!--- Player -->
+<s id="horrible">Yes... It was horrible Miss <d character="Lara" data="TXT_SURNAME" />...</s>
+<!--- Lara -->
+<s id="heard-that"><d character="Player" />... Did you heard that? I have never been treated liked that... I... I...</s>
+<s id="bullet">I should just put a bullet in his brain and storm into the village...</s>
+<!--- Player -->
+<s id="easy">Whoah... Whoah... Easy... I'm sure you want to keep a low profile right?</s>
+<!--- Lara -->
+<s id="am-i">Do I really need to? I mean I brought my gun... I can just shoot anyone in the way... I have plenty of rounds in my spare magazines and...</s>
+
+<!--- Player -->
+<s id="you-there">Uhh... Miss <d character="Lara" data="TXT_SURNAME" />... Are you there?</s>
+<!--- Lara -->
+<s id="no-no-no">No... No... No... Not again...</s>
+<s id="filled-clips">I swear I loaded these magazines... Why is this happening to me?</s>
+<!--- Player -->
+<s id="violence"><d character="Lara" />... Forget about the magazines... Violence should only be a last resort... These people are dangerous...</s>
+<!--- Lara -->
+<s id="sugestion">What are you suggesting? That I should do what that animal asked?</s>
+<!--- Player -->
+<s id="evaluate">Well... I'm just saying to evaluate all possibilities carefully... You may not have another chance to investigate the village before these guys loot everything...</s>
+<!--- Lara -->
+<s id="sigh">Sigh... You're right... I must find a way in...</s>
+
+<!-- Gate Keeper -->
+<s id="u-back">So... You're back, huh? Still want to get into the village?</s>
+<!--- Lara -->
+<s id="need-to">I... I need to... Will you please let me in?</s>
+<!-- Gate Keeper -->
+<s id="said">Of course... You just need to do what I said... You didn't forget already, did you? You don't look too much of an airhead...</s>
+<!--- Lara -->
+<s id="but-but">But... but...</s>
+<!-- Gate Keeper -->
+<s id="corner">I'll tell you what... You'd you feel better if we went over to that corner? It's out of sight...</s>
+
+<s id="system-message-1"><d character="Lara" data="TXT_NAME" /> will try to make her own decisions based on her current stats\nYou'll have limited time to 'whisper' a different choice in her ears</s>
+
+<s id="GO-CORNER">GO TO THE CORNER</s>
+<s id="no-way">No... I can't...</s>
+<!-- Gate Keeper -->
+<s id="enjoy-day">Sigh... Then enjoy your long walk into the jungle, girl...</s>
+
+<!-- Gate Keeper -->
+<s id="here-are">Here... Welcome to my office... Now let's see them...</s>
+<!--- Lara -->
+<s id="believe">I... I can't believe I'm doing this...</s>
+<!-- Gate Keeper -->
+<s id="quick">Would you hurry up!  I can't be away from the gate for long... I might raise the 'toll fee' if you drag this out any longer...</s>
+
+<s id="change-mind">I... I changed my mind... I can't do this...</s>
+<s id="you-what">What?</s>
+<s id="waste-time-1">It's too late for that, sweet cheeks! Don't you dare waste my time!</s>
+<s id="waste-time-2">DO IT! NOW!</s>
+
+<s id="DO-IT">DO AS HE SAYS</s>
+
+<s id="yeah">Yeah... That's it... Look at these beauties...</s>
+<s id="make-money">You could make a lot of money with a body like this around here, girl...I can give you some contacts...</s>
+
+<s id="KEEP-SILENT">KEEP SILENT</s>
+<s id="silent">Nothing to say, girl? Does it means you're enjoyng the experience?</s>
+<s id="no-i">What? No... I... I hate this... I just want it to...</s>
+<s id="yeah-believe">Yeah... Yeah... I believe...</s>
+
+<s id="done?">Please... Can I go now?</s>
+<s id="just-a-sec">Hey... You need to give me a few seconds to enjoy this view...</s>
+
+<s id="ATTACK">ATTACK HIM</s>
+
+<s id="beautiful">Yeah... So beautiful...</s>
+<s id="now-stay">Now just stay quiet and stay right there while I get some inspiration...</s>
+<s id="thats-enough">I... I think that's enough... I really need to go now and...</s>
+
+<s id="WHAT">Oh my God! What are you doing!?</s>
+<s id="no-satisfied">Come on... There's no way I'd be satisfied by just looking at these...</s>
+
+<s id="stop-now">Stop! I didn't agree to this!</s>
+<s id="endure-it-1">Hey! You started this! Now shut up and endure it if you don't want I cut your throath righ here!</s>
+<s id="endure-it-2">Yeah... Just keep your mouth shut...</s>
+
+<s id="WHIMPER">WHIMPER</s>
+<s id="whimper-1">_Please... no..._ \*sob\* \*sob\*... _Let me go, please..._</s>
+<s id="killing-mood-1">Jesus... All this whining is killing the mood, girl... Why don't you just...</s>
+<s id="whimper-2">Please... \*sob\* \*sob\*... _I want to go home..._ \*sob\* \*sob\*...</s>
+<s id="killing-mood-2">Urgh... I can't stand stupid whiny girls... Just get out of my sight...</s>
+
+<s id="silent-1">Still silent, huh...</s>
+<s id="silent-2">Are you trying to look tough or simply enjoying the experience, girl?</s>
+
+
+<s id="enjoy-end">Now let me enjoy this a little more and..</s>
+
+<s id="like-struggle-1">Uuuurgh... It's been a while...</s>
+<s id="like-struggle-2">Good girl...  All this struggling and rubbing really made my day...</s>
+<s id="what-mean">I... I don't know what you mean...</s>
+<s id="like-struggle-3">Aww... So innocent... You'll understand what I meant later...</s>
+<s id="can-i-go">Can I go now?</s>
+<s id="can-go">Sure... It was nice doing... business... with you...</s>
+
+<!--- Lara -->
+<s id="can-come-in">Can I come in now?</s>
+<!-- Gate Keeper -->
+<s id="hope-learned">I hope you learned your place, bitch... But believe it or not, I'm a man of my word... You paid the toll, you can pass...</s>
+<s id="come-in-whine">I shouldn't let you pass, little whiner... But believe it or not, I'm a man of my word... You paid the toll, you can pass...</s>
+<s id="come-of-course">Of course, hot stuff... Believe it or not, I'm a man of my word... You paid the toll, you can pass...</s>
+<s id="see-u-back">The guys will never believe I got my hands over such amazing tits as yours... Look for me on your way back if you miss my touch, okay?</s>
+<s id="humpf">Humpf...</s>
+
+<!--- Lara -->
+<s id="path-clear">Now the path is clear to get into the village!</s>
+
+<!--- Gate Keeper -->
+<s id="want-go">Go? Do you want to go?</s>
+<s id="officer">I might be not using some fancy clothes, but I'm a officer of the law in this village...</s>
+<s id="assaulted">...and you just assaulted me a few moments ago, girl...</s>
+<!-- Lara -->
+<s id="just-defend">What!? But I was just...</s>
+<!--- Gate Keeper -->
+<s id="jail">Sshh! You'll spend a few days in our local jail to learn that criminals are not tolerated in this country...</s>
+<!-- Lara -->
+<s id="no-please">Oh no... Please...</s>
+<!--- Gate Keeper -->
+<s id="come-now">Come! Now!</s>
+
+
+<!-- Gate keeper -->
+<s id="ouch">OUCH! Really?!</s>
+<!-- Lara -->
+<s id="hit-him">Oh, shit... I really hit him...</s>
+<!-- Player -->
+<s id="wont-fall">Jesus Christ, Lara... These guys won't fall so easy...</s>
+<!-- Lara -->
+<s id="are-ok">Uuhh... Are you okay, sir?</s>
+<!-- Gate keeper -->
+<s id="hit-hard">Bitch... I'll teach you how to hit hard...</s>
+<!-- Lara -->
+<s id="player-help"><d character="Player" data="TXT_NAME" />... Help me!!</s>
+
+<!-- Lara -->
+<s id="take-this">Take this, you bloddy swine!</s>
+<s id="KICK-HIM">KICK HIM IN THE GROUND</s>
+<s id="fck-bastard">Fucking bastard!</s>
+<!--- Player -->
+<s id="hes-down">Whoah... Easy, <d character="Lara" data="TXT_NAME" />... He's already down...</s>
+<!-- Lara -->
+<s id="LEAVE-HIM">LEAVE HIM</s>
+<s id="sleep-grass">I hope you like to sleep on the grass, idiot...</s>
+<s id="thanks-help">...and thanks for the help, <d character="Player" data="TXT_NAME"/>... I don't know if I could beat him without your guidance...</s>
+<s id="free-access">Now I have free access to the village...</s>
+
+<!-- Gate keeper -->
+<s id="stupid-bitch">Stupid bitch! Do you think you can put me down?</s>
+<s id="teach-manners">If I weren't in duty I would teach you some proper manners...</s>
+<s id="pay-the-toll">Now get up pay the toll as you promised...</s>
+<s id="mouth-shut">And keep your damn mouth shut or you'll really regret ever coming to this place!</s>
+						
+</strings>

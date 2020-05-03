@@ -1,0 +1,229 @@
+﻿<strings>
+<!-- Lara -->
+<s id="excuse">Uhh... Excuse me...</s>
+<!-- Larry -->
+<s id="wind">Whoah... Look what the wind blew in this time...</s>
+<!-- Lara -->
+<s id="leads">I'm looking for any leads about the old explorer Phillip...</s>
+<!-- Larry -->
+<s id="give-shit">I don't give a shit about old people, girl... But I can help you in other several more pleasant ways...</s>
+<!-- Lara -->
+<s id="sorry">What? Uuhh... No, thank you...</s>
+<!-- Larry -->
+<s id="forgive">Hey... Please, forgive my manners... I didn't want to scare you off...</s>
+<s id="sit-fun">Why don't you sit here and have a little fun with me? Let's play some cards... I'll buy you a drink...</s>
+<!-- Lara -->
+<s id="lot-do">I... I can't... I have a lot to do... Excuse me...</s>
+
+<s id="creeped">Blimey... That man really creeped me out...</s>
+<!-- Player -->
+<s id="leader">I think he is some kind of security leader of this area...</s>
+<!-- Lara -->
+<s id="avoid">Yeah... He sounded dangerous... I'd better avoid him...</s>
+<!-- Lara -->
+<s id="talk-him">Damn... He must be the one who took the Goddess Seal from the village elder... *I'll need to talk to him again if I want to get my hands on that seal...*</s>
+
+<!-- Lara -->
+<s id="avoid-man">I don't like this creepy man... I'd better avoid him for now...</s>
+
+<!-- Larry -->
+<s id="missed-me">Hey... You're back... Did you missed me?</s>
+<!-- Lara -->
+<s id="ancient">I'm sorry to bother you, sir... I heard you are the one who... found... an ancient device here in this village... Am I right?</s>
+<!-- Larry -->
+<s id="maybe">Maybe...</s>
+<!-- Lara -->
+<s id="maybe-what">Maybe? I... I don't understand...</s>
+<!-- Larry -->
+<s id="this-thing">You mean this thing?</s>
+<!-- Lara -->
+<s id="yes-this-one">YES! This is the one! It's the Goddess Seal!</s>
+<s id="archaeologist">I... I'm an archaeologist and... I was wondering if I could borrow it... I just need to study it for a few hours...</s>
+<s id="possible">Would it be possible?</s>
+<!-- Lara -->
+<s id="understand">I don't know what you mean when say 'maybe', sir...</s>
+<!-- Larry -->
+<s id="mon-offer">I already received a good monetary offer for that trinket, girl... So... I don't intend simply give it to the first one who asks for free...</s>
+<!-- Lara -->
+<s id="better-price">Oh... I could offer a better price, but... I... I don't have any money with me right now...</s>
+
+<!-- Larry -->
+<s id="off-self-1">Yeah... I know... You are the girl who's been offering herself to my men, right? The one who forgot all her money at daddy's...</s>
+<!-- Lara -->
+<s id="off-self-2">What... No... It's... It's not like that...</s>
+<!-- Larry -->
+<s id="off-self-3">It's okay... They need some distraction and no one will judge you...</s>
+
+<!-- Larry -->
+<s id="trouble-maker-1">Yeah... I know... You are the little girl who's been creating trouble with my men around the village...</s>
+<!-- Lara -->
+<s id="trouble-maker-2">I was just... defending myself...</s>
+<!-- Larry -->
+<s id="trouble-maker-3">Don't worry... I'm not mad with you... Those men need some exercise anyways...</s>
+
+<!-- Larry -->
+<s id="same-offer">And about your artifact... I'll make again the same offer I made earlier... Come sit with me, let's play some cards, place some bets... If you take away all my money, then you can use it to buy this old piece of junk...</s>
+<!-- Lara -->
+<s id="no-money">But... but... I don't have any money to bet and...</s>
+<!-- Larry -->
+<s id="boots">I already thought about that... You can bet those cool boots of yours... For a start...</s>
+<!-- Lara -->
+<s id="my-boots">My... My boots?</s>
+<!-- Larry -->
+<s id="shirt">Yeah... Well... If you lose, you can then bet you shirt... Then we keep going and... you know what I mean...</s>
+<!-- Lara -->
+<s id="cant-serious">You... You can't be serious...</s>
+<!-- Larry -->
+<s id="is-yours">Of course I am... And look... You just need to win a few rounds and that old trinket is yours...</s>
+<s id="bj-action">Come on... Just some quick BJ rounds...</s>
+<!-- Lara -->
+<s id="bj">BJ?!</s>
+<!-- Larry -->
+<s id="blackjack">I mean blackjack, of course... Come on...</s>
+<!-- Lara -->
+<s id="think-about">I... I'll think about it...</s>
+<!-- Larry -->
+<s id="don-take-long">Don't take long... Or I will sell your precious artifact to someone else...</s>
+
+
+<!-- Lara -->
+<s id="heard">Oh Lord... Did you heard that, <d character="Player" suffix="?" /></s>
+<!-- Player -->
+<s id="reminded">Yeah... It reminded me the first game I developed... A simple version of strip blackjack...</s>
+<!-- Lara -->
+<s id="focus">Oh come on, <d character="Player" suffix="..." /> Focus... What should I do?</s>
+<!-- Player -->
+<s id="another-way">Well... I can't see another way to take back that seal... You have to beat him in his game...</s>
+<!-- Lara -->
+<s id="know-how">But I don't even know how to play this blackjack thing... And you heard what happens if I lose!</s>
+<!-- Player -->
+<s id="luck">It's mostly a luck based game... I can guide you while you're playing, but I can't predict the outcome...</s>
+<!-- Lara -->
+<s id="cheat">Isn't there a way to cheat?</s>
+<!-- Player -->
+<s id="deck">Only if you had a hidden deck similar to the one his using... and skills to pull a card while he's not looking...</s>
+<!-- Lara -->
+<s id="look-around">Damn... I... I'll try to look around a little more before trying my luck... Maybe someone int this village can help me with this...</s>
+
+
+<!-- Lara -->
+<s id="deck-under">Okay... The boy said his extra deck is under some of these barrels...</s>
+<s id="look-carefully">I just need to look a bit more carefully and...</s>
+<!-- Larry -->
+<s id="position">Wooahh... You look awesome in this position, girl...</s>
+<!-- Lara -->
+<s id="unbelievable">Unbelievable... </s>
+<s id="bastard">Bastard... I should show him how the last man who wolf whistled me lost a couple of teeth...</s>
+<!-- Player -->
+<s id="ignore">Hey... I think it's wiser to just ignore him for now...</s>
+<!-- Lara -->
+<s id="i-know">Yeah... I know...</s>
+<s id="find-deck">Anyways... I think I found the card deck...</s>
+<s id="got-it">Got it! Now I can play this stupid the game and win!</s>
+
+<s id="should-play-0">Should I try my luck and play his game to recover the seal, or prepare a little more?</s>
+<s id="should-play-1">I need to play again with him... I can't just give up...</s>
+<s id="PLAY">PLAY</s>
+<s id="NOT-NOW">NOT NOW</s>
+
+
+<!-- First Play -->
+<!-- Player -->
+<s id="game-simple">Okay, <d character="Lara" />... The game is simple... Each card you receive has a value, and your goal is to score a 21 or lower... If you score more than his hand, you win... But if your score is over 21 you lose...</s>
+<s id="hit-stand">You can 'hit' for more cards or 'stand' when you think the score is enough... Aces can be counted as 1 or 10... Jokers, Kings and Queens count as 10... I will run a high tech statistcs simulation that will suggest you the best move, but they are still best guesses...</s>
+<s id="cheating-True">Now cheating will be dangerous... But might be the only way to win... You can change the card you've just hit while he is distracted to get perfect scores...</s>
+<s id="cheating-False">You could cheat if you had an extra deck... There's a good chance that he will be cheating too...</s>
+<!-- Lara -->
+<s id="drinks-True">I can ask for drinks... He will drink too, and it will make him slower, giving me more time to cheat and swap cards...</s>
+<s id="drinks-False">I can ask for drinks... He will drink too and it will lower his playing skills, giving me a better chance to win...</s>
+<s id="handle">Yeah... But... Can you handle the drinks yourself?</s>
+<!-- Lara -->
+<s id="teens">I... I think I do... During my teens, I used to break into dad's wine cellar to drink all night with Sam... It was stupid, but I think it gave me some alcohol resistance...</s>
+<s id="useful">Well... We'll see soon if your unexpected teenage rebellion will be useful...</s>
+<!-- Lara -->
+<s id="nothing">Okay... Here goes nothing...</s>
+
+<!-- Second Play -->
+<!-- Player -->
+<s id="sure-about-this">Are you sure about this, <d character="Lara" suffix="?" /></s>
+<s id="cant-stop">Yes... I can't stop now because of this man...</s>
+<s id="cant-lose-again">I... I just can't lose again...</s>
+<s id="cant-stay-away">Hello again... You just can't stay away from me, can you?</s>
+<s id="i-play-again">I... I'll play again... i can't give up...</s>
+<s id="of-course-lets-go">Of course... I'll love to be in your company again... Let's go...</s>
+<s id="of-course-lets-go-money">Of course... I'll love to be in your company again... I see you kept the money I tipped you... You can gamble it and keep your boots for now...</s>
+
+
+<!-- Larry -->
+<s id="there-are">Heeeey... There you are...</s>
+<!-- Lara -->
+<s id="will-play">I... I will play as you asked... I... I really need that seal...</s>
+<s id="finally">Finally... Have a sit, here... I'll love to play with you, girl</s>
+
+
+
+<!-- v0.2.6 -->
+<!--- Attack -->
+<s id="attack-1">Enough of this, you fucking bastard...</s>
+<s id="attack-2">Give me my clothes and the seal or I'll cut your face!</s>
+<s id="attack-3">Whoah... Whoah... Easy...</s>
+<s id="attack-4">Nice moves... I thought you're just some lost silly girl, but I see you really can take care of yourself...</s>
+<s id="attack-5">I don't want to hear any more of your bullshit... I just want my clothes back and the seal...</s>
+<s id="attack-6">Okay... Okay... Easy there...</s>
+<s id="attack-7">You can take your stuff back... And here is your trinket...</s>
+<s id="attack-8">And you better not try anything when I...</s>
+<s id="attack-9">Don't worry, girl... You earned my respect... I wish all my men had more of this attitude of yours...</s>
+<s id="attack-10">There's always a place for a person like you in my staff if you want... I promote diversity... I don't care about the gender of the psychos who join me...</s>
+<s id="attack-11">Urrgh... Just leave me alone, you creep...</s>
+
+<!-- WON -->
+<s id="yes-finally">Yes! Finally! I have the seal!</s>
+<s id="good-job">Good job, <d character="Lara" suffix="!" /></s>
+<s id="talk-about">What are you talking about, <d character="Player" suffix="?" /> I would never manage to do this without your help!</s>
+<s id="nah">Nah... I just gave you some tips...</s>
+<s id="as-if">As if! You got the seal for me! No one ever did something like that for me!</s>
+<s id="hug">I could hug you right now!</s>
+
+<s id="claim-1">I will claim that hug when you come back!</s>
+<s id="guns-1">Can you see you don't need guns and bullets to sort things out?</s>
+
+<s id="claim-2">I hope you're still this excited when you come back so I can claim that hug...</s>
+<s id="claim-3">And you just can't stop joking, you silly...</s>
+
+<s id="guns-2">Can you see now that you don't need guns and bullets to sort things out?</s>
+<s id="guns-3">Yeah... My life here would be easier with a pair of loaded pistols, but maybe you're right...</s>
+
+<!-- LOST -->
+<!-- Player -->
+<s id="sorry-lara">I'm sorry, <d character="Lara" suffix="..." /> Looks like the blackjack statics simulation didn't helped much...</s>
+<s id="uuhh-lara">Uuhh... <d character="Lara" suffix="..." /> Are you okay there?</s>
+<!-- Lara -->
+<s id="im-here">I... I'm here... but...</s>
+<s id="things-doing-dirty">The things I've been doing in order to recover this...</s>
+<s id="things-doing">What I had to do I've been doing in order to recover this...</s>
+<s id="not-deserve">I... I don't know if I deserve to discover the temple anymore... Father always said that honor was the most importaint trait of an archaeologist, and I... I haven't been much honorable...</s>
+
+<s id="CHARACTER">Honor is about having good character</s>
+<s id="misunderstood">I think you misunderstood what you father meant, <d character="Lara" suffix="..." /> Honor is not about being prude, but about having good character and acting with honesty, responsibility and courage...</s>
+<s id="exact-way">And obsviously this is the exact way I see you acting since we first met...</s>
+<s id="kind-words">Oh, <d character="Player" suffix="..." /> Those were some kind words... Thank you...</s>
+
+<s id="DIF-TIME">Your father lived in a different time</s>
+<s id="different-time">Your father lived in a different time, <d character="Lara" suffix="..." /> In these new times you have to adapt, to be a survivalist...</s>
+<s id="ashamed">You can't just keep feeling ashamed for doing what's need to be done... I'm sure what he really wanted is to see you suceed... no matter how...</s>
+<s id="maybe-right">Maybe... Maybe, you're right... I will keep doing what must be done...</s>
+
+<s id="DISSAPPOINT">Maybe you really disappointed him, but you must go on</s>
+<s id="disappoint-him">If he used to say that then maybe you really disappointed him...</s>
+<s id="keep-going">All you can do now is keep going. You can make it up by succeding in this quest, so you must go on...</s>
+<s id="no-give-up">Yes... He wouldn't want me to give up...</s>
+
+
+
+<s id="better-worth">Sigh... It's better the Goddess Seal worth all the trouble I had to acquire it...</s>
+<s id="admire">But I have no time to keep admiring it... I need to put it it to use... I should go find the village elder at those caves he talked about...</s>
+
+<s id="recovered-ignore">I already recovered the seal... I'd be safer just ignore him for now...</s>
+
+
+</strings>

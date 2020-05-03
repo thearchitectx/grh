@@ -1,0 +1,309 @@
+<string>
+<s id="start-1">&lt;size="30"&gt;CHAPTER V&lt;/size&gt;\n\nTHE GODDESS SLAB</s>
+<s id="start-2">Yes, <d character="Player" suffix="..." /> The plane is about to take off... I can't wait to leave this country and never come back...</s>
+<s id="start-3">I believe it's a dozen hours flight... I'll be home soon...</s>
+<s id="start-4">Okay, <d character="Lara" suffix="..." /> Have a good trip...</s>
+<s id="start-5"><d character="Lara" /> out...</s>
+<s id="start-6">Sigh... This job is much more tiresome than it seems...</s>
+<s id="start-7">You should try some manual labour, Mister <d character="Player" suffix="..." /> Reeeally tiresome...</s>
+<s id="start-8">Oh... Uuhh... Hi <d character="Mia" suffix="..." /></s>
+<s id="start-9">I didn't expect to see you here... You know how <d character="Winston" />always says to never...</s>
+<s id="start-10">Mister <d character="Winston" /> is just a wimp who likes to bark his orders from a safe distance... Don't worry about him...</s>
+<s id="start-11">Yeah... Sure...</s>
+<s id="start-12">Tee hee... I just can't resist... You never noticed, but I like to come here to hear Miss <d character="Lara" data="TXT_SURNAME" suffix="'s" />sweet voice on your radio speaker...</s>
+<s id="start-13-c">There are times I swear I can hear she moaning like... if she's about to have an orgasm... You can't imagine how crazy that drives me...</s>
+<s id="start-13-t">There are times I hear she talking to you using a higher pich tone... like a highschool girl in love... It's so cute...</s>
+<s id="start-14">You know... Uuuuhh... The radio's low quality codec sometimes makes you think you're hearing voices that are not there and...</s>
+<s id="start-15">DON'T YOU FUCKING DARE TO GASLIGHT ME!!!</s>
+<s id="start-16">I... I'm sorry... That was rude... It's because... anything related to "hearing voices" makes me nervous...</s>
+<s id="start-17">Ooooookay...</s>
+<s id="start-18-asked">Look... Let's forget about our previous... 'harsh' encounter, okay? I loved the gift you gave me...</s>
+<s id="start-18-gave">I... I'm so ungrateful... I should still be thankfull by that wonderful gift you gave me...</s>
+<s id="start-18-nope">I was a little mad because I wanted you so much to find a pair of Miss <d character="Lara" data="TXT_SURNAME" /> panties for me... But now I know that would be a difficult task...</s>
+<s id="start-19">Yeah... No problem...</s>
+<s id="start-20">I... I think working here is not doing well to my mental health...</s>
+
+<s id="start-quirks-1">Hey... We all have our quirks, right?</s>
+<s id="start-quirks-2">Thank you so much for trying to make me feel better, <d character="Player" suffix="..." /></s>
+<s id="start-quirks-3">But I know some aspects of my behaviour are more than just quirks...</s>
+
+<s id="start-problems-1">Knowing you have a problem is the first step towards getting better...</s>
+<s id="start-problems-2">....... So, I.... I really have a problem, right....</s>
+<s id="start-problems-3">Sigh... But who can say what 'get better' actually mean?</s>
+
+<s id="start-crazy-1">Come on... Everybody knows crazy girls are the best ones!</s>
+<s id="start-crazy-2">I'm... I'm not... 'crazy'... Mister <d character="Player" suffix="..." /></s>
+<s id="start-crazy-3">I know you mean well... But you should know that word is a bit offensive...</s>
+
+<s id="start-21">Anyways... I can't quit now... Not until, you know... I have a chance to be a little 'closer' to her...</s>
+
+<s id="start-22-asked">You promised to help me, right?</s>
+<s id="start-22-gave">You promised to help me, right?</s>
+<s id="start-22-nope">Please help me, Mister <d character="Player" suffix="..." /></s>
+<s id="start-23">I know you are able get her to do naughty things...</s>
+<s id="start-24">If you help me get somehow closer to Miss <d character="Lara" data="TXT_SURNAME" suffix="..."/> I swear... I'll help you to put her even more under your leash...</s>
+<s id="start-25-asked">And I already told you how I like to put people on a leash... like... literally...</s>
+<s id="start-25-gave">And I already told you how I like to put people on a leash...  like... literally...</s>
+<s id="start-25-nope">Believe me... I can do that...</s>
+<s id="start-26">I... I'll try, okay...</s>
+<s id="start-27">Please try very hard...</s>
+<s id="start-28">See ya...</s>
+
+<s id="start-29">Yeah... Just another regular day at the <d character="Lara" data="TXT_SURNAME" /> Mansion...</s>
+<s id="start-30">I'd better turn off the radio speaker and start using headphones from now on...</s>
+<s id="start-31">Anyways... It's time to run to my bed to get some rest before any other crazy staff member comes looking for me...</s>
+
+<s id="arrival-1">_Mister <d character="Player" suffix="..." />_</s>
+<s id="arrival-2">_Mister <d character="Player" suffix="..." /> You must wake up... Miss <d character="Lara" data="TXT_SURNAME" />..._</s>
+<s id="arrival-3">Huh??</s>
+<s id="arrival-4">The staff must be gathered for the reception of Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /></s>
+<s id="arrival-5">Sigh... Okay... Okay... I'm coming...</s>
+<s id="arrival-6">Jesus Christ... Will he really do this every single time <d character="Lara" /> comes back home??</s>
+<s id="arrival-7">Finally...</s>
+<s id="arrival-8">Come on... Join us, Mister <d character="Player" suffix="..." /></s>
+<s id="arrival-9">Let's get started...</s>
+<s id="arrival-10">Once again, Miss <d character="Lara" data="TXT_SURNAME" /> is coming back from a very stressful mission...</s>
+<s id="arrival-11">The duty of this staff is to promptly respond to any requests Miss <d character="Lara" data="TXT_SURNAME" /> might issue... </s>
+<s id="arrival-12">You must understand that we need to...</s>
+<s id="arrival-13">Uuurgh... I can't stand this bullshit anymore...</s>
+<s id="arrival-14">Excuse me?!? I'm still talking here and...</s>
+<s id="arrival-15">Yeah, yeah... talk... talk... talk... That's all what you know to do...</s>
+<s id="arrival-16">Are... Are you out of your mind?</s>
+<s id="arrival-17">I'M NOT CRAZY!! I'M NOT CRAZY!!</s>
+<s id="arrival-18">We are just sick of these useless meetings!</s>
+<s id="arrival-19">You only gather us here to talk bullshit and feed your stupid fetish of bossing people around!!</s>
+<s id="arrival-20">Miss <d character="Lara" data="TXT_SURNAME" /> is my boss... Not you, moron...</s>
+<s id="arrival-21">So... So many years working here tirelessly...</s>
+<s id="arrival-22">...always doing the best for the <d character="Lara" data="TXT_SURNAME" /> family...</s>
+<s id="arrival-23">I... I never heard anything so outrageous...</s>
+<s id="arrival-24">Miss <d character="Lara" data="TXT_SURNAME" /> will know about this... and will... will...</s>
+<s id="arrival-25">There... She arrived... She will save me from you now...</s>
+<s id="arrival-26">Welcome Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> You arrived at the perfect time to...</s>
+<s id="arrival-27">Miss <d character="Lara" data="TXT_SURNAME" suffix="?" /></s>
+
+<s id="arrival-28"><d character="Player" suffix="!!" /> <d character="Player" suffix="!!" /></s>
+<s id="arrival-29">Hey... Nice to see you...</s>
+<s id="arrival-30">I still can't believe it... I actually recovered an ancient stolen artifact...</s>
+<s id="arrival-31">I think it's the kind of feat that officially makes you an adventurer...</s>
+<s id="arrival-32">I know... Right??</s>
+<s id="arrival-33">See how this is beautiful...</s>
+
+<s id="arrival-34">Here...</s>
+<s id="arrival-35">Check this out... I already knew there's an epic poem written in this slab...</s>
+<s id="arrival-36">And in my way here I noticed there are unusual marks in some verses...</s>
+<s id="arrival-37">so if we're able to...</s>
+<s id="arrival-38">Uhh... <d character="Lara" suffix="..." /></s>
+<s id="arrival-39">Huh?</s>
+<s id="arrival-40">You're aware we have a shocked audience here, right?</s>
+<s id="arrival-41">Oh... I'll talk to Winston and the maid later... I know this is shockingly rude from me but...</s>
+<s id="arrival-42">That's not the reason they are shocked...</s>
+<s id="arrival-43">Huh?</s>
+<s id="arrival-44">You're so excited about showing me the slab that you're not noticing how down here... you keep rubbing your butt over my crotch...</s>
+<s id="arrival-45">Oh... Lord...</s>
+
+<s id="arrival-46-m">Don't even think about stopping now...</s>
+<s id="arrival-46-1-m">Don't even think about stopping now if you want me to help you with the slab...</s>
+<s id="arrival-46-2-m">But... but...</s>
+<s id="arrival-46-3-m">Come on... Let's show to Winston what his little girl has become...</s>
+<s id="arrival-46-4-m">Please, this is going too far... What Winston will think of me...</s>
+
+<s id="arrival-46-c">You should just admit you became a cock hungry thot lately...</s>
+<s id="arrival-46-1-c">You should just admit you became a cock hungry thot lately, <d character="Lara" suffix="..." /></s>
+<s id="arrival-46-2-c">I... I can't deny this feels good...</s>
+<s id="arrival-46-3-c">Just accept you can't control yourself... and you'll enjoy life like never before...</s>
+<s id="arrival-46-4-c">Oh my God... I can feel you... I can fell...</s>
+
+<s id="arrival-46-t">Hey... I know you missed me... And I missed you too...</s>
+<s id="arrival-46-1-t">Hey... I know you missed me... I missed you too...</s>
+<s id="arrival-46-2-t">Yes, did... I wanted so much to see you again...</s>
+<s id="arrival-46-3-t">See... There's no reason to be ashamed...</s>
+<s id="arrival-46-4-t">Oh, <d character="Player" suffix="..." /> I waited so long to feel your touch again...</s>
+
+<s id="arrival-46-n">What about... uuuuhh...</s>
+<s id="arrival-46-1-n">What about... uuuuhh...</s>
+<s id="arrival-46-2-n">I... I better back off a little...</s>
+
+<s id="arrival-47">Damn, <d character="Lara" suffix="..." /> See what are you doing to me...</s>
+<s id="arrival-48">What am I... doing to...</s>
+<s id="arrival-49">I'm sure you can already feel it, right?</s>
+
+<s id="arrival-50-c">Teehee... There's something hot tickling me back here... Tease operation successful...</s>
+<s id="arrival-51-c">Yeah... Looks like teasing and feeling cock rubbing on you skin became your favorite activity...</s>
+
+<s id="arrival-50-t">I want... I want to be with you, <d character="Player" suffix="..." /></s>
+<s id="arrival-51-t">Don't worry, <d character="Lara" suffix="..." /> We'll have our time...</s>
+
+<s id="arrival-50-m">You... You're not supposed to do this to me...</s>
+<s id="arrival-51-m">Why not? I know you like it...</s>
+
+<s id="arrival-51-passed">If your adventures came to this point, it's obviously because you got used be passed around the men in you way...</s>
+
+<s id="arrival-52-c">Do you like this way, <d character="Player" suffix="?" /></s>
+<s id="arrival-53-c">Oh shit... If you keep doing this my pants are going to explode...</s>
+
+<s id="arrival-52-m">What... What are you doing...</s>
+<s id="arrival-53-m">You're the one keeping the rithm, <d character="Lara" suffix="..." /> Maybe your mind is so confused that you don't even notice how these moves are like reflexes for you...</s>
+
+<s id="arrival-52-t">Oh, <d character="Player" suffix="..." /> I've never been so attached to a man like I am with you...</s>
+<s id="arrival-53-t">Urrghh... I'd say something nice now if my pants weren't about to explode, <d character="Lara" suffix="..." /></s>
+
+<s id="arrival-54"><d character="Player" suffix="..." /> I... I still need to start deconding the Goddess Slab..</s>
+<s id="arrival-55">We... We have work to do and...</s>
+<s id="arrival-56">Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> For the memory of your father... control yourself...</s>
+
+<s id="arrival-57-t">Oh... I'm... I'm sorry, Winston...</s>
+<s id="arrival-57-c">Aaww... You're such a party pooper, Winston...</s>
+<s id="arrival-57-m">Can I... Can I stop now, <d character="Player" suffix="?" /></s>
+<s id="arrival-57-m-2">Yeah... That's enough, <d character="Lara" suffix="..." /></s>
+
+<s id="arrival-58">Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> I... I tought you had already left behind the... urges... of adolescence...</s>
+<s id="arrival-59">I appreciate your concerns, Winston... But I'm a grown up now... I can take care of myself...</s>
+<s id="arrival-60">.........</s>
+<s id="arrival-61">_Of course, Miss <d character="Lara" data="TXT_SURNAME" suffix="..." />_</s>
+
+<s id="arrival-62">Sigh... I... I'd better start concentrating on the work now...</s>
+<s id="arrival-62-a"><d character="Player" suffix="..." /> Computers and technology won't help us to decipher the Goddess Slab...</s>
+<s id="arrival-63">But I have plain old books at the library that will guide the translation of this ancient language...</s>
+<s id="arrival-64">Would you kindly gather them for me and bring them to my bedroom?</s>
+<s id="arrival-65">You will allow him in your bedroom, Miss <d character="Lara" data="TXT_SURNAME" suffix="!?!?!" /></s>
+<s id="arrival-66">Winston... Please... What did I just said?</s>
+<s id="arrival-67">You should know... I had all my greatest insights when translating artifacts while working in my bedroom... It's my one and only supersticion...</s>
+<s id="arrival-68">Now... I just need a quick nap to recover from the long trip...</s>
+<s id="arrival-69">Please, <d character="Player" suffix="..." /> While I rest, try to find a couple of books for me at the library...</s>
+<s id="arrival-69-a">McGuffin wrote a series about the Andes society that worshipped the Goddess... I'm sure at least one of the books can help with the translation...</s>
+<s id="arrival-70">When you're ready, bring them to me and we can start to decipher the Goddess Slab!</s>
+<s id="arrival-71">See you later!</s>
+<s id="arrival-72">You are the worst thing that ever happened to this house... I'll deeply despise you for the rest of my days...</s>
+
+<s id="arrival-73">........</s>
+<s id="arrival-74">Well... You can't deny she's definetively a grown up now...</s>
+
+<s id="arrival-75">OH MY GOD!! I hate you so much...</s>
+<s id="arrival-76">I sense a trend picking up traction here...</s>
+<s id="arrival-77">You totally have her wrapped around your fingers...</s>
+<s id="arrival-78">I'd said that's a gross overstatement...</s>
+<s id="arrival-79">Bullshit... It's like she was about to spread her legs for you in this very room...</s>
+<s id="arrival-80-t">Now that was rude... She's not like that, you know...</s>
+<s id="arrival-81-t">And you really like her... It's so cute...</s>
+<s id="arrival-80-c">From what I've been seeing... She will gladly spread her legs to any men who asks the proper way...</s>
+<s id="arrival-81-c">Yeah... But I need her do it for a woman too...</s>
+<s id="arrival-80-m">She may not do it spontaneously... But she's been losing the willpower to say 'no' lately...</s>
+<s id="arrival-81-m">Thanks to manipulative <d character="Player" /> I bet...</s>
+<s id="arrival-80-n">I'm not so sure about that...</s>
+<s id="arrival-81-n">But I am!</s>
+<s id="arrival-82">Look... I liked the way you dealt with Winston, but...</s>
+<s id="arrival-83">Just shut up, <d character="Player" suffix="..." /></s>
+<s id="arrival-84">You see... This is it... This is the day...</s>
+<s id="arrival-85">Uuuhh... The day of what?</s>
+<s id="arrival-86">I... I can't spend another day on this house... I'm in a state where I might start becoming... violent...</s>
+<s id="arrival-87">I know because I had a prior similar experience and I don't want to repeat that...</s>
+<s id="arrival-88">Oooohhh... That would definetively be not cool...</s>
+<s id="arrival-89">Please... Think about something... My mind needs to satisfy these desires in order to work properly again...</s>
+<s id="arrival-90">You're going to work on research with her inside her bedroom... If I could at least see her doing something sexy... I would be able to settle for some time...</s>
+<s id="arrival-91">But if I could even... participate... you'd have the chance to help me change my life for good...</s>
+<s id="arrival-92">Ok, <d character="Mia" suffix="..." /> I'll think about something while I gather her books...</s>
+<s id="arrival-93">......</s>
+<s id="arrival-94">Jesus Christ... I hate grey morals... I don't even know if 'helping' her with that obsession makes me good or evil...</s>
+<s id="arrival-95">Well... All I can do now is try to find the books <d character="Lara" /> asked for... Let's go to the library...</s>
+
+
+<s id="book-1">Okay... I need to find books written by Phillip McGuffin... One of them must be able to help in the translation of that slab...</s>
+<s id="book-2">There's a book stand here full of ancient history shit... If I choose wisely, I can put <d character="Lara" /> in a good mood...</s>
+<s id="book-3">Should I bring this one or look for others?</s>
+<s id="book-4">She said a couple of books, so I shoud choose another one...</s>
+<s id="book-5">Okay... I have *'<d character="Player" data="TXT_CH5_BOOK_1"  />'* and *'<d character="Player" data="TXT_CH5_BOOK_2"  />'* here... Should I bring these to <d character="Lara" suffix="?" /></s>
+<s id="book-6">I already chose this one...</s>
+<s id="book-7">Ok... I hope these books can do the job... Now I just need to...</s>
+<s id="book-8">Huh!?</s>
+<s id="book-9">A private message notification...</s>
+<s id="book-10">My decription hardware key is down at the computer terminal... I'd better go there check it out...</s>
+
+
+<s id="book-choose">CHOOSE THIS</s>
+<s id="book-other">LOOK FOR OTHER</s>
+<s id="book-go">GO WITH THESE BOOKS</s>
+<s id="book-again">START AGAIN</s>
+
+
+<s id="book-1-t">The Goddess of the Andes I - Anthropologic Studies</s>
+<s id="book-1-d-1">Here it reads 'The Goddess of the Andes I - Anthropologic Studies, by Phillip McGuffin'</s>
+<s id="book-1-d-2">'A compendium of archaelogical studies of the ancient Andes society and an extensive analysys of their daily life and political views of their society.'</s>
+<s id="book-1-d-3">Seems like an exciting read for nerds, but also a strong somniferous for normal people...</s>
+
+<s id="book-2-t">The Goddess of the Andes II - Fertility Worship and Beyond</s>
+<s id="book-2-d-1">Here it reads 'The Goddess of the Andes II - Fertility Worship and Beyond, by Phillip McGuffin'</s>
+<s id="book-2-d-2">'Everything about the legend of the Fertility Goddess with illustrated essays about the unusual obsession with sexuality of the Andes society.'</s>
+<s id="book-2-d-3">The word that caught most of my attention here is 'illustrated'...</s>
+
+<s id="book-3-t">The Goddess of the Andes III - Ancient Texts of the Andes</s>
+<s id="book-3-d-1">Here it reads 'The Goddess of the Andes III - Ancient Texts of the Andes, by Phillip McGuffin'</s>
+<s id="book-3-d-2">'Extensive study about the unique and complex writings of the Andes society that took decades to complete'</s>
+<s id="book-3-d-3">Decades studying a language only used in a small village and dead for centuries... Seems exciting...</s>
+
+<s id="book-4-t">The Goddess of the Andes IV - Economic System</s>
+<s id="book-4-d-1">Here it reads 'The Goddess of the Andes IV - Economic System, by Phillip McGuffin'</s>
+<s id="book-4-d-2">'A complete study of the economics and production systems of the ancient Andes society'</s>
+<s id="book-4-d-3">It's probably just ancient dudes farming and breeding goats... You don't need a whole book on that, right?</s>
+
+
+<s id="message-1">Okay... Let's see what this message is about...</s>
+<s id="message-2">"Mister <d character="Player" suffix="..." /> This is your 'client'.... I hope you're still working on the job I assigned to you..."</s>
+<s id="message-3">"I wonder if Miss <d character="Lara" data="TXT_SURNAME" /> has already became more 'open minded' about life and less focused on the artifact hunting business... Just like the way I asked..."</s>
+<s id="message-4">"I have a very generous reward waiting for a job well done... I'll contact you soon..."</s>
+<s id="message-5">Shit... I wonder how this mysterious dude found my private channel... He is either a skilled hacked or paid a lot of money for the information...</s>
+
+<s id="mia-choice-1">Okay... I got the books... Checked my messages... I think I can start working on that damned slab with <d character="Lara" /> now...</s>
+<s id="mia-choice-2">I think she is already waiting for me in her bedroom...</s>
+<s id="mia-choice-3">I wish I could say that line...</s>
+<s id="mia-choice-4">But it looks like I need to accept some things the way they are...</s>
+<s id="mia-choice-5">Oh... Hello again... I didn't expect such stoicism from you, <d character="Mia" suffix="..." /></s>
+<s id="mia-choice-6">It's up to you, <d character="Player" suffix="..." /></s>
+<s id="mia-choice-7">I just hope you can still help me... I'd be VERY grateful if I could be in charge of Miss <d character="Lara" data="TXT_SURNAME" suffix="..." /> Just for one night...</s>
+<s id="mia-choice-8">Well... Now is definetively the last opportunity to fulfill <d character="Mia" suffix="'s" /> fantasy...</s>
+<s id="mia-choice-9">I could let her at least... watch...</s>
+<s id="mia-choice-10">I would only need give her access to the bedroom surveilance camera... It would be kinky, but harmless...</s>
+<s id="mia-choice-11-watch">LET HER WATCH THE RESEARCH SESSION</s>
+<s id="mia-choice-11-nope">DON'T PROMISE ANYTHING</s>
+
+<s id="mia-choice-nope-1">I'll try, but... I can't promise anything, okay?</s>
+<s id="mia-choice-nope-2">Yeah... I... I'll just stay in room then...</s>
+<s id="mia-choice-nope-3">See you later, <d character="Player" suffix="..." /> Maybe...</s>
+<s id="mia-choice-nope-4">Oh, man... This is kind of sad... But I can't risk have someone 'unstable' like her in my way...</s>
+
+<s id="mia-choice-watch-1">You know... There's camera transmitting a live feed from her bedroom... Would you like to... you know...</s>
+<s id="mia-choice-watch-2">OH MY GOD... Really!?!</s>
+<s id="mia-choice-watch-3">I remember seeing a camera in her bedroom when I was cleaning up there but I never thought I could actually... actually...</s>
+<s id="mia-choice-watch-4">Yeah... You just have to be careful and not let Winston notice that you're here...</s>
+<s id="mia-choice-watch-5">Don't worry!! He'll spend the night crying in his room after what Miss <d character="Lara" data="TXT_SURNAME" /> said to him...</s>
+<s id="mia-choice-watch-6">Okay... I'll open the camera feed for you...</s>
+<s id="mia-choice-watch-7">Oh my God... Thank you... Thank you... Thank you... </s>
+
+<s id="mia-choice-watch-8">Now... If I put <d character="Lara" /> in the right mood, she could even be willing to try a different experience... 'à trois'...</s>
+<s id="mia-choice-watch-9">I could to signal for Mia to get in the scene at the right time to make it happen...</s>
+<s id="mia-choice-watch-10">However, Mia has this thing about being a dom and 'in charge'... Things could go out of control...</s>
+<s id="mia-choice-watch-enough">LETTING MIA WATCH IS ENOUGH</s>
+<s id="mia-choice-watch-come">MIA CAN COME IN WHEN I GIVE THE SIGNAL</s>
+<s id="mia-choice-watch-come-charge">MIA CAN COME IN WHEN I GIVE THE SIGNAL BUT I'LL BE IN CHARGE</s>
+
+<s id="mia-choice-watch-enough-1">I hope watching her is enough to help you with your... condition...</s>
+<s id="mia-choice-watch-enough-2">I don't know if it'll be enough... But it will certainly help... Thanks <d character="Player" suffix="..." /></s>
+
+<s id="mia-choice-watch-come-1">Aaaand... I don't know how our translation session will unfold up there but...</s>
+<s id="mia-choice-watch-come-2">... if things get really hot and I get the feeling she is in the mood for something different...</s>
+<s id="mia-choice-watch-come-3">... then I'll give you a signal through the camera to come in...</s>
+<s id="mia-choice-watch-come-4"><d character="Player" suffix="..." /> if... if you do this for me... I... I... you...</s>
+<s id="mia-choice-watch-come-5">Hey... That's okay... I'm just feeling a little chaotic good today...</s>
+
+<s id="mia-choice-watch-come-charge-1">However... There's a condition... I'll be the one on charge up there... And you'll need to hold that domination thing of yours...</s>
+<s id="mia-choice-watch-come-charge-2">But... I never let anyone say what I should do while...</s>
+<s id="mia-choice-watch-come-charge-3">Hey... You trust me, right? Just let me handle the situation... I promess you'll like it...</s>
+<s id="mia-choice-watch-come-charge-4">Oh... I... I guess... If it's you... I... I agree...</s>
+<s id="mia-choice-watch-come-charge-5">You're one of the coolest guys I ever met... I trust you...</s>
+
+<s id="mia-choice-watch-end-1">Okay, then... I'll lock the terminal in the camera feed... Just press the power button when you leave...</s>
+<s id="mia-choice-watch-end-2">Thank you... Thank you... Thank you... </s>
+
+<s id="mia-choice-watch-end-3">Well... That's it... Let's go up there and start the research session...</s>
+<s id="mia-choice-watch-end-4">...and also discover if that 'superstition' thing about translations in her bedroom is true or just some bullshit she made up to have me up there...</s>
+
+</string>

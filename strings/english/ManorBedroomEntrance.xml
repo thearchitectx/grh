@@ -1,0 +1,14 @@
+﻿<strings>
+<s id="im-in-1">Yeah... I'm in... And this bedroom is huge...</s>
+<s id="im-in-2">Let's look around and find ways to influence her adventure...</s>
+
+<s id="locked">This door seems firmly locked...</s>
+
+<s id="fixed-shower-1">Uhh... Hello... <d character="Lara" suffix="?" /> Are you there?</s>
+<s id="fixed-shower-2">Where the hell is she? I'd better look around...</s>
+
+<s id="closet-open-1">Hey... The closet door is now open...</s>
+<s id="closet-open-2"><d character="Lara" suffix="?" /> Are you there? Can I come in?</s>
+<s id="closet-open-3">Sigh... Where the hell is that girl?</s>
+
+</strings>

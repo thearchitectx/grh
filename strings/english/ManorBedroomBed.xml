@@ -1,0 +1,54 @@
+﻿<strings>
+<s id="vitamins">It's a pack of... 'Homepathic vitamins pills'... Does she really believe this shit does anything?!</s>
+<s id="gun">Jesus... Does she sleep with this piece right next to her? Looks like someone here is becoming a gun nut...</s>
+<s id="clips-1">Holy shit... Is she planning a mass shooting or something?</s>
+<s id="clips-2">If her plan is to gun down all the obstacles in her path then I must do something about it...</s>
+<s id="clips-3">She will notice if I take away these clips, but I can simply remove all the ammo from them... This will make a nice surprise for her...</s>
+<s id="clips-4">Done...</s>
+<s id="clips-5">Okay, <d character="Lara" data="TXT_NAME"/>... Now instead of just shooting, you'll have to talk to people in your way... Maybe even more than just talk...</s>
+<s id="mysteryous-picture-1">A frame with a ripped picture of some dude... Looks like he pissed her off for some reason...</s>
+<s id="mysteryous-picture-2">Weird... Is he a boyfriend or something? I should ask my dear work coleagues about him later...</s>
+
+<s id="contraceptive-1">Hey... What's this hidden under the pillow...</s>
+<s id="contraceptive-2">'Birth control'...</s>
+<s id="contraceptive-3">Whoah... Is she really on the pill? Then maybe she is considering a more 'open' life... Or maybe she is just overly cautious... Anyways... </s>
+<s id="contraceptive-4">She's trying to avoid any 'surprises'... But how boring is a life without some thrill?</s>
+<s id="contraceptive-5">I could do something about this...</s>
+<s id="contraceptive-6">But I can't simply empty this pill bottle... She will just buy more... I need to fill it with some ineffective shit...</s>
+<s id="contraceptive-7">Maybe there's something here I can use...</s>
+<s id="swap-1">Hey... That's it! I could throw away the contraceptive pills and fill the bottle with these stupid homeopathic sugar pills...\n*This will (most probably) enable pregnancy content*</s>
+<s id="swap-2">Done... Now she might have some true thrill during her adventures...</s>
+<s id="SWAP-PILLS">SWAP PILLS</s>
+<s id="NOPE">NOPE</s>
+<s id="contraceptive-done">The bottle of contraceptives is already filled with useless homeopathic sugar pills...</s>
+
+
+<s id="HIDE-DILDO">HIDE DILDO INTO BACKPACK</s>
+<s id="backpack-1">This is the backpack she carries around when in the field...</s>
+<s id="backpack-hide">I could always add some bonus items in it to 'help' <d character="Lara" data="TXT_NAME"/>...</s>
+<s id="backpack-put-dildo">Wait... This is the perfect place to hide her 'best friend'...</s>
+<s id="backpack-done">It will be a good surprise for her when she finds this thing later...</s>
+<s id="backpack-be-there">I just hope I'm there to see her face when she finds her 'best friend' in her backpack...</s>
+
+<s id="notes-book">Hey... This is the book she's using to plan her adventures...</s>
+<s id="notes-1">This is it... Her Grail diary.... All the notes and plans for the next trip... Without this she will be completely lost and will have to rely on me to find her shit...</s>
+<s id="notes-2">I bet she won't notice if I remove all these careful prepared notes from here...</s>
+<s id="notes-3">...and put these old cake recipes in their place...</s>
+<s id="notes-4">Yeah... All these old books liyng around finally had some purpose... Can't wait to see her face when she discover 'her mistake'...</s>
+<s id="notes-cant-wait">I can't wait to see her reaction when she discovers that she left without her precious notes...</s>
+
+<s id="money-1">There's a lot foreign cash here...</s>
+<s id="money-2"><d character="Lara" data="TXT_NAME"/> is probably thinking she can buy her way out of problems wherever she goes...</s>
+<s id="money-3">Well... That's how the world works for people who have lots of money... But I can't let it happen...</s>
+<s id="money-4">I can't simply remove the cash... It would be too suspicious and she would notice...</s>
+<s id="money-5">Now I can make a quick money exchange and set up another surprise for <d character="Lara" data="TXT_NAME"/>...</s>
+<s id="money-6">Done... Now she will travel with millions in worthless money...</s>
+<s id="money-find-remember">Wait a minute... That collection of old cash I found on the first floor... I just need to grab some of that worthless junk and exchange it with these...</s>
+<s id="money-find-not-remember">I need to find something in this manor that I can use to exchange with this cash...</s>
+<s id="money-exchanged">I wonder what she will do when she discovers that all the money she is carrying is worth nothing...</s>
+
+<s id="end-investigate">Okay... I messed a lot with her adventure plans... Now I can keep looking for opportunities or go *wait for her to leave at the computer terminal*...</s>
+
+
+<s id="no-time-table">I don't have time to mess with this table now... I need to look for <d character="Lara" suffix="..." /></s>
+</strings>

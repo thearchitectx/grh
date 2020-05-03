@@ -1,0 +1,114 @@
+﻿<strings>
+<s id="cam-1">Hey... There's something down here... Should I pick it up?</s>
+<s id="cam-2">It's a... digital camera... Looks like someone dropped it here...</s>
+<s id="cam-3">Probably some tourist perceived that visiting this country was a big mistake and left in a hurry...</s>
+<s id="cam-4">Urgh... I remember Sam had one of those...</s>
+<s id="cam-5">The flash was so strong that it blinded me for minutes every time she tried to take a picture... It's like a flashbang grenade...</s>
+<s id="cam-6">Humm... This might be useful, then... </s>
+<s id="cam-7">Looks like a perfect tool to cause distractions to unsuspecting enemies... Just point and shoot... No physical violence required...</s>
+<s id="cam-8">It doesn't sound a completely bad idea but... Looks like its battery is dead...</s>
+
+<s id="cam-keep">Keep it with you anyways.... We might find a way to charge it somehow...</s>
+
+<s id="jc-1">Hey... You can use the Juices Charger to charge the camera!</s>
+<s id="jc-2">What!?</s>
+<s id="jc-3">Yeah! If you connect it to the camera USB port and... you know... connect it to you... The device could produce some juice... I mean... some power to charge the battery...</s>
+<s id="jc-4">Then you might be able to shoot a few flashs... A perfect family-friendly non-lethal stun weapon...</s>
+<s id="jc-5">Are you really suggesting that I start to... touch myself here... in order to charge this thing?</s>
+<s id="jc-6">Yeah... Just like you did at the shower...</s>
+<s id="jc-7">The shower!?!? How do you know that I... I...</s>
+<s id="jc-8">Oh... I mean... Like... Every healthy girl do it in the shower, right!?! You must know what I'm talking about...</s>
+<s id="jc-9">Anyways... If you want to use the camera as a distraction tool, this seems to be only way to make it work...</s>
+<s id="jc-9-g">Anyways... You can use the camera to stun that gambler and slow his moves in the game... And the charger seems to be only way to make it work...</s>
+<s id="jc-10">Yeah... Somehow, there are always convenient reasons to make me do these shameful deeds...</s>
+<s id="jc-11">Sigh... If I find some discrete place around here to...charge the thing... then maybe... I... I'll see...</s>
+
+<s id="garbage-1">Bloody hell... Is there no garbage collection service in this country?</s>
+<s id="garbage-2">Maybe you'll find something useful in there, <d character="Lara" suffix="..." /></s>
+<s id="garbage-3">Yuck... No way I'm going to rummage this pile of trash...</s>
+<s id="garbage-4">Keep looking around... Sometimes you need to look closer in order to find clues...</s>
+
+<s id="safe-1">This... look like a secure spot...</s>
+<s id="safe-2">Secure?</s>
+<s id="safe-3">Yeah... I could safely hide behind these piles of newspapers and...</s>
+<s id="safe-4">Ohh... You mean to 'use' the charger? Hell yeah!</s>
+<s id="safe-5">You... shouldn't get so excited... The place is still disgusting...</s>
+<s id="safe-6">Come on... The charged camera will be a very important tool in your adventure...</s>
+<s id="safe-6-g">Come on... With the flash camera charged you'll have a big advantage in that gambling game...</s>
+<s id="safe-7">I... I don't know...</s>
+
+<s id="DOIT">USE THE CHARGER</s>
+<s id="NOTNOW">NOT NOW</s>
+
+<s id="charge-1">Fine... I'll do it...</s>
+<s id="charge-2">Awesome! First we need to position your radio camera so I can have a clear view...</s>
+<s id="charge-3">Are you going to watch!?!</s>
+<s id="charge-4"><d character="Lara" suffix="..." /> I need to give you clear istructions on how to operate the device and be ready to help on any possible problems in its use... We're professionals, right?</s>
+<s id="charge-5">Sigh... Okay...</s>
+<s id="charge-6">But it's better this wacky plan worth something...</s>
+<s id="charge-7">Nice... Let's do this! You should... get in position...</s>
+
+<s id="c-1">Oh Lord... What am I doing... and in such a horrible place...</s>
+<s id="c-2">Hey... The place and position look great for me, <d character="Lara" suffix="..." /></s>
+<s id="c-3">Please, <d character="Player" suffix="..." /> You're supposed to give instructions on using the device... Don't stare...</s>
+<s id="c-4">Of course, <d character="Lara" suffix="..." /> I already downloaded a digital version of the Juices Charger manual... It doesn't look too much complicated...</s>
+<s id="c-5">However... I wouldn't need a manual to say that... these panties need to go down to enable a successful... operation...</s>
+<s id="c-6">I... I know...</s>
+<s id="c-7">Come on... We don't have time to lose...</s>
+<s id="c-8">Beautiful... I hope it's not much cold there...</s>
+<s id="c-9">Oh, <d character="Player" suffix="..." /> Just stop teasing...</s>
+<s id="c-10">Now... The instructions say that a "manual initiation" is recommended at the beggining of a charge session...</s>
+<s id="c-11">What... What does that even mean?</s>
+<s id="c-12">Well... It means you should first do a little warm-up by yourself...</s>
+<s id="c-13">Once the juices start flowing, I mean... once the device is able to proccess the produced body chemicals, it start working like in a self sustained reaction...</s>
+<s id="c-14">Sigh... Okay... I... I'll try...</s>
+<s id="c-15">Nice......</s>
+<s id="c-16">Come on, <d character="Lara" suffix="..." /> You need more... rithm...</s>
+<s id="c-17">It's... It's hard to... concentrate here...</s>
+
+<s id="c-t-1">Think how I could be there helping you on this...</s>
+<s id="c-t-2">Oh, <d character="Player" suffix="..." /> I... remember...</s>
+<s id="c-t-3">Mmm...That night... I felt... I felt so good...</s>
+<s id="c-t-4-p">You were rough with me, but... It's because I deserved, right? I'll try do do better... I...</s>
+<s id="c-t-4">I... I loved your touch, <d character="Player" suffix="..." /> Mmmmm....</s>
+<s id="c-t-5">I'm glad I left good memories...</s>
+<s id="c-t-6">Yes, you did... I won't forget...</s>
+
+<s id="c-c-1">Think about some of your latest nasty adventures...</s>
+<s id="c-c-l-1">Oh my... That bastard Larry...</s>
+<s id="c-c-l-2">He didn't treat me nicely, but he... he... made me feel something new...</s>
+<s id="c-c-l-3">The way he took me... Over that dirty table... Would he do that again to me... Mmmmmmm...</s>
+<s id="c-c-g-1">These damned goons... Always trying make me touch their dirty pulsating members...</s>
+<s id="c-c-g-2">They try to grope me... To touch me... Am I really so desirable?</s>
+<s id="c-c-g-3">Maybe... Maybe I'll meet more of them and... Mmmmmm....</s>
+<s id="c-c-4">Jesus Christ... Talked liked a slut getting out of control...</s>
+
+<s id="c-n-1">Focus, <d character="Lara" suffix="..." /> Get to know your own body...</s>
+<s id="c-n-2">Yeah... I remember the first time I touched myself... I was so young...</s>
+<s id="c-n-3">I knew it was wrong... But I never felt like that before...</s>
+<s id="c-n-4">I should do it more... It's so gooood.... Mmmmm....</s>
+
+<s id="c-18">Well... Looks like you're doing great until now...</s>
+<s id="c-19">I'm... I'm felling a little light headed already...</s>
+<s id="c-20">I'm sure you are... And now that we have some... juices... I think you can get the camera and the charger ready...</s>
+<s id="c-21">First you must connect them...</s>
+<s id="c-22">Oh... Okay...</s>
+<s id="c-23">It's connected...</s>
+<s id="c-24">Now... Just 'use' the device on you to finish what you started...</s>
+<s id="c-25">I never used anything like this to stimulate me, but... I'll try...</s>
+<s id="c-26">Oh my God... This thing just started to vibrate...</s>
+<s id="c-27">Great! It means it's already doing the magic...</s>
+<s id="c-28">Just enjoy the experience now and we will be done...</s>
+<s id="c-29">MMMmmmmmm... This feels good....</s>
+<s id="c-30">Oh Lord... Oh Lord... Oh Lord...</s>
+<s id="c-31"><d character="Lara" suffix="?" /></s>
+<s id="c-32"><d character="Lara" suffix="..." /> Can you hear me?</s>
+<s id="c-33">Oh... my... God... That... was... intense...</s>
+<s id="c-34">Yeah... Here it says that the charger amplifies the orgasm effect on the body when the energy capture is effective...</s>
+<s id="c-35">Which means the camera flash was properly charged... Perfect!</s>
+<s id="c-36">Yes... Absolutely... perfect...</s>
+<s id="c-37">You can get rid of the Juices Charger now... I don't think you'll need it anymore...</s>
+<s id="c-38">No... way... I'll keep it... It can still be... very, very useful...</s>
+<s id="c-39">Yeah... I suspected you'd say something like that... Just... Get up when you can, okay?</s>
+
+</strings>

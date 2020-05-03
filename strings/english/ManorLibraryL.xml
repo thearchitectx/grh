@@ -1,0 +1,110 @@
+<strings>
+<!--Player-->
+<s id="what-up">Hey... What's up, Alfred?</s>
+<!--Winston-->
+<s id="stop-addr">Mister <d character="Player" data="TXT_NAME"/>, I must ask you to cease addressing me by that name... I have requested that several times now...</s>
+                                    
+<!--Player-->
+<s id="dont-fret">Hey... Don't fret, man... It's just a joke... Don't you get it?</s>
+<!--Winston-->
+<s id="i-get-it">Of course I get it... The kind of humor a man enjoys tells a lot about his character...</s>
+<!--Player-->
+<s id="charming">Very charming... Aren't you happy to finally have a work colleague in this big ass house?</s>
+
+<!--Winston-->
+<s id="im-touched">I'm touched by your concerns about me, but I never felt lonely in this manor...</s>
+<s id="her-presence">Miss <d character="Lara" data="TXT_SURNAME"/>'s presence is already pleasant enough for me... Your being here only disturbs my chances of enjoying her delightful company...</s>
+<!--Player-->
+<s id="i-know-mean">Uhmm... A 'pleasant' and 'delightful' presence... I think I know what you mean...</s>
+<!--Winston-->
+<s id="respectfully">Respectfully serving Miss <d character="Lara" data="TXT_SURNAME" /> doesn't forbid me to feast my eyes on her stunning figure...</s>
+<!--Player-->
+<s id="i-see">Yeah... I see...</s>
+
+<!--Winston-->
+<s id="stop-pestering">Please, stop pestering me...</s>
+
+<!--CHOICE-->
+<s id="between-us-c">Do you jack off thinking about her?</s>
+<!--Player-->
+<s id="between-us">Between us guys... You must have been jacking off a lot while thinking about her all these years working here, right?</s>
+<!--Winston-->
+<s id="first">First... There aren't that many years since she came to a 'legal' age and I'd never masturbate thinking about an underage girl...</s>
+<s id="second">Second... My sex life doesn't concern you...</s>
+<!--Player-->
+<s id="problems">Well... Both of your points have problems... But about the second one, I'm pretty sure masturbation doesn't count as 'sex life'...</s>
+
+<!--CHOICE-->
+<s id="parties">She probably throws wild parties in this place...</s>
+<!--Player-->
+<s id="this-place">This place... I bet <d character="Lara" data="TXT_NAME" /> has been throwing some wild parties around here, right?</s>
+<!--Winston-->
+<s id="reserved">No... Miss <d character="Lara" data="TXT_SURNAME" /> is a quite reserved person... She receives a friend or two here sometimes, but her nights are always spent on books and research...</s>
+<!--Player-->
+<s id="virgin">Jesus... So she actually has no... experience...</s>
+
+<!--Winston-->
+<s id="confirm">Well... I can neither confirm nor deny that... But I can say she gets very uncomfortable every time something remotelly sexual is mentioned near her...</s>
+<!--Player-->
+<s id="cute">That's cute...</s>
+
+<!--CHOICE-->
+<s id="SEARCH-TABLE">SEARCH TABLE</s>
+<!--Player-->
+<s id="think-table">Hum... I can see a lot of documents spread out on that table... That would be a good place to search for the automation system PIN... I wonder if...</s>
+                                    
+<s id="can-search">Hey... Can you give some space here? I want to check if there's something interesting on the table...</s>
+                                    
+<!-- Winston -->
+<s id="no-table">Impossible... This is Miss <d character="Lara" data="TXT_SURNAME" suffix="'s" /> personal study table and she always tells me that it must be left alone...</s>
+<!--Player-->
+<s id="come-on">Oh, come on... It's not like...</s>
+<!--Winston-->
+<s id="dont-insist">Please, don't insist... It's my sacred duty to follow her instructions...</s>
+<!--Player-->
+<s id="lure-1">Damn... There must a be way to lure him away from this room...</s>
+<s id="lure-2">If someone knocked on the main door he would need to leave for a few minutes... But how could I make it happen?</s>
+
+<!-- CHOICE -->
+<s id="choice-pool-1"><d character="Lara" data="TXT_NAME" /> asked you to 'prepare' the pool for her</s>
+<s id="choice-pool-2">Hey, man... <d character="Lara" data="TXT_NAME" /> asked you to 'prepare' the pool for her... Whatever it means...</s>
+<!--Winston-->
+<s id="the-pool">The pool... I miss the days she went there every morning...</s>
+<!--Player-->
+<s id="bikini">Why? Does she always wear some hot bikini or something?</s>
+<!--Winston-->
+<s id="excuse">Humpf... It doesn't concern you... Now excuse me... I need to assist her...</s>
+<!--Player-->
+<s id="done-it-pool">Great! Now I can try to sneak into her bedroom!</s>
+
+<!-- CHOICE -->
+<s id="LEAVE">LEAVE</s>
+
+<!-- Player -->
+<s id="table-comment">Okay... Let's see if there's anything interesting around here...</s>
+<s id="table-globe">The Earth... Depicted as a globe... To think that more and more people are triggered by this in the 21st century...</s>
+<s id="table-empty-folders">It's pile of empty folders... Nothing to see there...</s>
+<s id="table-book-1">Jesus... How many books is she able to lay around this house?</s>
+<s id="table-book-under">Is there something under this one?</s>
+<s id="table-book-under-condition">PERCEPTION (1+)</s>
+<s id="table-book-piece">Whoah... This is not a toy... Does she like to walk around carrying pieces like that?</s>
+<s id="table-book-client">My mysterious client might be right about her violent tendencies... But I'd better leave it alone for now...</s>
+<s id="table-folder">Okay... This one looks promising...</s>
+<s id="table-doc-nope-1">Nope...</s>
+<s id="table-doc-nope-2">Boooring...</s>
+<s id="table-doc-nope-3">Nothing here...</s>
+<s id="table-doc-1">Yes! This paper says the automation system was installed just a few days ago! She probably never had the chance to change the default PIN!</s>
+<s id="table-doc-2">Now I can try to unlock it at the computer terminal!</s>
+<s id="table-doc-3">I already know the security PIN. I can try to unlock the automation system now!</s>
+<s id="automation-doc">Congratulations, Miss <d character="Lara" data="TXT_SURNAME" />!\n
+\n
+Your home automation system was succefully installed  and is ready to use.\n
+\n
+Remember to change your initial security PIN to ensure maximum privacy and safety!\n
+\n
+Your security PIN is: &lt;size=23&gt;<d character="Player" data="TXT_AUTOMATION_PIN" />&lt;/size&gt;\n
+</s>
+<s id="BACK">BACK</s>
+
+
+</strings>
